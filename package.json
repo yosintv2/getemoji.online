@@ -1,0 +1,15 @@
+{
+  "name": "getemoji",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Copy & Paste Emoji Directory - The ultimate emoji collection",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "generate-data": "node src/data/generate.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}

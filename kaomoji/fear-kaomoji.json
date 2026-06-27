@@ -1,0 +1,1154 @@
+[
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Classic Shivering Fear",
+    "slug": "classic-shivering-fear",
+    "desc": "A character physically vibrating from extreme terror."
+  },
+  {
+    "char": "(ノдヽ)",
+    "name": "Eye Covering Fear",
+    "slug": "eye-covering-fear",
+    "desc": "Covering the face because something is too scary to watch."
+  },
+  {
+    "char": "((((ill´Д｀)))",
+    "name": "Sick with Fear",
+    "slug": "sick-with-fear",
+    "desc": "Feeling physically ill or nauseous due to a frightening situation."
+  },
+  {
+    "char": "(((/)益(＼)))",
+    "name": "Face Shield Fear",
+    "slug": "face-shield-fear",
+    "desc": "Shielding the face with both hands while trembling."
+  },
+  {
+    "char": "(|||ﾟдﾟ)",
+    "name": "Pale with Fear",
+    "slug": "pale-with-fear",
+    "desc": "A face turning blue or white from a sudden scare."
+  },
+  {
+    "char": "(((( ;°Д°))))",
+    "name": "Cold Sweat Fear",
+    "slug": "cold-sweat-fear",
+    "desc": "Trembling while breaking out in a cold sweat."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Ghostly Fright",
+    "slug": "ghostly-fright",
+    "desc": "A character reacting as if they've seen a ghost."
+  },
+  {
+    "char": "(´；д；`)",
+    "name": "Scared and Crying",
+    "slug": "scared-and-crying",
+    "desc": "A frightened face on the verge of tears."
+  },
+  {
+    "char": "((((;´･ω･`)))",
+    "name": "Anxious Worry",
+    "slug": "anxious-worry",
+    "desc": "A sweat-dropping character feeling deeply uneasy."
+  },
+  {
+    "char": "ミ(ノ_ _)ノ",
+    "name": "Fear Faint",
+    "slug": "fear-faint",
+    "desc": "Collapsing or fainting from overwhelming terror."
+  },
+  {
+    "char": "(((( ﾟдﾟ))))",
+    "name": "Eyes Wide Fear",
+    "slug": "eyes-wide-fear",
+    "desc": "Trembling with pupils dilated from shock and fear."
+  },
+  {
+    "char": "(((( ；´Д｀))))",
+    "name": "Gasping Terror",
+    "slug": "gasping-terror",
+    "desc": "Heavy breathing and trembling due to high stress."
+  },
+  {
+    "char": "壁|°Д°)ﾉ",
+    "name": "Corner Peeking Fear",
+    "slug": "corner-peeking-fear",
+    "desc": "Peeking from behind a wall to see if the danger is gone."
+  },
+  {
+    "char": "(; ఠ益ఠ)",
+    "name": "Terrified Intensity",
+    "slug": "terrified-intensity",
+    "desc": "A frighteningly intense expression of deep-seated fear."
+  },
+  {
+    "char": "(ノД`)・゜・。",
+    "name": "Panic Cry",
+    "slug": "panic-cry",
+    "desc": "Crying out loud in a state of absolute panic."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Wide Open Mouth Fear",
+    "slug": "wide-open-mouth-fear",
+    "desc": "Trembling with a mouth agape in pure terror."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "High Alert Fear",
+    "slug": "high-alert-fear",
+    "desc": "A character on high alert, sweating from the tension."
+  },
+  {
+    "char": "(((( ；ﾟДﾟ)))",
+    "name": "Standard Tremble",
+    "slug": "standard-tremble",
+    "desc": "A simple but effective representation of being scared."
+  },
+  {
+    "char": "Σ(Ｔ▽Ｔ;)",
+    "name": "Crying Scare",
+    "slug": "crying-scare",
+    "desc": "Being surprised and terrified into tears simultaneously."
+  },
+  {
+    "char": "((((；´Д｀))))",
+    "name": "Paralyzed Fear",
+    "slug": "paralyzed-fear",
+    "desc": "Being so scared that the character is frozen in place."
+  },
+  {
+    "char": "(ﾟДﾟ|||)",
+    "name": "Ghostly Paleness",
+    "slug": "ghostly-paleness",
+    "desc": "A character turning completely pale from a scare."
+  },
+  {
+    "char": "((((；ﾟДﾟ)))))))",
+    "name": "Vibrating Terror",
+    "slug": "vibrating-terror",
+    "desc": "Intense vibration lines indicating massive fear."
+  },
+  {
+    "char": "(;´Д`)",
+    "name": "Exhausted Fear",
+    "slug": "exhausted-fear",
+    "desc": "The feeling of dread that leaves one feeling drained."
+  },
+  {
+    "char": "(O_O;)",
+    "name": "Stunned Fear",
+    "slug": "stunned-fear",
+    "desc": "Eyes wide and sweating, unable to process the frightening sight."
+  },
+  {
+    "char": "(((((( ;ﾟДﾟ)))))",
+    "name": "Deep Shiver",
+    "slug": "deep-shiver",
+    "desc": "A deep physical shiver caused by a spine-chilling moment."
+  },
+  {
+    "char": "(|||❛︵❛.)",
+    "name": "Sad Fright",
+    "slug": "sad-fright",
+    "desc": "A mix of being scared and feeling very vulnerable."
+  },
+  {
+    "char": "ヽ(illﾟдﾟ)ﾉ",
+    "name": "Hectic Panic",
+    "slug": "hectic-panic",
+    "desc": "Throwing hands up in a frantic, scared motion."
+  },
+  {
+    "char": "((((;ﾟ;Д;ﾟ;))))",
+    "name": "Bug-Eyed Fear",
+    "slug": "bug-eyed-fear",
+    "desc": "Trembling with extremely dilated, panicked eyes."
+  },
+  {
+    "char": "(つд⊂)",
+    "name": "Shielding Eyes",
+    "slug": "shielding-eyes",
+    "desc": "Using hands to shield the eyes from something scary."
+  },
+  {
+    "char": "((((；´∀｀)))",
+    "name": "Nervous Fear Laugh",
+    "slug": "nervous-fear-laugh",
+    "desc": "A nervous, forced smile while shaking from fear."
+  },
+  {
+    "char": "(´д｀ι)",
+    "name": "Cold Sweat Drop",
+    "slug": "cold-sweat-drop",
+    "desc": "A single drop of cold sweat representing mounting dread."
+  },
+  {
+    "char": "(|||╯︵╰.)",
+    "name": "Downcast Fear",
+    "slug": "downcast-fear",
+    "desc": "Looking down in fear, feeling overwhelmed by a threat."
+  },
+  {
+    "char": "(((( ﾟДﾟ))))",
+    "name": "Speechless Terror",
+    "slug": "speechless-terror",
+    "desc": "A trembling face unable to make a sound from fear."
+  },
+  {
+    "char": "(|||๏д๏)",
+    "name": "Hollow Fear",
+    "slug": "hollow-fear",
+    "desc": "Having hollow, lifeless eyes from seeing something terrifying."
+  },
+  {
+    "char": "((( ﾟдﾟ)))",
+    "name": "Mini Shiver",
+    "slug": "mini-shiver",
+    "desc": "A smaller, subtle shiver of unease or slight fear."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Sudden Dread",
+    "slug": "sudden-dread",
+    "desc": "A sharp reaction to an immediate, frightening realization."
+  },
+  {
+    "char": "(((( ;ﾟдﾟ)))",
+    "name": "Tense Tremble",
+    "slug": "tense-tremble",
+    "desc": "Highly tense muscles and trembling from anticipation of fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Gaping Shiver",
+    "slug": "gaping-shiver",
+    "desc": "A mouth wide open and body shaking from a loud scare."
+  },
+  {
+    "char": "(´◦ω◦`)",
+    "name": "Small Animal Fear",
+    "slug": "small-animal-fear",
+    "desc": "A cute, small character looking extremely intimidated."
+  },
+  {
+    "char": "((((;´･ω･`)))",
+    "name": "Sweating Worry",
+    "slug": "sweating-worry",
+    "desc": "A character sweating and shaking from high anxiety."
+  },
+  {
+    "char": "( ; ﾟДﾟ)",
+    "name": "Startled Fear",
+    "slug": "startled-fear",
+    "desc": "A sudden startle that leads into a state of fear."
+  },
+  {
+    "char": "(||| ﾟДﾟ)",
+    "name": "Frightened Stare",
+    "slug": "frightened-stare",
+    "desc": "Staring at the source of fear with a pale face."
+  },
+  {
+    "char": "((((；´Д｀))))",
+    "name": "Helpless Fear",
+    "slug": "helpless-fear",
+    "desc": "A trembling character feeling completely helpless."
+  },
+  {
+    "char": "Σ(っﾟДﾟ；)っ",
+    "name": "Backing Away Fear",
+    "slug": "backing-away-fear",
+    "desc": "Stumbling backward in an attempt to escape something scary."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Loud Terror",
+    "slug": "loud-terror",
+    "desc": "Representing a scream or a loud gasp of fear."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Dazed Fright",
+    "slug": "dazed-fright",
+    "desc": "Looking completely dazed and frightened like a zombie."
+  },
+  {
+    "char": "(((( ；´Д｀))))",
+    "name": "Heavy Dread",
+    "slug": "heavy-dread",
+    "desc": "A face showing the heavy weight of impending doom."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Panic Sweat",
+    "slug": "panic-sweat",
+    "desc": "A character breaking into a sweat from sudden panic."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Universal Scare",
+    "slug": "universal-scare",
+    "desc": "The most widely recognized kaomoji for being scared."
+  },
+  {
+    "char": "(|||❛︵❛.)",
+    "name": "Nervous Fright",
+    "slug": "nervous-fright",
+    "desc": "A vulnerable and nervous expression of fear."
+  },
+  {
+    "char": "ヽ(illﾟдﾟ)ﾉ",
+    "name": "Frantic Terror",
+    "slug": "frantic-terror",
+    "desc": "A high-energy panic reaction to a scare."
+  },
+  {
+    "char": "((((;ﾟ;Д;ﾟ;))))",
+    "name": "Intense Eye Terror",
+    "slug": "intense-eye-terror",
+    "desc": "Focusing on the eyes to show the intensity of the fear."
+  },
+  {
+    "char": "(つд⊂)",
+    "name": "Hiding Face",
+    "slug": "hiding-face",
+    "desc": "Hiding the face behind hands to avoid seeing a horror."
+  },
+  {
+    "char": "((((；´∀｀)))",
+    "name": "Forced Calm Fear",
+    "slug": "forced-calm-fear",
+    "desc": "Trying to act normal while actually being terrified."
+  },
+  {
+    "char": "(´д｀ι)",
+    "name": "Anxiety Drop",
+    "slug": "anxiety-drop",
+    "desc": "Using a sweat drop to signal internal anxiety."
+  },
+  {
+    "char": "(|||╯︵╰.)",
+    "name": "Sorrowful Fear",
+    "slug": "sorrowful-fear",
+    "desc": "A mix of being frightened and being deeply saddened."
+  },
+  {
+    "char": "(((( ﾟДﾟ))))",
+    "name": "Silent Scream",
+    "slug": "silent-scream",
+    "desc": "A face screaming internally from pure terror."
+  },
+  {
+    "char": "(|||๏д๏)",
+    "name": "Soulless Fear",
+    "slug": "soulless-fear",
+    "desc": "Looking like the soul has left the body due to fear."
+  },
+  {
+    "char": "((( ﾟдﾟ)))",
+    "name": "Subtle Shiver",
+    "slug": "subtle-shiver",
+    "desc": "A small shiver indicating something is 'creepy'."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Immediate Terror",
+    "slug": "immediate-terror",
+    "desc": "The precise second a character realizes they are in danger."
+  },
+  {
+    "char": "(((( ;ﾟдﾟ)))",
+    "name": "Tense Shaking",
+    "slug": "tense-shaking",
+    "desc": "Shaking from head to toe with tense muscles."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Agony of Fear",
+    "slug": "agony-of-fear",
+    "desc": "Showing the mental agony of a frightening situation."
+  },
+  {
+    "char": "(´◦ω◦`)",
+    "name": "Tiny Shivering Animal",
+    "slug": "tiny-shivering-animal",
+    "desc": "A very small, cute character shaking with fear."
+  },
+  {
+    "char": "((((;´･ω･`)))",
+    "name": "Worried Shiver",
+    "slug": "worried-shiver",
+    "desc": "Shaking from a combination of worry and fear."
+  },
+  {
+    "char": "( ; ﾟДﾟ)",
+    "name": "Startle Tremble",
+    "slug": "startle-tremble",
+    "desc": "A face that has just been startled and is now trembling."
+  },
+  {
+    "char": "(||| ﾟДﾟ)",
+    "name": "Pale Stare",
+    "slug": "pale-stare",
+    "desc": "A pale-faced stare directed at something scary."
+  },
+  {
+    "char": "((((；´Д｀))))",
+    "name": "Helpless Shaking",
+    "slug": "helpless-shaking",
+    "desc": "Shaking in a state of total helplessness."
+  },
+  {
+    "char": "Σ(っﾟДﾟ；)っ",
+    "name": "Fumbling Escape",
+    "slug": "fumbling-escape",
+    "desc": "Attempting to run away but fumbling from fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Vocal Fear",
+    "slug": "vocal-fear",
+    "desc": "A character vocalizing their fear through a gasp or shout."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Stunned Terror",
+    "slug": "stunned-terror",
+    "desc": "Being so scared the character looks completely stunned."
+  },
+  {
+    "char": "(((( ；´Д｀))))",
+    "name": "Weight of Fear",
+    "slug": "weight-of-fear",
+    "desc": "Showing the immense pressure and weight of being afraid."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Sweat and Panic",
+    "slug": "sweat-and-panic",
+    "desc": "A character sweating heavily due to intense panic."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Iconic Horror",
+    "slug": "iconic-horror",
+    "desc": "The most iconic way to express horror or fear."
+  },
+  {
+    "char": "(|||❛︵❛.)",
+    "name": "Vulnerable Fear",
+    "slug": "vulnerable-fear",
+    "desc": "A character looking small and vulnerable in the face of fear."
+  },
+  {
+    "char": "ヽ(illﾟдﾟ)ﾉ",
+    "name": "Hectic Horror",
+    "slug": "hectic-horror",
+    "desc": "A frantic and hectic response to a scary event."
+  },
+  {
+    "char": "((((;ﾟ;Д;ﾟ;))))",
+    "name": "Wide-Eyed Terror",
+    "slug": "wide-eyed-terror",
+    "desc": "Focusing on wide, panicked eyes during a scare."
+  },
+  {
+    "char": "(つд⊂)",
+    "name": "Eye Hiding Fear",
+    "slug": "eye-hiding-fear",
+    "desc": "Hiding the eyes behind hands during a scary scene."
+  },
+  {
+    "char": "((((；´∀｀)))",
+    "name": "Nervous Shiver",
+    "slug": "nervous-shiver",
+    "desc": "A nervous shiver paired with a weak smile."
+  },
+  {
+    "char": "(´д｀ι)",
+    "name": "Dread Drop",
+    "slug": "dread-drop",
+    "desc": "A drop of sweat indicating growing dread."
+  },
+  {
+    "char": "(|||╯︵╰.)",
+    "name": "Unhappy Fright",
+    "slug": "unhappy-fright",
+    "desc": "A mix of being very unhappy and very frightened."
+  },
+  {
+    "char": "(((( ﾟДﾟ))))",
+    "name": "Gasping Fear",
+    "slug": "gasping-fear",
+    "desc": "A character gasping for air while trembling."
+  },
+  {
+    "char": "(|||๏д๏)",
+    "name": "Shocked Fear",
+    "slug": "shocked-fear",
+    "desc": "A character looking utterly shocked and fearful."
+  },
+  {
+    "char": "((( ﾟдﾟ)))",
+    "name": "Mild Fear Shiver",
+    "slug": "mild-fear-shiver",
+    "desc": "A mild physical reaction to a creepy situation."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Instant Dread",
+    "slug": "instant-dread",
+    "desc": "A sharp, instant reaction of dread and fear."
+  },
+  {
+    "char": "(((( ;ﾟдﾟ)))",
+    "name": "Tense Fright",
+    "slug": "tense-fright",
+    "desc": "A state of high tension and fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Extreme Vocal Fear",
+    "slug": "extreme-vocal-fear",
+    "desc": "A character making a loud noise from fear."
+  },
+  {
+    "char": "(´◦ω◦`)",
+    "name": "Cowering Fear",
+    "slug": "cowering-fear",
+    "desc": "Cowering and trembling like a small animal."
+  },
+  {
+    "char": "((((;´･ω･`)))",
+    "name": "Anxiety Shivering",
+    "slug": "anxiety-shivering",
+    "desc": "Shaking from a high state of anxiety."
+  },
+  {
+    "char": "( ; ﾟДﾟ)",
+    "name": "Sudden Fright",
+    "slug": "sudden-fright",
+    "desc": "A face that has just been suddenly frightened."
+  },
+  {
+    "char": "(||| ﾟДﾟ)",
+    "name": "Frightened Face",
+    "slug": "frightened-face",
+    "desc": "A pale, frightened face looking at a threat."
+  },
+  {
+    "char": "((((；´Д｀))))",
+    "name": "Helpless Shiver Face",
+    "slug": "helpless-shiver-face",
+    "desc": "A character shaking in a state of total helplessness."
+  },
+  {
+    "char": "Σ(っﾟДﾟ；)っ",
+    "name": "Panic Escape",
+    "slug": "panic-escape",
+    "desc": "Trying to run away in a total state of panic."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Screaming Terror",
+    "slug": "screaming-terror",
+    "desc": "A character screaming or gasping in terror."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Zombie Fear",
+    "slug": "zombie-fear",
+    "desc": "Looking like a zombie from the shock of fear."
+  },
+  {
+    "char": "(((( ；´Д｀))))",
+    "name": "Pure Dread",
+    "slug": "pure-dread",
+    "desc": "An expression of pure, unadulterated dread."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Intense Panic Sweat",
+    "slug": "intense-panic-sweat",
+    "desc": "A character sweating heavily from intense panic."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Classic Horror Face",
+    "slug": "classic-horror-face",
+    "desc": "The most classic face for horror or fear."
+  },
+  {
+    "char": "(|||❛︵❛.)",
+    "name": "Nervous Frightened Face",
+    "slug": "nervous-frightened-face",
+    "desc": "A vulnerable and nervous expression of being scared."
+  },
+  {
+    "char": "ヽ(illﾟдﾟ)ﾉ",
+    "name": "Frantic Terror Face",
+    "slug": "frantic-terror-face",
+    "desc": "A frantic reaction to a scary situation."
+  },
+  {
+    "char": "((((;ﾟ;Д;ﾟ;))))",
+    "name": "Panic Eye Terror",
+    "slug": "panic-eye-terror",
+    "desc": "Focusing on panicked eyes during a scare."
+  },
+  {
+    "char": "(つд⊂)",
+    "name": "Hiding Fear Face",
+    "slug": "hiding-fear-face",
+    "desc": "Hiding the face behind hands during a scary event."
+  },
+  {
+    "char": "((((；´∀｀)))",
+    "name": "Nervous Shivering Face",
+    "slug": "nervous-shivering-face",
+    "desc": "A nervous shiver with a weak, forced smile."
+  },
+  {
+    "char": "(´д｀ι)",
+    "name": "Dread Sweat Drop",
+    "slug": "dread-sweat-drop",
+    "desc": "A single sweat drop indicating growing dread."
+  },
+  {
+    "char": "(|||╯︵╰.)",
+    "name": "Unhappy Terror",
+    "slug": "unhappy-terror",
+    "desc": "A mix of being very unhappy and very scared."
+  },
+  {
+    "char": "(((( ﾟДﾟ))))",
+    "name": "Gasping Terror Face",
+    "slug": "gasping-terror-face",
+    "desc": "A character gasping for air while trembling in fear."
+  },
+  {
+    "char": "(|||๏д๏)",
+    "name": "Shocked Fear Face",
+    "slug": "shocked-fear-face",
+    "desc": "A character looking utterly shocked and fearful."
+  },
+  {
+    "char": "((( ﾟдﾟ)))",
+    "name": "Mild Shivering Fear",
+    "slug": "mild-shivering-fear",
+    "desc": "A mild physical reaction to something creepy."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Instant Terror Face",
+    "slug": "instant-terror-face",
+    "desc": "A sharp, instant reaction of fear and terror."
+  },
+  {
+    "char": "(((( ;ﾟдﾟ)))",
+    "name": "Tense Fright Face",
+    "slug": "tense-fright-face",
+    "desc": "A state of high tension and fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Loud Fear Expression",
+    "slug": "loud-fear-expression",
+    "desc": "A character making a loud noise from being scared."
+  },
+  {
+    "char": "(´◦ω◦`)",
+    "name": "Cowering Fear Face",
+    "slug": "cowering-fear-face",
+    "desc": "Cowering and trembling like a small, scared animal."
+  },
+  {
+    "char": "((((;´･ω･`)))",
+    "name": "Anxious Shivering Face",
+    "slug": "anxious-shivering-face",
+    "desc": "Shaking from a high state of anxiety and fear."
+  },
+  {
+    "char": "( ; ﾟДﾟ)",
+    "name": "Sudden Fright Face",
+    "slug": "sudden-fright-face",
+    "desc": "A face that has just been suddenly frightened."
+  },
+  {
+    "char": "(||| ﾟДﾟ)",
+    "name": "Frightened Stare Face",
+    "slug": "frightened-stare-face",
+    "desc": "A pale, frightened face looking at a threat."
+  },
+  {
+    "char": "((((；´Д｀))))",
+    "name": "Helpless Shiver Expression",
+    "slug": "helpless-shiver-expression",
+    "desc": "A character shaking in a state of total helplessness."
+  },
+  {
+    "char": "Σ(っﾟДﾟ；)っ",
+    "name": "Panic Escape Face",
+    "slug": "panic-escape-face",
+    "desc": "Trying to run away in a total state of panic and fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Screaming Terror Face",
+    "slug": "screaming-terror-face",
+    "desc": "A character screaming or gasping in terror."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Zombie Fear Face",
+    "slug": "zombie-fear-face",
+    "desc": "Looking like a zombie from the shock of fear and terror."
+  },
+  {
+    "char": "(((( ；´Д｀))))",
+    "name": "Pure Dread Face",
+    "slug": "pure-dread-face",
+    "desc": "An expression of pure, unadulterated dread and fear."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Intense Panic Sweat Face",
+    "slug": "intense-panic-sweat-face",
+    "desc": "A character sweating heavily from intense panic."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Classic Horror Expression",
+    "slug": "classic-horror-expression",
+    "desc": "The most classic face for expressing horror."
+  },
+  {
+    "char": "(|||❛︵❛.)",
+    "name": "Nervous Fright Expression",
+    "slug": "nervous-fright-expression",
+    "desc": "A vulnerable and nervous expression of fear."
+  },
+  {
+    "char": "ヽ(illﾟдﾟ)ﾉ",
+    "name": "Frantic Terror Expression",
+    "slug": "frantic-terror-expression",
+    "desc": "A frantic reaction to a scary event."
+  },
+  {
+    "char": "((((;ﾟ;Д;ﾟ;))))",
+    "name": "Panic Eye Terror Expression",
+    "slug": "panic-eye-terror-expression",
+    "desc": "Focusing on panicked eyes during a scare."
+  },
+  {
+    "char": "(つд⊂)",
+    "name": "Hiding Fear Expression",
+    "slug": "hiding-fear-expression",
+    "desc": "Hiding the face during a scary event."
+  },
+  {
+    "char": "((((；´∀｀)))",
+    "name": "Nervous Shivering Expression",
+    "slug": "nervous-shivering-expression",
+    "desc": "A nervous shiver with a weak, forced smile."
+  },
+  {
+    "char": "(´д｀ι)",
+    "name": "Dread Sweat Expression",
+    "slug": "dread-sweat-expression",
+    "desc": "A single sweat drop indicating growing dread."
+  },
+  {
+    "char": "(|||╯︵╰.)",
+    "name": "Unhappy Terror Expression",
+    "slug": "unhappy-terror-expression",
+    "desc": "A mix of being very unhappy and very scared."
+  },
+  {
+    "char": "(((( ﾟДﾟ))))",
+    "name": "Gasping Terror Expression",
+    "slug": "gasping-terror-expression",
+    "desc": "A character gasping for air while trembling."
+  },
+  {
+    "char": "(|||๏д๏)",
+    "name": "Shocked Fear Expression",
+    "slug": "shocked-fear-expression",
+    "desc": "A character looking utterly shocked and fearful."
+  },
+  {
+    "char": "((( ﾟдﾟ)))",
+    "name": "Mild Shivering Fear-Alt",
+    "slug": "mild-shivering-fear-alt",
+    "desc": "A mild physical reaction to a creepy situation."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Instant Terror-Alt",
+    "slug": "instant-terror-alt",
+    "desc": "A sharp, instant reaction of fear and terror."
+  },
+  {
+    "char": "(((( ;ﾟдﾟ)))",
+    "name": "Tense Fright-Alt",
+    "slug": "tense-fright-alt",
+    "desc": "A state of high tension and fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Loud Fear Expression-Alt",
+    "slug": "loud-fear-expression-alt",
+    "desc": "A character making a loud noise from being scared."
+  },
+  {
+    "char": "(´◦ω◦`)",
+    "name": "Cowering Fear-Alt",
+    "slug": "cowering-fear-alt",
+    "desc": "Cowering and trembling like a small animal."
+  },
+  {
+    "char": "((((;´･ω･`)))",
+    "name": "Anxious Shivering-Alt",
+    "slug": "anxious-shivering-alt",
+    "desc": "Shaking from a high state of anxiety and fear."
+  },
+  {
+    "char": "( ; ﾟДﾟ)",
+    "name": "Sudden Fright-Alt",
+    "slug": "sudden-fright-alt",
+    "desc": "A face that has just been suddenly frightened."
+  },
+  {
+    "char": "(||| ﾟДﾟ)",
+    "name": "Frightened Stare-Alt",
+    "slug": "frightened-stare-alt",
+    "desc": "A pale, frightened face looking at a threat."
+  },
+  {
+    "char": "((((；´Д｀))))",
+    "name": "Helpless Shiver-Alt",
+    "slug": "helpless-shiver-alt",
+    "desc": "A character shaking in a state of total helplessness."
+  },
+  {
+    "char": "Σ(っﾟДﾟ；)っ",
+    "name": "Panic Escape-Alt",
+    "slug": "panic-escape-alt",
+    "desc": "Trying to run away in a total state of panic."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Screaming Terror-Alt",
+    "slug": "screaming-terror-alt",
+    "desc": "A character screaming or gasping in terror."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Zombie Fear-Alt",
+    "slug": "zombie-fear-alt",
+    "desc": "Looking like a zombie from the shock of fear."
+  },
+  {
+    "char": "(((( ；´Д｀))))",
+    "name": "Pure Dread-Alt",
+    "slug": "pure-dread-alt",
+    "desc": "An expression of pure, unadulterated dread."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Intense Panic Sweat-Alt",
+    "slug": "intense-panic-sweat-alt",
+    "desc": "A character sweating heavily from intense panic."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Classic Horror Face-Alt",
+    "slug": "classic-horror-face-alt",
+    "desc": "The most classic face for horror or fear."
+  },
+  {
+    "char": "(|||❛︵❛.)",
+    "name": "Nervous Frightened Face-Alt",
+    "slug": "nervous-frightened-face-alt",
+    "desc": "A vulnerable and nervous expression of being scared."
+  },
+  {
+    "char": "ヽ(illﾟдﾟ)ﾉ",
+    "name": "Frantic Terror Face-Alt",
+    "slug": "frantic-terror-face-alt",
+    "desc": "A frantic reaction to a scary situation."
+  },
+  {
+    "char": "((((;ﾟ;Д;ﾟ;))))",
+    "name": "Panic Eye Terror-Alt",
+    "slug": "panic-eye-terror-alt",
+    "desc": "Focusing on panicked eyes during a scare."
+  },
+  {
+    "char": "(つд⊂)",
+    "name": "Hiding Fear Face-Alt",
+    "slug": "hiding-fear-face-alt",
+    "desc": "Hiding the face behind hands during a scary event."
+  },
+  {
+    "char": "((((；´∀｀)))",
+    "name": "Nervous Shivering Face-Alt",
+    "slug": "nervous-shivering-face-alt",
+    "desc": "A nervous shiver with a weak, forced smile."
+  },
+  {
+    "char": "(´д｀ι)",
+    "name": "Dread Sweat Drop-Alt",
+    "slug": "dread-sweat-drop-alt",
+    "desc": "A single sweat drop indicating growing dread."
+  },
+  {
+    "char": "(|||╯︵╰.)",
+    "name": "Unhappy Terror-Alt",
+    "slug": "unhappy-terror-alt",
+    "desc": "A mix of being very unhappy and very scared."
+  },
+  {
+    "char": "(((( ﾟДﾟ))))",
+    "name": "Gasping Terror Face-Alt",
+    "slug": "gasping-terror-face-alt",
+    "desc": "A character gasping for air while trembling in fear."
+  },
+  {
+    "char": "(|||๏д๏)",
+    "name": "Shocked Fear Face-Alt",
+    "slug": "shocked-fear-face-alt",
+    "desc": "A character looking utterly shocked and fearful."
+  },
+  {
+    "char": "((( ﾟдﾟ)))",
+    "name": "Mild Shivering Fear-Alt-2",
+    "slug": "mild-shivering-fear-alt-2",
+    "desc": "A mild physical reaction to something creepy."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Instant Terror Face-Alt-2",
+    "slug": "instant-terror-face-alt-2",
+    "desc": "A sharp, instant reaction of fear and terror."
+  },
+  {
+    "char": "(((( ;ﾟдﾟ)))",
+    "name": "Tense Fright Face-Alt-2",
+    "slug": "tense-fright-face-alt-2",
+    "desc": "A state of high tension and fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Loud Fear Expression-Alt-2",
+    "slug": "loud-fear-expression-alt-2",
+    "desc": "A character making a loud noise from being scared."
+  },
+  {
+    "char": "(´◦ω◦`)",
+    "name": "Cowering Fear Face-Alt-2",
+    "slug": "cowering-fear-face-alt-2",
+    "desc": "Cowering and trembling like a small animal."
+  },
+  {
+    "char": "((((;´･ω･`)))",
+    "name": "Anxious Shivering Face-Alt-2",
+    "slug": "anxious-shivering-face-alt-2",
+    "desc": "Shaking from a high state of anxiety and fear."
+  },
+  {
+    "char": "( ; ﾟДﾟ)",
+    "name": "Sudden Fright Face-Alt-2",
+    "slug": "sudden-fright-face-alt-2",
+    "desc": "A face that has just been suddenly frightened."
+  },
+  {
+    "char": "(||| ﾟДﾟ)",
+    "name": "Frightened Stare Face-Alt-2",
+    "slug": "frightened-stare-face-alt-2",
+    "desc": "A pale, frightened face looking at a threat."
+  },
+  {
+    "char": "((((；´Д｀))))",
+    "name": "Helpless Shiver Expression-Alt-2",
+    "slug": "helpless-shiver-expression-alt-2",
+    "desc": "A character shaking in a state of total helplessness."
+  },
+  {
+    "char": "Σ(っﾟДﾟ；)っ",
+    "name": "Panic Escape Face-Alt-2",
+    "slug": "panic-escape-face-alt-2",
+    "desc": "Trying to run away in a total state of panic and fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Screaming Terror Face-Alt-2",
+    "slug": "screaming-terror-face-alt-2",
+    "desc": "A character screaming or gasping in terror."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Zombie Fear Face-Alt-2",
+    "slug": "zombie-fear-face-alt-2",
+    "desc": "Looking like a zombie from the shock of fear and terror."
+  },
+  {
+    "char": "(((( ；´Д｀))))",
+    "name": "Pure Dread Face-Alt-2",
+    "slug": "pure-dread-face-alt-2",
+    "desc": "An expression of pure, unadulterated dread and fear."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Intense Panic Sweat Face-Alt-2",
+    "slug": "intense-panic-sweat-face-alt-2",
+    "desc": "A character sweating heavily from intense panic."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Classic Horror Expression-Alt-2",
+    "slug": "classic-horror-expression-alt-2",
+    "desc": "The most classic face for expressing horror."
+  },
+  {
+    "char": "(|||❛︵❛.)",
+    "name": "Nervous Fright Expression-Alt-2",
+    "slug": "nervous-fright-expression-alt-2",
+    "desc": "A vulnerable and nervous expression of fear."
+  },
+  {
+    "char": "ヽ(illﾟдﾟ)ﾉ",
+    "name": "Frantic Terror Expression-Alt-2",
+    "slug": "frantic-terror-expression-alt-2",
+    "desc": "A frantic reaction to a scary event."
+  },
+  {
+    "char": "((((;ﾟ;Д;ﾟ;))))",
+    "name": "Panic Eye Terror Expression-Alt-2",
+    "slug": "panic-eye-terror-expression-alt-2",
+    "desc": "Focusing on panicked eyes during a scare."
+  },
+  {
+    "char": "(つд⊂)",
+    "name": "Hiding Fear Expression-Alt-2",
+    "slug": "hiding-fear-expression-alt-2",
+    "desc": "Hiding the face during a scary event."
+  },
+  {
+    "char": "((((；´∀｀)))",
+    "name": "Nervous Shivering Expression-Alt-2",
+    "slug": "nervous-shivering-expression-alt-2",
+    "desc": "A nervous shiver with a weak, forced smile."
+  },
+  {
+    "char": "(´д｀ι)",
+    "name": "Dread Sweat Expression-Alt-2",
+    "slug": "dread-sweat-expression-alt-2",
+    "desc": "A single sweat drop indicating growing dread."
+  },
+  {
+    "char": "(|||╯︵╰.)",
+    "name": "Unhappy Terror Expression-Alt-2",
+    "slug": "unhappy-terror-expression-alt-2",
+    "desc": "A mix of being very unhappy and very scared."
+  },
+  {
+    "char": "(((( ﾟДﾟ))))",
+    "name": "Gasping Terror Expression-Alt-2",
+    "slug": "gasping-terror-expression-alt-2",
+    "desc": "A character gasping for air while trembling."
+  },
+  {
+    "char": "(|||๏д๏)",
+    "name": "Shocked Fear Expression-Alt-2",
+    "slug": "shocked-fear-expression-alt-2",
+    "desc": "A character looking utterly shocked and fearful."
+  },
+  {
+    "char": "((( ﾟдﾟ)))",
+    "name": "Mild Shivering Fear-Alt-3",
+    "slug": "mild-shivering-fear-alt-3",
+    "desc": "A mild physical reaction to a creepy situation."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Instant Terror-Alt-2",
+    "slug": "instant-terror-alt-2",
+    "desc": "A sharp, instant reaction of fear and terror."
+  },
+  {
+    "char": "(((( ;ﾟдﾟ)))",
+    "name": "Tense Fright-Alt-2",
+    "slug": "tense-fright-alt-2",
+    "desc": "A state of high tension and fear."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Loud Fear Expression-Alt-3",
+    "slug": "loud-fear-expression-alt-3",
+    "desc": "A character making a loud noise from being scared."
+  },
+  {
+    "char": "(´◦ω◦`)",
+    "name": "Cowering Fear-Alt-2",
+    "slug": "cowering-fear-alt-2",
+    "desc": "Cowering and trembling like a small animal."
+  },
+  {
+    "char": "((((;´･ω･`)))",
+    "name": "Anxious Shivering-Alt-2",
+    "slug": "anxious-shivering-alt-2",
+    "desc": "Shaking from a high state of anxiety and fear."
+  },
+  {
+    "char": "( ; ﾟДﾟ)",
+    "name": "Sudden Fright-Alt-2",
+    "slug": "sudden-fright-alt-2",
+    "desc": "A face that has just been suddenly frightened."
+  },
+  {
+    "char": "(||| ﾟДﾟ)",
+    "name": "Frightened Stare-Alt-2",
+    "slug": "frightened-stare-alt-2",
+    "desc": "A pale, frightened face looking at a threat."
+  },
+  {
+    "char": "((((；´Д｀))))",
+    "name": "Helpless Shiver-Alt-2",
+    "slug": "helpless-shiver-alt-2",
+    "desc": "A character shaking in a state of total helplessness."
+  },
+  {
+    "char": "Σ(っﾟДﾟ；)っ",
+    "name": "Panic Escape-Alt-2",
+    "slug": "panic-escape-alt-2",
+    "desc": "Trying to run away in a total state of panic."
+  },
+  {
+    "char": "((((；´ﾟДﾟ)))",
+    "name": "Screaming Terror-Alt-3",
+    "slug": "screaming-terror-alt-3",
+    "desc": "A character screaming or gasping in terror."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Zombie Fear-Alt-3",
+    "slug": "zombie-fear-alt-3",
+    "desc": "Looking like a zombie from the shock of fear."
+  },
+  {
+    "char": "(((( ；´Д｀))))",
+    "name": "Pure Dread-Alt-3",
+    "slug": "pure-dread-alt-3",
+    "desc": "An expression of pure, unadulterated dread."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Intense Panic Sweat-Alt-3",
+    "slug": "intense-panic-sweat-alt-3",
+    "desc": "A character sweating heavily from intense panic."
+  }
+]

@@ -1,0 +1,1190 @@
+[
+  {
+    "char": "(^▽^)",
+    "name": "Big Smile Kaomoji",
+    "slug": "big-smile-kaomoji",
+    "desc": "A classic, simple face with wide-open eyes showing pure happiness."
+  },
+  {
+    "char": "(✿◠‿◠)",
+    "name": "Flower Girl Joy Kaomoji",
+    "slug": "flower-girl-joy-kaomoji",
+    "desc": "A peaceful, happy face decorated with a flower, representing serene joy."
+  },
+  {
+    "char": "٩(◕‿◕)۶",
+    "name": "Winning Joy Kaomoji",
+    "slug": "winning-joy-kaomoji",
+    "desc": "A character raising both arms in the air to celebrate a victory or great news."
+  },
+  {
+    "char": "(´∀`)ゞ",
+    "name": "Bashful Joy Kaomoji",
+    "slug": "bashful-joy-kaomoji",
+    "desc": "A happy character scratching the back of their head, showing modest or shy happiness."
+  },
+  {
+    "char": "(*^ω^*)",
+    "name": "Cat Mouth Joy Kaomoji",
+    "slug": "cat-mouth-joy-kaomoji",
+    "desc": "A cute expression featuring a cat-like mouth, indicating playful delight."
+  },
+  {
+    "char": "o(^▽^)o",
+    "name": "Bouncing Joy Kaomoji",
+    "slug": "bouncing-joy-kaomoji",
+    "desc": "A character so happy they appear to be jumping or bouncing with excitement."
+  },
+  {
+    "char": "(っ˘ω˘ς )",
+    "name": "Satisfied Contentment Kaomoji",
+    "slug": "satisfied-contentment-kaomoji",
+    "desc": "Closed eyes and a soft smile representing deep comfort and inner peace."
+  },
+  {
+    "char": "＼(￣▽￣)／",
+    "name": "Hurrah Celebration Kaomoji",
+    "slug": "hurrah-celebration-kaomoji",
+    "desc": "Arms spread wide in a gesture of grand celebration and achievement."
+  },
+  {
+    "char": "(*¯︶¯*)",
+    "name": "Smug Joy Kaomoji",
+    "slug": "smug-joy-kaomoji",
+    "desc": "A satisfied smile indicating someone is very pleased with themselves or a situation."
+  },
+  {
+    "char": "(^.^)ノ",
+    "name": "Friendly Wave Joy Kaomoji",
+    "slug": "friendly-wave-joy-kaomoji",
+    "desc": "A small, happy face waving a hand to greet a friend."
+  },
+  {
+    "char": "╰(*´︶`*)╯",
+    "name": "Warm Hug Joy Kaomoji",
+    "slug": "warm-hug-joy-kaomoji",
+    "desc": "A character reaching out for a hug with a face full of warmth and love."
+  },
+  {
+    "char": "(o´∀`o)",
+    "name": "Giggling Joy Kaomoji",
+    "slug": "giggling-joy-kaomoji",
+    "desc": "A face showing a character mid-giggle, expressing lighthearted amusement."
+  },
+  {
+    "char": "(^◡^ )",
+    "name": "Gentle Smile Kaomoji",
+    "slug": "gentle-smile-kaomoji",
+    "desc": "A soft, pleasant expression showing quiet appreciation or friendliness."
+  },
+  {
+    "char": "٩(ˊᗜˋ*)و",
+    "name": "Energetic Cheer Kaomoji",
+    "slug": "energetic-cheer-kaomoji",
+    "desc": "A character leaping forward with excitement and high energy."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`) ♡",
+    "name": "Love Filled Joy Kaomoji",
+    "slug": "love-filled-joy-kaomoji",
+    "desc": "A blushing face combined with a heart, showing romantic or deep affection."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Hysterical Joy Kaomoji",
+    "slug": "hysterical-joy-kaomoji",
+    "desc": "A character laughing so hard they are holding their hands up in the air."
+  },
+  {
+    "char": "(￣w￣)",
+    "name": "Mischievous Joy Kaomoji",
+    "slug": "mischievous-joy-kaomoji",
+    "desc": "A sly grin showing someone is happily planning a prank or has a secret."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Sparkling Eyes Joy Kaomoji",
+    "slug": "sparkling-eyes-joy-kaomoji",
+    "desc": "An adorable face with large eyes reflecting light and excitement."
+  },
+  {
+    "char": "d(◕‿◕)b",
+    "name": "Music Lover Joy Kaomoji",
+    "slug": "music-lover-joy-kaomoji",
+    "desc": "A happy character wearing headphones, enjoying their favorite tunes."
+  },
+  {
+    "char": "( ˙꒳​˙ )",
+    "name": "Pure Contentment Kaomoji",
+    "slug": "pure-contentment-kaomoji",
+    "desc": "A simple, minimalist face showing a state of calm and steady happiness."
+  },
+  {
+    "char": "Σ( 〉∀〈)",
+    "name": "Surprised Joy Kaomoji",
+    "slug": "surprised-joy-kaomoji",
+    "desc": "A character who is pleasantly shocked or amazed by good news."
+  },
+  {
+    "char": "(๑˃ᴗ˂)ﻭ",
+    "name": "Determined Joy Kaomoji",
+    "slug": "determined-joy-kaomoji",
+    "desc": "A happy face showing high spirits and a 'can-do' attitude."
+  },
+  {
+    "char": "°˖✧◝(⁰▿⁰)◜✧˖°",
+    "name": "Radiant Joy Kaomoji",
+    "slug": "radiant-joy-kaomoji",
+    "desc": "A character surrounded by sparkles, representing a moment of brilliant success."
+  },
+  {
+    "char": "( ´ ▽ ` )",
+    "name": "Relieved Joy Kaomoji",
+    "slug": "relieved-joy-kaomoji",
+    "desc": "A soft smile showing happiness that comes after a stressful event is over."
+  },
+  {
+    "char": "(*≧ω≦*)",
+    "name": "Squealing Joy Kaomoji",
+    "slug": "squealing-joy-kaomoji",
+    "desc": "Eyes squeezed shut in delight, often used when seeing something very cute."
+  },
+  {
+    "char": "o(>ω<)o",
+    "name": "Twirling Joy Kaomoji",
+    "slug": "twirling-joy-kaomoji",
+    "desc": "A character moving their arms around in a dance of pure happiness."
+  },
+  {
+    "char": "ヽ(*⌒▽⌒*)ﾉ",
+    "name": "Waving Both Hands Joy Kaomoji",
+    "slug": "waving-both-hands-joy-kaomoji",
+    "desc": "A character waving both hands to greet someone they are very happy to see."
+  },
+  {
+    "char": "(^‿^✿)",
+    "name": "Flower Blossom Joy Kaomoji",
+    "slug": "flower-blossom-joy-kaomoji",
+    "desc": "A happy face with a flower, suggesting a blooming or growing sense of joy."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "Wide Eyed Delight Kaomoji",
+    "slug": "wide-eyed-delight-kaomoji",
+    "desc": "An expression of being totally captivated and happy with what one sees."
+  },
+  {
+    "char": "٩(^ᴗ^)۶",
+    "name": "Healthy Joy Kaomoji",
+    "slug": "healthy-joy-kaomoji",
+    "desc": "A character looking fit and happy, often used for health or fitness goals."
+  },
+  {
+    "char": "(´꒳`)",
+    "name": "Comfy Joy Kaomoji",
+    "slug": "comfy-joy-kaomoji",
+    "desc": "A soft, fuzzy-feeling smile representing being in a cozy or safe place."
+  },
+  {
+    "char": "ヽ(o^ ^o)ﾉ",
+    "name": "Dancing Joy Kaomoji",
+    "slug": "dancing-joy-kaomoji",
+    "desc": "A character with arms bent as if doing a little happy jig."
+  },
+  {
+    "char": "(☆▽☆)",
+    "name": "Starry Eyed Joy Kaomoji",
+    "slug": "starry-eyed-joy-kaomoji",
+    "desc": "Having stars for eyes, representing seeing something truly wonderful or iconic."
+  },
+  {
+    "char": "(⌒‿⌒)",
+    "name": "Cheeky Joy Kaomoji",
+    "slug": "cheeky-joy-kaomoji",
+    "desc": "A wide smile that pushes the cheeks up, showing sincere and full happiness."
+  },
+  {
+    "char": "＼(≧▽≦)／",
+    "name": "Ultimate Success Kaomoji",
+    "slug": "ultimate-success-kaomoji",
+    "desc": "Throwing arms up in a massive gesture of victory and extreme joy."
+  },
+  {
+    "char": "(^o^)b",
+    "name": "Encouraging Joy Kaomoji",
+    "slug": "encouraging-joy-kaomoji",
+    "desc": "A happy face giving a thumbs up to encourage or agree with someone."
+  },
+  {
+    "char": "(*￣▽￣)ノ",
+    "name": "Cool Wave Joy Kaomoji",
+    "slug": "cool-wave-joy-kaomoji",
+    "desc": "A relaxed character waving a hand with a confident, happy expression."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Beaming Joy Kaomoji",
+    "slug": "beaming-joy-kaomoji",
+    "desc": "A face that seems to glow with happiness and positivity."
+  },
+  {
+    "char": "(っ≧ω≦)っ",
+    "name": "Eager Hug Joy Kaomoji",
+    "slug": "eager-hug-joy-kaomoji",
+    "desc": "Reaching out quickly with both arms for a very excited embrace."
+  },
+  {
+    "char": "ヽ(♡‿♡)ノ",
+    "name": "Love Drunk Joy Kaomoji",
+    "slug": "love-drunk-joy-kaomoji",
+    "desc": "A character with hearts for eyes dancing around in a state of romantic bliss."
+  },
+  {
+    "char": "( ‾́ ◡ ‾́ )",
+    "name": "Proud Contentment Kaomoji",
+    "slug": "proud-contentment-kaomoji",
+    "desc": "A character looking very satisfied with an achievement they've made."
+  },
+  {
+    "char": "( ´ ▽ ` )ﾉ",
+    "name": "Gentle Wave Joy Kaomoji",
+    "slug": "gentle-wave-joy-kaomoji",
+    "desc": "A calm and friendly wave with a peaceful, happy expression."
+  },
+  {
+    "char": "(^Q^)/",
+    "name": "Singing Joy Kaomoji",
+    "slug": "singing-joy-kaomoji",
+    "desc": "A character with an open mouth as if singing a happy song out loud."
+  },
+  {
+    "char": "(〃＾▽＾〃)",
+    "name": "Blushing Giggle Kaomoji",
+    "slug": "blushing-giggle-kaomoji",
+    "desc": "A very happy face with rosy cheeks from laughing or receiving a compliment."
+  },
+  {
+    "char": "ヽ(〃･ω･)ﾉ",
+    "name": "Playful Joy Kaomoji",
+    "slug": "playful-joy-kaomoji",
+    "desc": "A character with a small smile moving around in a playful manner."
+  },
+  {
+    "char": "( ˙▿˙ )",
+    "name": "Steady Joy Kaomoji",
+    "slug": "steady-joy-kaomoji",
+    "desc": "A balanced and calm expression of constant, quiet happiness."
+  },
+  {
+    "char": "(*・∀・)ノ",
+    "name": "Polite Joyful Greeting Kaomoji",
+    "slug": "polite-joyful-greeting-kaomoji",
+    "desc": "A respectful but clearly happy hand wave to a friend or colleague."
+  },
+  {
+    "char": "( ´◡‿ゝ◡`)",
+    "name": "Deep Relaxation Joy Kaomoji",
+    "slug": "deep-relaxation-joy-kaomoji",
+    "desc": "A character with eyes closed, enjoying a moment of perfect relaxation."
+  },
+  {
+    "char": "٩(◕‿◕)۶",
+    "name": "Yay Joy Kaomoji",
+    "slug": "yay-joy-kaomoji",
+    "desc": "A simple 'Yay!' expression with arms raised in the air."
+  },
+  {
+    "char": "(^-^*)/",
+    "name": "Bright Morning Joy Kaomoji",
+    "slug": "bright-morning-joy-kaomoji",
+    "desc": "A refreshing and happy greeting, like saying 'Good morning!' with a smile."
+  },
+  {
+    "char": "(o´▽`o)",
+    "name": "Sweet Smile Kaomoji",
+    "slug": "sweet-smile-kaomoji",
+    "desc": "A gentle and kind expression showing a sweet personality."
+  },
+  {
+    "char": "(≧◡≦) ♡",
+    "name": "Heartfelt Joy Kaomoji",
+    "slug": "heartfelt-joy-kaomoji",
+    "desc": "Closing eyes in deep happiness while feeling a strong sense of love."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Uncontrollable Laughter Kaomoji",
+    "slug": "uncontrollable-laughter-kaomoji",
+    "desc": "A character laughing so hard they are waving their hands frantically."
+  },
+  {
+    "char": "(^ ^)",
+    "name": "Simple Happy Face Kaomoji",
+    "slug": "simple-happy-face-kaomoji",
+    "desc": "The most basic and universal way to show happiness with a smile."
+  },
+  {
+    "char": "(o^▽^o)",
+    "name": "Cheerful Face Kaomoji",
+    "slug": "cheerful-face-kaomoji",
+    "desc": "A wide, open-mouthed smile that indicates a very cheerful mood."
+  },
+  {
+    "char": "(´꒳`)♡",
+    "name": "Cuddly Joy Kaomoji",
+    "slug": "cuddly-joy-kaomoji",
+    "desc": "A soft smile with a heart, suggesting the joy of cuddling or being close."
+  },
+  {
+    "char": "( ´ ∀ ` )ノ",
+    "name": "Laid Back Joy Kaomoji",
+    "slug": "laid-back-joy-kaomoji",
+    "desc": "A relaxed character waving with a very casual, happy vibe."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Delighted Face Kaomoji",
+    "slug": "delighted-face-kaomoji",
+    "desc": "A face showing genuine delight and appreciation for something."
+  },
+  {
+    "char": "(b ‿ )b",
+    "name": "Double Thumbs Up Joy Kaomoji",
+    "slug": "double-thumbs-up-joy-kaomoji",
+    "desc": "Giving two thumbs up to show high approval and happiness."
+  },
+  {
+    "char": "ヽ(〃v〃)ﾉ",
+    "name": "Shy Giggle Kaomoji",
+    "slug": "shy-giggle-kaomoji",
+    "desc": "A character laughing quietly while blushing from social interaction."
+  },
+  {
+    "char": "(๑^ᴗ^๑)",
+    "name": "Proud Smile Kaomoji",
+    "slug": "proud-smile-kaomoji",
+    "desc": "A cute, happy face showing a sense of pride in one's work."
+  },
+  {
+    "char": "(^人^)",
+    "name": "Grateful Joy Kaomoji",
+    "slug": "grateful-joy-kaomoji",
+    "desc": "Hands together in a prayer-like gesture, showing the joy of being thankful."
+  },
+  {
+    "char": "( ´ ω ` )",
+    "name": "Sleepy Joy Kaomoji",
+    "slug": "sleepy-joy-kaomoji",
+    "desc": "A soft, happy smile often used when feeling sleepy and content."
+  },
+  {
+    "char": "(^▽^)/",
+    "name": "Energetic Wave Kaomoji",
+    "slug": "energetic-wave-kaomoji",
+    "desc": "A high-energy wave used to say hello with a big smile."
+  },
+  {
+    "char": "(o´∀`o)",
+    "name": "Amused Joy Kaomoji",
+    "slug": "amused-joy-kaomoji",
+    "desc": "A face showing a character who is happily amused by a situation."
+  },
+  {
+    "char": "ヽ(๏∀๏)ﾉ",
+    "name": "Wide Eyed Excitement Kaomoji",
+    "slug": "wide-eyed-excitement-kaomoji",
+    "desc": "Massive eyes and raised hands showing overwhelming excitement."
+  },
+  {
+    "char": "(っ˘ڡ˘ς)",
+    "name": "Delicious Joy Kaomoji",
+    "slug": "delicious-joy-kaomoji",
+    "desc": "A character rubbing their cheek after eating something very tasty."
+  },
+  {
+    "char": "( ´ ▽ ` )σ",
+    "name": "Pointing Joy Kaomoji",
+    "slug": "pointing-joy-kaomoji",
+    "desc": "A happy character pointing at something they find interesting or funny."
+  },
+  {
+    "char": "(^◡^)",
+    "name": "Kind Smile Kaomoji",
+    "slug": "kind-smile-kaomoji",
+    "desc": "A simple and kind expression of happiness and goodwill."
+  },
+  {
+    "char": "(*≧ω≦*)",
+    "name": "Overjoyed Kaomoji",
+    "slug": "overjoyed-kaomoji",
+    "desc": "Eyes squeezed tight in an expression of being completely overjoyed."
+  },
+  {
+    "char": "( ´ ω ` )ノﾞ",
+    "name": "Patting Joy Kaomoji",
+    "slug": "patting-joy-kaomoji",
+    "desc": "A character reaching out to gently pat someone's head in a happy way."
+  },
+  {
+    "char": "(o´ω`o)",
+    "name": "Soft Cheerful Kaomoji",
+    "slug": "soft-cheerful-kaomoji",
+    "desc": "A gentle and quiet version of a cheerful, happy face."
+  },
+  {
+    "char": "ヽ(ˇ∀ˇ )ゞ",
+    "name": "Humble Joy Kaomoji",
+    "slug": "humble-joy-kaomoji",
+    "desc": "A character showing happy relief while being modest about an achievement."
+  },
+  {
+    "char": "( ˙꒳​˙ )",
+    "name": "Still Joy Kaomoji",
+    "slug": "still-joy-kaomoji",
+    "desc": "A face showing a steady and unchanging state of being happy."
+  },
+  {
+    "char": "(^▽^)",
+    "name": "Glee Kaomoji",
+    "slug": "glee-kaomoji",
+    "desc": "A simple face expressing a high level of glee and happiness."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "Amazed Delight Kaomoji",
+    "slug": "amazed-delight-kaomoji",
+    "desc": "A face showing a mix of amazement and pure happiness."
+  },
+  {
+    "char": "( ´ ∀ ` )",
+    "name": "Relaxed Happiness Kaomoji",
+    "slug": "relaxed-happiness-kaomoji",
+    "desc": "A calm and easygoing expression of being happy and relaxed."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`)",
+    "name": "Endearing Joy Kaomoji",
+    "slug": "endearing-joy-kaomoji",
+    "desc": "A very cute and endearing happy face with soft features."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Belly Laugh Kaomoji",
+    "slug": "belly-laugh-kaomoji",
+    "desc": "A character laughing with their whole body in a show of great joy."
+  },
+  {
+    "char": "(o^ ^o)",
+    "name": "Small Joy Kaomoji",
+    "slug": "small-joy-kaomoji",
+    "desc": "A simple and understated way to show being happy."
+  },
+  {
+    "char": "( ´ ▽ ` )",
+    "name": "Satisfied Relief Kaomoji",
+    "slug": "satisfied-relief-kaomoji",
+    "desc": "A happy face showing the joy of a job well done or a problem solved."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Bright Smile Face Kaomoji",
+    "slug": "bright-smile-face-kaomoji",
+    "desc": "A face that seems to radiate happiness and positive energy."
+  },
+  {
+    "char": "(^◡^ )",
+    "name": "Friendly Smile Face Kaomoji",
+    "slug": "friendly-smile-face-kaomoji",
+    "desc": "A welcoming and friendly expression of happiness."
+  },
+  {
+    "char": "(๑˃ᴗ˂)ﻭ",
+    "name": "Motivated Joy Kaomoji",
+    "slug": "motivated-joy-kaomoji",
+    "desc": "A happy face showing a character is ready to take on a challenge."
+  },
+  {
+    "char": "(^o^)／",
+    "name": "High Five Joy Kaomoji",
+    "slug": "high-five-joy-kaomoji",
+    "desc": "A happy character raising a hand for a celebratory high-five."
+  },
+  {
+    "char": "( ´ ▽ ` )ﾉ",
+    "name": "Casual Wave Greeting Kaomoji",
+    "slug": "casual-wave-greeting-kaomoji",
+    "desc": "A relaxed and happy wave to greet a friend."
+  },
+  {
+    "char": "(o´▽`o)",
+    "name": "Kind Hearted Joy Kaomoji",
+    "slug": "kind-hearted-joy-kaomoji",
+    "desc": "A gentle expression showing a kind and happy spirit."
+  },
+  {
+    "char": "(^.^)",
+    "name": "Soft Happy Smile Kaomoji",
+    "slug": "soft-happy-smile-kaomoji",
+    "desc": "A subtle and quiet way to express being happy."
+  },
+  {
+    "char": "( ´ ω ` )",
+    "name": "Content Sleepy Kaomoji",
+    "slug": "content-sleepy-kaomoji",
+    "desc": "A happy face representing a character who is content and sleepy."
+  },
+  {
+    "char": "(*^ω^*)",
+    "name": "Playful Delight Kaomoji",
+    "slug": "playful-delight-kaomoji",
+    "desc": "A cute and playful expression of being happy."
+  },
+  {
+    "char": "ヽ(o^ ^o)ﾉ",
+    "name": "Happy Dance Motion Kaomoji",
+    "slug": "happy-dance-motion-kaomoji",
+    "desc": "A character moving in a happy dance to show their joy."
+  },
+  {
+    "char": "(^▽^)",
+    "name": "Pure Happiness Kaomoji",
+    "slug": "pure-happiness-kaomoji",
+    "desc": "A simple and clear expression of pure joy."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "Wonderful Delight Kaomoji",
+    "slug": "wonderful-delight-kaomoji",
+    "desc": "A face showing a sense of wonder and happiness."
+  },
+  {
+    "char": "( ´ ∀ ` )",
+    "name": "Easygoing Joy Kaomoji",
+    "slug": "easygoing-joy-kaomoji",
+    "desc": "A relaxed and easygoing expression of happiness."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`)",
+    "name": "Cuteness Overload Joy Kaomoji",
+    "slug": "cuteness-overload-joy-kaomoji",
+    "desc": "A very cute happy face often used for adorable situations."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Loud Laugh Joy Kaomoji",
+    "slug": "loud-laugh-joy-kaomoji",
+    "desc": "A character laughing loudly to show their great happiness."
+  },
+  {
+    "char": "(o^ ^o)",
+    "name": "Simple Cheerful Kaomoji",
+    "slug": "simple-cheerful-kaomoji",
+    "desc": "An understated but cheerful expression of being happy."
+  },
+  {
+    "char": "( ´ ▽ ` )",
+    "name": "Happy Success Kaomoji",
+    "slug": "happy-success-kaomoji",
+    "desc": "A face showing a character is happy with a success they've had."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Beaming Smile Face Kaomoji",
+    "slug": "beaming-smile-face-kaomoji",
+    "desc": "A face that glows with happiness and joy."
+  },
+  {
+    "char": "(^◡^ )",
+    "name": "Kind Greeting Smile Kaomoji",
+    "slug": "kind-greeting-smile-kaomoji",
+    "desc": "A welcoming and kind expression of being happy."
+  },
+  {
+    "char": "(๑˃ᴗ˂)ﻭ",
+    "name": "High Spirits Joy Kaomoji",
+    "slug": "high-spirits-joy-kaomoji",
+    "desc": "A happy face showing a character is in very high spirits."
+  },
+  {
+    "char": "(^o^)／",
+    "name": "Victory Shout Joy Kaomoji",
+    "slug": "victory-shout-joy-kaomoji",
+    "desc": "A happy character shouting for joy at a victory."
+  },
+  {
+    "char": "( ´ ▽ ` )ﾉ",
+    "name": "Friendly Wave Hello Kaomoji",
+    "slug": "friendly-wave-hello-kaomoji",
+    "desc": "A relaxed and happy wave to say hello to a friend."
+  },
+  {
+    "char": "(o´▽`o)",
+    "name": "Kind Smile Face Kaomoji",
+    "slug": "kind-smile-face-kaomoji",
+    "desc": "A gentle expression showing a kind and happy character."
+  },
+  {
+    "char": "(^.^)",
+    "name": "Soft Happy Face Kaomoji",
+    "slug": "soft-happy-face-kaomoji",
+    "desc": "A quiet and subtle way to show being happy."
+  },
+  {
+    "char": "( ´ ω ` )",
+    "name": "Quietly Content Kaomoji",
+    "slug": "quietly-content-kaomoji",
+    "desc": "A happy face representing a character who is quietly content."
+  },
+  {
+    "char": "(*^ω^*)",
+    "name": "Cute Joyful Face Kaomoji",
+    "slug": "cute-joyful-face-kaomoji",
+    "desc": "A playful and cute expression of being happy."
+  },
+  {
+    "char": "ヽ(o^ ^o)ﾉ",
+    "name": "Joyful Dance Motion Kaomoji",
+    "slug": "joyful-dance-motion-kaomoji",
+    "desc": "A character moving in a joyful dance to show their happiness."
+  },
+  {
+    "char": "(^▽^)",
+    "name": "Clear Happiness Kaomoji",
+    "slug": "clear-happiness-kaomoji",
+    "desc": "A simple and direct way to show being happy."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "Full Delight Kaomoji",
+    "slug": "full-delight-kaomoji",
+    "desc": "A face showing a character is full of delight."
+  },
+  {
+    "char": "( ´ ∀ ` )",
+    "name": "Relaxed Joyful Face Kaomoji",
+    "slug": "relaxed-joyful-face-kaomoji",
+    "desc": "A calm and relaxed expression of happiness."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`)",
+    "name": "Adorable Joy Kaomoji",
+    "slug": "adorable-joy-kaomoji",
+    "desc": "A very cute happy face used for sweet moments."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Great Joy Laughter Kaomoji",
+    "slug": "great-joy-laughter-kaomoji",
+    "desc": "A character laughing with great joy."
+  },
+  {
+    "char": "(o^ ^o)",
+    "name": "Simple Joy Face Kaomoji",
+    "slug": "simple-joy-face-kaomoji",
+    "desc": "A small and cheerful expression of being happy."
+  },
+  {
+    "char": "( ´ ▽ ` )",
+    "name": "Happy Achievement Kaomoji",
+    "slug": "happy-achievement-kaomoji",
+    "desc": "A face showing happiness after achieving something."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Radiant Smile Face Kaomoji",
+    "slug": "radiant-smile-face-kaomoji",
+    "desc": "A face that radiates happiness and joy."
+  },
+  {
+    "char": "(^◡^ )",
+    "name": "Kind Joy Smile Kaomoji",
+    "slug": "kind-joy-smile-kaomoji",
+    "desc": "A kind and happy expression of joy."
+  },
+  {
+    "char": "(๑˃ᴗ˂)ﻭ",
+    "name": "Ready For Joy Kaomoji",
+    "slug": "ready-for-joy-kaomoji",
+    "desc": "A character ready for any happy situation."
+  },
+  {
+    "char": "(^o^)／",
+    "name": "Happy Celebration Wave Kaomoji",
+    "slug": "happy-celebration-wave-kaomoji",
+    "desc": "A character waving for a happy celebration."
+  },
+  {
+    "char": "( ´ ▽ ` )ﾉ",
+    "name": "Simple Wave Hello Joy Kaomoji",
+    "slug": "simple-wave-hello-joy-kaomoji",
+    "desc": "A simple and happy wave to say hello."
+  },
+  {
+    "char": "(o´▽`o)",
+    "name": "Gentle Joy Smile Kaomoji",
+    "slug": "gentle-joy-smile-kaomoji",
+    "desc": "A gentle expression showing a happy character."
+  },
+  {
+    "char": "(^.^)",
+    "name": "Quiet Joy Smile Kaomoji",
+    "slug": "quiet-joy-smile-kaomoji",
+    "desc": "A subtle and quiet expression of joy."
+  },
+  {
+    "char": "( ´ ω ` )",
+    "name": "Sleepy Happy Face Kaomoji",
+    "slug": "sleepy-happy-face-kaomoji",
+    "desc": "A happy face showing a character who is content and sleepy."
+  },
+  {
+    "char": "(*^ω^*)",
+    "name": "Adorable Delight Kaomoji",
+    "slug": "adorable-delight-kaomoji",
+    "desc": "A cute and playful expression of joy."
+  },
+  {
+    "char": "ヽ(o^ ^o)ﾉ",
+    "name": "Celebratory Dance Kaomoji",
+    "slug": "celebratory-dance-kaomoji",
+    "desc": "A character dancing for a happy celebration."
+  },
+  {
+    "char": "(^▽^)",
+    "name": "True Happiness Kaomoji",
+    "slug": "true-happiness-kaomoji",
+    "desc": "A simple and true way to show being happy."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "High Delight Kaomoji",
+    "slug": "high-delight-kaomoji",
+    "desc": "A face showing a high level of delight."
+  },
+  {
+    "char": "( ´ ∀ ` )",
+    "name": "Easy Happiness Kaomoji",
+    "slug": "easy-happiness-kaomoji",
+    "desc": "A relaxed and easy expression of being happy."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`)",
+    "name": "Sweet Delight Kaomoji",
+    "slug": "sweet-delight-kaomoji",
+    "desc": "A very sweet happy face used for cute moments."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Joyful Laughter Wave Kaomoji",
+    "slug": "joyful-laughter-wave-kaomoji",
+    "desc": "A character laughing joyfully and waving."
+  },
+  {
+    "char": "(o^ ^o)",
+    "name": "Understated Joy Kaomoji",
+    "slug": "understated-joy-kaomoji",
+    "desc": "A quiet and understated way to show joy."
+  },
+  {
+    "char": "( ´ ▽ ` )",
+    "name": "Joyful Relief Smile Kaomoji",
+    "slug": "joyful-relief-smile-kaomoji",
+    "desc": "A happy face showing the joy of relief."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Shining Smile Face Kaomoji",
+    "slug": "shining-smile-face-kaomoji",
+    "desc": "A face that shines with happiness."
+  },
+  {
+    "char": "(^◡^ )",
+    "name": "Gentle Greeting Smile Kaomoji",
+    "slug": "gentle-greeting-smile-kaomoji",
+    "desc": "A welcoming and gentle expression of joy."
+  },
+  {
+    "char": "(๑˃ᴗ˂)ﻭ",
+    "name": "Active Joy Kaomoji",
+    "slug": "active-joy-kaomoji",
+    "desc": "A happy face showing an active sense of joy."
+  },
+  {
+    "char": "(^o^)／",
+    "name": "Celebration Shout Joy Kaomoji",
+    "slug": "celebration-shout-joy-kaomoji",
+    "desc": "A character shouting joyfully for a celebration."
+  },
+  {
+    "char": "( ´ ▽ ` )ﾉ",
+    "name": "Relaxed Hello Wave Kaomoji",
+    "slug": "relaxed-hello-wave-kaomoji",
+    "desc": "A happy and relaxed wave to say hello."
+  },
+  {
+    "char": "(o´▽`o)",
+    "name": "Soft Hearted Joy Kaomoji",
+    "slug": "soft-hearted-joy-kaomoji",
+    "desc": "A gentle expression showing a soft and happy character."
+  },
+  {
+    "char": "(^.^)",
+    "name": "Subtle Happiness Smile Kaomoji",
+    "slug": "subtle-happiness-smile-kaomoji",
+    "desc": "A subtle and quiet expression of happiness."
+  },
+  {
+    "char": "( ´ ω ` )",
+    "name": "Peaceful Joy Face Kaomoji",
+    "slug": "peaceful-joy-face-kaomoji",
+    "desc": "A happy face showing a character who is peaceful and content."
+  },
+  {
+    "char": "(*^ω^*)",
+    "name": "Sweet Playful Delight Kaomoji",
+    "slug": "sweet-playful-delight-kaomoji",
+    "desc": "A cute and sweet expression of joy."
+  },
+  {
+    "char": "ヽ(o^ ^o)ﾉ",
+    "name": "Dance Of Joy Kaomoji",
+    "slug": "dance-of-joy-kaomoji",
+    "desc": "A character dancing in a state of pure joy."
+  },
+  {
+    "char": "(^▽^)",
+    "name": "Direct Happiness Kaomoji",
+    "slug": "direct-happiness-kaomoji",
+    "desc": "A simple and direct way to show joy."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "Pure Delight Face Kaomoji",
+    "slug": "pure-delight-face-kaomoji",
+    "desc": "A face showing pure delight."
+  },
+  {
+    "char": "( ´ ∀ ` )",
+    "name": "Steady Happiness Kaomoji",
+    "slug": "steady-happiness-kaomoji",
+    "desc": "A balanced and steady expression of being happy."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`)",
+    "name": "Endearing Delight Kaomoji",
+    "slug": "endearing-delight-kaomoji",
+    "desc": "A very endearing happy face used for sweet moments."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Full Body Laughter Kaomoji",
+    "slug": "full-body-laughter-kaomoji",
+    "desc": "A character laughing with their whole body to show joy."
+  },
+  {
+    "char": "(o^ ^o)",
+    "name": "Quiet Cheerful Face Kaomoji",
+    "slug": "quiet-cheerful-face-kaomoji",
+    "desc": "A quiet and cheerful expression of being happy."
+  },
+  {
+    "char": "( ´ ▽ ` )",
+    "name": "Contentment Joy Kaomoji",
+    "slug": "contentment-joy-kaomoji",
+    "desc": "A face showing a character is content and happy."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Positive Energy Smile Kaomoji",
+    "slug": "positive-energy-smile-kaomoji",
+    "desc": "A face that conveys positive energy and joy."
+  },
+  {
+    "char": "(^◡^ )",
+    "name": "Friendly Joyful Smile Kaomoji",
+    "slug": "friendly-joyful-smile-kaomoji",
+    "desc": "A welcoming and joyful expression of happiness."
+  },
+  {
+    "char": "(๑˃ᴗ˂)ﻭ",
+    "name": "Joyful Motivation Kaomoji",
+    "slug": "joyful-motivation-kaomoji",
+    "desc": "A happy face showing a character is motivated by joy."
+  },
+  {
+    "char": "(^o^)／",
+    "name": "Victory Wave Hello Kaomoji",
+    "slug": "victory-wave-hello-kaomoji",
+    "desc": "A happy character waving hello for a victory."
+  },
+  {
+    "char": "( ´ ▽ ` )ﾉ",
+    "name": "Kind Hello Wave Kaomoji",
+    "slug": "kind-hello-wave-kaomoji",
+    "desc": "A kind and happy wave to say hello to a friend."
+  },
+  {
+    "char": "(o´▽`o)",
+    "name": "Soft Smile Joy Kaomoji",
+    "slug": "soft-smile-joy-kaomoji",
+    "desc": "A gentle expression showing a soft and happy character."
+  },
+  {
+    "char": "(^.^)",
+    "name": "Calm Happiness Smile Kaomoji",
+    "slug": "calm-happiness-smile-kaomoji",
+    "desc": "A calm and quiet expression of happiness."
+  },
+  {
+    "char": "( ´ ω ` )",
+    "name": "Satisfied Joy Face Kaomoji",
+    "slug": "satisfied-joy-face-kaomoji",
+    "desc": "A happy face showing a character who is satisfied and content."
+  },
+  {
+    "char": "(*^ω^*)",
+    "name": "Cuteness Joy Kaomoji",
+    "slug": "cuteness-joy-kaomoji",
+    "desc": "A playful and cute expression of joy."
+  },
+  {
+    "char": "ヽ(o^ ^o)ﾉ",
+    "name": "Joyful Motion Kaomoji",
+    "slug": "joyful-motion-kaomoji",
+    "desc": "A character moving joyfully to show their happiness."
+  },
+  {
+    "char": "(^▽^)",
+    "name": "Open Joy Kaomoji",
+    "slug": "open-joy-kaomoji",
+    "desc": "A simple and open way to show being happy."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "Bright Delight Kaomoji",
+    "slug": "bright-delight-kaomoji",
+    "desc": "A face showing a bright level of delight."
+  },
+  {
+    "char": "( ´ ∀ ` )",
+    "name": "Constant Happiness Kaomoji",
+    "slug": "constant-happiness-kaomoji",
+    "desc": "A constant and steady expression of being happy."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`)",
+    "name": "Sweet Joyful Face Kaomoji",
+    "slug": "sweet-joyful-face-kaomoji",
+    "desc": "A very sweet happy face used for sweet moments."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Laughing Joy Motion Kaomoji",
+    "slug": "laughing-joy-motion-kaomoji",
+    "desc": "A character laughing joyfully to show their happiness."
+  },
+  {
+    "char": "(o^ ^o)",
+    "name": "Understated Cheer Kaomoji",
+    "slug": "understated-cheer-kaomoji",
+    "desc": "A quiet and understated way to show cheerfulness."
+  },
+  {
+    "char": "( ´ ▽ ` )",
+    "name": "Joyful Success Smile Kaomoji",
+    "slug": "joyful-success-smile-kaomoji",
+    "desc": "A happy face showing the joy of a success."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Positive Smile Face Kaomoji",
+    "slug": "positive-smile-face-kaomoji",
+    "desc": "A face that conveys positivity and joy."
+  },
+  {
+    "char": "(^◡^ )",
+    "name": "Kindness Joy Smile Kaomoji",
+    "slug": "kindness-joy-smile-kaomoji",
+    "desc": "A kind and happy expression of joy."
+  },
+  {
+    "char": "(๑˃ᴗ˂)ﻭ",
+    "name": "Spirited Joy Kaomoji",
+    "slug": "spirited-joy-kaomoji",
+    "desc": "A happy face showing a spirited sense of joy."
+  },
+  {
+    "char": "(^o^)／",
+    "name": "Happy Cheer Wave Kaomoji",
+    "slug": "happy-cheer-wave-kaomoji",
+    "desc": "A character waving for a happy cheer."
+  },
+  {
+    "char": "( ´ ▽ ` )ﾉ",
+    "name": "Gentle Hello Wave Joy Kaomoji",
+    "slug": "gentle-hello-wave-joy-kaomoji",
+    "desc": "A gentle and happy wave to say hello."
+  },
+  {
+    "char": "(o´▽`o)",
+    "name": "Kind Smile Joy Kaomoji",
+    "slug": "kind-smile-joy-kaomoji",
+    "desc": "A gentle expression showing a kind and happy character."
+  },
+  {
+    "char": "(^.^)",
+    "name": "Subtle Joy Smile Kaomoji",
+    "slug": "subtle-joy-smile-kaomoji",
+    "desc": "A subtle and quiet expression of joy."
+  },
+  {
+    "char": "( ´ ω ` )",
+    "name": "Quiet Joy Face Kaomoji",
+    "slug": "quiet-joy-face-kaomoji",
+    "desc": "A happy face showing a character who is content and happy."
+  },
+  {
+    "char": "(*^ω^*)",
+    "name": "Sweet Delight Face Kaomoji",
+    "slug": "sweet-delight-face-kaomoji",
+    "desc": "A cute and sweet expression of joy."
+  },
+  {
+    "char": "ヽ(o^ ^o)ﾉ",
+    "name": "Happy Movement Kaomoji",
+    "slug": "happy-movement-kaomoji",
+    "desc": "A character moving in a happy way to show their joy."
+  },
+  {
+    "char": "(^▽^)",
+    "name": "Direct Joy Kaomoji",
+    "slug": "direct-joy-kaomoji",
+    "desc": "A simple and direct way to show being happy."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "Wonderful Happiness Kaomoji",
+    "slug": "wonderful-happiness-kaomoji",
+    "desc": "A face showing a sense of wonderful happiness."
+  },
+  {
+    "char": "( ´ ∀ ` )",
+    "name": "Relaxed Happiness Face Kaomoji",
+    "slug": "relaxed-happiness-face-kaomoji",
+    "desc": "A calm and relaxed expression of being happy."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`)",
+    "name": "Adorable Delight Face Kaomoji",
+    "slug": "adorable-delight-face-kaomoji",
+    "desc": "A very adorable happy face used for sweet moments."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Joyful Outburst Kaomoji",
+    "slug": "joyful-outburst-kaomoji",
+    "desc": "A character laughing in a joyful outburst."
+  },
+  {
+    "char": "(o^ ^o)",
+    "name": "Simple Cheerful Face Kaomoji-Alt",
+    "slug": "simple-cheerful-face-kaomoji-alt",
+    "desc": "An understated but cheerful expression of being happy."
+  },
+  {
+    "char": "( ´ ▽ ` )",
+    "name": "Achievement Joy Smile Kaomoji",
+    "slug": "achievement-joy-smile-kaomoji",
+    "desc": "A face showing happiness after an achievement."
+  },
+  {
+    "char": "(*^‿^*)",
+    "name": "Beaming Happiness Kaomoji",
+    "slug": "beaming-happiness-kaomoji",
+    "desc": "A face that beams with happiness and joy."
+  },
+  {
+    "char": "(^◡^ )",
+    "name": "Kind Greeting Joy Kaomoji",
+    "slug": "kind-greeting-joy-kaomoji",
+    "desc": "A welcoming and kind expression of joy."
+  },
+  {
+    "char": "(๑˃ᴗ˂)ﻭ",
+    "name": "Motivated Happiness Kaomoji",
+    "slug": "motivated-happiness-kaomoji",
+    "desc": "A happy face showing a character is motivated by happiness."
+  },
+  {
+    "char": "(^o^)／",
+    "name": "Celebration Wave Joy Kaomoji",
+    "slug": "celebration-wave-joy-kaomoji",
+    "desc": "A character waving for a joyful celebration."
+  },
+  {
+    "char": "( ´ ▽ ` )ﾉ",
+    "name": "Casual Wave Hello Joy Kaomoji",
+    "slug": "casual-wave-hello-joy-kaomoji",
+    "desc": "A relaxed and happy wave to say hello to a friend."
+  },
+  {
+    "char": "(o´▽`o)",
+    "name": "Gentle Happiness Smile Kaomoji",
+    "slug": "gentle-happiness-smile-kaomoji",
+    "desc": "A gentle expression showing a happy character."
+  },
+  {
+    "char": "(^.^)",
+    "name": "Soft Joy Smile Kaomoji",
+    "slug": "soft-joy-smile-kaomoji",
+    "desc": "A subtle and quiet expression of joy."
+  },
+  {
+    "char": "( ´ ω ` )",
+    "name": "Quietly Content Face Kaomoji",
+    "slug": "quietly-content-face-kaomoji",
+    "desc": "A happy face representing a character who is content."
+  },
+  {
+    "char": "(*^ω^*)",
+    "name": "Cute Joy Expression Kaomoji",
+    "slug": "cute-joy-expression-kaomoji",
+    "desc": "A playful and cute expression of joy."
+  },
+  {
+    "char": "ヽ(o^ ^o)ﾉ",
+    "name": "Happy Dance Kaomoji",
+    "slug": "happy-dance-kaomoji",
+    "desc": "A character dancing to show their joy."
+  },
+  {
+    "char": "(^▽^)",
+    "name": "Simple Joy Face Kaomoji-Alt",
+    "slug": "simple-joy-face-kaomoji-alt",
+    "desc": "A simple and direct way to show joy."
+  },
+  {
+    "char": "(*°▽°*)",
+    "name": "Delighted Smile Kaomoji",
+    "slug": "delighted-smile-kaomoji",
+    "desc": "A face showing a character is delighted."
+  },
+  {
+    "char": "( ´ ∀ ` )",
+    "name": "Calm Joyful Face Kaomoji",
+    "slug": "calm-joyful-face-kaomoji",
+    "desc": "A calm and joyful expression of being happy."
+  },
+  {
+    "char": "(´｡• ᵕ •｡`)",
+    "name": "Cuteness Joy Face Kaomoji",
+    "slug": "cuteness-joy-face-kaomoji",
+    "desc": "A very cute happy face used for sweet moments."
+  },
+  {
+    "char": "ヽ(>∀<)ﾉ",
+    "name": "Great Joy Laughter Kaomoji-Alt",
+    "slug": "great-joy-laughter-kaomoji-alt",
+    "desc": "A character laughing with great joy."
+  }
+]

@@ -1,0 +1,157 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdBlock from '../../components/AdBlock.astro';
+
+const jsonExample = `{
+  "success": true,
+  "count": 10,
+  "total": 210,
+  "page": 1,
+  "totalPages": 21,
+  "data": [
+    { "char": "😀", "name": "Grinning Face", "slug": "grinning-face" },
+  ],
+  "attribution": "Powered by GetEmoji.Online"
+}`;
+
+const jsExample = `async function getEmojis() {
+  const res = await fetch('https://www.getemoji.online/api/v1/emojis?limit=10');
+  const data = await res.json();
+  console.log(data.data);
+  // [{ char: '😀', name: 'Grinning Face', slug: 'grinning-face', ... }]
+}
+getEmojis();`;
+---
+<BaseLayout
+  title="Free Emoji API - REST API for Emoji Data | GetEmoji.Online"
+  description="Free emoji API for developers. Get emoji data via REST endpoints. No API key required."
+  keywords="emoji api, free emoji api, emoji rest api, emoji developer api"
+  canonicalSlug="api/"
+  hreflang="en-US"
+>
+  <section class="max-w-5xl mx-auto px-4 py-12">
+    <div class="bg-white rounded-3xl p-8 sm:p-12 shadow-xl border border-gray-100">
+      <div class="text-center mb-10">
+        <span class="text-6xl mb-4 block">🧑‍💻</span>
+        <h1 class="text-4xl sm:text-5xl font-black text-gray-900 mb-3">Free Emoji API</h1>
+        <p class="text-gray-500 max-w-xl mx-auto">Integrate thousands of emojis into your apps, websites, and projects. No API key required. Free for everyone.</p>
+        <div class="flex flex-wrap justify-center gap-3 mt-6">
+          <span class="px-4 py-2 bg-green-50 text-green-700 text-xs font-bold rounded-full border border-green-200">No API Key</span>
+          <span class="px-4 py-2 bg-green-50 text-green-700 text-xs font-bold rounded-full border border-green-200">Free &amp; Open</span>
+          <span class="px-4 py-2 bg-green-50 text-green-700 text-xs font-bold rounded-full border border-green-200">CORS Enabled</span>
+          <span class="px-4 py-2 bg-green-50 text-green-700 text-xs font-bold rounded-full border border-green-200">3,000+ Emojis</span>
+        </div>
+      </div>
+
+      <div class="space-y-10">
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            Base URL
+          </h2>
+          <pre class="bg-gray-900 text-green-400 rounded-xl p-4 overflow-x-auto text-sm font-mono">https://www.getemoji.online/api/v1</pre>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            List All Emojis
+          </h2>
+          <pre class="bg-gray-50 rounded-xl p-4 mb-4 text-sm font-mono"><span class="text-blue-600 font-bold">GET</span> /api/v1/emojis</pre>
+          <pre class="bg-gray-900 text-gray-100 rounded-xl p-4 font-mono text-sm overflow-x-auto">curl https://www.getemoji.online/api/v1/emojis
+
+curl https://www.getemoji.online/api/v1/emojis?category=smileys
+
+curl 'https://www.getemoji.online/api/v1/emojis?search=heart'
+
+curl 'https://www.getemoji.online/api/v1/emojis?page=2&amp;limit=50'</pre>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            Get Single Emoji
+          </h2>
+          <pre class="bg-gray-50 rounded-xl p-4 mb-4 text-sm font-mono"><span class="text-blue-600 font-bold">GET</span> /api/v1/emoji/<span class="text-yellow-600">&#123;slug&#125;</span></pre>
+          <pre class="bg-gray-900 text-gray-100 rounded-xl p-4 font-mono text-sm overflow-x-auto">curl https://www.getemoji.online/api/v1/emoji/grinning-face</pre>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            List Categories
+          </h2>
+          <pre class="bg-gray-50 rounded-xl p-4 mb-4 text-sm font-mono"><span class="text-blue-600 font-bold">GET</span> /api/v1/categories</pre>
+          <pre class="bg-gray-900 text-gray-100 rounded-xl p-4 font-mono text-sm overflow-x-auto">curl https://www.getemoji.online/api/v1/categories</pre>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            JavaScript Example
+          </h2>
+          <pre class="bg-gray-900 text-gray-100 rounded-xl p-4 font-mono text-sm overflow-x-auto" set:html={jsExample}></pre>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            Query Parameters
+          </h2>
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm border-collapse">
+              <thead>
+                <tr class="bg-gray-50">
+                  <th class="text-left p-3 border-b font-bold text-gray-700">Param</th>
+                  <th class="text-left p-3 border-b font-bold text-gray-700">Type</th>
+                  <th class="text-left p-3 border-b font-bold text-gray-700">Default</th>
+                  <th class="text-left p-3 border-b font-bold text-gray-700">Description</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td class="p-3 border-b font-mono text-xs">category</td><td class="p-3 border-b text-xs">string</td><td class="p-3 border-b text-xs">-</td><td class="p-3 border-b text-xs">Filter by category slug (smileys, people, food, etc.)</td></tr>
+                <tr><td class="p-3 border-b font-mono text-xs">search</td><td class="p-3 border-b text-xs">string</td><td class="p-3 border-b text-xs">-</td><td class="p-3 border-b text-xs">Search emojis by name or character</td></tr>
+                <tr><td class="p-3 border-b font-mono text-xs">limit</td><td class="p-3 border-b text-xs">number</td><td class="p-3 border-b text-xs">100</td><td class="p-3 border-b text-xs">Results per page (max 500)</td></tr>
+                <tr><td class="p-3 border-b font-mono text-xs">page</td><td class="p-3 border-b text-xs">number</td><td class="p-3 border-b text-xs">1</td><td class="p-3 border-b text-xs">Page number for pagination</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            Response Format
+          </h2>
+          <pre class="bg-gray-900 text-gray-100 rounded-xl p-4 font-mono text-sm overflow-x-auto" set:html={jsonExample}></pre>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            Embeddable Widget
+          </h2>
+          <p class="text-sm text-gray-600 mb-4">Add an emoji picker widget to your site. Includes attribution link back to GetEmoji.Online.</p>
+          <pre class="bg-gray-900 text-gray-100 rounded-xl p-4 font-mono text-sm overflow-x-auto">&lt;script src="https://www.getemoji.online/widget.js" data-theme="light" data-count="12"&gt;&lt;/script&gt;</pre>
+          <div class="mt-3 flex flex-wrap gap-3">
+            <span class="px-3 py-1 bg-gray-100 rounded-lg text-xs font-mono text-gray-500">data-theme: "light" | "dark"</span>
+            <span class="px-3 py-1 bg-gray-100 rounded-lg text-xs font-mono text-gray-500">data-count: 1-24 emojis</span>
+          </div>
+        </div>
+
+        <div class="bg-yellow-50 border border-yellow-200 rounded-xl p-6">
+          <h3 class="font-bold text-gray-900 mb-2 flex items-center gap-2">
+            <i class="fa-regular fa-lightbulb text-yellow-500"></i>
+            Attribution
+          </h3>
+          <p class="text-sm text-gray-600 leading-relaxed">
+            If you use this API in your project, please include the following attribution link: <br/>
+            <code class="bg-white px-2 py-1 rounded text-xs font-mono border">Powered by &lt;a href="https://www.getemoji.online"&gt;GetEmoji.Online&lt;/a&gt;</code>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <AdBlock />
+</BaseLayout>

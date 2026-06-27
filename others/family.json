@@ -1,0 +1,122 @@
+[
+  {
+    "char": "👪",
+    "name": "Family",
+    "slug": "standard-family-emoji",
+    "desc": "The universal icon for a nuclear family. This emoji is essential for content regarding parenting, domestic life, and core family values."
+  },
+  {
+    "char": "👨‍👩‍👧‍👦",
+    "name": "Family: Man, Woman, Girl, Boy",
+    "slug": "large-family-emoji",
+    "desc": "Represents a diverse household with two children. Ideal for SEO content focused on family vacations, school activities, and household management."
+  },
+  {
+    "char": "👨‍👩‍👧",
+    "name": "Family: Man, Woman, Girl",
+    "slug": "family-with-daughter-emoji",
+    "desc": "A specific representation of parents with a daughter. Perfect for 'girl dad' and 'mother-daughter' themed lifestyle blogs."
+  },
+  {
+    "char": "👨‍👩‍👦",
+    "name": "Family: Man, Woman, Boy",
+    "slug": "family-with-son-emoji",
+    "desc": "Depicts parents with a son. High-value for content regarding raising boys, sports families, and father-son or mother-son bonding."
+  },
+  {
+    "char": "👩‍👦",
+    "name": "Family: Woman, Boy",
+    "slug": "single-mother-son-emoji",
+    "desc": "A dedicated icon for single-parent households. Essential for inclusive SEO targeting single moms and independent parenting communities."
+  },
+  {
+    "char": "👨‍👦",
+    "name": "Family: Man, Boy",
+    "slug": "single-father-son-emoji",
+    "desc": "Represents single fathers raising a son. Used to highlight the unique journey of solo dads and fatherhood mentorship."
+  },
+  {
+    "char": "👩‍👩‍👧",
+    "name": "Family: Woman, Woman, Girl",
+    "slug": "two-mothers-family-emoji",
+    "desc": "An inclusive symbol for LGBTQ+ parenting. Perfect for diverse family representation and Pride-related family content."
+  },
+  {
+    "char": "👨‍👨‍👦",
+    "name": "Family: Man, Man, Boy",
+    "slug": "two-fathers-family-emoji",
+    "desc": "Represents a family with two dads. A key emoji for modern parenting blogs and inclusive family marketing."
+  },
+  {
+    "char": "🤰",
+    "name": "Pregnant Woman",
+    "slug": "pregnancy-announcement-emoji",
+    "desc": "The primary icon for maternity, pregnancy announcements, and expecting a new family member. High search volume for baby shower content."
+  },
+  {
+    "char": "🤱",
+    "name": "Breastfeeding",
+    "slug": "nursing-mother-emoji",
+    "desc": "Symbolizes infant care and the early stages of motherhood. Vital for SEO content on postpartum health and newborn essentials."
+  },
+  {
+    "char": "👶",
+    "name": "Baby",
+    "slug": "newborn-baby-emoji",
+    "desc": "The universal sign for a newborn or infant. Used in content regarding baby gear, nursery design, and new parent tips."
+  },
+  {
+    "char": "👵",
+    "name": "Old Woman",
+    "slug": "grandmother-emoji",
+    "desc": "Represents the matriarch or grandmother. Ideal for content about family heritage, multi-generational homes, and Grandparents' Day."
+  },
+  {
+    "char": "👴",
+    "name": "Old Man",
+    "slug": "grandfather-emoji",
+    "desc": "Represents the patriarch or grandfather. Used in SEO for retirement, elder care, and family legacy stories."
+  },
+  {
+    "char": "🏠",
+    "name": "House",
+    "slug": "family-home-emoji",
+    "desc": "The ultimate symbol for the family residence. Core keyword for real estate, home improvement, and 'staying at home' lifestyle posts."
+  },
+  {
+    "char": "🏡",
+    "name": "House with Garden",
+    "slug": "suburban-family-home-emoji",
+    "desc": "Represents suburban living and family gardening. Ideal for landscaping, yard work, and family-friendly neighborhood content."
+  },
+  {
+    "char": "👨‍👩‍👧‍👧",
+    "name": "Family: Man, Woman, Girl, Girl",
+    "slug": "family-two-daughters-emoji",
+    "desc": "Depicts a family with two daughters. Great for targeting content about sisterhood and female-heavy households."
+  },
+  {
+    "char": "👨‍👨‍👧‍👦",
+    "name": "Family: Man, Man, Girl, Boy",
+    "slug": "inclusive-large-family-emoji",
+    "desc": "A diverse representation of a larger family with two fathers, showing modern household dynamics."
+  },
+  {
+    "char": "👩‍👧‍👦",
+    "name": "Family: Woman, Girl, Boy",
+    "slug": "single-mother-two-children-emoji",
+    "desc": "Highlights the strength of single-mother households with multiple children."
+  },
+  {
+    "char": "🏘️",
+    "name": "Houses",
+    "slug": "family-neighborhood-emoji",
+    "desc": "Represents the community and neighborhood environment where families grow and interact."
+  },
+  {
+    "char": "🌳",
+    "name": "Deciduous Tree",
+    "slug": "family-tree-emoji",
+    "desc": "Commonly used as a metaphor for a 'Family Tree.' Perfect for genealogy, ancestry, and deep-rooted family history content."
+  }
+]

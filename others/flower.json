@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🌸",
+    "name": "Cherry Blossom Flower",
+    "slug": "cherry-blossom-flower-emoji",
+    "desc": "The iconic pink bloom representing spring and renewal. High SEO value for Japanese travel, spring fashion, and soft aesthetic content."
+  },
+  {
+    "char": "🌻",
+    "name": "Sun-Facing Flower",
+    "slug": "sun-facing-sunflower-emoji",
+    "desc": "A bright yellow symbol of happiness and summer. Perfect for outdoor event planning, farming, and positive mental health posts."
+  },
+  {
+    "char": "🌹",
+    "name": "Red Rose Flower",
+    "slug": "red-rose-flower-emoji",
+    "desc": "The universal symbol for love and romance. Essential for Valentine's Day marketing, floristry services, and romantic gift guides."
+  },
+  {
+    "char": "🌷",
+    "name": "Spring Tulip Flower",
+    "slug": "spring-tulip-flower-emoji",
+    "desc": "Represents the arrival of spring and elegance. Ideal for Mother’s Day, garden landscaping, and seasonal home decor."
+  },
+  {
+    "char": "🌼",
+    "name": "Yellow Blossom Flower",
+    "slug": "yellow-blossom-flower-emoji",
+    "desc": "A simple, cheerful bloom used for general nature and beauty. Great for organic skincare branding and craft projects."
+  },
+  {
+    "char": "🪻",
+    "name": "Purple Hyacinth Flower",
+    "slug": "purple-hyacinth-flower-emoji",
+    "desc": "Represents deep purple hues in nature. Perfect for flower arrangement tutorials and garden-themed social media posts."
+  },
+  {
+    "char": "🪷",
+    "name": "Lotus Water Flower",
+    "slug": "lotus-water-flower-emoji",
+    "desc": "A symbol of purity and spiritual awakening. High value for yoga studios, meditation apps, and wellness blogs."
+  },
+  {
+    "char": "🌺",
+    "name": "Tropical Hibiscus Flower",
+    "slug": "tropical-hibiscus-flower-emoji",
+    "desc": "Associated with exotic travel and island life. Ideal for resort wear, summer cocktail menus, and vacation blogs."
+  },
+  {
+    "char": "🥀",
+    "name": "Wilted Dead Flower",
+    "slug": "wilted-dead-flower-emoji",
+    "desc": "Represents fading beauty, heartbreak, or end of seasons. Used for poetic content, somber moods, and gothic aesthetics."
+  },
+  {
+    "char": "💐",
+    "name": "Gift Flower Bouquet",
+    "slug": "gift-flower-bouquet-emoji",
+    "desc": "The icon for flower delivery and special occasions. Targeted at wedding planners, anniversaries, and online flower shops."
+  },
+  {
+    "char": "💮",
+    "name": "White Stamp Flower",
+    "slug": "white-stamp-flower-emoji",
+    "desc": "A stylized flower used in Japanese school stamps for 'well done.' Great for educational rewards and stationary design."
+  },
+  {
+    "char": "🏵️",
+    "name": "Rosette Award Flower",
+    "slug": "rosette-award-flower-emoji",
+    "desc": "A decorative flower symbol used for excellence and achievements. Used in competition branding and formal celebrations."
+  }
+]

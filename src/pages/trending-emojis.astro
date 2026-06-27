@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EmojiGrid from '../components/EmojiGrid.astro';
+import AdBlock from '../components/AdBlock.astro';
+import { loadData } from '../data';
+
+const data = loadData();
+const popularSlugs = [
+  'grinning-face', 'face-with-tears-of-joy', 'red-heart', 'rolling-on-the-floor-laughing',
+  'smiling-face-with-hearts', 'fire', 'folded-hands', 'sparkles',
+  'smiling-face-with-smiling-eyes', 'face-blowing-a-kiss', 'crying-face', 'winking-face',
+  'clapping-hands', 'ok-hand', 'thumbs-up', 'party-popper',
+  'star', 'sun', 'skull', 'rainbow',
+  'cat-face', 'dog-face', 'heart-eyes', 'pleading-face',
+  'face-with-tears-of-joy', 'smiling-face-with-heart-eyes', 'rolling-eyes', 'zany-face',
+];
+
+const trending = data.allEmojis.filter(e => popularSlugs.includes(e.slug)).slice(0, 48);
+
+const schema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Trending Emojis",
+  "description": "Browse the most popular and trending emojis to copy and paste. Updated list of trending emojis.",
+  "url": "https://www.getemoji.online/trending-emojis/",
+});
+---
+<BaseLayout
+  title="Trending Emojis - Most Popular Emojis Right Now | GetEmoji.Online"
+  description="Browse the most popular and trending emojis right now. Copy and paste trending emojis like 😂❤️🔥✨. Free trending emoji collection updated regularly."
+  keywords="trending emojis, popular emojis, most used emojis, trending emoji list, viral emojis, top emojis 2026, emoji trends"
+  canonicalSlug="trending-emojis/"
+  hreflang="en-US"
+  schema={schema}
+>
+  <div class="max-w-7xl mx-auto px-4 py-10">
+    <div class="text-center mb-10">
+      <span class="text-6xl mb-4 block">📈</span>
+      <h1 class="text-4xl sm:text-5xl font-black text-gray-900 mb-3">Trending Emojis</h1>
+      <p class="text-gray-500 max-w-2xl mx-auto">The most popular and trending emojis right now. Click any emoji to copy it instantly.</p>
+    </div>
+
+    <div class="bg-white rounded-3xl p-8 shadow-xl border border-gray-100 mb-8">
+      <h2 class="text-xl font-bold text-gray-900 mb-6 flex items-center gap-2">
+        <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+        Top Trending Emojis
+      </h2>
+      <EmojiGrid emojis={trending} />
+    </div>
+
+    <div class="bg-yellow-50 rounded-3xl p-8 border border-yellow-200">
+      <h2 class="text-xl font-bold text-gray-900 mb-4">Why These Emojis Are Trending</h2>
+      <div class="grid sm:grid-cols-2 gap-4 text-sm text-gray-600">
+        <div class="bg-white rounded-xl p-4">
+          <span class="text-2xl block mb-1">😂</span>
+          <span class="font-bold text-gray-900 text-xs block mb-1">Face with Tears of Joy</span>
+          <span>The most used emoji worldwide. Used to express laughter and amusement.</span>
+        </div>
+        <div class="bg-white rounded-xl p-4">
+          <span class="text-2xl block mb-1">❤️</span>
+          <span class="font-bold text-gray-900 text-xs block mb-1">Red Heart</span>
+          <span>Classic symbol of love and affection. Universally recognized.</span>
+        </div>
+        <div class="bg-white rounded-xl p-4">
+          <span class="text-2xl block mb-1">🔥</span>
+          <span class="font-bold text-gray-900 text-xs block mb-1">Fire</span>
+          <span>Used to mean something is lit, exciting, or exceptionally good.</span>
+        </div>
+        <div class="bg-white rounded-xl p-4">
+          <span class="text-2xl block mb-1">✨</span>
+          <span class="font-bold text-gray-900 text-xs block mb-1">Sparkles</span>
+          <span>Represents magic, beauty, cleanliness, or excellence.</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <AdBlock />
+</BaseLayout>

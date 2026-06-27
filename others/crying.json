@@ -1,0 +1,74 @@
+[
+  {
+    "char": "😢",
+    "name": "Crying Sad Face",
+    "slug": "crying-sad-face-emoji",
+    "desc": "A classic symbol for mild sorrow or disappointment. Perfect for expressing empathy, minor setbacks, or a single tear of sadness."
+  },
+  {
+    "char": "😭",
+    "name": "Loudly Crying Face",
+    "slug": "loudly-crying-sobbing-emoji",
+    "desc": "Represents intense sobbing or overwhelming emotion. High SEO value for dramatic reactions, heartbreaking news, or even tears of extreme joy."
+  },
+  {
+    "char": "😿",
+    "name": "Crying Cat Face",
+    "slug": "crying-cat-sadness-emoji",
+    "desc": "The feline version of a crying face. Ideal for pet-related sadness, lost pets, or adding a soft, cute touch to a sad post."
+  },
+  {
+    "char": "💧",
+    "name": "Crying Single Droplet",
+    "slug": "crying-tear-droplet-emoji",
+    "desc": "A versatile icon that can represent a single tear. Used in minimalist designs to convey sadness, sweat, or liquid."
+  },
+  {
+    "char": "🥹",
+    "name": "Crying Face Holding Back Tears",
+    "slug": "crying-holding-back-tears-emoji",
+    "desc": "Captures a moment of being touched or moved. Perfect for 'happy crying,' gratitude, or feeling overwhelmed by kindness."
+  },
+  {
+    "char": "😥",
+    "name": "Crying Disappointed Face",
+    "slug": "crying-disappointed-relieved-emoji",
+    "desc": "Conveys a mix of stress and sadness. Often used when a scary situation is over but has left someone feeling emotionally drained."
+  },
+  {
+    "char": "😰",
+    "name": "Crying Anxious Face",
+    "slug": "crying-anxious-sweat-emoji",
+    "desc": "Represents being scared to the point of tears. Ideal for high-pressure situations, deadlines, or fearful crying."
+  },
+  {
+    "char": "💔",
+    "name": "Crying Broken Heart",
+    "slug": "crying-broken-heart-emoji",
+    "desc": "The ultimate symbol for heartbreak and grief. Essential for content about breakups, loss, and deep emotional pain."
+  },
+  {
+    "char": "🥀",
+    "name": "Crying Wilted Flower",
+    "slug": "crying-wilted-flower-sorrow-emoji",
+    "desc": "A metaphor for fading beauty and sadness. Used in artistic or poetic contexts to represent mourning or a 'crying' soul."
+  },
+  {
+    "char": "🌧️",
+    "name": "Crying Rain Cloud",
+    "slug": "crying-rain-cloud-mood-emoji",
+    "desc": "Often used to represent a 'gloomy' or crying mood. Perfect for weather-related sadness or metaphorical 'rainy days' in life."
+  },
+  {
+    "char": "🤧",
+    "name": "Crying Sneezing Face",
+    "slug": "crying-cold-illness-emoji",
+    "desc": "Can represent the sniffling that comes with crying. Great for posts about being sick or the physical aftermath of a good cry."
+  },
+  {
+    "char": "🫂",
+    "name": "Crying Comforting Hug",
+    "slug": "crying-support-hug-emoji",
+    "desc": "Represents giving support to someone who is crying. High value for mental health awareness, empathy, and friendship content."
+  }
+]

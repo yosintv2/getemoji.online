@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🐙",
+    "name": "Takoyaki Octopus Balls Japan",
+    "slug": "takoyaki-octopus-balls-street-food-japan",
+    "desc": "Ball-shaped snacks made of a wheat flour-based batter and cooked in a special molded pan. A soul food staple of Osaka, Japan."
+  },
+  {
+    "char": "🍢",
+    "name": "Oden Simmered Skewers Japan",
+    "slug": "oden-stew-street-food-japan",
+    "desc": "A one-pot winter dish consisting of several ingredients such as boiled eggs, daikon, and processed fishcakes stewed in a light, soy-flavored dashi broth in Japan."
+  },
+  {
+    "char": "🐟",
+    "name": "Taiyaki Fish Cake Japan",
+    "slug": "taiyaki-fish-cake-street-food-japan",
+    "desc": "A classic street snack shaped like a sea bream. It is typically filled with sweet red bean paste, custard, or chocolate and served warm in Japan."
+  },
+  {
+    "char": "🦑",
+    "name": "Ikanyaki Grilled Squid Japan",
+    "slug": "ikanyaki-grilled-squid-street-food-japan",
+    "desc": "Whole or sliced squid grilled over charcoal and brushed with a sweet and savory soy sauce glaze. A popular festival (matsuri) food in Japan."
+  },
+  {
+    "char": "🍡",
+    "name": "Mitarashi Dango Glazed Dumplings Japan",
+    "slug": "mitarashi-dango-street-food-japan",
+    "desc": "Skewered rice flour dumplings charred over a fire and dipped in a sweet soy sauce glaze. A traditional treat sold at shrines and temples in Japan."
+  },
+  {
+    "char": "🍜",
+    "name": "Yakisoba Stir-Fried Noodles Japan",
+    "slug": "yakisoba-stir-fried-noodles-street-food-japan",
+    "desc": "Wheat noodles stir-fried with pork, vegetables, and a thick, sweet-savory sauce, topped with ginger and seaweed. A festival favorite in Japan."
+  },
+  {
+    "char": "🍗",
+    "name": "Karaage Fried Chicken Japan",
+    "slug": "karaage-fried-chicken-street-food-japan",
+    "desc": "Bite-sized chicken thigh marinated in ginger, soy sauce, and garlic, then deep-fried to a perfect crunch. A top-tier snack found at stalls across Japan."
+  },
+  {
+    "char": "🌽",
+    "name": "Yaki-Tomokoroshi Grilled Corn Japan",
+    "slug": "grilled-corn-street-food-japan",
+    "desc": "Fresh corn on the cob grilled and basted with soy sauce and butter. The aroma of this snack is iconic to summer festivals in Japan."
+  },
+  {
+    "char": "🍌",
+    "name": "Choco Banana Dessert Japan",
+    "slug": "choco-banana-street-food-japan",
+    "desc": "A frozen banana dipped in chocolate and covered in colorful sprinkles. A visual and sweet delight for children at summer fairs in Japan."
+  },
+  {
+    "char": "🥔",
+    "name": "Jaga-Butter Steamed Potato Japan",
+    "slug": "jaga-butter-potato-street-food-japan",
+    "desc": "A large, fluffy steamed potato served with a generous slab of melting butter. Simple, hot, and highly popular in the colder regions of Japan."
+  },
+  {
+    "char": "🥙",
+    "name": "Okonomiyaki Savory Pancake Japan",
+    "slug": "okonomiyaki-savory-pancake-street-food-japan",
+    "desc": "A 'Japanese pizza' or savory pancake containing a variety of ingredients, grilled on a teppan and topped with sauce and mayo in Japan."
+  },
+  {
+    "char": "🍧",
+    "name": "Shaved Ice Kakigori Japan",
+    "slug": "kakigori-shaved-ice-street-food-japan",
+    "desc": "A summertime classic consisting of fluffy shaved ice flavored with colorful syrups. An essential way to cool down during the humid summer months in Japan."
+  }
+]

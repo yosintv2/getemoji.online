@@ -1,0 +1,28 @@
+---
+export interface Props {
+  items: { q: string; a: string }[];
+  title?: string;
+}
+
+const { items, title = 'Frequently Asked Questions' } = Astro.props;
+---
+
+<div class="bg-white rounded-2xl border border-gray-100 p-6 sm:p-8 shadow-sm">
+  <h2 class="text-xl font-bold text-gray-900 mb-6 flex items-center gap-2">
+    <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+    {title}
+  </h2>
+  <div class="space-y-4">
+    {items.map((faq, i) => (
+      <details class="group border border-gray-100 rounded-xl overflow-hidden">
+        <summary class="flex items-center justify-between p-4 cursor-pointer text-sm font-semibold text-gray-700 hover:bg-gray-50 transition-colors list-none">
+          <span>{faq.q}</span>
+          <i class="fa-solid fa-chevron-down text-gray-400 text-xs group-open:rotate-180 transition-transform"></i>
+        </summary>
+        <div class="px-4 pb-4 pt-0 text-sm text-gray-500 leading-relaxed border-t border-gray-50">
+          {faq.a}
+        </div>
+      </details>
+    ))}
+  </div>
+</div>

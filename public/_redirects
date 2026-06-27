@@ -1,0 +1,2 @@
+# Cloudflare Pages redirects
+/emoji/*  /:splat  301

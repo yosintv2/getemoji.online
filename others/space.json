@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🚀",
+    "name": "Rocket Ship Launch Space",
+    "slug": "rocket-ship-launch-mission-space",
+    "desc": "The ultimate symbol for space exploration and startups 'taking off.' Perfect for aerospace news, mission launches, and rapid growth metaphors."
+  },
+  {
+    "char": "👨‍🚀",
+    "name": "Astronaut Explorer Space",
+    "slug": "astronaut-cosmonaut-explorer-space",
+    "desc": "Represents human spaceflight and discovery. High SEO value for NASA updates, science education, and career-in-science content."
+  },
+  {
+    "char": "🪐",
+    "name": "Ringed Planet Saturn Space",
+    "slug": "ringed-planet-saturn-cosmos-space",
+    "desc": "The most recognizable icon for deep space and planetary science. Ideal for astronomy blogs, astrology, and sci-fi aesthetics."
+  },
+  {
+    "char": "🛸",
+    "name": "Flying Saucer UFO Space",
+    "slug": "ufo-alien-flying-saucer-space",
+    "desc": "Represents extraterrestrial life and unidentified phenomena. Great for science fiction fans, pop culture, and mystery-themed content."
+  },
+  {
+    "char": "☄️",
+    "name": "Comet Falling Star Space",
+    "slug": "comet-asteroid-meteor-space",
+    "desc": "Symbolizes cosmic events and celestial movement. Used for astronomical sightings, 'wishing on a star,' and impact theory topics."
+  },
+  {
+    "char": "🔭",
+    "name": "Telescope Stargazing Space",
+    "slug": "telescope-astronomy-stargazing-space",
+    "desc": "The primary tool for observing the universe. Targeted at amateur astronomers, observatory news, and distant galaxy research."
+  },
+  {
+    "char": "🌌",
+    "name": "Milky Way Galaxy Space",
+    "slug": "milky-way-galaxy-nebula-space",
+    "desc": "Captures the vastness of the night sky. Essential for night photography, philosophical posts about the universe, and cosmic travel."
+  },
+  {
+    "char": "🛰️",
+    "name": "Orbital Satellite Technology Space",
+    "slug": "orbital-satellite-comms-space",
+    "desc": "Represents man-made objects in orbit. Ideal for global connectivity discussions, GPS technology, and Earth observation data."
+  },
+  {
+    "char": "🌕",
+    "name": "Full Moon Lunar Space",
+    "slug": "full-moon-lunar-cycle-space",
+    "desc": "The primary symbol for the Earth's natural satellite. Used for moon phase updates, night-time activities, and lunar landing history."
+  },
+  {
+    "char": "👾",
+    "name": "Alien Pixel Monster Space",
+    "slug": "alien-pixel-retro-game-space",
+    "desc": "A retro-style representation of life in the cosmos. Perfect for gaming content, 8-bit art, and playful extraterrestrial topics."
+  },
+  {
+    "char": "☀️",
+    "name": "Sun Solar Star Space",
+    "slug": "sun-solar-star-energy-space",
+    "desc": "The center of our solar system. Used for solar weather updates, heliophysics, and the fundamental source of light in our cosmos."
+  },
+  {
+    "char": "🌑",
+    "name": "New Moon Eclipse Space",
+    "slug": "new-moon-solar-eclipse-space",
+    "desc": "Represents the dark side of the moon or an eclipse event. High value for celestial event calendars and astronomical cycles."
+  }
+]

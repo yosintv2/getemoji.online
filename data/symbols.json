@@ -1,0 +1,1346 @@
+[
+  {
+    "char": "🏧",
+    "name": "ATM Sign",
+    "slug": "atm-sign",
+    "desc": "ATM Sign emoji - a ATM sign symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🚮",
+    "name": "Litter In Bin Sign",
+    "slug": "litter-in-bin-sign",
+    "desc": "Litter In Bin Sign emoji - a litter in bin sign symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🚰",
+    "name": "Potable Water",
+    "slug": "potable-water",
+    "desc": "Potable Water emoji - a potable water symbol used for various symbolic meanings."
+  },
+  {
+    "char": "♿",
+    "name": "Wheelchair Symbol",
+    "slug": "wheelchair-symbol",
+    "desc": "Wheelchair Symbol emoji - a wheelchair symbol symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🚹",
+    "name": "Men’s Room",
+    "slug": "men-s-room",
+    "desc": "Men’s Room emoji - a men’s room symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🚺",
+    "name": "Women’s Room",
+    "slug": "women-s-room",
+    "desc": "Women’s Room emoji - a women’s room symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🚻",
+    "name": "Restroom",
+    "slug": "restroom",
+    "desc": "Restroom emoji - a restroom symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🚼",
+    "name": "Baby Symbol",
+    "slug": "baby-symbol",
+    "desc": "Baby Symbol emoji - a baby symbol symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🚾",
+    "name": "Water Closet",
+    "slug": "water-closet",
+    "desc": "Water Closet emoji - a water closet symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🛂",
+    "name": "Passport Control",
+    "slug": "passport-control",
+    "desc": "Passport Control emoji - a passport control symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🛃",
+    "name": "Passport Control",
+    "slug": "customs",
+    "desc": "Sign for border and passport checks."
+  },
+  {
+    "char": "🛄",
+    "name": "Baggage Claim",
+    "slug": "baggage-claim",
+    "desc": "Baggage Claim emoji - a baggage claim symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🛅",
+    "name": "Left Luggage",
+    "slug": "left-luggage",
+    "desc": "Left Luggage emoji - a left luggage symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⚠️",
+    "name": "Warning",
+    "slug": "warning",
+    "desc": "An exclamation mark in a yellow triangle, used for alerts."
+  },
+  {
+    "char": "🚸",
+    "name": "Children Crossing",
+    "slug": "children-crossing",
+    "desc": "A yellow diamond sign showing children walking; used for school zones."
+  },
+  {
+    "char": "⛔",
+    "name": "No Entry",
+    "slug": "no-entry",
+    "desc": "A red circle with a white dash, used to forbid entrance."
+  },
+  {
+    "char": "🚫",
+    "name": "Prohibited",
+    "slug": "prohibited",
+    "desc": "A red circle with a diagonal slash, used to ban specific actions."
+  },
+  {
+    "char": "🚳",
+    "name": "No Bicycles",
+    "slug": "no-bicycles",
+    "desc": "Indicates that bicycles are not permitted in the area."
+  },
+  {
+    "char": "🚭",
+    "name": "No Smoking",
+    "slug": "no-smoking",
+    "desc": "Indicates that tobacco use is prohibited."
+  },
+  {
+    "char": "🚯",
+    "name": "No Littering",
+    "slug": "no-littering",
+    "desc": "A symbol reminding people not to drop trash."
+  },
+  {
+    "char": "🚱",
+    "name": "Non-Potable Water",
+    "slug": "non-potable-water",
+    "desc": "A sign indicating that the water is not safe for drinking."
+  },
+  {
+    "char": "🚷",
+    "name": "No Pedestrians",
+    "slug": "no-pedestrians",
+    "desc": "Indicates that people are not allowed to walk here."
+  },
+  {
+    "char": "📵",
+    "name": "No Mobile Phones",
+    "slug": "no-mobile-phones",
+    "desc": "No Mobile Phones emoji - a no mobile phones symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔞",
+    "name": "No One Under Eighteen",
+    "slug": "no-one-under-eighteen",
+    "desc": "No One Under Eighteen emoji - a no one under eighteen symbol used for various symbolic meanings."
+  },
+  {
+    "char": "☢️",
+    "name": "Radioactive",
+    "slug": "radioactive",
+    "desc": "A warning sign for ionizing radiation."
+  },
+  {
+    "char": "☣️",
+    "name": "Biohazard",
+    "slug": "biohazard",
+    "desc": "A warning sign for biological substances that pose a threat to health."
+  },
+  {
+    "char": "⬆️",
+    "name": "Up Arrow",
+    "slug": "up-arrow",
+    "desc": "A cardinal direction arrow pointing north."
+  },
+  {
+    "char": "↗️",
+    "name": "Up-Right Arrow",
+    "slug": "up-right-arrow",
+    "desc": "A directional arrow pointing northeast."
+  },
+  {
+    "char": "➡️",
+    "name": "Right Arrow",
+    "slug": "right-arrow",
+    "desc": "A cardinal direction arrow pointing east."
+  },
+  {
+    "char": "↘️",
+    "name": "Down-Right Arrow",
+    "slug": "down-right-arrow",
+    "desc": "A directional arrow pointing southeast."
+  },
+  {
+    "char": "⬇️",
+    "name": "Down Arrow",
+    "slug": "down-arrow",
+    "desc": "A cardinal direction arrow pointing south."
+  },
+  {
+    "char": "↙️",
+    "name": "Down-Left Arrow",
+    "slug": "down-left-arrow",
+    "desc": "A directional arrow pointing southwest."
+  },
+  {
+    "char": "⬅️",
+    "name": "Left Arrow",
+    "slug": "left-arrow",
+    "desc": "A cardinal direction arrow pointing west."
+  },
+  {
+    "char": "↖️",
+    "name": "Up-Left Arrow",
+    "slug": "up-left-arrow",
+    "desc": "A directional arrow pointing northwest."
+  },
+  {
+    "char": "↕️",
+    "name": "Up-Down Arrow",
+    "slug": "up-down-arrow",
+    "desc": "A vertical arrow used for scrolling or dual directions."
+  },
+  {
+    "char": "↔️",
+    "name": "Left-Right Arrow",
+    "slug": "left-right-arrow",
+    "desc": "A horizontal arrow used for width or movement."
+  },
+  {
+    "char": "↩️",
+    "name": "Right Arrow Curving Left",
+    "slug": "right-arrow-curving-left",
+    "desc": "Right Arrow Curving Left emoji - a right arrow curving left symbol used for various symbolic meanings."
+  },
+  {
+    "char": "↪️",
+    "name": "Left Arrow Curving Right",
+    "slug": "left-arrow-curving-right",
+    "desc": "Left Arrow Curving Right emoji - a left arrow curving right symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⤴️",
+    "name": "Right Arrow Curving Up",
+    "slug": "right-arrow-curving-up",
+    "desc": "Right Arrow Curving Up emoji - a right arrow curving up symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⤵️",
+    "name": "Right Arrow Curving Down",
+    "slug": "right-arrow-curving-down",
+    "desc": "Right Arrow Curving Down emoji - a right arrow curving down symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔃",
+    "name": "Clockwise Vertical Arrows",
+    "slug": "clockwise-vertical-arrows",
+    "desc": "Clockwise Vertical Arrows emoji - a clockwise vertical arrows symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔄",
+    "name": "Counterclockwise Arrows Button",
+    "slug": "counterclockwise-arrows-button",
+    "desc": "Counterclockwise Arrows Button emoji - a counterclockwise arrows button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔙",
+    "name": "Right Arrow Curving Left",
+    "slug": "back-arrow",
+    "desc": "Used as a return or back button."
+  },
+  {
+    "char": "🔚",
+    "name": "END Arrow",
+    "slug": "end-arrow",
+    "desc": "END Arrow emoji - a END arrow symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔛",
+    "name": "ON! Arrow",
+    "slug": "on-arrow",
+    "desc": "ON! Arrow emoji - a ON! arrow symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔜",
+    "name": "SOON Arrow",
+    "slug": "soon-arrow",
+    "desc": "SOON Arrow emoji - a SOON arrow symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔝",
+    "name": "TOP Arrow",
+    "slug": "top-arrow",
+    "desc": "TOP Arrow emoji - a TOP arrow symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🛐",
+    "name": "Place Of Worship",
+    "slug": "place-of-worship",
+    "desc": "Place Of Worship emoji - a place of worship symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⚛️",
+    "name": "Atom Symbol",
+    "slug": "atom-symbol",
+    "desc": "A symbol of an atom, representing science, physics, or nuclear energy."
+  },
+  {
+    "char": "🕉️",
+    "name": "Om",
+    "slug": "om",
+    "desc": "Om emoji - a om symbol used for various symbolic meanings."
+  },
+  {
+    "char": "✡️",
+    "name": "Star of David",
+    "slug": "star-of-david",
+    "desc": "A hexagram symbol representing Judaism and Jewish identity."
+  },
+  {
+    "char": "☸️",
+    "name": "Wheel Of Dharma",
+    "slug": "wheel-of-dharma",
+    "desc": "Wheel Of Dharma emoji - a wheel of dharma symbol used for various symbolic meanings."
+  },
+  {
+    "char": "☯️",
+    "name": "Yin Yang",
+    "slug": "yin-yang",
+    "desc": "A symbol of balance between opposing forces in Chinese philosophy."
+  },
+  {
+    "char": "✝️",
+    "name": "Latin Cross",
+    "slug": "latin-cross",
+    "desc": "The primary symbol of Christianity, representing the cross of Christ."
+  },
+  {
+    "char": "☦️",
+    "name": "Orthodox Cross",
+    "slug": "orthodox-cross",
+    "desc": "A cross with three horizontal crossbeams used in Eastern Orthodoxy."
+  },
+  {
+    "char": "☪️",
+    "name": "Star And Crescent",
+    "slug": "star-and-crescent",
+    "desc": "Star And Crescent emoji - a star and crescent symbol used for various symbolic meanings."
+  },
+  {
+    "char": "☮️",
+    "name": "Peace Symbol",
+    "slug": "peace-symbol",
+    "desc": "A circle with three lines, globally recognized for peace and anti-war."
+  },
+  {
+    "char": "🕎",
+    "name": "Menorah",
+    "slug": "menorah",
+    "desc": "A nine-branched candelabrum used during Hanukkah."
+  },
+  {
+    "char": "🔯",
+    "name": "Dotted Six-pointed Star",
+    "slug": "dotted-six-pointed-star",
+    "desc": "Dotted Six-pointed Star emoji - a dotted six-pointed star symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🪯",
+    "name": "Khanda",
+    "slug": "khanda",
+    "desc": "Khanda emoji - a khanda symbol used for various symbolic meanings."
+  },
+  {
+    "char": "♈",
+    "name": "Aries",
+    "slug": "aries",
+    "desc": "The first zodiac sign, representing the Ram (March 21 – April 19)."
+  },
+  {
+    "char": "♉",
+    "name": "Taurus",
+    "slug": "taurus",
+    "desc": "The second zodiac sign, representing the Bull (April 20 – May 20)."
+  },
+  {
+    "char": "♊",
+    "name": "Gemini",
+    "slug": "gemini",
+    "desc": "The third zodiac sign, representing the Twins (May 21 – June 20)."
+  },
+  {
+    "char": "♋",
+    "name": "Cancer",
+    "slug": "cancer",
+    "desc": "The fourth zodiac sign, representing the Crab (June 21 – July 22)."
+  },
+  {
+    "char": "♌",
+    "name": "Leo",
+    "slug": "leo",
+    "desc": "The fifth zodiac sign, representing the Lion (July 23 – August 22)."
+  },
+  {
+    "char": "♍",
+    "name": "Virgo",
+    "slug": "virgo",
+    "desc": "The sixth zodiac sign, representing the Maiden (August 23 – Sept 22)."
+  },
+  {
+    "char": "♎",
+    "name": "Libra",
+    "slug": "libra",
+    "desc": "The seventh zodiac sign, representing the Scales (Sept 23 – Oct 22)."
+  },
+  {
+    "char": "♏",
+    "name": "Scorpio",
+    "slug": "scorpio",
+    "desc": "The eighth zodiac sign, representing the Scorpion (Oct 23 – Nov 21)."
+  },
+  {
+    "char": "♐",
+    "name": "Sagittarius",
+    "slug": "sagittarius",
+    "desc": "The ninth zodiac sign, representing the Archer (Nov 22 – Dec 21)."
+  },
+  {
+    "char": "♑",
+    "name": "Capricorn",
+    "slug": "capricorn",
+    "desc": "The tenth zodiac sign, representing the Sea-Goat (Dec 22 – Jan 19)."
+  },
+  {
+    "char": "♒",
+    "name": "Aquarius",
+    "slug": "aquarius",
+    "desc": "The eleventh zodiac sign, representing the Water Bearer (Jan 20 – Feb 18)."
+  },
+  {
+    "char": "♓",
+    "name": "Pisces",
+    "slug": "pisces",
+    "desc": "The twelfth zodiac sign, representing the Fish (Feb 19 – March 20)."
+  },
+  {
+    "char": "⛎",
+    "name": "Ophiuchus",
+    "slug": "ophiuchus",
+    "desc": "The 13th zodiac sign, represented by the Serpent Bearer."
+  },
+  {
+    "char": "🔀",
+    "name": "Shuffle Tracks Button",
+    "slug": "shuffle-tracks-button",
+    "desc": "Shuffle Tracks Button emoji - a shuffle tracks button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔁",
+    "name": "Repeat Button",
+    "slug": "repeat-button",
+    "desc": "Repeat Button emoji - a repeat button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔂",
+    "name": "Repeat Single Button",
+    "slug": "repeat-single-button",
+    "desc": "Repeat Single Button emoji - a repeat single button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "▶️",
+    "name": "Play Button",
+    "slug": "play-button",
+    "desc": "Play Button emoji - a play button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏩",
+    "name": "Fast-forward Button",
+    "slug": "fast-forward-button",
+    "desc": "Fast-forward Button emoji - a fast-forward button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏭️",
+    "name": "Next Track Button",
+    "slug": "next-track-button",
+    "desc": "Next Track Button emoji - a next track button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏯️",
+    "name": "Play Or Pause Button",
+    "slug": "play-or-pause-button",
+    "desc": "Play Or Pause Button emoji - a play or pause button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "◀️",
+    "name": "Reverse Button",
+    "slug": "reverse-button",
+    "desc": "Reverse Button emoji - a reverse button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏪",
+    "name": "Fast Reverse Button",
+    "slug": "fast-reverse-button",
+    "desc": "Fast Reverse Button emoji - a fast reverse button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏮️",
+    "name": "Last Track Button",
+    "slug": "last-track-button",
+    "desc": "Last Track Button emoji - a last track button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔼",
+    "name": "Upwards Button",
+    "slug": "upwards-button",
+    "desc": "Upwards Button emoji - a upwards button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏫",
+    "name": "Fast Up Button",
+    "slug": "fast-up-button",
+    "desc": "Fast Up Button emoji - a fast up button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔽",
+    "name": "Downwards Button",
+    "slug": "downwards-button",
+    "desc": "Downwards Button emoji - a downwards button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏬",
+    "name": "Fast Down Button",
+    "slug": "fast-down-button",
+    "desc": "Fast Down Button emoji - a fast down button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏸️",
+    "name": "Pause Button",
+    "slug": "pause-button",
+    "desc": "Pause Button emoji - a pause button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏹️",
+    "name": "Stop Button",
+    "slug": "stop-button",
+    "desc": "Stop Button emoji - a stop button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏺️",
+    "name": "Record Button",
+    "slug": "record-button",
+    "desc": "Record Button emoji - a record button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⏏️",
+    "name": "Eject Button",
+    "slug": "eject-button",
+    "desc": "Eject Button emoji - a eject button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🎦",
+    "name": "Cinema",
+    "slug": "cinema",
+    "desc": "Cinema emoji - a cinema symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔅",
+    "name": "Dim Button",
+    "slug": "dim-button",
+    "desc": "Dim Button emoji - a dim button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔆",
+    "name": "Bright Button",
+    "slug": "bright-button",
+    "desc": "Bright Button emoji - a bright button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "📶",
+    "name": "Antenna Bars",
+    "slug": "antenna-bars",
+    "desc": "Antenna Bars emoji - a antenna bars symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🛜",
+    "name": "Wireless",
+    "slug": "wireless",
+    "desc": "Wireless emoji - a wireless symbol used for various symbolic meanings."
+  },
+  {
+    "char": "📳",
+    "name": "Vibration Mode",
+    "slug": "vibration-mode",
+    "desc": "Vibration Mode emoji - a vibration mode symbol used for various symbolic meanings."
+  },
+  {
+    "char": "📴",
+    "name": "Mobile Phone Off",
+    "slug": "mobile-phone-off",
+    "desc": "Mobile Phone Off emoji - a mobile phone off symbol used for various symbolic meanings."
+  },
+  {
+    "char": "♀️",
+    "name": "Female Sign",
+    "slug": "female-sign",
+    "desc": "Female Sign emoji - a female sign symbol used for various symbolic meanings."
+  },
+  {
+    "char": "♂️",
+    "name": "Male Sign",
+    "slug": "male-sign",
+    "desc": "Male Sign emoji - a male sign symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⚧️",
+    "name": "Transgender Symbol",
+    "slug": "transgender-symbol",
+    "desc": "Transgender Symbol emoji - a transgender symbol symbol used for various symbolic meanings."
+  },
+  {
+    "char": "✖️",
+    "name": "Multiply",
+    "slug": "multiply",
+    "desc": "Multiply emoji - a multiply symbol used for various symbolic meanings."
+  },
+  {
+    "char": "➕",
+    "name": "Plus",
+    "slug": "plus",
+    "desc": "Plus emoji - a plus symbol used for various symbolic meanings."
+  },
+  {
+    "char": "➖",
+    "name": "Minus",
+    "slug": "minus",
+    "desc": "Minus emoji - a minus symbol used for various symbolic meanings."
+  },
+  {
+    "char": "➗",
+    "name": "Divide",
+    "slug": "divide",
+    "desc": "Divide emoji - a divide symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟰",
+    "name": "Heavy Equals Sign",
+    "slug": "heavy-equals-sign",
+    "desc": "Heavy Equals Sign emoji - a heavy equals sign symbol used for various symbolic meanings."
+  },
+  {
+    "char": "♾️",
+    "name": "Infinity",
+    "slug": "infinity",
+    "desc": "A loop representing a never-ending quantity or cycle."
+  },
+  {
+    "char": "‼️",
+    "name": "Double Exclamation Mark",
+    "slug": "double-exclamation-mark",
+    "desc": "Double Exclamation Mark emoji - a double exclamation mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⁉️",
+    "name": "Exclamation Question Mark",
+    "slug": "exclamation-question-mark",
+    "desc": "Exclamation Question Mark emoji - a exclamation question mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "❓",
+    "name": "Red Question Mark",
+    "slug": "red-question-mark",
+    "desc": "Red Question Mark emoji - a red question mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "❔",
+    "name": "White Question Mark",
+    "slug": "white-question-mark",
+    "desc": "White Question Mark emoji - a white question mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "❕",
+    "name": "White Exclamation Mark",
+    "slug": "white-exclamation-mark",
+    "desc": "White Exclamation Mark emoji - a white exclamation mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "❗",
+    "name": "Red Exclamation Mark",
+    "slug": "red-exclamation-mark",
+    "desc": "Red Exclamation Mark emoji - a red exclamation mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "〰️",
+    "name": "Wavy Dash",
+    "slug": "wavy-dash",
+    "desc": "Wavy Dash emoji - a wavy dash symbol used for various symbolic meanings."
+  },
+  {
+    "char": "💱",
+    "name": "Currency Exchange",
+    "slug": "currency-exchange",
+    "desc": "Symbols of different currencies with arrows."
+  },
+  {
+    "char": "💲",
+    "name": "Heavy Dollar Sign",
+    "slug": "heavy-dollar-sign",
+    "desc": "Heavy Dollar Sign emoji - a heavy dollar sign symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⚕️",
+    "name": "Medical Symbol",
+    "slug": "medical-symbol",
+    "desc": "The Staff of Asclepius, used to represent medicine and healthcare."
+  },
+  {
+    "char": "♻️",
+    "name": "Recycling Symbol",
+    "slug": "recycling-symbol",
+    "desc": "Recycling Symbol emoji - a recycling symbol symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⚜️",
+    "name": "Fleur-de-lis",
+    "slug": "fleur-de-lis",
+    "desc": "Fleur-de-lis emoji - a fleur-de-lis symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔱",
+    "name": "Trident Emblem",
+    "slug": "trident-emblem",
+    "desc": "Trident Emblem emoji - a trident emblem symbol used for various symbolic meanings."
+  },
+  {
+    "char": "📛",
+    "name": "Name Badge",
+    "slug": "name-badge",
+    "desc": "Name Badge emoji - a name badge symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔰",
+    "name": "Japanese Symbol For Beginner",
+    "slug": "japanese-symbol-for-beginner",
+    "desc": "Japanese Symbol For Beginner emoji - a Japanese symbol for beginner symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⭕",
+    "name": "Hollow Red Circle",
+    "slug": "hollow-red-circle",
+    "desc": "Hollow Red Circle emoji - a hollow red circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "✅",
+    "name": "Check Mark Button",
+    "slug": "check-mark-button",
+    "desc": "Check Mark Button emoji - a check mark button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "☑️",
+    "name": "Check Box With Check",
+    "slug": "check-box-with-check",
+    "desc": "Check Box With Check emoji - a check box with check symbol used for various symbolic meanings."
+  },
+  {
+    "char": "✔️",
+    "name": "Check Mark",
+    "slug": "check-mark",
+    "desc": "Check Mark emoji - a check mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "❌",
+    "name": "Cross Mark",
+    "slug": "cross-mark",
+    "desc": "A red X used to denote 'incorrect' or 'no'."
+  },
+  {
+    "char": "❎",
+    "name": "Cross Mark Button",
+    "slug": "cross-mark-button",
+    "desc": "Cross Mark Button emoji - a cross mark button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "➰",
+    "name": "Curly Loop",
+    "slug": "curly-loop",
+    "desc": "Used for decoration or to represent a telephone cord."
+  },
+  {
+    "char": "➿",
+    "name": "Double Curly Loop",
+    "slug": "double-curly-loop",
+    "desc": "Double Curly Loop emoji - a double curly loop symbol used for various symbolic meanings."
+  },
+  {
+    "char": "〽️",
+    "name": "Part Alternation Mark",
+    "slug": "part-alternation-mark",
+    "desc": "Part Alternation Mark emoji - a part alternation mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "✳️",
+    "name": "Eight-spoked Asterisk",
+    "slug": "eight-spoked-asterisk",
+    "desc": "Eight-spoked Asterisk emoji - a eight-spoked asterisk symbol used for various symbolic meanings."
+  },
+  {
+    "char": "✴️",
+    "name": "Eight-pointed Star",
+    "slug": "eight-pointed-star",
+    "desc": "Eight-pointed Star emoji - a eight-pointed star symbol used for various symbolic meanings."
+  },
+  {
+    "char": "❇️",
+    "name": "Sparkle",
+    "slug": "sparkle",
+    "desc": "Sparkle emoji - a sparkle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "©️",
+    "name": "Copyright",
+    "slug": "copyright",
+    "desc": "Copyright emoji - a copyright symbol used for various symbolic meanings."
+  },
+  {
+    "char": "®️",
+    "name": "Reg",
+    "slug": "registered",
+    "desc": "Official trademark mark."
+  },
+  {
+    "char": "™️",
+    "name": "Trade Mark",
+    "slug": "trade-mark",
+    "desc": "Trade Mark emoji - a trade mark symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🫟",
+    "name": "Splatter",
+    "slug": "splatter",
+    "desc": "Splatter emoji - a splatter symbol used for various symbolic meanings."
+  },
+  {
+    "char": "#️⃣",
+    "name": "Keycap #",
+    "slug": "keycap-number-sign",
+    "desc": "Keycap # emoji - a keycap # symbol used for various symbolic meanings."
+  },
+  {
+    "char": "*️⃣",
+    "name": "Keycap *",
+    "slug": "keycap-asterisk",
+    "desc": "Keycap * emoji - a keycap * symbol used for various symbolic meanings."
+  },
+  {
+    "char": "0️⃣",
+    "name": "Keycap 0",
+    "slug": "keycap-0",
+    "desc": "Keycap 0 emoji - a keycap 0 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "1️⃣",
+    "name": "Keycap 1",
+    "slug": "keycap-1",
+    "desc": "Keycap 1 emoji - a keycap 1 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "2️⃣",
+    "name": "Keycap 2",
+    "slug": "keycap-2",
+    "desc": "Keycap 2 emoji - a keycap 2 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "3️⃣",
+    "name": "Keycap 3",
+    "slug": "keycap-3",
+    "desc": "Keycap 3 emoji - a keycap 3 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "4️⃣",
+    "name": "Keycap 4",
+    "slug": "keycap-4",
+    "desc": "Keycap 4 emoji - a keycap 4 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "5️⃣",
+    "name": "Keycap 5",
+    "slug": "keycap-5",
+    "desc": "Keycap 5 emoji - a keycap 5 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "6️⃣",
+    "name": "Keycap 6",
+    "slug": "keycap-6",
+    "desc": "Keycap 6 emoji - a keycap 6 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "7️⃣",
+    "name": "Keycap 7",
+    "slug": "keycap-7",
+    "desc": "Keycap 7 emoji - a keycap 7 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "8️⃣",
+    "name": "Keycap 8",
+    "slug": "keycap-8",
+    "desc": "Keycap 8 emoji - a keycap 8 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "9️⃣",
+    "name": "Keycap 9",
+    "slug": "keycap-9",
+    "desc": "Keycap 9 emoji - a keycap 9 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔟",
+    "name": "Keycap 10",
+    "slug": "keycap-10",
+    "desc": "Keycap 10 emoji - a keycap 10 symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔠",
+    "name": "Input Latin Uppercase",
+    "slug": "input-latin-uppercase",
+    "desc": "Input Latin Uppercase emoji - a input latin uppercase symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔡",
+    "name": "Input Latin Lowercase",
+    "slug": "input-latin-lowercase",
+    "desc": "Input Latin Lowercase emoji - a input latin lowercase symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔢",
+    "name": "Input Numbers",
+    "slug": "input-numbers",
+    "desc": "Input Numbers emoji - a input numbers symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔣",
+    "name": "Input Symbols",
+    "slug": "input-symbols",
+    "desc": "Input Symbols emoji - a input symbols symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔤",
+    "name": "Input Latin Letters",
+    "slug": "input-latin-letters",
+    "desc": "Input Latin Letters emoji - a input latin letters symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🅰️",
+    "name": "A Button (blood Type)",
+    "slug": "a-button",
+    "desc": "A Button (blood Type) emoji - a A button (blood type) symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆎",
+    "name": "AB Button (blood Type)",
+    "slug": "ab-button",
+    "desc": "AB Button (blood Type) emoji - a AB button (blood type) symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🅱️",
+    "name": "B Button (blood Type)",
+    "slug": "b-button",
+    "desc": "B Button (blood Type) emoji - a B button (blood type) symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆑",
+    "name": "CL Button",
+    "slug": "cl-button",
+    "desc": "CL Button emoji - a CL button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆒",
+    "name": "COOL Button",
+    "slug": "cool-button",
+    "desc": "COOL Button emoji - a COOL button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆓",
+    "name": "FREE Button",
+    "slug": "free-button",
+    "desc": "FREE Button emoji - a FREE button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "ℹ️",
+    "name": "Information",
+    "slug": "information",
+    "desc": "Information emoji - a information symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆔",
+    "name": "ID Button",
+    "slug": "id-button",
+    "desc": "The letters ID in a square, used for identification requirements."
+  },
+  {
+    "char": "Ⓜ️",
+    "name": "Circled M",
+    "slug": "circled-m",
+    "desc": "Circled M emoji - a circled M symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆕",
+    "name": "NEW Button",
+    "slug": "new-button",
+    "desc": "NEW Button emoji - a NEW button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆖",
+    "name": "NG Button",
+    "slug": "ng-button",
+    "desc": "NG Button emoji - a NG button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🅾️",
+    "name": "O Button (blood Type)",
+    "slug": "o-button",
+    "desc": "O Button (blood Type) emoji - a O button (blood type) symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆗",
+    "name": "OK Button",
+    "slug": "ok-button",
+    "desc": "OK Button emoji - a OK button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🅿️",
+    "name": "P Button",
+    "slug": "p-button",
+    "desc": "P Button emoji - a P button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆘",
+    "name": "SOS Button",
+    "slug": "sos-button",
+    "desc": "SOS Button emoji - a SOS button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🆙",
+    "name": "Upwards Button",
+    "slug": "up-button",
+    "desc": "A small upward triangle."
+  },
+  {
+    "char": "🆚",
+    "name": "VS Button",
+    "slug": "vs-button",
+    "desc": "VS Button emoji - a VS button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈁",
+    "name": "Japanese “here” Button",
+    "slug": "japanese-here-button",
+    "desc": "Japanese “here” Button emoji - a Japanese “here” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈂️",
+    "name": "Japanese “service Charge” Button",
+    "slug": "japanese-service-charge-button",
+    "desc": "Japanese “service Charge” Button emoji - a Japanese “service charge” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈷️",
+    "name": "Japanese “monthly Amount” Button",
+    "slug": "japanese-monthly-amount-button",
+    "desc": "Japanese “monthly Amount” Button emoji - a Japanese “monthly amount” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈶",
+    "name": "Japanese “not Free Of Charge” Button",
+    "slug": "japanese-not-free-of-charge-button",
+    "desc": "Japanese “not Free Of Charge” Button emoji - a Japanese “not free of charge” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈯",
+    "name": "Japanese “reserved” Button",
+    "slug": "japanese-reserved-button",
+    "desc": "Japanese “reserved” Button emoji - a Japanese “reserved” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🉐",
+    "name": "Japanese “bargain” Button",
+    "slug": "japanese-bargain-button",
+    "desc": "Japanese “bargain” Button emoji - a Japanese “bargain” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈹",
+    "name": "Japanese “discount” Button",
+    "slug": "japanese-discount-button",
+    "desc": "Japanese “discount” Button emoji - a Japanese “discount” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈚",
+    "name": "Japanese “free Of Charge” Button",
+    "slug": "japanese-free-of-charge-button",
+    "desc": "Japanese “free Of Charge” Button emoji - a Japanese “free of charge” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈲",
+    "name": "Japanese “prohibited” Button",
+    "slug": "japanese-prohibited-button",
+    "desc": "Japanese “prohibited” Button emoji - a Japanese “prohibited” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🉑",
+    "name": "Japanese “acceptable” Button",
+    "slug": "japanese-acceptable-button",
+    "desc": "Japanese “acceptable” Button emoji - a Japanese “acceptable” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈸",
+    "name": "Japanese “application” Button",
+    "slug": "japanese-application-button",
+    "desc": "Japanese “application” Button emoji - a Japanese “application” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈴",
+    "name": "Japanese “passing Grade” Button",
+    "slug": "japanese-passing-grade-button",
+    "desc": "Japanese “passing Grade” Button emoji - a Japanese “passing grade” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈳",
+    "name": "Japanese “vacancy” Button",
+    "slug": "japanese-vacancy-button",
+    "desc": "Japanese “vacancy” Button emoji - a Japanese “vacancy” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "㊗️",
+    "name": "Japanese “congratulations” Button",
+    "slug": "japanese-congratulations-button",
+    "desc": "Japanese “congratulations” Button emoji - a Japanese “congratulations” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "㊙️",
+    "name": "Japanese “secret” Button",
+    "slug": "japanese-secret-button",
+    "desc": "Japanese “secret” Button emoji - a Japanese “secret” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈺",
+    "name": "Japanese “open For Business” Button",
+    "slug": "japanese-open-for-business-button",
+    "desc": "Japanese “open For Business” Button emoji - a Japanese “open for business” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🈵",
+    "name": "Japanese “no Vacancy” Button",
+    "slug": "japanese-no-vacancy-button",
+    "desc": "Japanese “no Vacancy” Button emoji - a Japanese “no vacancy” button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔴",
+    "name": "Red Circle",
+    "slug": "red-circle",
+    "desc": "Red Circle emoji - a red circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟠",
+    "name": "Orange Circle",
+    "slug": "orange-circle",
+    "desc": "Orange Circle emoji - a orange circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟡",
+    "name": "Yellow Circle",
+    "slug": "yellow-circle",
+    "desc": "Yellow Circle emoji - a yellow circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟢",
+    "name": "Green Circle",
+    "slug": "green-circle",
+    "desc": "Green Circle emoji - a green circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔵",
+    "name": "Blue Circle",
+    "slug": "blue-circle",
+    "desc": "Blue Circle emoji - a blue circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟣",
+    "name": "Purple Circle",
+    "slug": "purple-circle",
+    "desc": "Purple Circle emoji - a purple circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟤",
+    "name": "Brown Circle",
+    "slug": "brown-circle",
+    "desc": "Brown Circle emoji - a brown circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⚫",
+    "name": "Black Circle",
+    "slug": "black-circle",
+    "desc": "Black Circle emoji - a black circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⚪",
+    "name": "White Circle",
+    "slug": "white-circle",
+    "desc": "White Circle emoji - a white circle symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟥",
+    "name": "Red Square",
+    "slug": "red-square",
+    "desc": "Red Square emoji - a red square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟧",
+    "name": "Orange Square",
+    "slug": "orange-square",
+    "desc": "Orange Square emoji - a orange square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟨",
+    "name": "Yellow Square",
+    "slug": "yellow-square",
+    "desc": "Yellow Square emoji - a yellow square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟩",
+    "name": "Green Square",
+    "slug": "green-square",
+    "desc": "Green Square emoji - a green square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟦",
+    "name": "Blue Square",
+    "slug": "blue-square",
+    "desc": "Blue Square emoji - a blue square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟪",
+    "name": "Purple Square",
+    "slug": "purple-square",
+    "desc": "Purple Square emoji - a purple square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🟫",
+    "name": "Brown Square",
+    "slug": "brown-square",
+    "desc": "Brown Square emoji - a brown square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⬛",
+    "name": "Black Large Square",
+    "slug": "black-large-square",
+    "desc": "Black Large Square emoji - a black large square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "⬜",
+    "name": "White Large Square",
+    "slug": "white-large-square",
+    "desc": "White Large Square emoji - a white large square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "◼️",
+    "name": "Black Medium Square",
+    "slug": "black-medium-square",
+    "desc": "Black Medium Square emoji - a black medium square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "◻️",
+    "name": "White Medium Square",
+    "slug": "white-medium-square",
+    "desc": "White Medium Square emoji - a white medium square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "◾",
+    "name": "Black Medium-small Square",
+    "slug": "black-medium-small-square",
+    "desc": "Black Medium-small Square emoji - a black medium-small square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "◽",
+    "name": "White Medium-small Square",
+    "slug": "white-medium-small-square",
+    "desc": "White Medium-small Square emoji - a white medium-small square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "▪️",
+    "name": "Black Small Square",
+    "slug": "black-small-square",
+    "desc": "Black Small Square emoji - a black small square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "▫️",
+    "name": "White Small Square",
+    "slug": "white-small-square",
+    "desc": "White Small Square emoji - a white small square symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔶",
+    "name": "Large Orange Diamond",
+    "slug": "large-orange-diamond",
+    "desc": "A big orange diamond shape."
+  },
+  {
+    "char": "🔷",
+    "name": "Large Blue Diamond",
+    "slug": "large-blue-diamond",
+    "desc": "A big blue diamond shape."
+  },
+  {
+    "char": "🔸",
+    "name": "Small Orange Diamond",
+    "slug": "small-orange-diamond",
+    "desc": "A small orange diamond shape."
+  },
+  {
+    "char": "🔹",
+    "name": "Small Blue Diamond",
+    "slug": "small-blue-diamond",
+    "desc": "A small blue diamond shape."
+  },
+  {
+    "char": "🔺",
+    "name": "Red Triangle Pointed Up",
+    "slug": "red-triangle-pointed-up",
+    "desc": "Red Triangle Pointed Up emoji - a red triangle pointed up symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔻",
+    "name": "Red Triangle Pointed Down",
+    "slug": "red-triangle-pointed-down",
+    "desc": "Red Triangle Pointed Down emoji - a red triangle pointed down symbol used for various symbolic meanings."
+  },
+  {
+    "char": "💠",
+    "name": "Diamond With A Dot",
+    "slug": "diamond-with-a-dot",
+    "desc": "Diamond With A Dot emoji - a diamond with a dot symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔘",
+    "name": "Radio Button",
+    "slug": "radio-button",
+    "desc": "A UI element used for single-choice selection."
+  },
+  {
+    "char": "🔳",
+    "name": "White Square Button",
+    "slug": "white-square-button",
+    "desc": "White Square Button emoji - a white square button symbol used for various symbolic meanings."
+  },
+  {
+    "char": "🔲",
+    "name": "Black Square Button",
+    "slug": "black-square-button",
+    "desc": "Black Square Button emoji - a black square button symbol used for various symbolic meanings."
+  }
+]

@@ -1,0 +1,35 @@
+---
+import type { Emoji } from '../data/categories';
+
+export interface Props {
+  emojis: Emoji[];
+}
+
+const { emojis } = Astro.props;
+---
+
+{emojis.length === 0 && (
+  <div class="text-center py-12 text-gray-400">
+    <p class="text-base font-semibold">No emojis found</p>
+  </div>
+)}
+
+<div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-2 sm:gap-3">
+  {emojis.map((e) => {
+    const isKaomoji = e.char.length > 4;
+    const charSize = isKaomoji ? 'text-sm break-all px-1 leading-tight' : 'text-3xl sm:text-4xl';
+    return (
+      <div class="emoji-card bg-white rounded-xl sm:rounded-2xl p-2.5 sm:p-4 text-center border border-gray-100 shadow-sm hover:shadow-xl cursor-pointer group relative"
+        onclick={`copyToClipboard('${e.char.replace(/'/g, "\\'")}')`}
+        title={`Copy ${e.name} emoji`}>
+        <div class={`kaomoji-font ${charSize} h-10 sm:h-14 flex items-center justify-center overflow-hidden select-all mb-0.5 sm:mb-1.5`}>
+          {e.char}
+        </div>
+        <div class="text-[10px] sm:text-[11px] text-gray-400 font-semibold truncate px-0.5 leading-tight">{e.name}</div>
+        <div class="absolute inset-0 bg-yellow-400/90 rounded-xl sm:rounded-2xl flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all">
+          <span class="text-white text-xs font-bold flex items-center gap-1.5"><i class="fa-regular fa-copy"></i> Copy</span>
+        </div>
+      </div>
+    );
+  })}
+</div>

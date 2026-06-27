@@ -1,0 +1,2948 @@
+[
+  {
+    "char": "❤️",
+    "name": "Red Heart",
+    "slug": "red-heart",
+    "desc": "A classic red heart emoji, used for expressions of love and romance."
+  },
+  {
+    "char": "🧡",
+    "name": "Orange Heart",
+    "slug": "orange-heart",
+    "desc": "An orange heart, often representing warmth, care, or friendship."
+  },
+  {
+    "char": "💛",
+    "name": "Yellow Heart",
+    "slug": "yellow-heart",
+    "desc": "A yellow heart symbol, commonly associated with happiness and trust."
+  },
+  {
+    "char": "💚",
+    "name": "Green Heart",
+    "slug": "green-heart",
+    "desc": "A green heart, often used to signify nature, health, or envy."
+  },
+  {
+    "char": "💙",
+    "name": "Blue Heart",
+    "slug": "blue-heart",
+    "desc": "A blue heart, representing stability, peace, or deep platonic love."
+  },
+  {
+    "char": "💜",
+    "name": "Purple Heart",
+    "slug": "purple-heart",
+    "desc": "A purple heart, used for luxury, spiritual love, or compassion."
+  },
+  {
+    "char": "🖤",
+    "name": "Black Heart",
+    "slug": "black-heart",
+    "desc": "A black heart, used for dark humor, sorrow, or alternative styles."
+  },
+  {
+    "char": "🤍",
+    "name": "White Heart",
+    "slug": "white-heart",
+    "desc": "A white heart, symbolizing purity, peace, or condolence."
+  },
+  {
+    "char": "🤎",
+    "name": "Brown Heart",
+    "slug": "brown-heart",
+    "desc": "A brown heart, representing earthiness, reliability, or warmth."
+  },
+  {
+    "char": "💔",
+    "name": "Broken Heart",
+    "slug": "broken-heart",
+    "desc": "A red heart split in two, representing heartbreak or loss."
+  },
+  {
+    "char": "❣️",
+    "name": "Heart Exclamation",
+    "slug": "heart-exclamation",
+    "desc": "A heart used as the top part of an exclamation mark."
+  },
+  {
+    "char": "💕",
+    "name": "Two Hearts",
+    "slug": "two-hearts",
+    "desc": "Two pink hearts orbiting, representing love being in the air."
+  },
+  {
+    "char": "💞",
+    "name": "Revolving Hearts",
+    "slug": "revolving-hearts",
+    "desc": "Two hearts circling each other, indicating deep affection."
+  },
+  {
+    "char": "💓",
+    "name": "Beating Heart",
+    "slug": "beating-heart",
+    "desc": "A heart with vibration lines, symbolizing a heart racing with love."
+  },
+  {
+    "char": "💗",
+    "name": "Growing Heart",
+    "slug": "growing-heart",
+    "desc": "Multiple heart outlines stacked, showing love increasing in size."
+  },
+  {
+    "char": "💖",
+    "name": "Sparkling Heart",
+    "slug": "sparkling-heart",
+    "desc": "A pink heart with glints, representing new or special love."
+  },
+  {
+    "char": "💘",
+    "name": "Heart with Arrow",
+    "slug": "heart-arrow",
+    "desc": "A heart pierced by Cupid’s arrow, indicating falling in love."
+  },
+  {
+    "char": "💝",
+    "name": "Heart with Ribbon",
+    "slug": "heart-ribbon",
+    "desc": "A heart wrapped like a gift, representing the gift of love."
+  },
+  {
+    "char": "💟",
+    "name": "Heart Decoration",
+    "slug": "heart-decoration",
+    "desc": "A heart-shaped cutout within a square, used for aesthetic posts."
+  },
+  {
+    "char": "☮️",
+    "name": "Peace Symbol",
+    "slug": "peace-symbol",
+    "desc": "A circle with three lines, globally recognized for peace and anti-war."
+  },
+  {
+    "char": "✝️",
+    "name": "Latin Cross",
+    "slug": "latin-cross",
+    "desc": "The primary symbol of Christianity, representing the cross of Christ."
+  },
+  {
+    "char": "☪️",
+    "name": "Star and Crescent",
+    "slug": "star-crescent",
+    "desc": "A symbol representing Islam, often found on national flags."
+  },
+  {
+    "char": "🕉️",
+    "name": "Om",
+    "slug": "om-symbol",
+    "desc": "A sacred sound and spiritual symbol in Hinduism and Buddhism."
+  },
+  {
+    "char": "☸️",
+    "name": "Wheel of Dharma",
+    "slug": "dharma-wheel",
+    "desc": "A symbol representing the Eightfold Path in Buddhism."
+  },
+  {
+    "char": "✡️",
+    "name": "Star of David",
+    "slug": "star-of-david",
+    "desc": "A hexagram symbol representing Judaism and Jewish identity."
+  },
+  {
+    "char": "🔯",
+    "name": "Dotted Six-Pointed Star",
+    "slug": "dotted-star",
+    "desc": "A star with a dot in the center, used in various mystical contexts."
+  },
+  {
+    "char": "🕎",
+    "name": "Menorah",
+    "slug": "menorah",
+    "desc": "A nine-branched candelabrum used during Hanukkah."
+  },
+  {
+    "char": "☯️",
+    "name": "Yin Yang",
+    "slug": "yin-yang",
+    "desc": "A symbol of balance between opposing forces in Chinese philosophy."
+  },
+  {
+    "char": "☦️",
+    "name": "Orthodox Cross",
+    "slug": "orthodox-cross",
+    "desc": "A cross with three horizontal crossbeams used in Eastern Orthodoxy."
+  },
+  {
+    "char": "🛐",
+    "name": "Place of Worship",
+    "slug": "worship-place",
+    "desc": "A silhouette of a person kneeling, indicating a religious site."
+  },
+  {
+    "char": "⛎",
+    "name": "Ophiuchus",
+    "slug": "ophiuchus",
+    "desc": "The 13th zodiac sign, represented by the Serpent Bearer."
+  },
+  {
+    "char": "♈",
+    "name": "Aries",
+    "slug": "aries",
+    "desc": "The first zodiac sign, representing the Ram (March 21 – April 19)."
+  },
+  {
+    "char": "♉",
+    "name": "Taurus",
+    "slug": "taurus",
+    "desc": "The second zodiac sign, representing the Bull (April 20 – May 20)."
+  },
+  {
+    "char": "♊",
+    "name": "Gemini",
+    "slug": "gemini",
+    "desc": "The third zodiac sign, representing the Twins (May 21 – June 20)."
+  },
+  {
+    "char": "♋",
+    "name": "Cancer",
+    "slug": "cancer",
+    "desc": "The fourth zodiac sign, representing the Crab (June 21 – July 22)."
+  },
+  {
+    "char": "♌",
+    "name": "Leo",
+    "slug": "leo",
+    "desc": "The fifth zodiac sign, representing the Lion (July 23 – August 22)."
+  },
+  {
+    "char": "♍",
+    "name": "Virgo",
+    "slug": "virgo",
+    "desc": "The sixth zodiac sign, representing the Maiden (August 23 – Sept 22)."
+  },
+  {
+    "char": "♎",
+    "name": "Libra",
+    "slug": "libra",
+    "desc": "The seventh zodiac sign, representing the Scales (Sept 23 – Oct 22)."
+  },
+  {
+    "char": "♏",
+    "name": "Scorpio",
+    "slug": "scorpio",
+    "desc": "The eighth zodiac sign, representing the Scorpion (Oct 23 – Nov 21)."
+  },
+  {
+    "char": "♐",
+    "name": "Sagittarius",
+    "slug": "sagittarius",
+    "desc": "The ninth zodiac sign, representing the Archer (Nov 22 – Dec 21)."
+  },
+  {
+    "char": "♑",
+    "name": "Capricorn",
+    "slug": "capricorn",
+    "desc": "The tenth zodiac sign, representing the Sea-Goat (Dec 22 – Jan 19)."
+  },
+  {
+    "char": "♒",
+    "name": "Aquarius",
+    "slug": "aquarius",
+    "desc": "The eleventh zodiac sign, representing the Water Bearer (Jan 20 – Feb 18)."
+  },
+  {
+    "char": "♓",
+    "name": "Pisces",
+    "slug": "pisces",
+    "desc": "The twelfth zodiac sign, representing the Fish (Feb 19 – March 20)."
+  },
+  {
+    "char": "🆔",
+    "name": "ID Button",
+    "slug": "id-button",
+    "desc": "The letters ID in a square, used for identification requirements."
+  },
+  {
+    "char": "⚛️",
+    "name": "Atom Symbol",
+    "slug": "atom-symbol",
+    "desc": "A symbol of an atom, representing science, physics, or nuclear energy."
+  },
+  {
+    "char": "⚕️",
+    "name": "Medical Symbol",
+    "slug": "medical-symbol",
+    "desc": "The Staff of Asclepius, used to represent medicine and healthcare."
+  },
+  {
+    "char": "☣️",
+    "name": "Biohazard",
+    "slug": "biohazard",
+    "desc": "A warning sign for biological substances that pose a threat to health."
+  },
+  {
+    "char": "☢️",
+    "name": "Radioactive",
+    "slug": "radioactive",
+    "desc": "A warning sign for ionizing radiation."
+  },
+  {
+    "char": "⚠️",
+    "name": "Warning",
+    "slug": "warning",
+    "desc": "An exclamation mark in a yellow triangle, used for alerts."
+  },
+  {
+    "char": "🚸",
+    "name": "Children Crossing",
+    "slug": "children-crossing",
+    "desc": "A yellow diamond sign showing children walking; used for school zones."
+  },
+  {
+    "char": "⛔",
+    "name": "No Entry",
+    "slug": "no-entry",
+    "desc": "A red circle with a white dash, used to forbid entrance."
+  },
+  {
+    "char": "🚫",
+    "name": "Prohibited",
+    "slug": "prohibited",
+    "desc": "A red circle with a diagonal slash, used to ban specific actions."
+  },
+  {
+    "char": "🚳",
+    "name": "No Bicycles",
+    "slug": "no-bicycles",
+    "desc": "Indicates that bicycles are not permitted in the area."
+  },
+  {
+    "char": "🚭",
+    "name": "No Smoking",
+    "slug": "no-smoking",
+    "desc": "Indicates that tobacco use is prohibited."
+  },
+  {
+    "char": "🚯",
+    "name": "No Littering",
+    "slug": "no-littering",
+    "desc": "A symbol reminding people not to drop trash."
+  },
+  {
+    "char": "🚱",
+    "name": "Non-Potable Water",
+    "slug": "non-potable-water",
+    "desc": "A sign indicating that the water is not safe for drinking."
+  },
+  {
+    "char": "🚷",
+    "name": "No Pedestrians",
+    "slug": "no-pedestrians",
+    "desc": "Indicates that people are not allowed to walk here."
+  },
+  {
+    "char": "🔞",
+    "name": "No One Under Eighteen",
+    "slug": "under-18",
+    "desc": "Used to denote age-restricted content or locations."
+  },
+  {
+    "char": "☢️",
+    "name": "Radioactive",
+    "slug": "radioactive",
+    "desc": "A warning symbol for radiation hazards."
+  },
+  {
+    "char": "⬆️",
+    "name": "Up Arrow",
+    "slug": "up-arrow",
+    "desc": "A cardinal direction arrow pointing north."
+  },
+  {
+    "char": "↗️",
+    "name": "Up-Right Arrow",
+    "slug": "up-right-arrow",
+    "desc": "A directional arrow pointing northeast."
+  },
+  {
+    "char": "➡️",
+    "name": "Right Arrow",
+    "slug": "right-arrow",
+    "desc": "A cardinal direction arrow pointing east."
+  },
+  {
+    "char": "↘️",
+    "name": "Down-Right Arrow",
+    "slug": "down-right-arrow",
+    "desc": "A directional arrow pointing southeast."
+  },
+  {
+    "char": "⬇️",
+    "name": "Down Arrow",
+    "slug": "down-arrow",
+    "desc": "A cardinal direction arrow pointing south."
+  },
+  {
+    "char": "↙️",
+    "name": "Down-Left Arrow",
+    "slug": "down-left-arrow",
+    "desc": "A directional arrow pointing southwest."
+  },
+  {
+    "char": "⬅️",
+    "name": "Left Arrow",
+    "slug": "left-arrow",
+    "desc": "A cardinal direction arrow pointing west."
+  },
+  {
+    "char": "↖️",
+    "name": "Up-Left Arrow",
+    "slug": "up-left-arrow",
+    "desc": "A directional arrow pointing northwest."
+  },
+  {
+    "char": "↕️",
+    "name": "Up-Down Arrow",
+    "slug": "up-down-arrow",
+    "desc": "A vertical arrow used for scrolling or dual directions."
+  },
+  {
+    "char": "↔️",
+    "name": "Left-Right Arrow",
+    "slug": "left-right-arrow",
+    "desc": "A horizontal arrow used for width or movement."
+  },
+  {
+    "char": "↩️",
+    "name": "Right Arrow Curving Left",
+    "slug": "back-arrow",
+    "desc": "Used as a return or back button."
+  },
+  {
+    "char": "↪️",
+    "name": "Left Arrow Curving Right",
+    "slug": "forward-arrow",
+    "desc": "Used to indicate moving forward or a turn."
+  },
+  {
+    "char": "⤴️",
+    "name": "Right Arrow Curving Up",
+    "slug": "up-turn-arrow",
+    "desc": "A symbol for turning upwards."
+  },
+  {
+    "char": "⤵️",
+    "name": "Right Arrow Curving Down",
+    "slug": "down-turn-arrow",
+    "desc": "A symbol for turning downwards."
+  },
+  {
+    "char": "🔃",
+    "name": "Clockwise Vertical Arrows",
+    "slug": "reload-arrows",
+    "desc": "Two arrows in a circle, used for refreshing or reloading."
+  },
+  {
+    "char": "🔄",
+    "name": "Counterclockwise Arrows Button",
+    "slug": "sync-arrows",
+    "desc": "Used to represent syncing or repeating."
+  },
+  {
+    "char": "🔙",
+    "name": "Back Arrow",
+    "slug": "back-button",
+    "desc": "A blue square with the word BACK and an arrow."
+  },
+  {
+    "char": "🔚",
+    "name": "End Arrow",
+    "slug": "end-button",
+    "desc": "A blue square with the word END and an arrow."
+  },
+  {
+    "char": "🔛",
+    "name": "On! Arrow",
+    "slug": "on-button",
+    "desc": "A blue square with the word ON and a double arrow."
+  },
+  {
+    "char": "🔜",
+    "name": "Soon Arrow",
+    "slug": "soon-button",
+    "desc": "A blue square with the word SOON and an arrow."
+  },
+  {
+    "char": "🔝",
+    "name": "Top Arrow",
+    "slug": "top-button",
+    "desc": "A blue square with the word TOP and an upward arrow."
+  },
+  {
+    "char": "🛐",
+    "name": "Place of Worship",
+    "slug": "worship-sign",
+    "desc": "A universal symbol for a prayer room or chapel."
+  },
+  {
+    "char": "⚛️",
+    "name": "Atom Symbol",
+    "slug": "science-symbol",
+    "desc": "Used for physics and atomic theory."
+  },
+  {
+    "char": "🕉️",
+    "name": "Om Symbol",
+    "slug": "spiritual-om",
+    "desc": "A mantra and mystical Sanskrit sound."
+  },
+  {
+    "char": "✡️",
+    "name": "Star of David",
+    "slug": "jewish-star",
+    "desc": "The Shield of David."
+  },
+  {
+    "char": "☸️",
+    "name": "Dharma Wheel",
+    "slug": "buddhist-wheel",
+    "desc": "Representing the teachings of Buddha."
+  },
+  {
+    "char": "☯️",
+    "name": "Yin Yang",
+    "slug": "balance-symbol",
+    "desc": "Duality and harmony in Taoism."
+  },
+  {
+    "char": "✝️",
+    "name": "Christian Cross",
+    "slug": "latin-cross-sign",
+    "desc": "The cross of Christ."
+  },
+  {
+    "char": "☦️",
+    "name": "Orthodox Cross",
+    "slug": "byzantine-cross",
+    "desc": "A variation of the Christian cross."
+  },
+  {
+    "char": "☪️",
+    "name": "Star and Crescent",
+    "slug": "islam-symbol",
+    "desc": "Symbol of the Islamic faith."
+  },
+  {
+    "char": "🕎",
+    "name": "Menorah",
+    "slug": "hanukkah-lamp",
+    "desc": "Candleholder for the Jewish holiday."
+  },
+  {
+    "char": "♈",
+    "name": "Aries Sign",
+    "slug": "zodiac-aries",
+    "desc": "Fire sign ruled by Mars."
+  },
+  {
+    "char": "♉",
+    "name": "Taurus Sign",
+    "slug": "zodiac-taurus",
+    "desc": "Earth sign ruled by Venus."
+  },
+  {
+    "char": "♊",
+    "name": "Gemini Sign",
+    "slug": "zodiac-gemini",
+    "desc": "Air sign ruled by Mercury."
+  },
+  {
+    "char": "♋",
+    "name": "Cancer Sign",
+    "slug": "zodiac-cancer",
+    "desc": "Water sign ruled by the Moon."
+  },
+  {
+    "char": "♌",
+    "name": "Leo Sign",
+    "slug": "zodiac-leo",
+    "desc": "Fire sign ruled by the Sun."
+  },
+  {
+    "char": "♍",
+    "name": "Virgo Sign",
+    "slug": "zodiac-virgo",
+    "desc": "Earth sign ruled by Mercury."
+  },
+  {
+    "char": "♎",
+    "name": "Libra Sign",
+    "slug": "zodiac-libra",
+    "desc": "Air sign ruled by Venus."
+  },
+  {
+    "char": "♏",
+    "name": "Scorpio Sign",
+    "slug": "zodiac-scorpio",
+    "desc": "Water sign ruled by Pluto."
+  },
+  {
+    "char": "♐",
+    "name": "Sagittarius Sign",
+    "slug": "zodiac-sagittarius",
+    "desc": "Fire sign ruled by Jupiter."
+  },
+  {
+    "char": "♑",
+    "name": "Capricorn Sign",
+    "slug": "zodiac-capricorn",
+    "desc": "Earth sign ruled by Saturn."
+  },
+  {
+    "char": "♒",
+    "name": "Aquarius Sign",
+    "slug": "zodiac-aquarius",
+    "desc": "Air sign ruled by Uranus."
+  },
+  {
+    "char": "♓",
+    "name": "Pisces Sign",
+    "slug": "zodiac-pisces",
+    "desc": "Water sign ruled by Neptune."
+  },
+  {
+    "char": "⛎",
+    "name": "Ophiuchus",
+    "slug": "thirteenth-sign",
+    "desc": "The Serpent Bearer constellation."
+  },
+  {
+    "char": "🔀",
+    "name": "Shuffle Tracks Button",
+    "slug": "shuffle",
+    "desc": "Two crossing arrows, used to play music randomly."
+  },
+  {
+    "char": "🔁",
+    "name": "Repeat Button",
+    "slug": "repeat",
+    "desc": "A circular loop of arrows, used to play music continuously."
+  },
+  {
+    "char": "🔂",
+    "name": "Repeat Single Button",
+    "slug": "repeat-once",
+    "desc": "A loop with the number 1, used to repeat one track."
+  },
+  {
+    "char": "▶️",
+    "name": "Play Button",
+    "slug": "play",
+    "desc": "A right-pointing triangle for starting media."
+  },
+  {
+    "char": "⏩",
+    "name": "Fast-Forward Button",
+    "slug": "fast-forward",
+    "desc": "Two right-pointing triangles for skipping ahead."
+  },
+  {
+    "char": "⏭️",
+    "name": "Next Track Button",
+    "slug": "next-track",
+    "desc": "A triangle and vertical bar for skipping to the next item."
+  },
+  {
+    "char": "⏯️",
+    "name": "Play or Pause Button",
+    "slug": "play-pause",
+    "desc": "A combined symbol for alternating media states."
+  },
+  {
+    "char": "◀️",
+    "name": "Reverse Button",
+    "slug": "reverse",
+    "desc": "A left-pointing triangle."
+  },
+  {
+    "char": "⏪",
+    "name": "Fast Reverse Button",
+    "slug": "rewind",
+    "desc": "Two left-pointing triangles for skipping back."
+  },
+  {
+    "char": "⏮️",
+    "name": "Last Track Button",
+    "slug": "previous-track",
+    "desc": "A triangle and vertical bar for restarting a track."
+  },
+  {
+    "char": "🔼",
+    "name": "Upwards Button",
+    "slug": "up-button",
+    "desc": "A small upward triangle."
+  },
+  {
+    "char": "⏫",
+    "name": "Fast Up Button",
+    "slug": "double-up",
+    "desc": "Two upward triangles."
+  },
+  {
+    "char": "🔽",
+    "name": "Downwards Button",
+    "slug": "down-button",
+    "desc": "A small downward triangle."
+  },
+  {
+    "char": "⏬",
+    "name": "Fast Down Button",
+    "slug": "double-down",
+    "desc": "Two downward triangles."
+  },
+  {
+    "char": "⏸️",
+    "name": "Pause Button",
+    "slug": "pause",
+    "desc": "Two vertical bars used to stop media temporarily."
+  },
+  {
+    "char": "⏹️",
+    "name": "Stop Button",
+    "slug": "stop",
+    "desc": "A solid square used to end media playback."
+  },
+  {
+    "char": "⏺️",
+    "name": "Record Button",
+    "slug": "record",
+    "desc": "A solid circle used for starting a recording."
+  },
+  {
+    "char": "⏏️",
+    "name": "Eject Button",
+    "slug": "eject",
+    "desc": "A triangle over a horizontal bar used to remove media."
+  },
+  {
+    "char": "🎦",
+    "name": "Cinema",
+    "slug": "cinema-sign",
+    "desc": "A camera symbol in a square, used for theaters."
+  },
+  {
+    "char": "🔅",
+    "name": "Dim Button",
+    "slug": "low-brightness",
+    "desc": "A small sun icon used for decreasing screen light."
+  },
+  {
+    "char": "🔆",
+    "name": "Bright Button",
+    "slug": "high-brightness",
+    "desc": "A large sun icon used for increasing screen light."
+  },
+  {
+    "char": "📶",
+    "name": "Antenna Bars",
+    "slug": "signal-strength",
+    "desc": "Ascending bars indicating cellular signal."
+  },
+  {
+    "char": "📳",
+    "name": "Vibration Mode",
+    "slug": "vibrate-sign",
+    "desc": "A phone with wiggly lines indicating silent alerts."
+  },
+  {
+    "char": "📴",
+    "name": "Mobile Phone Off",
+    "slug": "phone-off",
+    "desc": "A sign indicating that phones should be turned off."
+  },
+  {
+    "char": "♀️",
+    "name": "Female Sign",
+    "slug": "female",
+    "desc": "The symbol for Venus, representing women or the female sex."
+  },
+  {
+    "char": "♂️",
+    "name": "Male Sign",
+    "slug": "male",
+    "desc": "The symbol for Mars, representing men or the male sex."
+  },
+  {
+    "char": "⚧️",
+    "name": "Transgender Symbol",
+    "slug": "transgender",
+    "desc": "A combination of the male and female symbols with a third arm."
+  },
+  {
+    "char": "✖️",
+    "name": "Multiply",
+    "slug": "multiplication-x",
+    "desc": "A heavy X symbol used in math or to indicate 'wrong'."
+  },
+  {
+    "char": "➕",
+    "name": "Plus Sign",
+    "slug": "addition",
+    "desc": "Used for adding numbers or indicating 'positive'."
+  },
+  {
+    "char": "➖",
+    "name": "Minus Sign",
+    "slug": "subtraction",
+    "desc": "Used for subtracting numbers or indicating 'negative'."
+  },
+  {
+    "char": "➗",
+    "name": "Divide Sign",
+    "slug": "division",
+    "desc": "Used for dividing numbers."
+  },
+  {
+    "char": "♾️",
+    "name": "Infinity",
+    "slug": "infinity",
+    "desc": "A loop representing a never-ending quantity or cycle."
+  },
+  {
+    "char": "‼️",
+    "name": "Double Exclamation Mark",
+    "slug": "heavy-exclamation",
+    "desc": "Used for strong emphasis."
+  },
+  {
+    "char": "⁉️",
+    "name": "Exclamation Question Mark",
+    "slug": "interrobang",
+    "desc": "Used to express shock and confusion simultaneously."
+  },
+  {
+    "char": "❓",
+    "name": "Question Mark",
+    "slug": "question-mark",
+    "desc": "Used to indicate a query."
+  },
+  {
+    "char": "❔",
+    "name": "White Question Mark",
+    "slug": "outline-question",
+    "desc": "A stylistic variation of the question mark."
+  },
+  {
+    "char": "❕",
+    "name": "White Exclamation Mark",
+    "slug": "outline-exclamation",
+    "desc": "A stylistic variation of the exclamation mark."
+  },
+  {
+    "char": "❗",
+    "name": "Exclamation Mark",
+    "slug": "heavy-alert",
+    "desc": "Used for emphasis or warnings."
+  },
+  {
+    "char": "〰️",
+    "name": "Wavy Dash",
+    "slug": "wavy-line",
+    "desc": "Used in typography or to represent a breeze/water."
+  },
+  {
+    "char": "💱",
+    "name": "Currency Exchange",
+    "slug": "currency-exchange",
+    "desc": "Symbols of different currencies with arrows."
+  },
+  {
+    "char": "💲",
+    "name": "Heavy Dollar Sign",
+    "slug": "dollar-symbol",
+    "desc": "Represents money, wealth, or price."
+  },
+  {
+    "char": "⚕️",
+    "name": "Medical Staff",
+    "slug": "asclepius",
+    "desc": "Healing and medicine symbol."
+  },
+  {
+    "char": "⚖️",
+    "name": "Balance Scale",
+    "slug": "justice-scales",
+    "desc": "Symbol for law, justice, or weight."
+  },
+  {
+    "char": "🔱",
+    "name": "Trident Emblem",
+    "slug": "trident",
+    "desc": "A three-pronged spear, symbol of Poseidon/Neptune."
+  },
+  {
+    "char": "📛",
+    "name": "Name Badge",
+    "slug": "name-tag",
+    "desc": "A red flame-shaped sticker for identification."
+  },
+  {
+    "char": "⭕",
+    "name": "Hollow Red Circle",
+    "slug": "circle-mark",
+    "desc": "In Japan, used like a checkmark to mean 'correct'."
+  },
+  {
+    "char": "✅",
+    "name": "Check Mark Button",
+    "slug": "check-box",
+    "desc": "A white check on a green background, indicating completion."
+  },
+  {
+    "char": "☑️",
+    "name": "Check Box with Check",
+    "slug": "checked-box",
+    "desc": "A blue or grey box with a check mark."
+  },
+  {
+    "char": "✔️",
+    "name": "Check Mark",
+    "slug": "heavy-check",
+    "desc": "A standard check mark symbol."
+  },
+  {
+    "char": "❌",
+    "name": "Cross Mark",
+    "slug": "cross-mark",
+    "desc": "A red X used to denote 'incorrect' or 'no'."
+  },
+  {
+    "char": "❎",
+    "name": "Cross Mark Button",
+    "slug": "x-box",
+    "desc": "A white X on a green or red background."
+  },
+  {
+    "char": "➰",
+    "name": "Curly Loop",
+    "slug": "curly-loop",
+    "desc": "Used for decoration or to represent a telephone cord."
+  },
+  {
+    "char": "➿",
+    "name": "Double Curly Loop",
+    "slug": "voicemail-symbol",
+    "desc": "Used to represent voicemail."
+  },
+  {
+    "char": "〽️",
+    "name": "Part Alternation Mark",
+    "slug": "singing-mark",
+    "desc": "Used in Japanese music to show where a singer begins."
+  },
+  {
+    "char": "✳️",
+    "name": "Eight-Spoked Asterisk",
+    "slug": "asterisk-sign",
+    "desc": "A green eight-pointed star."
+  },
+  {
+    "char": "✴️",
+    "name": "Eight-Pointed Star",
+    "slug": "star-burst",
+    "desc": "An orange eight-pointed star."
+  },
+  {
+    "char": "❇️",
+    "name": "Sparkle",
+    "slug": "green-sparkle",
+    "desc": "A decorative green star."
+  },
+  {
+    "char": "©️",
+    "name": "Copyright",
+    "slug": "copyright-symbol",
+    "desc": "Indicates that a work is protected by copyright."
+  },
+  {
+    "char": "®️",
+    "name": "Registered",
+    "slug": "registered-trademark",
+    "desc": "Indicates a registered trademark."
+  },
+  {
+    "char": "™️",
+    "name": "Trademark",
+    "slug": "trademark-symbol",
+    "desc": "Used for unregistered trademarks."
+  },
+  {
+    "char": "🔠",
+    "name": "Input Latin Uppercase",
+    "slug": "caps-lock",
+    "desc": "Indicates uppercase letter input."
+  },
+  {
+    "char": "🔡",
+    "name": "Input Latin Lowercase",
+    "slug": "lowercase",
+    "desc": "Indicates lowercase letter input."
+  },
+  {
+    "char": "🔢",
+    "name": "Input Numbers",
+    "slug": "number-input",
+    "desc": "Indicates numeric input mode."
+  },
+  {
+    "char": "🔣",
+    "name": "Input Symbols",
+    "slug": "symbol-input",
+    "desc": "Indicates special character input."
+  },
+  {
+    "char": "🔤",
+    "name": "Input Latin Letters",
+    "slug": "alphabet-input",
+    "desc": "Indicates standard ABC input."
+  },
+  {
+    "char": "🅰️",
+    "name": "A Button (Blood Type)",
+    "slug": "blood-a",
+    "desc": "Blood type A or a grade."
+  },
+  {
+    "char": "🆎",
+    "name": "AB Button (Blood Type)",
+    "slug": "blood-ab",
+    "desc": "Blood type AB."
+  },
+  {
+    "char": "🅱️",
+    "name": "B Button (Blood Type)",
+    "slug": "blood-b",
+    "desc": "Blood type B."
+  },
+  {
+    "char": "🆑",
+    "name": "CL Button",
+    "slug": "clear-button",
+    "desc": "Used for 'Clear' on a keypad."
+  },
+  {
+    "char": "🆒",
+    "name": "COOL Button",
+    "slug": "cool-sign",
+    "desc": "Used to indicate something is trendy or cold."
+  },
+  {
+    "char": "🆓",
+    "name": "FREE Button",
+    "slug": "free-sign",
+    "desc": "Indicates no cost."
+  },
+  {
+    "char": "ℹ️",
+    "name": "Information",
+    "slug": "info-sign",
+    "desc": "A lower-case 'i' in a blue square."
+  },
+  {
+    "char": "🆔",
+    "name": "ID Button",
+    "slug": "identity-sign",
+    "desc": "Identification required."
+  },
+  {
+    "char": "Ⓜ️",
+    "name": "Circled M",
+    "slug": "metro-m",
+    "desc": "Often used for Metro or Underground signs."
+  },
+  {
+    "char": "🆕",
+    "name": "NEW Button",
+    "slug": "new-sign",
+    "desc": "Used for new products or features."
+  },
+  {
+    "char": "🆖",
+    "name": "NG Button",
+    "slug": "no-good",
+    "desc": "Used in Japan for 'No Good' or bloopers."
+  },
+  {
+    "char": "🅾️",
+    "name": "O Button (Blood Type)",
+    "slug": "blood-o",
+    "desc": "Blood type O."
+  },
+  {
+    "char": "🆗",
+    "name": "OK Button",
+    "slug": "ok-sign",
+    "desc": "Confirming acceptance or correctness."
+  },
+  {
+    "char": "🅿️",
+    "name": "P Button",
+    "slug": "parking-sign",
+    "desc": "Indicates a parking zone."
+  },
+  {
+    "char": "🆘",
+    "name": "SOS Button",
+    "slug": "emergency-sos",
+    "desc": "International distress signal."
+  },
+  {
+    "char": "🆙",
+    "name": "UP! Button",
+    "slug": "up-grade",
+    "desc": "Used for leveling up or moving up."
+  },
+  {
+    "char": "🆚",
+    "name": "VS Button",
+    "slug": "versus-sign",
+    "desc": "Used to show a competition between two parties."
+  },
+  {
+    "char": "🈁",
+    "name": "Japanese 'Here' Button",
+    "slug": "here-sign",
+    "desc": "Koko; indicates current location."
+  },
+  {
+    "char": "🈂️",
+    "name": "Japanese 'Service Charge' Button",
+    "slug": "service-charge",
+    "desc": "Sa; service fee indication."
+  },
+  {
+    "char": "🈷️",
+    "name": "Japanese 'Monthly Amount' Button",
+    "slug": "monthly-amount",
+    "desc": "Gatsu; monthly payment."
+  },
+  {
+    "char": "🈶",
+    "name": "Japanese 'Not Free of Charge' Button",
+    "slug": "not-free",
+    "desc": "Yu; existence or fee-based."
+  },
+  {
+    "char": "🈯",
+    "name": "Japanese 'Reserved' Button",
+    "slug": "reserved-sign",
+    "desc": "Shi; designated or reserved seat."
+  },
+  {
+    "char": "🉐",
+    "name": "Japanese 'Bargain' Button",
+    "slug": "bargain-sign",
+    "desc": "Toku; profit, advantage, or bargain."
+  },
+  {
+    "char": "🈹",
+    "name": "Japanese 'Discount' Button",
+    "slug": "discount-sign",
+    "desc": "Wari; percentage off."
+  },
+  {
+    "char": "🈚",
+    "name": "Japanese 'Free of Charge' Button",
+    "slug": "free-japanese",
+    "desc": "Mu; non-existence or free."
+  },
+  {
+    "char": "🈲",
+    "name": "Japanese 'Prohibited' Button",
+    "slug": "prohibited-japanese",
+    "desc": "Kin; forbidden or banned."
+  },
+  {
+    "char": "🉑",
+    "name": "Japanese 'Acceptable' Button",
+    "slug": "acceptable-japanese",
+    "desc": "Ka; allowed or passing grade."
+  },
+  {
+    "char": "🈸",
+    "name": "Japanese 'Application' Button",
+    "slug": "application-japanese",
+    "desc": "Shin; apply or monkey (zodiac)."
+  },
+  {
+    "char": "🈴",
+    "name": "Japanese 'Passing Grade' Button",
+    "slug": "pass-japanese",
+    "desc": "Gou; join or pass an exam."
+  },
+  {
+    "char": "🈳",
+    "name": "Japanese 'Vacancy' Button",
+    "slug": "vacancy-japanese",
+    "desc": "Ku; empty or available."
+  },
+  {
+    "char": "㊗️",
+    "name": "Japanese 'Congratulations' Button",
+    "slug": "congrats-japanese",
+    "desc": "Iwai; celebratory mark."
+  },
+  {
+    "char": "㊙️",
+    "name": "Japanese 'Secret' Button",
+    "slug": "secret-japanese",
+    "desc": "Hi; confidential information."
+  },
+  {
+    "char": "🈺",
+    "name": "Japanese 'Open for Business' Button",
+    "slug": "open-japanese",
+    "desc": "Gyou; business hours."
+  },
+  {
+    "char": "🈵",
+    "name": "Japanese 'No Vacancy' Button",
+    "slug": "full-japanese",
+    "desc": "Man; full or complete."
+  },
+  {
+    "char": "🔴",
+    "name": "Red Circle",
+    "slug": "large-red-circle",
+    "desc": "A solid red dot."
+  },
+  {
+    "char": "🟠",
+    "name": "Orange Circle",
+    "slug": "large-orange-circle",
+    "desc": "A solid orange dot."
+  },
+  {
+    "char": "🟡",
+    "name": "Yellow Circle",
+    "slug": "large-yellow-circle",
+    "desc": "A solid yellow dot."
+  },
+  {
+    "char": "🟢",
+    "name": "Green Circle",
+    "slug": "large-green-circle",
+    "desc": "A solid green dot."
+  },
+  {
+    "char": "🔵",
+    "name": "Blue Circle",
+    "slug": "large-blue-circle",
+    "desc": "A solid blue dot."
+  },
+  {
+    "char": "🟣",
+    "name": "Purple Circle",
+    "slug": "large-purple-circle",
+    "desc": "A solid purple dot."
+  },
+  {
+    "char": "🟤",
+    "name": "Brown Circle",
+    "slug": "large-brown-circle",
+    "desc": "A solid brown dot."
+  },
+  {
+    "char": "⚫",
+    "name": "Black Circle",
+    "slug": "large-black-circle",
+    "desc": "A solid black dot."
+  },
+  {
+    "char": "⚪",
+    "name": "White Circle",
+    "slug": "large-white-circle",
+    "desc": "A solid white dot."
+  },
+  {
+    "char": "🟥",
+    "name": "Red Square",
+    "slug": "large-red-square",
+    "desc": "A solid red block."
+  },
+  {
+    "char": "🟧",
+    "name": "Orange Square",
+    "slug": "large-orange-square",
+    "desc": "A solid orange block."
+  },
+  {
+    "char": "🟨",
+    "name": "Yellow Square",
+    "slug": "large-yellow-square",
+    "desc": "A solid yellow block."
+  },
+  {
+    "char": "🟩",
+    "name": "Green Square",
+    "slug": "large-green-square",
+    "desc": "A solid green block."
+  },
+  {
+    "char": "🟦",
+    "name": "Blue Square",
+    "slug": "large-blue-square",
+    "desc": "A solid blue block."
+  },
+  {
+    "char": "🟪",
+    "name": "Purple Square",
+    "slug": "large-purple-square",
+    "desc": "A solid purple block."
+  },
+  {
+    "char": "🟫",
+    "name": "Brown Square",
+    "slug": "large-brown-square",
+    "desc": "A solid brown block."
+  },
+  {
+    "char": "⬛",
+    "name": "Black Large Square",
+    "slug": "black-block",
+    "desc": "A solid black block."
+  },
+  {
+    "char": "⬜",
+    "name": "White Large Square",
+    "slug": "white-block",
+    "desc": "A solid white block."
+  },
+  {
+    "char": "◼️",
+    "name": "Black Medium Square",
+    "slug": "black-medium-block",
+    "desc": "A medium-sized black square."
+  },
+  {
+    "char": "◻️",
+    "name": "White Medium Square",
+    "slug": "white-medium-block",
+    "desc": "A medium-sized white square."
+  },
+  {
+    "char": "◾",
+    "name": "Black Medium-Small Square",
+    "slug": "black-med-small-sq",
+    "desc": "A smaller black square."
+  },
+  {
+    "char": "◽",
+    "name": "White Medium-Small Square",
+    "slug": "white-med-small-sq",
+    "desc": "A smaller white square."
+  },
+  {
+    "char": "▪️",
+    "name": "Black Small Square",
+    "slug": "black-small-sq",
+    "desc": "A very small black square."
+  },
+  {
+    "char": "▫️",
+    "name": "White Small Square",
+    "slug": "white-small-sq",
+    "desc": "A very small white square."
+  },
+  {
+    "char": "🔶",
+    "name": "Large Orange Diamond",
+    "slug": "large-orange-diamond",
+    "desc": "A big orange diamond shape."
+  },
+  {
+    "char": "🔷",
+    "name": "Large Blue Diamond",
+    "slug": "large-blue-diamond",
+    "desc": "A big blue diamond shape."
+  },
+  {
+    "char": "🔸",
+    "name": "Small Orange Diamond",
+    "slug": "small-orange-diamond",
+    "desc": "A small orange diamond shape."
+  },
+  {
+    "char": "🔹",
+    "name": "Small Blue Diamond",
+    "slug": "small-blue-diamond",
+    "desc": "A small blue diamond shape."
+  },
+  {
+    "char": "🔺",
+    "name": "Red Triangle Pointed Up",
+    "slug": "up-red-triangle",
+    "desc": "A solid red upward triangle."
+  },
+  {
+    "char": "🔻",
+    "name": "Red Triangle Pointed Down",
+    "slug": "down-red-triangle",
+    "desc": "A solid red downward triangle."
+  },
+  {
+    "char": "💠",
+    "name": "Diamond with a Dot",
+    "slug": "kawaii-diamond",
+    "desc": "A blue diamond with a smaller white dot inside."
+  },
+  {
+    "char": "🔘",
+    "name": "Radio Button",
+    "slug": "radio-button",
+    "desc": "A UI element used for single-choice selection."
+  },
+  {
+    "char": "🔳",
+    "name": "White Square Button",
+    "slug": "square-button-white",
+    "desc": "A white square with a black border."
+  },
+  {
+    "char": "🔲",
+    "name": "Black Square Button",
+    "slug": "square-button-black",
+    "desc": "A black square with a white border."
+  },
+  {
+    "char": "🏁",
+    "name": "Chequered Flag",
+    "slug": "finish-line",
+    "desc": "Symbol for the end of a race."
+  },
+  {
+    "char": "🚩",
+    "name": "Triangular Flag",
+    "slug": "marker-flag",
+    "desc": "Used to mark a target or goal."
+  },
+  {
+    "char": "🎌",
+    "name": "Crossed Flags",
+    "slug": "crossed-japan-flags",
+    "desc": "Two flags of Japan crossed."
+  },
+  {
+    "char": "🏴",
+    "name": "Waving Black Flag",
+    "slug": "black-flag-symbol",
+    "desc": "Often used for protest or style."
+  },
+  {
+    "char": "🏳️",
+    "name": "Waving White Flag",
+    "slug": "surrender-flag",
+    "desc": "Symbol for truce or giving up."
+  },
+  {
+    "char": "🏳️‍🌈",
+    "name": "Rainbow Flag",
+    "slug": "lgbtq-flag",
+    "desc": "Pride and diversity symbol."
+  },
+  {
+    "char": "🏳️‍⚧️",
+    "name": "Transgender Flag",
+    "slug": "trans-pride-flag",
+    "desc": "Symbol of the transgender community."
+  },
+  {
+    "char": "🏴‍☠️",
+    "name": "Pirate Flag",
+    "slug": "jolly-roger",
+    "desc": "Symbol for danger, piracy, or fun."
+  },
+  {
+    "char": "🕛",
+    "name": "Twelve O’Clock",
+    "slug": "12-00",
+    "desc": "Both hands on 12."
+  },
+  {
+    "char": "🕧",
+    "name": "Twelve-Thirty",
+    "slug": "12-30",
+    "desc": "Hour hand on 12, minute hand on 6."
+  },
+  {
+    "char": "🕐",
+    "name": "One O’Clock",
+    "slug": "1-00",
+    "desc": "Hour hand on 1."
+  },
+  {
+    "char": "🕜",
+    "name": "One-Thirty",
+    "slug": "1-30",
+    "desc": "Hour hand on 1, minute hand on 6."
+  },
+  {
+    "char": "🕑",
+    "name": "Two O’Clock",
+    "slug": "2-00",
+    "desc": "Hour hand on 2."
+  },
+  {
+    "char": "🕝",
+    "name": "Two-Thirty",
+    "slug": "2-30",
+    "desc": "Hour hand on 2, minute hand on 6."
+  },
+  {
+    "char": "🕒",
+    "name": "Three O’Clock",
+    "slug": "3-00",
+    "desc": "Hour hand on 3."
+  },
+  {
+    "char": "🕞",
+    "name": "Three-Thirty",
+    "slug": "3-30",
+    "desc": "Hour hand on 3, minute hand on 6."
+  },
+  {
+    "char": "🕓",
+    "name": "Four O’Clock",
+    "slug": "4-00",
+    "desc": "Hour hand on 4."
+  },
+  {
+    "char": "🕟",
+    "name": "Four-Thirty",
+    "slug": "4-30",
+    "desc": "Hour hand on 4, minute hand on 6."
+  },
+  {
+    "char": "🕔",
+    "name": "Five O’Clock",
+    "slug": "5-00",
+    "desc": "Hour hand on 5."
+  },
+  {
+    "char": "🕠",
+    "name": "Five-Thirty",
+    "slug": "5-30",
+    "desc": "Hour hand on 5, minute hand on 6."
+  },
+  {
+    "char": "🕕",
+    "name": "Six O’Clock",
+    "slug": "6-00",
+    "desc": "Hour hand on 6."
+  },
+  {
+    "char": "🕡",
+    "name": "Six-Thirty",
+    "slug": "6-30",
+    "desc": "Hour hand on 6, minute hand on 6."
+  },
+  {
+    "char": "🕖",
+    "name": "Seven O’Clock",
+    "slug": "7-00",
+    "desc": "Hour hand on 7."
+  },
+  {
+    "char": "🕢",
+    "name": "Seven-Thirty",
+    "slug": "7-30",
+    "desc": "Hour hand on 7, minute hand on 6."
+  },
+  {
+    "char": "🕗",
+    "name": "Eight O’Clock",
+    "slug": "8-00",
+    "desc": "Hour hand on 8."
+  },
+  {
+    "char": "🕣",
+    "name": "Eight-Thirty",
+    "slug": "8-30",
+    "desc": "Hour hand on 8, minute hand on 6."
+  },
+  {
+    "char": "🕘",
+    "name": "Nine O’Clock",
+    "slug": "9-00",
+    "desc": "Hour hand on 9."
+  },
+  {
+    "char": "🕤",
+    "name": "Nine-Thirty",
+    "slug": "9-30",
+    "desc": "Hour hand on 9, minute hand on 6."
+  },
+  {
+    "char": "🕙",
+    "name": "Ten O’Clock",
+    "slug": "10-00",
+    "desc": "Hour hand on 10."
+  },
+  {
+    "char": "🕥",
+    "name": "Ten-Thirty",
+    "slug": "10-30",
+    "desc": "Hour hand on 10, minute hand on 6."
+  },
+  {
+    "char": "🕚",
+    "name": "Eleven O’Clock",
+    "slug": "11-00",
+    "desc": "Hour hand on 11."
+  },
+  {
+    "char": "🕦",
+    "name": "Eleven-Thirty",
+    "slug": "11-30",
+    "desc": "Hour hand on 11, minute hand on 6."
+  },
+  {
+    "char": "💯",
+    "name": "Hundred Points",
+    "slug": "100-score",
+    "desc": "A perfect score of 100, written in red."
+  },
+  {
+    "char": "💬",
+    "name": "Speech Balloon",
+    "slug": "chat-bubble",
+    "desc": "A comic-style bubble representing talking."
+  },
+  {
+    "char": "👁️‍🗨️",
+    "name": "Eye in Speech Bubble",
+    "slug": "anti-bullying",
+    "desc": "Symbol for the 'I Am A Witness' anti-bullying campaign."
+  },
+  {
+    "char": "💭",
+    "name": "Thought Balloon",
+    "slug": "thinking-bubble",
+    "desc": "A cloud-shaped bubble representing internal thoughts."
+  },
+  {
+    "char": "🗯️",
+    "name": "Right Anger Bubble",
+    "slug": "anger-bubble",
+    "desc": "A jagged-edge bubble representing shouting or anger."
+  },
+  {
+    "char": "🕳️",
+    "name": "Hole",
+    "slug": "black-hole",
+    "desc": "A dark circle representing an opening or pit."
+  },
+  {
+    "char": "🗨️",
+    "name": "Left Speech Bubble",
+    "slug": "talk-bubble-left",
+    "desc": "An alternative speech bubble direction."
+  },
+  {
+    "char": "🔈",
+    "name": "Speaker Low Volume",
+    "slug": "speaker-low",
+    "desc": "A speaker icon without sound waves."
+  },
+  {
+    "char": "🔉",
+    "name": "Speaker Medium Volume",
+    "slug": "speaker-medium",
+    "desc": "A speaker icon with one sound wave."
+  },
+  {
+    "char": "🔊",
+    "name": "Speaker High Volume",
+    "slug": "speaker-high",
+    "desc": "A speaker icon with three sound waves."
+  },
+  {
+    "char": "🔇",
+    "name": "Muted Speaker",
+    "slug": "mute",
+    "desc": "A speaker icon with a red slash."
+  },
+  {
+    "char": "🔔",
+    "name": "Bell",
+    "slug": "notification-bell",
+    "desc": "Used for notifications or alerts."
+  },
+  {
+    "char": "🔕",
+    "name": "Bell with Slash",
+    "slug": "notifications-off",
+    "desc": "Used for 'Do Not Disturb' mode."
+  },
+  {
+    "char": "📣",
+    "name": "Megaphone",
+    "slug": "announcement",
+    "desc": "Used for shouting or making announcements."
+  },
+  {
+    "char": "📢",
+    "name": "Loudspeaker",
+    "slug": "pa-system",
+    "desc": "Used for public broadcasts."
+  },
+  {
+    "char": "🎵",
+    "name": "Musical Note",
+    "slug": "music-note",
+    "desc": "A generic eighth note."
+  },
+  {
+    "char": "🎶",
+    "name": "Musical Notes",
+    "slug": "notes-multiple",
+    "desc": "Used to represent music or singing."
+  },
+  {
+    "char": "🎼",
+    "name": "Musical Score",
+    "slug": "treble-clef",
+    "desc": "A treble clef and staff lines."
+  },
+  {
+    "char": "💹",
+    "name": "Chart Increasing with Yen",
+    "slug": "yen-chart",
+    "desc": "An upward trend line with a Yen sign."
+  },
+  {
+    "char": "🏧",
+    "name": "ATM Sign",
+    "slug": "automated-teller",
+    "desc": "Automated Teller Machine for banking."
+  },
+  {
+    "char": "🚮",
+    "name": "Litter in Bin Sign",
+    "slug": "trash-bin-sign",
+    "desc": "Reminder to use trash receptacles."
+  },
+  {
+    "char": "🚰",
+    "name": "Potable Water",
+    "slug": "drinking-water",
+    "desc": "A tap and glass, indicating safe water."
+  },
+  {
+    "char": "♿",
+    "name": "Wheelchair Symbol",
+    "slug": "handicap-access",
+    "desc": "International symbol of access."
+  },
+  {
+    "char": "🚹",
+    "name": "Men’s Room",
+    "slug": "mens-toilet",
+    "desc": "Restroom symbol for men."
+  },
+  {
+    "char": "🚺",
+    "name": "Women’s Room",
+    "slug": "womens-toilet",
+    "desc": "Restroom symbol for women."
+  },
+  {
+    "char": "🚻",
+    "name": "Restroom",
+    "slug": "unisex-toilet",
+    "desc": "General toilet symbol for all."
+  },
+  {
+    "char": "🚼",
+    "name": "Baby Symbol",
+    "slug": "baby-on-board",
+    "desc": "Used for nursery or baby-changing facilities."
+  },
+  {
+    "char": "🚽",
+    "name": "Toilet",
+    "slug": "wc",
+    "desc": "A standard porcelain toilet."
+  },
+  {
+    "char": "🚿",
+    "name": "Shower",
+    "slug": "shower-icon",
+    "desc": "A shower head spraying water."
+  },
+  {
+    "char": "🛀",
+    "name": "Bath",
+    "slug": "bathtub",
+    "desc": "A person in a tub with water."
+  },
+  {
+    "char": "🛁",
+    "name": "Bathtub",
+    "slug": "empty-bath",
+    "desc": "A standard white bathtub."
+  },
+  {
+    "char": "🛂",
+    "name": "Passport Control",
+    "slug": "customs",
+    "desc": "Sign for border and passport checks."
+  },
+  {
+    "char": "🛃",
+    "name": "Customs",
+    "slug": "customs-check",
+    "desc": "Sign for declaring goods at a border."
+  },
+  {
+    "char": "🛄",
+    "name": "Baggage Claim",
+    "slug": "luggage-pickup",
+    "desc": "Sign for retrieving bags after travel."
+  },
+  {
+    "char": "🛅",
+    "name": "Left Luggage",
+    "slug": "baggage-storage",
+    "desc": "Sign for storing luggage temporarily."
+  },
+  {
+    "char": "📴",
+    "name": "Mobile Phone Off",
+    "slug": "silence-phones",
+    "desc": "Notice to turn off cellular devices."
+  },
+  {
+    "char": "📵",
+    "name": "No Mobile Phones",
+    "slug": "no-phones",
+    "desc": "Phones are not allowed in this area."
+  },
+  {
+    "char": "📶",
+    "name": "Signal Bars",
+    "slug": "mobile-network",
+    "desc": "Strength of cellular connection."
+  },
+  {
+    "char": "🛜",
+    "name": "Wireless",
+    "slug": "wifi-signal",
+    "desc": "Representing Wi-Fi or wireless data."
+  },
+  {
+    "char": "🔞",
+    "name": "Adult Content",
+    "slug": "18-plus",
+    "desc": "Content restricted to adults."
+  },
+  {
+    "char": "☢️",
+    "name": "Radiation",
+    "slug": "atomic-hazard",
+    "desc": "Danger from radioactive materials."
+  },
+  {
+    "char": "☣️",
+    "name": "Biohazard",
+    "slug": "pathogen-hazard",
+    "desc": "Danger from biological agents."
+  },
+  {
+    "char": "⬆️",
+    "name": "Up",
+    "slug": "direction-north",
+    "desc": "Straight ahead or up."
+  },
+  {
+    "char": "⬇️",
+    "name": "Down",
+    "slug": "direction-south",
+    "desc": "Behind or down."
+  },
+  {
+    "char": "⬅️",
+    "name": "Left",
+    "slug": "direction-west",
+    "desc": "To the left side."
+  },
+  {
+    "char": "➡️",
+    "name": "Right",
+    "slug": "direction-east",
+    "desc": "To the right side."
+  },
+  {
+    "char": "↗️",
+    "name": "Northeast",
+    "slug": "up-right",
+    "desc": "Diagonal up and right."
+  },
+  {
+    "char": "↖️",
+    "name": "Northwest",
+    "slug": "up-left",
+    "desc": "Diagonal up and left."
+  },
+  {
+    "char": "↘️",
+    "name": "Southeast",
+    "slug": "down-right",
+    "desc": "Diagonal down and right."
+  },
+  {
+    "char": "↙️",
+    "name": "Southwest",
+    "slug": "down-left",
+    "desc": "Diagonal down and left."
+  },
+  {
+    "char": "↔️",
+    "name": "Horizontal",
+    "slug": "width-sign",
+    "desc": "Showing width or sideways motion."
+  },
+  {
+    "char": "↕️",
+    "name": "Vertical",
+    "slug": "height-sign",
+    "desc": "Showing height or up/down motion."
+  },
+  {
+    "char": "🔄",
+    "name": "Cycle",
+    "slug": "reload-sync",
+    "desc": "Repetitive action or process."
+  },
+  {
+    "char": "🔃",
+    "name": "Refresh",
+    "slug": "reload-vertical",
+    "desc": "Update or restart content."
+  },
+  {
+    "char": "🔙",
+    "name": "Back",
+    "slug": "return-to-previous",
+    "desc": "Go to the last screen or page."
+  },
+  {
+    "char": "🔚",
+    "name": "End",
+    "slug": "go-to-finish",
+    "desc": "Go to the very bottom or end."
+  },
+  {
+    "char": "🔛",
+    "name": "On",
+    "slug": "on-switch",
+    "desc": "Activated or currently running."
+  },
+  {
+    "char": "🔝",
+    "name": "Top",
+    "slug": "go-to-start",
+    "desc": "Go to the very top or beginning."
+  },
+  {
+    "char": "🔜",
+    "name": "Soon",
+    "slug": "coming-soon",
+    "desc": "Happening in the near future."
+  },
+  {
+    "char": "⚛️",
+    "name": "Nuclear",
+    "slug": "atom-physics",
+    "desc": "Scientific or energy-related."
+  },
+  {
+    "char": "🕉️",
+    "name": "Mantra",
+    "slug": "sacred-sound",
+    "desc": "Spiritual vibration sign."
+  },
+  {
+    "char": "✡️",
+    "name": "Judaism",
+    "slug": "david-shield",
+    "desc": "Religious and cultural Jewish mark."
+  },
+  {
+    "char": "☸️",
+    "name": "Buddhist",
+    "slug": "path-wheel",
+    "desc": "Spiritual enlightenment wheel."
+  },
+  {
+    "char": "☯️",
+    "name": "Harmony",
+    "slug": "balanced-forces",
+    "desc": "Philosophical symbol of unity."
+  },
+  {
+    "char": "✝️",
+    "name": "Cross",
+    "slug": "faith-symbol",
+    "desc": "Religious mark of the church."
+  },
+  {
+    "char": "☦️",
+    "name": "Orthodoxy",
+    "slug": "eastern-cross",
+    "desc": "Byzantine religious mark."
+  },
+  {
+    "char": "☪️",
+    "name": "Islam",
+    "slug": "crescent-moon-star",
+    "desc": "Faith and national identity mark."
+  },
+  {
+    "char": "🕎",
+    "name": "Hanukkah Menorah",
+    "slug": "candles-holder",
+    "desc": "Symbol for the Festival of Lights."
+  },
+  {
+    "char": "✡️",
+    "name": "Jewish",
+    "slug": "star-faith",
+    "desc": "Representing Hebrew culture."
+  },
+  {
+    "char": "♈",
+    "name": "Ram",
+    "slug": "aries-zodiac",
+    "desc": "The first month of the zodiac."
+  },
+  {
+    "char": "♉",
+    "name": "Bull",
+    "slug": "taurus-zodiac",
+    "desc": "The second month of the zodiac."
+  },
+  {
+    "char": "♊",
+    "name": "Twins",
+    "slug": "gemini-zodiac",
+    "desc": "The third month of the zodiac."
+  },
+  {
+    "char": "♋",
+    "name": "Crab",
+    "slug": "cancer-zodiac",
+    "desc": "The fourth month of the zodiac."
+  },
+  {
+    "char": "♌",
+    "name": "Lion",
+    "slug": "leo-zodiac",
+    "desc": "The fifth month of the zodiac."
+  },
+  {
+    "char": "♍",
+    "name": "Virgin",
+    "slug": "virgo-zodiac",
+    "desc": "The sixth month of the zodiac."
+  },
+  {
+    "char": "♎",
+    "name": "Scales",
+    "slug": "libra-zodiac",
+    "desc": "The seventh month of the zodiac."
+  },
+  {
+    "char": "♏",
+    "name": "Scorpion",
+    "slug": "scorpio-zodiac",
+    "desc": "The eighth month of the zodiac."
+  },
+  {
+    "char": "♐",
+    "name": "Archer",
+    "slug": "sagittarius-zodiac",
+    "desc": "The ninth month of the zodiac."
+  },
+  {
+    "char": "♑",
+    "name": "Sea-Goat",
+    "slug": "capricorn-zodiac",
+    "desc": "The tenth month of the zodiac."
+  },
+  {
+    "char": "♒",
+    "name": "Water-Bearer",
+    "slug": "aquarius-zodiac",
+    "desc": "The eleventh month of the zodiac."
+  },
+  {
+    "char": "♓",
+    "name": "Fish",
+    "slug": "pisces-zodiac",
+    "desc": "The twelfth month of the zodiac."
+  },
+  {
+    "char": "⛎",
+    "name": "Snake Bearer",
+    "slug": "serpent-zodiac",
+    "desc": "The optional 13th zodiac sign."
+  },
+  {
+    "char": "🔀",
+    "name": "Random",
+    "slug": "music-shuffle",
+    "desc": "Playing tracks out of order."
+  },
+  {
+    "char": "🔁",
+    "name": "Loop",
+    "slug": "music-repeat",
+    "desc": "Playing a list over again."
+  },
+  {
+    "char": "🔂",
+    "name": "One",
+    "slug": "music-repeat-one",
+    "desc": "Playing one song over again."
+  },
+  {
+    "char": "▶️",
+    "name": "Start",
+    "slug": "media-play",
+    "desc": "Beginning playback."
+  },
+  {
+    "char": "⏩",
+    "name": "Forward",
+    "slug": "media-fast",
+    "desc": "Moving ahead quickly."
+  },
+  {
+    "char": "⏭️",
+    "name": "Next",
+    "slug": "media-next",
+    "desc": "Going to the following track."
+  },
+  {
+    "char": "⏯️",
+    "name": "Toggle",
+    "slug": "media-toggle",
+    "desc": "Switching between play and pause."
+  },
+  {
+    "char": "◀️",
+    "name": "Backwards",
+    "slug": "media-reverse",
+    "desc": "Moving back to start."
+  },
+  {
+    "char": "⏪",
+    "name": "Rewind",
+    "slug": "media-rewind",
+    "desc": "Moving back quickly."
+  },
+  {
+    "char": "⏮️",
+    "name": "Previous",
+    "slug": "media-prev",
+    "desc": "Going to the previous track."
+  },
+  {
+    "char": "🔼",
+    "name": "Up-Triangle",
+    "slug": "button-up",
+    "desc": "Small indicator for up."
+  },
+  {
+    "char": "⏫",
+    "name": "Double-Up",
+    "slug": "button-double-up",
+    "desc": "Fast upward movement."
+  },
+  {
+    "char": "🔽",
+    "name": "Down-Triangle",
+    "slug": "button-down",
+    "desc": "Small indicator for down."
+  },
+  {
+    "char": "⏬",
+    "name": "Double-Down",
+    "slug": "button-double-down",
+    "desc": "Fast downward movement."
+  },
+  {
+    "char": "⏸️",
+    "name": "Wait",
+    "slug": "media-pause",
+    "desc": "Holding current position."
+  },
+  {
+    "char": "⏹️",
+    "name": "End-Play",
+    "slug": "media-stop",
+    "desc": "Terminating playback."
+  },
+  {
+    "char": "⏺️",
+    "name": "Capture",
+    "slug": "media-record",
+    "desc": "Saving audio or video."
+  },
+  {
+    "char": "⏏️",
+    "name": "Remove",
+    "slug": "media-eject",
+    "desc": "Popping out a disc or drive."
+  },
+  {
+    "char": "🎦",
+    "name": "Movies",
+    "slug": "cinema-symbol",
+    "desc": "Sign for cinema or films."
+  },
+  {
+    "char": "🔅",
+    "name": "Low",
+    "slug": "brightness-low",
+    "desc": "Reduced light levels."
+  },
+  {
+    "char": "🔆",
+    "name": "High",
+    "slug": "brightness-high",
+    "desc": "Increased light levels."
+  },
+  {
+    "char": "📶",
+    "name": "Cellular",
+    "slug": "reception-bars",
+    "desc": "Strength of mobile data."
+  },
+  {
+    "char": "📳",
+    "name": "Buzzer",
+    "slug": "vibration-alert",
+    "desc": "Silent physical alert."
+  },
+  {
+    "char": "📴",
+    "name": "Shutdown",
+    "slug": "power-off",
+    "desc": "Turning off a device."
+  },
+  {
+    "char": "♀️",
+    "name": "Woman",
+    "slug": "gender-female",
+    "desc": "Symbol for femininity."
+  },
+  {
+    "char": "♂️",
+    "name": "Man",
+    "slug": "gender-male",
+    "desc": "Symbol for masculinity."
+  },
+  {
+    "char": "⚧️",
+    "name": "Non-Binary",
+    "slug": "gender-trans",
+    "desc": "Symbol for gender variety."
+  },
+  {
+    "char": "✖️",
+    "name": "Multiply-X",
+    "slug": "math-times",
+    "desc": "Mathematical product sign."
+  },
+  {
+    "char": "➕",
+    "name": "Plus",
+    "slug": "math-add",
+    "desc": "Mathematical addition sign."
+  },
+  {
+    "char": "➖",
+    "name": "Minus",
+    "slug": "math-sub",
+    "desc": "Mathematical subtraction sign."
+  },
+  {
+    "char": "➗",
+    "name": "Division",
+    "slug": "math-divide",
+    "desc": "Mathematical quotient sign."
+  },
+  {
+    "char": "♾️",
+    "name": "Forever",
+    "slug": "math-infinity",
+    "desc": "Endless quantity sign."
+  },
+  {
+    "char": "‼️",
+    "name": "Alert-Double",
+    "slug": "double-exclamation",
+    "desc": "High priority alert."
+  },
+  {
+    "char": "⁉️",
+    "name": "Shock",
+    "slug": "what-the",
+    "desc": "Surprised questioning."
+  },
+  {
+    "char": "❓",
+    "name": "Query",
+    "slug": "ask-question",
+    "desc": "Looking for an answer."
+  },
+  {
+    "char": "❔",
+    "name": "Pale-Query",
+    "slug": "light-question",
+    "desc": "Stylized asking."
+  },
+  {
+    "char": "❕",
+    "name": "Pale-Alert",
+    "slug": "light-exclamation",
+    "desc": "Stylized emphasis."
+  },
+  {
+    "char": "❗",
+    "name": "Alert",
+    "slug": "heavy-exclamation-mark",
+    "desc": "Standard emphasis."
+  },
+  {
+    "char": "〰️",
+    "name": "Wavy",
+    "slug": "squiggly-dash",
+    "desc": "Curved separator."
+  },
+  {
+    "char": "💱",
+    "name": "Exchange",
+    "slug": "swap-currency",
+    "desc": "Trading money types."
+  },
+  {
+    "char": "💲",
+    "name": "USD",
+    "slug": "dollar-currency",
+    "desc": "American money symbol."
+  },
+  {
+    "char": "⚕️",
+    "name": "Doctor",
+    "slug": "medical-rod",
+    "desc": "Healthcare and medicine mark."
+  },
+  {
+    "char": "⚖️",
+    "name": "Law",
+    "slug": "justice-scale",
+    "desc": "Equality and legal mark."
+  },
+  {
+    "char": "🔱",
+    "name": "Spear",
+    "slug": "trident-symbol",
+    "desc": "Naval or mythological mark."
+  },
+  {
+    "char": "📛",
+    "name": "Sticker",
+    "slug": "name-badge-mark",
+    "desc": "Identification tag."
+  },
+  {
+    "char": "⭕",
+    "name": "O-Mark",
+    "slug": "circle-hollow",
+    "desc": "Success or correct sign."
+  },
+  {
+    "char": "✅",
+    "name": "Checked",
+    "slug": "green-check",
+    "desc": "Verified and completed."
+  },
+  {
+    "char": "☑️",
+    "name": "Boxed-Check",
+    "slug": "check-in-box",
+    "desc": "Selected choice."
+  },
+  {
+    "char": "✔️",
+    "name": "Tick",
+    "slug": "black-check",
+    "desc": "Simple verification."
+  },
+  {
+    "char": "❌",
+    "name": "X-Mark",
+    "slug": "red-x",
+    "desc": "Error or cancellation."
+  },
+  {
+    "char": "❎",
+    "name": "Boxed-X",
+    "slug": "x-in-box",
+    "desc": "Rejected choice."
+  },
+  {
+    "char": "➰",
+    "name": "Loop-de-loop",
+    "slug": "single-loop",
+    "desc": "Single decorative curl."
+  },
+  {
+    "char": "➿",
+    "name": "Double-Loop",
+    "slug": "voicemail-loop",
+    "desc": "Standard voicemail icon."
+  },
+  {
+    "char": "〽️",
+    "name": "Singer",
+    "slug": "voice-start",
+    "desc": "Vocal entrance mark."
+  },
+  {
+    "char": "✳️",
+    "name": "Asterisk",
+    "slug": "eight-spoke-star",
+    "desc": "Footnote or star mark."
+  },
+  {
+    "char": "✴️",
+    "name": "Burst",
+    "slug": "orange-star-mark",
+    "desc": "Pointed emphasis mark."
+  },
+  {
+    "char": "❇️",
+    "name": "Glint",
+    "slug": "sparkle-mark",
+    "desc": "Shining or clean mark."
+  },
+  {
+    "char": "©️",
+    "name": "CR",
+    "slug": "copy-right",
+    "desc": "Author ownership mark."
+  },
+  {
+    "char": "®️",
+    "name": "Reg",
+    "slug": "registered",
+    "desc": "Official trademark mark."
+  },
+  {
+    "char": "™️",
+    "name": "TM",
+    "slug": "trademark",
+    "desc": "Brand protection mark."
+  },
+  {
+    "char": "🔠",
+    "name": "ABCD",
+    "slug": "upper-case",
+    "desc": "Capital letters mode."
+  },
+  {
+    "char": "🔡",
+    "name": "abcd",
+    "slug": "lower-case",
+    "desc": "Small letters mode."
+  },
+  {
+    "char": "🔢",
+    "name": "1234",
+    "slug": "numbers-mode",
+    "desc": "Digits input mode."
+  },
+  {
+    "char": "🔣",
+    "name": "&%$#",
+    "slug": "symbols-mode",
+    "desc": "Special characters mode."
+  },
+  {
+    "char": "🔤",
+    "name": "ABC",
+    "slug": "latin-alphabet",
+    "desc": "English letters mode."
+  },
+  {
+    "char": "🅰️",
+    "name": "Blood-A",
+    "slug": "type-a",
+    "desc": "Group A blood."
+  },
+  {
+    "char": "🆎",
+    "name": "Blood-AB",
+    "slug": "type-ab",
+    "desc": "Group AB blood."
+  },
+  {
+    "char": "🅱️",
+    "name": "Blood-B",
+    "slug": "type-b",
+    "desc": "Group B blood."
+  },
+  {
+    "char": "🆑",
+    "name": "CL",
+    "slug": "clear-entry",
+    "desc": "Deleting input."
+  },
+  {
+    "char": "🆒",
+    "name": "Cool",
+    "slug": "cool-indicator",
+    "desc": "Trendiness sign."
+  },
+  {
+    "char": "🆓",
+    "name": "Free",
+    "slug": "no-cost-sign",
+    "desc": "Gratis sign."
+  },
+  {
+    "char": "ℹ️",
+    "name": "Info",
+    "slug": "information-source",
+    "desc": "Help and details mark."
+  },
+  {
+    "char": "🆔",
+    "name": "Identity",
+    "slug": "id-required",
+    "desc": "Validation mark."
+  },
+  {
+    "char": "Ⓜ️",
+    "name": "M-Sign",
+    "slug": "circled-latin-m",
+    "desc": "Subway or brand mark."
+  },
+  {
+    "char": "🆕",
+    "name": "New",
+    "slug": "new-label",
+    "desc": "Recent arrival mark."
+  },
+  {
+    "char": "🆖",
+    "name": "No-Good",
+    "slug": "ng-sign",
+    "desc": "Failure or bad mark."
+  },
+  {
+    "char": "🅾️",
+    "name": "Blood-O",
+    "slug": "type-o",
+    "desc": "Group O blood."
+  },
+  {
+    "char": "🆗",
+    "name": "Ok",
+    "slug": "okay-sign",
+    "desc": "Confirmation label."
+  },
+  {
+    "char": "🅿️",
+    "name": "P-Sign",
+    "slug": "parking-label",
+    "desc": "Auto parking mark."
+  },
+  {
+    "char": "🆘",
+    "name": "SOS",
+    "slug": "distress-label",
+    "desc": "Help requested mark."
+  },
+  {
+    "char": "🆙",
+    "name": "Up-Label",
+    "slug": "upgrade-sign",
+    "desc": "Increased status mark."
+  },
+  {
+    "char": "🆚",
+    "name": "VS",
+    "slug": "versus-label",
+    "desc": "Comparison or battle mark."
+  },
+  {
+    "char": "🈁",
+    "name": "J-Here",
+    "slug": "koko-sign",
+    "desc": "Location here in Kanji."
+  },
+  {
+    "char": "🈂️",
+    "name": "J-Service",
+    "slug": "sa-sign",
+    "desc": "Service indicator in Katakana."
+  },
+  {
+    "char": "🈷️",
+    "name": "J-Month",
+    "slug": "tsuki-sign",
+    "desc": "Moon or month in Kanji."
+  },
+  {
+    "char": "🈶",
+    "name": "J-Exist",
+    "slug": "ari-sign",
+    "desc": "Owned or available in Kanji."
+  },
+  {
+    "char": "🈯",
+    "name": "J-Point",
+    "slug": "yubi-sign",
+    "desc": "Specified or finger in Kanji."
+  },
+  {
+    "char": "🉐",
+    "name": "J-Profit",
+    "slug": "toku-sign",
+    "desc": "Good deal in Kanji."
+  },
+  {
+    "char": "🈹",
+    "name": "J-Divide",
+    "slug": "wari-sign",
+    "desc": "Sale or discount in Kanji."
+  },
+  {
+    "char": "🈚",
+    "name": "J-None",
+    "slug": "nashi-sign",
+    "desc": "Empty or free in Kanji."
+  },
+  {
+    "char": "🈲",
+    "name": "J-Ban",
+    "slug": "kin-sign",
+    "desc": "Forbidden in Kanji."
+  },
+  {
+    "char": "🉑",
+    "name": "J-Yes",
+    "slug": "ka-sign",
+    "desc": "Allowed in Kanji."
+  },
+  {
+    "char": "🈸",
+    "name": "J-Apply",
+    "slug": "shin-sign",
+    "desc": "Register in Kanji."
+  },
+  {
+    "char": "🈴",
+    "name": "J-Pass",
+    "slug": "gou-sign",
+    "desc": "Success in Kanji."
+  },
+  {
+    "char": "🈳",
+    "name": "J-Empty",
+    "slug": "ku-sign",
+    "desc": "Space available in Kanji."
+  },
+  {
+    "char": "㊗️",
+    "name": "J-Celeb",
+    "slug": "iwai-sign",
+    "desc": "Party or congrats in Kanji."
+  },
+  {
+    "char": "㊙️",
+    "name": "J-Secret",
+    "slug": "hi-sign",
+    "desc": "Private in Kanji."
+  },
+  {
+    "char": "🈺",
+    "name": "J-Work",
+    "slug": "gyou-sign",
+    "desc": "Operating in Kanji."
+  },
+  {
+    "char": "🈵",
+    "name": "J-Full",
+    "slug": "man-sign",
+    "desc": "No room in Kanji."
+  },
+  {
+    "char": "🔴",
+    "name": "Red-Dot",
+    "slug": "circle-red",
+    "desc": "Large red sphere."
+  },
+  {
+    "char": "🟠",
+    "name": "Orange-Dot",
+    "slug": "circle-orange",
+    "desc": "Large orange sphere."
+  },
+  {
+    "char": "🟡",
+    "name": "Yellow-Dot",
+    "slug": "circle-yellow",
+    "desc": "Large yellow sphere."
+  },
+  {
+    "char": "🟢",
+    "name": "Green-Dot",
+    "slug": "circle-green",
+    "desc": "Large green sphere."
+  },
+  {
+    "char": "🔵",
+    "name": "Blue-Dot",
+    "slug": "circle-blue",
+    "desc": "Large blue sphere."
+  },
+  {
+    "char": "🟣",
+    "name": "Purple-Dot",
+    "slug": "circle-purple",
+    "desc": "Large purple sphere."
+  },
+  {
+    "char": "🟤",
+    "name": "Brown-Dot",
+    "slug": "circle-brown",
+    "desc": "Large brown sphere."
+  },
+  {
+    "char": "⚫",
+    "name": "Black-Dot",
+    "slug": "circle-black",
+    "desc": "Large black sphere."
+  },
+  {
+    "char": "⚪",
+    "name": "White-Dot",
+    "slug": "circle-white",
+    "desc": "Large white sphere."
+  },
+  {
+    "char": "🟥",
+    "name": "Red-Box",
+    "slug": "box-red",
+    "desc": "Large red cube."
+  },
+  {
+    "char": "🟧",
+    "name": "Orange-Box",
+    "slug": "box-orange",
+    "desc": "Large orange cube."
+  },
+  {
+    "char": "🟨",
+    "name": "Yellow-Box",
+    "slug": "box-yellow",
+    "desc": "Large yellow cube."
+  },
+  {
+    "char": "🟩",
+    "name": "Green-Box",
+    "slug": "box-green",
+    "desc": "Large green cube."
+  },
+  {
+    "char": "🟦",
+    "name": "Blue-Box",
+    "slug": "box-blue",
+    "desc": "Large blue cube."
+  },
+  {
+    "char": "🟪",
+    "name": "Purple-Box",
+    "slug": "box-purple",
+    "desc": "Large purple cube."
+  },
+  {
+    "char": "🟫",
+    "name": "Brown-Box",
+    "slug": "box-brown",
+    "desc": "Large brown cube."
+  },
+  {
+    "char": "⬛",
+    "name": "Black-Box",
+    "slug": "box-black",
+    "desc": "Large black cube."
+  },
+  {
+    "char": "⬜",
+    "name": "White-Box",
+    "slug": "box-white",
+    "desc": "Large white cube."
+  },
+  {
+    "char": "◼️",
+    "name": "Mid-Black",
+    "slug": "medium-black-sq",
+    "desc": "Average black box."
+  },
+  {
+    "char": "◻️",
+    "name": "Mid-White",
+    "slug": "medium-white-sq",
+    "desc": "Average white box."
+  },
+  {
+    "char": "◾",
+    "name": "Smallish-Black",
+    "slug": "med-small-black-sq",
+    "desc": "Sub-average black box."
+  },
+  {
+    "char": "◽",
+    "name": "Smallish-White",
+    "slug": "med-small-white-sq",
+    "desc": "Sub-average white box."
+  },
+  {
+    "char": "▪️",
+    "name": "Tiny-Black",
+    "slug": "small-black-sq",
+    "desc": "Minimal black box."
+  },
+  {
+    "char": "▫️",
+    "name": "Tiny-White",
+    "slug": "small-white-sq",
+    "desc": "Minimal white box."
+  },
+  {
+    "char": "🔶",
+    "name": "Big-Orange-D",
+    "slug": "diamond-large-orange",
+    "desc": "Mighty orange jewel."
+  },
+  {
+    "char": "🔷",
+    "name": "Big-Blue-D",
+    "slug": "diamond-large-blue",
+    "desc": "Mighty blue jewel."
+  },
+  {
+    "char": "🔸",
+    "name": "Lil-Orange-D",
+    "slug": "diamond-small-orange",
+    "desc": "Dainty orange jewel."
+  },
+  {
+    "char": "🔹",
+    "name": "Lil-Blue-D",
+    "slug": "diamond-small-blue",
+    "desc": "Dainty blue jewel."
+  },
+  {
+    "char": "🔺",
+    "name": "Point-Up",
+    "slug": "triangle-up",
+    "desc": "Directional up wedge."
+  },
+  {
+    "char": "🔻",
+    "name": "Point-Down",
+    "slug": "triangle-down",
+    "desc": "Directional down wedge."
+  },
+  {
+    "char": "💠",
+    "name": "Diamond-Dot",
+    "slug": "fancy-diamond",
+    "desc": "Blue flower-like jewel."
+  },
+  {
+    "char": "🔘",
+    "name": "Circle-Button",
+    "slug": "ui-radio",
+    "desc": "Menu selection circle."
+  },
+  {
+    "char": "🔳",
+    "name": "Outline-Box",
+    "slug": "button-white-sq",
+    "desc": "Bordered white cell."
+  },
+  {
+    "char": "🔲",
+    "name": "Border-Box",
+    "slug": "button-black-sq",
+    "desc": "Bordered black cell."
+  },
+  {
+    "char": "🏁",
+    "name": "Check-Flag",
+    "slug": "race-flag",
+    "desc": "Racing finish mark."
+  },
+  {
+    "char": "🚩",
+    "name": "Target-Flag",
+    "slug": "red-banner",
+    "desc": "Point of interest mark."
+  },
+  {
+    "char": "🎌",
+    "name": "Cross-Flags",
+    "slug": "japanese-celebration",
+    "desc": "Two national flags."
+  },
+  {
+    "char": "🏴",
+    "name": "Black-Banner",
+    "slug": "waving-black",
+    "desc": "Style or pirate flag."
+  },
+  {
+    "char": "🏳️",
+    "name": "White-Banner",
+    "slug": "waving-white",
+    "desc": "Peace or surrender flag."
+  },
+  {
+    "char": "🏳️‍🌈",
+    "name": "Pride-Banner",
+    "slug": "rainbow-pride",
+    "desc": "Diversity banner."
+  },
+  {
+    "char": "🏳️‍⚧️",
+    "name": "Trans-Banner",
+    "slug": "trans-pride",
+    "desc": "Gender identity banner."
+  },
+  {
+    "char": "🏴‍☠️",
+    "name": "Pirate-Banner",
+    "slug": "skull-flag",
+    "desc": "Danger or plunder flag."
+  }
+]

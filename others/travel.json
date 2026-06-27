@@ -1,0 +1,74 @@
+[
+  {
+    "char": "✈️",
+    "name": "Travel Airplane",
+    "slug": "travel-airplane-flight-emoji",
+    "desc": "The ultimate symbol for air travel and international trips. Perfect for flight bookings, vacation announcements, and jet-setting lifestyle content."
+  },
+  {
+    "char": "🧳",
+    "name": "Travel Luggage",
+    "slug": "travel-luggage-packing-emoji",
+    "desc": "Represents the act of packing and preparing for a trip. High SEO value for travel tips, packing hacks, and baggage handling services."
+  },
+  {
+    "char": "🗺️",
+    "name": "Travel World Map",
+    "slug": "travel-map-exploration-emoji",
+    "desc": "Symbolizes trip planning and global exploration. Ideal for travel itineraries, geography content, and 'wanderlust' social media posts."
+  },
+  {
+    "char": "🏖️",
+    "name": "Travel Beach Vacation",
+    "slug": "travel-beach-resort-emoji",
+    "desc": "The go-to icon for summer holidays and tropical travel. Used for promoting resorts, seaside getaways, and relaxing coastal tours."
+  },
+  {
+    "char": "🏨",
+    "name": "Travel Hotel Stay",
+    "slug": "travel-hotel-accommodation-emoji",
+    "desc": "Represents hospitality and overnight travel accommodations. Essential for hotel reviews, booking platforms, and luxury staycation content."
+  },
+  {
+    "char": "🗼",
+    "name": "Travel Sightseeing",
+    "slug": "travel-sightseeing-landmarks-emoji",
+    "desc": "Symbolizes visiting famous landmarks and city tourism. Great for travel guides, urban exploration, and international sightseeing tours."
+  },
+  {
+    "char": "🚇",
+    "name": "Travel Public Transport",
+    "slug": "travel-metro-transit-emoji",
+    "desc": "Represents local commuting and urban traveling. Perfect for city transit apps, subway guides, and sustainable travel topics."
+  },
+  {
+    "char": "🚗",
+    "name": "Travel Road Trip",
+    "slug": "travel-car-road-trip-emoji",
+    "desc": "The primary symbol for driving vacations and domestic travel. Ideal for car rental promotions, scenic route guides, and family road trips."
+  },
+  {
+    "char": "🛳️",
+    "name": "Travel Cruise Ship",
+    "slug": "travel-cruise-ocean-liner-emoji",
+    "desc": "Specifically for maritime travel and luxury cruises. Targeted at cruise line marketing, island hopping, and nautical adventures."
+  },
+  {
+    "char": "⛰️",
+    "name": "Travel Mountain Hiking",
+    "slug": "travel-mountain-adventure-emoji",
+    "desc": "Represents adventure travel and outdoor exploration. Used for trekking, camping, and promoting national park visits."
+  },
+  {
+    "char": "📸",
+    "name": "Travel Photography",
+    "slug": "travel-photo-memories-emoji",
+    "desc": "Captures the essence of documenting a trip. Perfect for travel influencers, photography gear reviews, and vacation memory sharing."
+  },
+  {
+    "char": "🛂",
+    "name": "Travel Passport Control",
+    "slug": "travel-passport-customs-emoji",
+    "desc": "Symbolizes border crossings and international travel requirements. Essential for visa information, customs guides, and global mobility."
+  }
+]

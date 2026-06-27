@@ -1,0 +1,74 @@
+[
+  {
+    "char": "💪",
+    "name": "Fitness Flexed Biceps",
+    "slug": "fitness-strong-arm-emoji",
+    "desc": "The ultimate symbol for physical strength and fitness progress. Used globally to represent muscle building, gym motivation, and the 'no pain, no gain' mindset."
+  },
+  {
+    "char": "🏋️",
+    "name": "Fitness Weightlifter",
+    "slug": "fitness-weightlifting-gym-emoji",
+    "desc": "Represents strength training and bodybuilding. High SEO value for powerlifting content, gym equipment sales, and daily workout routines."
+  },
+  {
+    "char": "🏃",
+    "name": "Fitness Runner",
+    "slug": "fitness-running-cardio-emoji",
+    "desc": "The primary icon for cardio fitness and track sports. Perfect for marathon training, morning jogs, and aerobic exercise topics."
+  },
+  {
+    "char": "🧘",
+    "name": "Fitness Yoga Pose",
+    "slug": "fitness-yoga-meditation-emoji",
+    "desc": "Symbolizes flexibility and mental fitness. Essential for yoga studios, pilates classes, and holistic wellness content."
+  },
+  {
+    "char": "🚴",
+    "name": "Fitness Cyclist",
+    "slug": "fitness-cycling-workout-emoji",
+    "desc": "Represents outdoor cycling or indoor spin classes. Great for endurance training, bike gear reviews, and eco-friendly fitness."
+  },
+  {
+    "char": "🤸",
+    "name": "Fitness Cartwheel",
+    "slug": "fitness-gymnastics-mobility-emoji",
+    "desc": "Indicates gymnastics, agility, and mobility training. Used to highlight core strength and athletic versatility."
+  },
+  {
+    "char": "🏊",
+    "name": "Fitness Swimmer",
+    "slug": "fitness-swimming-lap-emoji",
+    "desc": "Represents full-body fitness through swimming. Targeted at aquatic sports, triathlon prep, and low-impact exercise options."
+  },
+  {
+    "char": "🥊",
+    "name": "Fitness Boxing Glove",
+    "slug": "fitness-boxing-hiit-emoji",
+    "desc": "Symbolizes combat fitness, HIIT workouts, and boxing gyms. Used for high-intensity training and stress-relief exercise content."
+  },
+  {
+    "char": "🥗",
+    "name": "Fitness Nutrition Meal",
+    "slug": "fitness-diet-healthy-eating-emoji",
+    "desc": "Represents the nutrition side of fitness. Ideal for meal prepping, keto/vegan diets, and post-workout fuel discussions."
+  },
+  {
+    "char": "🥤",
+    "name": "Fitness Protein Shake",
+    "slug": "fitness-supplement-drink-emoji",
+    "desc": "The icon for pre-workout and protein supplementation. Popular in the fitness community for showing supplement routines and hydration."
+  },
+  {
+    "char": "⌚",
+    "name": "Fitness Smartwatch",
+    "slug": "fitness-tracker-data-emoji",
+    "desc": "Represents tracking steps, heart rate, and workout data. Essential for tech-focused fitness and wearables marketing."
+  },
+  {
+    "char": "🏆",
+    "name": "Fitness Achievement Trophy",
+    "slug": "fitness-win-competition-emoji",
+    "desc": "Symbolizes winning a fitness challenge or sports competition. Used for client transformations and bodybuilding show wins."
+  }
+]

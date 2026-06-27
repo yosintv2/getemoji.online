@@ -1,0 +1,62 @@
+[
+  {
+    "char": "🎄",
+    "name": "Christmas Tree",
+    "slug": "christmas-tree",
+    "desc": "A classic evergreen tree decorated with ornaments and a star for Christmas."
+  },
+  {
+    "char": "🌲",
+    "name": "Evergreen Tree",
+    "slug": "evergreen-tree",
+    "desc": "A plain evergreen tree, often used to represent winter or an undecorated Christmas tree."
+  },
+  {
+    "char": "🌟",
+    "name": "Glowing Star",
+    "slug": "glowing-star",
+    "desc": "A bright star commonly used as a tree topper or representing the Star of Bethlehem."
+  },
+  {
+    "char": "✨",
+    "name": "Sparkles",
+    "slug": "sparkles",
+    "desc": "Twinkling light symbols used to represent holiday magic and tree lights."
+  },
+  {
+    "char": "🔔",
+    "name": "Bell",
+    "slug": "bell",
+    "desc": "A golden bell often used as a decoration on trees or associated with sleigh bells."
+  },
+  {
+    "char": "🕯️",
+    "name": "Candle",
+    "slug": "candle",
+    "desc": "A lit candle used for traditional Christmas tree lighting and holiday warmth."
+  },
+  {
+    "char": "🧶",
+    "name": "Yarn",
+    "slug": "yarn",
+    "desc": "Sometimes used to represent DIY ornaments or cozy tree garlands."
+  },
+  {
+    "char": "🎀",
+    "name": "Ribbon",
+    "slug": "ribbon",
+    "desc": "A pink or red bow often used to decorate Christmas trees and wreaths."
+  },
+  {
+    "char": "🍭",
+    "name": "Lollipop",
+    "slug": "lollipop",
+    "desc": "A candy treat often used as a tree decoration in place of candy canes."
+  },
+  {
+    "char": "🪵",
+    "name": "Log",
+    "slug": "log",
+    "desc": "Representing the firewood or the base of a real Christmas tree."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🐀",
+    "name": "Rat Year Zodiac Japan",
+    "slug": "year-of-the-rat-japan",
+    "desc": "Represents fertility and wealth. Seen on New Year cards (Nengajo) during the start of the cycle in Japan."
+  },
+  {
+    "char": "🐂",
+    "name": "Ox Year Zodiac Japan",
+    "slug": "year-of-the-ox-japan",
+    "desc": "Symbolizes diligence and perseverance. A revered animal in Shinto shrines like Tenmangu in Japan."
+  },
+  {
+    "char": "🐅",
+    "name": "Tiger Year Zodiac Japan",
+    "slug": "year-of-the-tiger-japan",
+    "desc": "Represents power and protection. Often used in traditional art and protective charms in Japan."
+  },
+  {
+    "char": "🐇",
+    "name": "Rabbit Year Zodiac Japan",
+    "slug": "year-of-the-rabbit-japan",
+    "desc": "Symbolizes elegance and gentleness. Associated with the moon and folklore across Japan."
+  },
+  {
+    "char": "🐉",
+    "name": "Dragon Year Zodiac Japan",
+    "slug": "year-of-the-dragon-japan",
+    "desc": "A mythical creature representing immense luck and power in the cultural heritage of Japan."
+  },
+  {
+    "char": "🐍",
+    "name": "Snake Year Zodiac Japan",
+    "slug": "year-of-the-snake-japan",
+    "desc": "Represents wisdom and financial luck. Linked to the goddess Benzaiten in Japanese shrines in Japan."
+  },
+  {
+    "char": "🐎",
+    "name": "Horse Year Zodiac Japan",
+    "slug": "year-of-the-horse-japan",
+    "desc": "Symbolizes energy and speed. High cultural value in Shinto rituals and festivals in Japan."
+  },
+  {
+    "char": "🐑",
+    "name": "Sheep Year Zodiac Japan",
+    "slug": "year-of-the-sheep-japan",
+    "desc": "Represents peace and family harmony. A common motif for New Year greeting stamps in Japan."
+  },
+  {
+    "char": "🐒",
+    "name": "Monkey Year Zodiac Japan",
+    "slug": "year-of-the-monkey-japan",
+    "desc": "Symbolizes cleverness. Famous for the 'Three Wise Monkeys' carving at Nikko Toshogu in Japan."
+  },
+  {
+    "char": "🐓",
+    "name": "Rooster Year Zodiac Japan",
+    "slug": "year-of-the-rooster-japan",
+    "desc": "Represents punctuality and the dawn. Found in many agricultural and mythological contexts in Japan."
+  },
+  {
+    "char": "🐕",
+    "name": "Dog Year Zodiac Japan",
+    "slug": "year-of-the-dog-japan",
+    "desc": "Symbolizes loyalty and protection. Popularized by famous stories like Hachiko in the history of Japan."
+  },
+  {
+    "char": "🐗",
+    "name": "Boar Year Zodiac Japan",
+    "slug": "year-of-the-wild-boar-japan",
+    "desc": "Specifically the 'Wild Boar' in the Japanese version of the zodiac. Symbolizes courage and strength in Japan."
+  }
+]

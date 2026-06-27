@@ -1,0 +1,1166 @@
+[
+  {
+    "char": "Σ(O_O;)",
+    "name": "Basic Shock Kaomoji",
+    "slug": "basic-shock-kaomoji",
+    "desc": "A classic expression of sudden shock or realization."
+  },
+  {
+    "char": "(⊙_⊙)",
+    "name": "Staring Disbelief Kaomoji",
+    "slug": "staring-disbelief-kaomoji",
+    "desc": "Wide, circular eyes representing a frozen state of surprise."
+  },
+  {
+    "char": "(o_O) !",
+    "name": "Raised Brow Surprise Kaomoji",
+    "slug": "raised-brow-surprise-kaomoji",
+    "desc": "One eye larger than the other, indicating confusion mixed with shock."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Gasping Shock Kaomoji",
+    "slug": "gasping-shock-kaomoji",
+    "desc": "A sharp intake of breath with a wide-open mouth."
+  },
+  {
+    "char": "(°ロ°) !",
+    "name": "Jaw Drop Surprise Kaomoji",
+    "slug": "jaw-drop-surprise-kaomoji",
+    "desc": "A character whose jaw has dropped significantly in disbelief."
+  },
+  {
+    "char": "щ(゜Д゜щ)",
+    "name": "Desperate Shock Kaomoji",
+    "slug": "desperate-shock-kaomoji",
+    "desc": "Raising hands as if to say 'How is this possible?'"
+  },
+  {
+    "char": "ミ(ノ_ _)ノ",
+    "name": "Falling Over Shock Kaomoji",
+    "slug": "falling-over-shock-kaomoji",
+    "desc": "A character physically falling over from the impact of surprising news."
+  },
+  {
+    "char": "w(ﾟｏﾟ)w",
+    "name": "Ooh Surprise Kaomoji",
+    "slug": "ooh-surprise-kaomoji",
+    "desc": "An expression of being impressed and surprised simultaneously."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Sweating Shock Kaomoji",
+    "slug": "sweating-shock-kaomoji",
+    "desc": "A surprised face with a bead of sweat, indicating a stressful revelation."
+  },
+  {
+    "char": "( ; ﾟДﾟ)",
+    "name": "Trembling Disbelief Kaomoji",
+    "slug": "trembling-disbelief-kaomoji",
+    "desc": "A character shaking slightly due to the magnitude of the surprise."
+  },
+  {
+    "char": "∑(O_O;)",
+    "name": "Sharp Realization Kaomoji",
+    "slug": "sharp-realization-kaomoji",
+    "desc": "Using a sigma symbol to represent a sharp, jagged startle."
+  },
+  {
+    "char": "ヽ(ﾟ〇ﾟ)ﾉ",
+    "name": "Happy Surprise Kaomoji",
+    "slug": "happy-surprise-kaomoji",
+    "desc": "A character pleasantly surprised with a wide, open mouth."
+  },
+  {
+    "char": "(┛◉Д◉)┛",
+    "name": "Intense Outburst Shock Kaomoji",
+    "slug": "intense-outburst-shock-kaomoji",
+    "desc": "A frantic expression of shock involving hand gestures."
+  },
+  {
+    "char": "工ｴｴｪｪ(ﾟДﾟ)ｪｪｴｴ工",
+    "name": "Long Gasp Kaomoji",
+    "slug": "long-gasp-kaomoji",
+    "desc": "A dramatic, elongated expression of 'Ehhh?!' in Japanese style shock."
+  },
+  {
+    "char": "(O.O)",
+    "name": "Static Shock Kaomoji",
+    "slug": "static-shock-kaomoji",
+    "desc": "Eyes wide and fixed, unable to process what just happened."
+  },
+  {
+    "char": "Σ(￣□￣;)",
+    "name": "Flustered Surprise Kaomoji",
+    "slug": "flustered-surprise-kaomoji",
+    "desc": "A square-mouthed expression of being caught off guard."
+  },
+  {
+    "char": "(⊙︎ｏ⊙︎)",
+    "name": "Mesmerized Surprise Kaomoji",
+    "slug": "mesmerized-surprise-kaomoji",
+    "desc": "Surprise mixed with intense focus or wonder."
+  },
+  {
+    "char": "(๑°ㅁ°๑)‼",
+    "name": "Cute Alert Surprise Kaomoji",
+    "slug": "cute-alert-surprise-kaomoji",
+    "desc": "A small, cute character having a major 'aha!' moment."
+  },
+  {
+    "char": "(ﾟдﾟ)",
+    "name": "Blank Shock Kaomoji",
+    "slug": "blank-shock-kaomoji",
+    "desc": "A neutral but wide-eyed stare indicating a 'mind blown' state."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Shivering Shock Kaomoji",
+    "slug": "shivering-shock-kaomoji",
+    "desc": "Showing a character physically vibrating from a terrifying surprise."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Side Look Surprise Kaomoji",
+    "slug": "side-look-surprise-kaomoji",
+    "desc": "Glancing sideways in shock after noticing something unexpected."
+  },
+  {
+    "char": "（・□・；）",
+    "name": "Polite Surprise Kaomoji",
+    "slug": "polite-surprise-kaomoji",
+    "desc": "A small, contained expression of being startled."
+  },
+  {
+    "char": "Σ(ノ°▽°)ノ",
+    "name": "Joyful Startle Kaomoji",
+    "slug": "joyful-startle-kaomoji",
+    "desc": "Being surprised by something wonderful or a celebration."
+  },
+  {
+    "char": "(ﾟωﾟ;)",
+    "name": "Cat Face Shock Kaomoji",
+    "slug": "cat-face-shock-kaomoji",
+    "desc": "A cute cat-like face showing sudden alertness."
+  },
+  {
+    "char": "∑(ﾟ◇ﾟ///)",
+    "name": "Blushing Surprise Kaomoji",
+    "slug": "blushing-surprise-kaomoji",
+    "desc": "Being surprised by a compliment or romantic gesture."
+  },
+  {
+    "char": "(O_O)",
+    "name": "Deadpan Surprise Kaomoji",
+    "slug": "deadpan-surprise-kaomoji",
+    "desc": "A minimalist face representing total, unmoving shock."
+  },
+  {
+    "char": "Σ(T□T)",
+    "name": "Sad Surprise Kaomoji",
+    "slug": "sad-surprise-kaomoji",
+    "desc": "A character shocked by bad news, on the verge of tears."
+  },
+  {
+    "char": "(つ⊙︎皿⊙︎)つ",
+    "name": "Reaching Shock Kaomoji",
+    "slug": "reaching-shock-kaomoji",
+    "desc": "Reaching out in disbelief as if to touch the surprising object."
+  },
+  {
+    "char": "ヽ(д｀ヽ)",
+    "name": "Dazed Surprise Kaomoji",
+    "slug": "dazed-surprise-kaomoji",
+    "desc": "Wandering around in a daze after a shocking event."
+  },
+  {
+    "char": "(; ఠ益ఠ)",
+    "name": "Angry Shock Kaomoji",
+    "slug": "angry-shock-kaomoji",
+    "desc": "Being surprised by something that makes the character furious."
+  },
+  {
+    "char": "Σ(っ°Д°;)っ",
+    "name": "Hasty Surprise Kaomoji",
+    "slug": "hasty-surprise-kaomoji",
+    "desc": "Falling back or moving away quickly in response to a scare."
+  },
+  {
+    "char": "(´⊙ω⊙`)！",
+    "name": "Wide Eyed Discovery Kaomoji",
+    "slug": "wide-eyed-discovery-kaomoji",
+    "desc": "Finding something unexpected and staring with fascination."
+  },
+  {
+    "char": "(ﾟρﾟ;)",
+    "name": "Drooling Shock Kaomoji",
+    "slug": "drooling-shock-kaomoji",
+    "desc": "Being so surprised that the character has lost all motor control."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Terrified Surprise Kaomoji",
+    "slug": "terrified-surprise-kaomoji",
+    "desc": "A face turning pale from a scary or ghostly surprise."
+  },
+  {
+    "char": "(o_O)",
+    "name": "Skeptical Surprise Kaomoji",
+    "slug": "skeptical-surprise-kaomoji",
+    "desc": "Being surprised by something that seems hard to believe."
+  },
+  {
+    "char": "( ﾟoﾟ)",
+    "name": "Small Mouth Gasp Kaomoji",
+    "slug": "small-mouth-gasp-kaomoji",
+    "desc": "A subtle, soft-spoken gasp of astonishment."
+  },
+  {
+    "char": "ヽ(。_°)ノ",
+    "name": "Topsy Turvy Surprise Kaomoji",
+    "slug": "topsy-turvy-surprise-kaomoji",
+    "desc": "A character whose world has been turned upside down by a surprise."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Pale Shock Kaomoji",
+    "slug": "pale-shock-kaomoji",
+    "desc": "Using vertical lines to represent a face turning white from shock."
+  },
+  {
+    "char": "(°ロ°) ! ! !",
+    "name": "Triple Exclamation Shock Kaomoji",
+    "slug": "triple-exclamation-shock-kaomoji",
+    "desc": "Emphasizing extreme surprise with three exclamation marks."
+  },
+  {
+    "char": "(⑉⊙︎ȏ⊙︎⑉)",
+    "name": "Floral Surprise Kaomoji",
+    "slug": "floral-surprise-kaomoji",
+    "desc": "A decorative, cute character expressing high shock."
+  },
+  {
+    "char": "Σ(⊙︎▽︎⊙︎\"a",
+    "name": "Clueless Surprise Kaomoji",
+    "slug": "clueless-surprise-kaomoji",
+    "desc": "Being surprised while also being completely confused about what happened."
+  },
+  {
+    "char": "o_O",
+    "name": "Minimal One Eye Surprise Kaomoji",
+    "slug": "minimal-one-eye-surprise-kaomoji",
+    "desc": "A classic internet face for the 'wait, what?' reaction."
+  },
+  {
+    "char": "（◎0◎）",
+    "name": "Bullseye Surprise Kaomoji",
+    "slug": "bullseye-surprise-kaomoji",
+    "desc": "Perfectly round eyes and mouth indicating a direct hit of shock."
+  },
+  {
+    "char": "Σ(゜д゜;)",
+    "name": "Sudden Realization Kaomoji",
+    "slug": "sudden-realization-kaomoji",
+    "desc": "The moment something finally clicks, and it is surprising."
+  },
+  {
+    "char": "ε=ε=Σ(っﾟДﾟ)っ",
+    "name": "Running Away Shock Kaomoji",
+    "slug": "running-away-shock-kaomoji",
+    "desc": "A character running away in a panic after a surprise."
+  },
+  {
+    "char": "( ・_・)ｼﾞｯ",
+    "name": "Silent Observation Surprise Kaomoji",
+    "slug": "silent-observation-surprise-kaomoji",
+    "desc": "Staring intensely at something surprising while remaining quiet."
+  },
+  {
+    "char": "Σ(￣。￣ﾉ)ﾉ",
+    "name": "Waving Arms Surprise Kaomoji",
+    "slug": "waving-arms-surprise-kaomoji",
+    "desc": "Flailing in the air due to a sudden scare."
+  },
+  {
+    "char": "(ﾟДﾟ=)ノ",
+    "name": "Wait A Minute Shock Kaomoji",
+    "slug": "wait-a-minute-shock-kaomoji",
+    "desc": "Waving a hand to pause everything because of a surprising fact."
+  },
+  {
+    "char": "(╬ ಠ益ಠ)",
+    "name": "Aggressive Surprise Kaomoji",
+    "slug": "aggressive-surprise-kaomoji",
+    "desc": "A menacing face reacting to a highly unpleasant surprise."
+  },
+  {
+    "char": "(ﾟ∀ﾟ)",
+    "name": "Wild Joy Surprise Kaomoji",
+    "slug": "wild-joy-surprise-kaomoji",
+    "desc": "A wide, slightly crazy-eyed look of happy surprise."
+  },
+  {
+    "char": "Σ(っ´ω`c)",
+    "name": "Embarrassed Startle Kaomoji",
+    "slug": "embarrassed-startle-kaomoji",
+    "desc": "Being startled by something that also makes the character shy."
+  },
+  {
+    "char": "( ☉_☉)",
+    "name": "Single Eye Focus Surprise Kaomoji",
+    "slug": "single-eye-focus-surprise-kaomoji",
+    "desc": "A character looking through a lens or focused on one shocking detail."
+  },
+  {
+    "char": "Σ(|||▽||| )",
+    "name": "Nauseous Shock Kaomoji",
+    "slug": "nauseous-shock-kaomoji",
+    "desc": "A character who feels sick because of a surprising revelation."
+  },
+  {
+    "char": "(゜Д゜;)",
+    "name": "Sweat Drop Disbelief Kaomoji",
+    "slug": "sweat-drop-disbelief-kaomoji",
+    "desc": "Classic anime-style shock with a visible sweat drop."
+  },
+  {
+    "char": "ヽ(ﾟДﾟ)ﾉ",
+    "name": "Hands Up Surprise Kaomoji",
+    "slug": "hands-up-surprise-kaomoji",
+    "desc": "The universal gesture for 'Whoa!' or 'I didn't expect that!'"
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Irritated Surprise Kaomoji",
+    "slug": "irritated-surprise-kaomoji",
+    "desc": "A character surprised by someone's audacity or annoying behavior."
+  },
+  {
+    "char": "Σ(ﾟДﾟ )",
+    "name": "Lateral Shock Kaomoji",
+    "slug": "lateral-shock-kaomoji",
+    "desc": "A sharp shock directed toward the right side."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Exhausted Surprise Kaomoji",
+    "slug": "exhausted-surprise-kaomoji",
+    "desc": "Being so tired that a surprise just leaves the character dazed."
+  },
+  {
+    "char": "Σ(っﾟДﾟ；)っ",
+    "name": "Tripping Surprise Kaomoji",
+    "slug": "tripping-surprise-kaomoji",
+    "desc": "A character stumbling backward in shock."
+  },
+  {
+    "char": "(◉ω◉)",
+    "name": "Owl Eyes Surprise Kaomoji",
+    "slug": "owl-eyes-surprise-kaomoji",
+    "desc": "Large, dark pupils showing intense interest and surprise."
+  },
+  {
+    "char": "(´⊙ω⊙`)",
+    "name": "Whiskered Shock Kaomoji",
+    "slug": "whiskered-shock-kaomoji",
+    "desc": "A character with lines suggesting whiskers or a fuzzy reaction to shock."
+  },
+  {
+    "char": "((( ；ﾟДﾟ)))",
+    "name": "Trembling Fear Surprise Kaomoji",
+    "slug": "trembling-fear-surprise-kaomoji",
+    "desc": "Shaking violently because of a scary surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Villainous Surprise Kaomoji",
+    "slug": "villainous-surprise-kaomoji",
+    "desc": "An angry, dark character being caught off guard."
+  },
+  {
+    "char": "( ﾟДﾟ)y-~~",
+    "name": "Cool Guy Shock Kaomoji",
+    "slug": "cool-guy-shock-kaomoji",
+    "desc": "A character dropping their cigarette in shock."
+  },
+  {
+    "char": "(๑ʘ∆ʘ๑)",
+    "name": "Small Animal Shock Kaomoji",
+    "slug": "small-animal-shock-kaomoji",
+    "desc": "A tiny creature-like face showing great astonishment."
+  },
+  {
+    "char": "Σ(ﾟ∀ﾟﾉ)ﾉ",
+    "name": "Startled Leap Kaomoji",
+    "slug": "startled-leap-kaomoji",
+    "desc": "Jumping into the air after being surprised."
+  },
+  {
+    "char": "(°ロ°) ! ! !",
+    "name": "Max Volume Shock Kaomoji",
+    "slug": "max-volume-shock-kaomoji",
+    "desc": "A face yelling at the top of its lungs in surprise."
+  },
+  {
+    "char": "(((( ;°Д°))))",
+    "name": "Cold Sweat Surprise Kaomoji",
+    "slug": "cold-sweat-surprise-kaomoji",
+    "desc": "Multiple sweat marks and shaking to show deep distress and surprise."
+  },
+  {
+    "char": "(°◇°) ! ! !",
+    "name": "Diamond Mouth Surprise Kaomoji",
+    "slug": "diamond-mouth-surprise-kaomoji",
+    "desc": "An angular mouth shape showing a sharp gasp."
+  },
+  {
+    "char": "Σ( ﾟωﾟ)",
+    "name": "Cat Alert Surprise Kaomoji",
+    "slug": "cat-alert-surprise-kaomoji",
+    "desc": "A cat ears effect showing sudden focus on a surprise."
+  },
+  {
+    "char": "Σ(ﾟ口ﾟ;)",
+    "name": "Square Mouth Shock Kaomoji",
+    "slug": "square-mouth-shock-kaomoji",
+    "desc": "A wide, boxy mouth showing a massive intake of air."
+  },
+  {
+    "char": "(ﾟAﾟ;)",
+    "name": "Stressed Surprise Kaomoji",
+    "slug": "stressed-surprise-kaomoji",
+    "desc": "Feeling the pressure after a surprising turn of events."
+  },
+  {
+    "char": "ヽ(ﾟДﾟ)ﾉ",
+    "name": "Loud Protest Surprise Kaomoji",
+    "slug": "loud-protest-surprise-kaomoji",
+    "desc": "Surprised and yelling 'No way!' or 'What!'"
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Ghostly Shock Kaomoji",
+    "slug": "ghostly-shock-kaomoji",
+    "desc": "A character looking like they have seen a ghost."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Dizzy Surprise Kaomoji",
+    "slug": "dizzy-surprise-kaomoji",
+    "desc": "Being so surprised it makes the character feel lightheaded."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Sharp Gasp Kaomoji",
+    "slug": "sharp-gasp-kaomoji",
+    "desc": "A quick and loud gasp of air."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Intense Vibration Shock Kaomoji",
+    "slug": "intense-vibration-shock-kaomoji",
+    "desc": "Maximum shaking to represent overwhelming surprise."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Over The Shoulder Shock Kaomoji",
+    "slug": "over-the-shoulder-shock-kaomoji",
+    "desc": "Looking back in surprise at something behind the character."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Shaking Pale Surprise Kaomoji",
+    "slug": "shaking-pale-surprise-kaomoji",
+    "desc": "Pale face and shaking lines for a scary shock."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Mean Character Surprise Kaomoji",
+    "slug": "mean-character-surprise-kaomoji",
+    "desc": "An aggressive-looking face being caught by surprise."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Angry Disbelief Kaomoji",
+    "slug": "angry-disbelief-kaomoji",
+    "desc": "Reacting to a surprise with a mix of anger and shock."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Pale Face Shock Kaomoji",
+    "slug": "pale-face-shock-kaomoji",
+    "desc": "A face turning white with shock lines."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Side Eye Shock Kaomoji",
+    "slug": "side-eye-shock-kaomoji",
+    "desc": "Glancing to the side with wide eyes in surprise."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Zombified Shock Kaomoji",
+    "slug": "zombified-shock-kaomoji",
+    "desc": "A blank, dead-eyed expression after a massive surprise."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Squinting Surprise Kaomoji",
+    "slug": "squinting-surprise-kaomoji",
+    "desc": "Trying to see something surprising more clearly."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Standard Shock Kaomoji",
+    "slug": "standard-shock-kaomoji",
+    "desc": "The most versatile and common shock kaomoji."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Full Body Shiver Shock Kaomoji",
+    "slug": "full-body-shiver-shock-kaomoji",
+    "desc": "Shaking from head to toe in surprise."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Side Glance Shock Kaomoji",
+    "slug": "side-glance-shock-kaomoji",
+    "desc": "A character noticing something surprising out of the corner of their eye."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Intense Pale Shock Kaomoji",
+    "slug": "intense-pale-shock-kaomoji",
+    "desc": "Maximum paleness and shaking for a surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Tough Guy Shock Kaomoji",
+    "slug": "tough-guy-shock-kaomoji",
+    "desc": "A tough character being genuinely surprised."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Grumpy Surprise Kaomoji",
+    "slug": "grumpy-surprise-kaomoji",
+    "desc": "A grumpy face being forced to react to a surprise."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Drained Shock Kaomoji",
+    "slug": "drained-shock-kaomoji",
+    "desc": "A character feeling drained of energy after a surprise."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Single Eye Shock Kaomoji",
+    "slug": "single-eye-shock-kaomoji-alt",
+    "desc": "A character focused on a single shocking detail."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Empty Shock Kaomoji",
+    "slug": "empty-shock-kaomoji",
+    "desc": "Feeling empty and hollow after a shocking event."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Focused Surprise Kaomoji",
+    "slug": "focused-surprise-kaomoji",
+    "desc": "Intensely focused on something surprising."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Quick Shock Kaomoji",
+    "slug": "quick-shock-kaomoji",
+    "desc": "A rapid and sharp expression of shock."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Heavy Shiver Shock Kaomoji",
+    "slug": "heavy-shiver-shock-kaomoji",
+    "desc": "Shaking heavily from a massive surprise."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Look Back Shock Kaomoji",
+    "slug": "look-back-shock-kaomoji",
+    "desc": "Looking back in shock at what just happened."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Frightened Shock Kaomoji",
+    "slug": "frightened-shock-kaomoji",
+    "desc": "A character frightened by a sudden surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Angry Startle Kaomoji",
+    "slug": "angry-startle-kaomoji",
+    "desc": "An angry character being startled."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Annoyed Shock Kaomoji",
+    "slug": "annoyed-shock-kaomoji",
+    "desc": "Being surprised by something annoying."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Whited Out Shock Kaomoji",
+    "slug": "whited-out-shock-kaomoji",
+    "desc": "A character whose face has gone completely white from shock."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Staring Shock Kaomoji",
+    "slug": "staring-shock-kaomoji",
+    "desc": "Staring in surprise at something unusual."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Dead Eyes Shock Kaomoji",
+    "slug": "dead-eyes-shock-kaomoji",
+    "desc": "Eyes wide but lifeless after a major shock."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Dazed Surprise Kaomoji-Alt",
+    "slug": "dazed-surprise-kaomoji-alt",
+    "desc": "Feeling dazed after a surprising realization."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Abrupt Shock Kaomoji",
+    "slug": "abrupt-shock-kaomoji",
+    "desc": "A very abrupt and sudden shock."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Extreme Shaking Shock Kaomoji",
+    "slug": "extreme-shaking-shock-kaomoji",
+    "desc": "Maximum shaking to represent a huge surprise."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Quick Side Glance Shock Kaomoji",
+    "slug": "quick-side-glance-shock-kaomoji",
+    "desc": "A quick glance to the side in surprise."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Pale Shaking Surprise Kaomoji",
+    "slug": "pale-shaking-surprise-kaomoji",
+    "desc": "Pale face and shaking lines for a surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Hostile Surprise Kaomoji",
+    "slug": "hostile-surprise-kaomoji",
+    "desc": "A hostile character being caught by surprise."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Irritated Realization Kaomoji",
+    "slug": "irritated-realization-kaomoji",
+    "desc": "A character realizing something surprising and annoying."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Complete Paleness Shock Kaomoji",
+    "slug": "complete-paleness-shock-kaomoji",
+    "desc": "A character's face going completely white."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Focused Shock Kaomoji",
+    "slug": "focused-shock-kaomoji",
+    "desc": "A character focused on a surprising fact."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Empty Eyes Shock Kaomoji",
+    "slug": "empty-eyes-shock-kaomoji",
+    "desc": "A character with empty eyes after a surprise."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Intense Focused Surprise Kaomoji",
+    "slug": "intense-focused-surprise-kaomoji",
+    "desc": "Intensely focused on something surprising."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Simple Shock Kaomoji-Alt",
+    "slug": "simple-shock-kaomoji-alt",
+    "desc": "A simple and clear expression of shock."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Total Shiver Shock Kaomoji",
+    "slug": "total-shiver-shock-kaomoji",
+    "desc": "Shaking from head to toe in shock."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Looking Back Surprise Kaomoji",
+    "slug": "looking-back-surprise-kaomoji",
+    "desc": "Looking back in surprise at something behind."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Pale Startle Kaomoji",
+    "slug": "pale-startle-kaomoji",
+    "desc": "A pale character being startled."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Mean Startle Kaomoji",
+    "slug": "mean-startle-kaomoji",
+    "desc": "A mean-looking character being startled."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Grumpy Disbelief Kaomoji",
+    "slug": "grumpy-disbelief-kaomoji",
+    "desc": "A grumpy character reacting in disbelief."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Whited Out Paleness Shock Kaomoji",
+    "slug": "whited-out-paleness-shock-kaomoji",
+    "desc": "A character's face going white from shock."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Wide Eyed Stare Shock Kaomoji",
+    "slug": "wide-eyed-stare-shock-kaomoji",
+    "desc": "Staring with wide eyes in surprise."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Dazed Eyes Shock Kaomoji",
+    "slug": "dazed-eyes-shock-kaomoji",
+    "desc": "Dazed eyes after a major surprise."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Dizzy Focused Surprise Kaomoji",
+    "slug": "dizzy-focused-surprise-kaomoji",
+    "desc": "Being dizzy and focused on something surprising."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Abrupt Surprise Kaomoji",
+    "slug": "abrupt-surprise-kaomoji",
+    "desc": "An abrupt and sudden expression of surprise."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Extreme Shiver Shock Kaomoji-Alt",
+    "slug": "extreme-shiver-shock-kaomoji-alt",
+    "desc": "Maximum shivering for a huge shock."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Quick Side Shock Kaomoji",
+    "slug": "quick-side-shock-kaomoji",
+    "desc": "A quick shock from the side."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Intense Frightened Shock Kaomoji",
+    "slug": "intense-frightened-shock-kaomoji",
+    "desc": "A character being intensely frightened by a surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Hostile Startle Kaomoji",
+    "slug": "hostile-startle-kaomoji",
+    "desc": "A hostile character being startled."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Annoyed Realization Shock Kaomoji",
+    "slug": "annoyed-realization-shock-kaomoji",
+    "desc": "A character realizing something surprising and annoying."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Complete Whiteness Shock Kaomoji",
+    "slug": "complete-whiteness-shock-kaomoji",
+    "desc": "A character's face going completely white."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Focused Staring Shock Kaomoji",
+    "slug": "focused-staring-shock-kaomoji",
+    "desc": "A character focused on a surprising object."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Ghostly Paleness Shock Kaomoji",
+    "slug": "ghostly-paleness-shock-kaomoji",
+    "desc": "A character looking ghostly white after a shock."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Intense Dizzy Surprise Kaomoji",
+    "slug": "intense-dizzy-surprise-kaomoji",
+    "desc": "Being intensely dizzy and surprised."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Clear Shock Kaomoji",
+    "slug": "clear-shock-kaomoji",
+    "desc": "A clear and direct way to show shock."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Total Shaking Shock Kaomoji",
+    "slug": "total-shaking-shock-kaomoji",
+    "desc": "Shaking head to toe in shock."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Looking Back Shock Kaomoji-Alt",
+    "slug": "looking-back-shock-kaomoji-alt",
+    "desc": "Looking back in shock at something."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Pale Shivering Surprise Kaomoji",
+    "slug": "pale-shivering-surprise-kaomoji",
+    "desc": "Pale face and shivering for a surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Mean Hostile Surprise Kaomoji",
+    "slug": "mean-hostile-surprise-kaomoji",
+    "desc": "A mean-looking hostile character being surprised."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Grumpy Annoyed Shock Kaomoji",
+    "slug": "grumpy-annoyed-shock-kaomoji",
+    "desc": "A grumpy character being annoyed by a surprise."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Whited Out Paleness Shock Kaomoji-Alt",
+    "slug": "whited-out-paleness-shock-kaomoji-alt",
+    "desc": "A character's face going white from shock."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Wide Eyed Focus Shock Kaomoji",
+    "slug": "wide-eyed-focus-shock-kaomoji",
+    "desc": "Focusing with wide eyes in surprise."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Empty Ghostly Shock Kaomoji",
+    "slug": "empty-ghostly-shock-kaomoji",
+    "desc": "A character looking empty and ghostly after a shock."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Intense Focused Surprise Kaomoji-Alt",
+    "slug": "intense-focused-surprise-kaomoji-alt",
+    "desc": "Intensely focused on something surprising."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Abrupt Shock Kaomoji-Alt",
+    "slug": "abrupt-shock-kaomoji-alt",
+    "desc": "An abrupt and sudden expression of shock."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Extreme Shaking Shock Kaomoji-Alt",
+    "slug": "extreme-shaking-shock-kaomoji-alt",
+    "desc": "Maximum shaking to represent a massive surprise."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Quick Side Glance Surprise Kaomoji",
+    "slug": "quick-side-glance-surprise-kaomoji",
+    "desc": "A quick glance to the side in surprise."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Pale Shaking Surprise Kaomoji-Alt",
+    "slug": "pale-shaking-surprise-kaomoji-alt",
+    "desc": "Pale face and shaking lines for a surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Hostile Shock Kaomoji-Alt",
+    "slug": "hostile-shock-kaomoji-alt",
+    "desc": "A hostile character being caught by surprise."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Irritated Disbelief Shock Kaomoji",
+    "slug": "irritated-disbelief-shock-kaomoji",
+    "desc": "A character realizing something surprising and irritating."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Complete Paleness Shock Kaomoji-Alt",
+    "slug": "complete-paleness-shock-kaomoji-alt",
+    "desc": "A character's face going completely white."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Focused Shock Kaomoji-Alt",
+    "slug": "focused-shock-kaomoji-alt",
+    "desc": "A character focused on a surprising fact."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Empty Eyes Shock Kaomoji-Alt",
+    "slug": "empty-eyes-shock-kaomoji-alt",
+    "desc": "A character with empty eyes after a shock."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Intense Focused Surprise Kaomoji-Alt-2",
+    "slug": "intense-focused-surprise-kaomoji-alt-2",
+    "desc": "Intensely focused on something surprising."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Simple Shock Kaomoji-Alt-2",
+    "slug": "simple-shock-kaomoji-alt-2",
+    "desc": "A simple and clear expression of shock."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Total Shiver Shock Kaomoji-Alt",
+    "slug": "total-shiver-shock-kaomoji-alt",
+    "desc": "Shaking from head to toe in shock."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Looking Back Surprise Kaomoji-Alt",
+    "slug": "looking-back-surprise-kaomoji-alt-2",
+    "desc": "Looking back in surprise at something behind."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Pale Startle Kaomoji-Alt",
+    "slug": "pale-startle-kaomoji-alt",
+    "desc": "A pale character being startled."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Mean Startle Kaomoji-Alt",
+    "slug": "mean-startle-kaomoji-alt",
+    "desc": "A mean-looking character being startled."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Grumpy Disbelief Kaomoji-Alt",
+    "slug": "grumpy-disbelief-kaomoji-alt",
+    "desc": "A grumpy character reacting in disbelief."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Whited Out Paleness Shock Kaomoji-Alt-2",
+    "slug": "whited-out-paleness-shock-kaomoji-alt-2",
+    "desc": "A character's face going white from shock."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Wide Eyed Stare Shock Kaomoji-Alt",
+    "slug": "wide-eyed-stare-shock-kaomoji-alt",
+    "desc": "Staring with wide eyes in surprise."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Dazed Eyes Shock Kaomoji-Alt",
+    "slug": "dazed-eyes-shock-kaomoji-alt",
+    "desc": "Dazed eyes after a major surprise."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Dizzy Focused Surprise Kaomoji-Alt-2",
+    "slug": "dizzy-focused-surprise-kaomoji-alt-2",
+    "desc": "Being dizzy and focused on something surprising."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Abrupt Surprise Kaomoji-Alt",
+    "slug": "abrupt-surprise-kaomoji-alt-2",
+    "desc": "An abrupt and sudden expression of surprise."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Extreme Shiver Shock Kaomoji-Alt-2",
+    "slug": "extreme-shiver-shock-kaomoji-alt-2",
+    "desc": "Maximum shivering for a huge shock."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Quick Side Shock Kaomoji-Alt",
+    "slug": "quick-side-shock-kaomoji-alt",
+    "desc": "A quick shock from the side."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Intense Frightened Shock Kaomoji-Alt",
+    "slug": "intense-frightened-shock-kaomoji-alt",
+    "desc": "A character being intensely frightened by a surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Hostile Startle Kaomoji-Alt",
+    "slug": "hostile-startle-kaomoji-alt-2",
+    "desc": "A hostile character being startled."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Annoyed Realization Shock Kaomoji-Alt",
+    "slug": "annoyed-realization-shock-kaomoji-alt",
+    "desc": "A character realizing something surprising and annoying."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Complete Whiteness Shock Kaomoji-Alt",
+    "slug": "complete-whiteness-shock-kaomoji-alt",
+    "desc": "A character's face going completely white."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Focused Staring Shock Kaomoji-Alt",
+    "slug": "focused-staring-shock-kaomoji-alt",
+    "desc": "A character focused on a surprising object."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Ghostly Paleness Shock Kaomoji-Alt",
+    "slug": "ghostly-paleness-shock-kaomoji-alt",
+    "desc": "A character looking ghostly white after a shock."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Intense Dizzy Surprise Kaomoji-Alt-2",
+    "slug": "intense-dizzy-surprise-kaomoji-alt-2",
+    "desc": "Being intensely dizzy and surprised."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Clear Shock Kaomoji-Alt",
+    "slug": "clear-shock-kaomoji-alt",
+    "desc": "A clear and direct way to show shock."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Total Shaking Shock Kaomoji-Alt",
+    "slug": "total-shaking-shock-kaomoji-alt",
+    "desc": "Shaking head to toe in shock."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Looking Back Shock Kaomoji-Alt-2",
+    "slug": "looking-back-shock-kaomoji-alt-3",
+    "desc": "Looking back in shock at something."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Pale Shivering Surprise Kaomoji-Alt",
+    "slug": "pale-shivering-surprise-kaomoji-alt-2",
+    "desc": "Pale face and shivering for a surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Mean Hostile Surprise Kaomoji-Alt",
+    "slug": "mean-hostile-surprise-kaomoji-alt",
+    "desc": "A mean-looking hostile character being surprised."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Grumpy Annoyed Shock Kaomoji-Alt",
+    "slug": "grumpy-annoyed-shock-kaomoji-alt",
+    "desc": "A grumpy character being annoyed by a surprise."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Whited Out Paleness Shock Kaomoji-Alt-3",
+    "slug": "whited-out-paleness-shock-kaomoji-alt-3",
+    "desc": "A character's face going white from shock."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Wide Eyed Focus Shock Kaomoji-Alt",
+    "slug": "wide-eyed-focus-shock-kaomoji-alt-2",
+    "desc": "Focusing with wide eyes in surprise."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Empty Ghostly Shock Kaomoji-Alt",
+    "slug": "empty-ghostly-shock-kaomoji-alt",
+    "desc": "A character looking empty and ghostly after a shock."
+  },
+  {
+    "char": "(⊙︎﹏⊙︎)",
+    "name": "Intense Focused Surprise Kaomoji-Alt-3",
+    "slug": "intense-focused-surprise-kaomoji-alt-3",
+    "desc": "Intensely focused on something surprising."
+  },
+  {
+    "char": "Σ(ﾟДﾟ)",
+    "name": "Abrupt Shock Kaomoji-Alt-2",
+    "slug": "abrupt-shock-kaomoji-alt-3",
+    "desc": "An abrupt and sudden expression of shock."
+  },
+  {
+    "char": "((((；゜Д゜)))",
+    "name": "Extreme Shaking Shock Kaomoji-Alt-2",
+    "slug": "extreme-shaking-shock-kaomoji-alt-3",
+    "desc": "Maximum shaking to represent a massive surprise."
+  },
+  {
+    "char": "Σ(□￣;)",
+    "name": "Quick Side Glance Surprise Kaomoji-Alt",
+    "slug": "quick-side-glance-surprise-kaomoji-alt-2",
+    "desc": "A quick glance to the side in surprise."
+  },
+  {
+    "char": "Σ(°△°|||)︴",
+    "name": "Pale Shaking Surprise Kaomoji-Alt-2",
+    "slug": "pale-shaking-surprise-kaomoji-alt-3",
+    "desc": "Pale face and shaking lines for a surprise."
+  },
+  {
+    "char": "Σ(▼□▼メ)",
+    "name": "Hostile Shock Kaomoji-Alt-2",
+    "slug": "hostile-shock-kaomoji-alt-3",
+    "desc": "A hostile character being caught by surprise."
+  },
+  {
+    "char": "(°ㅂ°╬)",
+    "name": "Irritated Disbelief Shock Kaomoji-Alt",
+    "slug": "irritated-disbelief-shock-kaomoji-alt-2",
+    "desc": "A character realizing something surprising and irritating."
+  },
+  {
+    "char": "Σ(ﾟДﾟ|||)",
+    "name": "Complete Paleness Shock Kaomoji-Alt-2",
+    "slug": "complete-paleness-shock-kaomoji-alt-2",
+    "desc": "A character's face going completely white."
+  },
+  {
+    "char": "(ﾟДﾟ )",
+    "name": "Focused Shock Kaomoji-Alt-2",
+    "slug": "focused-shock-kaomoji-alt-3",
+    "desc": "A character focused on a surprising fact."
+  },
+  {
+    "char": "( ꒪Д꒪)ノ",
+    "name": "Empty Eyes Shock Kaomoji-Alt-2",
+    "slug": "empty-eyes-shock-kaomoji-alt-3",
+    "desc": "A character with empty eyes after a shock."
+  }
+]

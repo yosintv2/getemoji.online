@@ -1,0 +1,74 @@
+[
+  {
+    "char": "⛩️",
+    "name": "Shinto Torii Gate Japan",
+    "slug": "shinto-torii-gate-spiritual-japan",
+    "desc": "The iconic entrance that marks the transition from the mundane to the sacred. A universal symbol for Shinto shrines throughout Japan."
+  },
+  {
+    "char": "🏮",
+    "name": "Traditional Chochin Lantern Japan",
+    "slug": "traditional-chochin-shrine-lantern-japan",
+    "desc": "Paper lanterns used to light the paths of shrines and temples during evening festivals and rituals in Japan."
+  },
+  {
+    "char": "🙏",
+    "name": "Praying Hands Worship Japan",
+    "slug": "praying-hands-shrine-worship-japan",
+    "desc": "Represents the act of offering a prayer (Mairi) at a sanctuary. A gesture of respect and gratitude common in Japan."
+  },
+  {
+    "char": "🔔",
+    "name": "Shrine Suzu Bell Japan",
+    "slug": "shrine-suzu-bell-purification-japan",
+    "desc": "Large bells rung by worshippers to wake the spirits (Kami) and announce their presence at a shrine in Japan."
+  },
+  {
+    "char": "🤲",
+    "name": "Purification Temizu Ritual Japan",
+    "slug": "purification-temizu-shrine-ritual-japan",
+    "desc": "Represents the 'Temizuya' pavilion where visitors wash their hands and mouths before entering a sacred space in Japan."
+  },
+  {
+    "char": "💮",
+    "name": "Sacred White Flower Japan",
+    "slug": "sacred-white-flower-shrine-japan",
+    "desc": "Often associated with purity and the cherry blossom motifs found in shrine architecture and amulets across Japan."
+  },
+  {
+    "char": "🦊",
+    "name": "Inari Kitsune Messenger Japan",
+    "slug": "inari-kitsune-shrine-messenger-japan",
+    "desc": "The fox messenger of Inari, the deity of rice and prosperity. Frequently seen as stone statues at Fushimi Inari in Japan."
+  },
+  {
+    "char": "🎍",
+    "name": "Kadomatsu New Year Decoration Japan",
+    "slug": "kadomatsu-shrine-decoration-japan",
+    "desc": "Traditional bamboo and pine arrangements placed at the gates of shrines and homes to welcome ancestral spirits to Japan."
+  },
+  {
+    "char": "🌅",
+    "name": "Sacred Sunrise Hatsuhinode Japan",
+    "slug": "sacred-sunrise-new-year-japan",
+    "desc": "Represents the first sunrise of the year, a moment of deep spiritual significance for those visiting shrines in Japan."
+  },
+  {
+    "char": "📜",
+    "name": "Omikuji Fortune Scroll Japan",
+    "slug": "omikuji-fortune-shrine-scroll-japan",
+    "desc": "Random fortunes written on strips of paper. Worshippers tie them to trees at the shrine if the luck is bad in Japan."
+  },
+  {
+    "char": "🧧",
+    "name": "Omamori Protection Charm Japan",
+    "slug": "omamori-protection-shrine-charm-japan",
+    "desc": "Amulets sold at shrines to provide luck or protection for health, traffic safety, and studies for people in Japan."
+  },
+  {
+    "char": "🦌",
+    "name": "Sacred Nara Deer Japan",
+    "slug": "sacred-nara-shrine-deer-japan",
+    "desc": "Considered messengers of the gods in Shinto, especially famous at Kasuga Taisha and Nara Park in Japan."
+  }
+]

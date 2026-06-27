@@ -1,0 +1,74 @@
+[
+  {
+    "char": "💻",
+    "name": "Laptop Computer Technology",
+    "slug": "laptop-work-digital-technology",
+    "desc": "The primary symbol for digital work and remote office setups. Essential for fintech, software development, and ed-tech content."
+  },
+  {
+    "char": "📱",
+    "name": "Mobile Smartphone Technology",
+    "slug": "smartphone-mobile-app-technology",
+    "desc": "Represents the mobile-first world. High SEO value for app development, social media marketing, and telecommunications updates."
+  },
+  {
+    "char": "🤖",
+    "name": "Artificial Intelligence Robot Technology",
+    "slug": "ai-robotics-future-technology",
+    "desc": "The universal icon for automation and machine learning. Targeted at AI innovation, chatbot services, and futuristic engineering."
+  },
+  {
+    "char": "🛰️",
+    "name": "Satellite Communications Technology",
+    "slug": "satellite-gps-space-technology",
+    "desc": "Symbolizes global connectivity and GPS. Ideal for internet infrastructure, aerospace engineering, and mapping services."
+  },
+  {
+    "char": "🔋",
+    "name": "Battery Energy Storage Technology",
+    "slug": "battery-power-ev-technology",
+    "desc": "Represents hardware endurance and power storage. Perfect for Electric Vehicle (EV) topics and energy efficiency blogs."
+  },
+  {
+    "char": "🖥️",
+    "name": "Desktop Display Monitor Technology",
+    "slug": "desktop-monitor-gaming-technology",
+    "desc": "Represents high-performance computing. Used for PC building, graphic design services, and professional workstation setups."
+  },
+  {
+    "char": "🔒",
+    "name": "Cyber Security Encryption Technology",
+    "slug": "cyber-security-privacy-technology",
+    "desc": "Symbolizes data protection and privacy. Essential for cybersecurity firms, password management, and blockchain safety."
+  },
+  {
+    "char": "📡",
+    "name": "Wireless Antenna Signal Technology",
+    "slug": "antenna-wireless-5g-technology",
+    "desc": "Represents broadcasting and wireless signals. Great for 5G rollout news, streaming tech, and telecommunication hardware."
+  },
+  {
+    "char": "⚙️",
+    "name": "Mechanical Gear Systems Technology",
+    "slug": "gear-optimization-engineering-technology",
+    "desc": "The icon for configuration and backend processing. Used for systems optimization and mechanical engineering content."
+  },
+  {
+    "char": "🧬",
+    "name": "Biotech DNA Life Science Technology",
+    "slug": "biotech-genetics-med-technology",
+    "desc": "Represents the intersection of biology and innovation. Ideal for genetic engineering and med-tech breakthroughs."
+  },
+  {
+    "char": "🔌",
+    "name": "Electric Power Connection Technology",
+    "slug": "electric-plug-hardware-technology",
+    "desc": "Symbolizes being 'plugged in.' Often used for hardware connections, IT support, and electricity-related topics."
+  },
+  {
+    "char": "☁️",
+    "name": "Cloud Computing Storage Technology",
+    "slug": "cloud-saas-server-technology",
+    "desc": "Represents remote data storage and SaaS. High value for enterprise tech, backup solutions, and server hosting."
+  }
+]

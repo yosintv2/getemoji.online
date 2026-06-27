@@ -1,0 +1,170 @@
+[
+  {
+    "char": "🎄",
+    "name": "Christmas Tree",
+    "slug": "christmas-tree-emoji",
+    "desc": "The quintessential Merry Christmas emoji representing a decorated evergreen tree. Perfect for festive home decor, holiday traditions, and central Christmas themes."
+  },
+  {
+    "char": "🎅",
+    "name": "Santa Claus",
+    "slug": "santa-claus-emoji",
+    "desc": "The iconic symbol of Christmas cheer and gift-giving. Use this jolly emoji to represent Father Christmas, holiday magic, and the spirit of generosity."
+  },
+  {
+    "char": "🤶",
+    "name": "Mrs. Claus",
+    "slug": "mrs-claus-emoji",
+    "desc": "Representing the warmth of the holiday season, Mrs. Claus is perfect for content involving Christmas baking, family hospitality, and North Pole stories."
+  },
+  {
+    "char": "🧑‍🎄",
+    "name": "Mx Claus",
+    "slug": "mx-claus-emoji",
+    "desc": "A gender-neutral holiday character that brings an inclusive spirit to Merry Christmas greetings and modern festive celebrations."
+  },
+  {
+    "char": "🎁",
+    "name": "Wrapped Gift",
+    "slug": "wrapped-gift-emoji",
+    "desc": "A universal symbol for Christmas presents and surprises. Essential for holiday gift guides, unboxing videos, and the joy of giving."
+  },
+  {
+    "char": "🦌",
+    "name": "Reindeer",
+    "slug": "reindeer-emoji",
+    "desc": "Often used to represent Rudolph and Santa's sleigh team. Ideal for whimsical Christmas Eve posts and magical winter nature themes."
+  },
+  {
+    "char": "🛷",
+    "name": "Sled",
+    "slug": "sled-emoji",
+    "desc": "Symbolizing Santa’s sleigh or winter outdoor fun. Great for social media content about snow days and Christmas deliveries."
+  },
+  {
+    "char": "❄️",
+    "name": "Snowflake",
+    "slug": "snowflake-emoji",
+    "desc": "Represents a white Christmas and cold winter weather. Use this to add a touch of frost and seasonal atmosphere to your holiday messages."
+  },
+  {
+    "char": "☃️",
+    "name": "Snowman",
+    "slug": "snowman-emoji",
+    "desc": "The ultimate icon for winter fun and holiday breaks. Perfect for family-oriented Christmas content and outdoor winter activities."
+  },
+  {
+    "char": "⛄",
+    "name": "Snowman Without Snow",
+    "slug": "simple-snowman-emoji",
+    "desc": "A minimalist version of the snowman, often used to symbolize frost, winter weather, and the playful side of the holiday season."
+  },
+  {
+    "char": "🔔",
+    "name": "Bell",
+    "slug": "bell-emoji",
+    "desc": "Representing church bells, sleigh bells, and 'Jingle Bells.' This emoji adds a musical and celebratory tone to Merry Christmas wishes."
+  },
+  {
+    "char": "🌟",
+    "name": "Glowing Star",
+    "slug": "glowing-star-emoji",
+    "desc": "Captures the light of the Christmas star. Ideal for wishing others a 'Merry and Bright' holiday and representing hope and peace."
+  },
+  {
+    "char": "🕯️",
+    "name": "Candle",
+    "slug": "candle-emoji",
+    "desc": "Symbolizes traditional holiday light, warmth, and cozy 'hygge' vibes. Perfect for elegant and peaceful Christmas Eve posts."
+  },
+  {
+    "char": "🧦",
+    "name": "Socks",
+    "slug": "christmas-stocking-emoji",
+    "desc": "Commonly used to represent Christmas stockings hung by the mantle, waiting to be filled with stocking stuffers and treats."
+  },
+  {
+    "char": "🍪",
+    "name": "Cookie",
+    "slug": "christmas-cookie-emoji",
+    "desc": "The primary symbol for holiday baking and the tradition of leaving cookies out for Santa. Essential for festive food and recipe content."
+  },
+  {
+    "char": "🥛",
+    "name": "Glass of Milk",
+    "slug": "milk-for-santa-emoji",
+    "desc": "The classic beverage pairing for Santa’s cookies, representing the cozy domestic rituals of a traditional Christmas Eve."
+  },
+  {
+    "char": "🥧",
+    "name": "Pie",
+    "slug": "holiday-pie-emoji",
+    "desc": "A staple of the Christmas dinner feast. This emoji represents seasonal desserts like pumpkin, apple, or mince meat pies."
+  },
+  {
+    "char": "🍭",
+    "name": "Lollipop",
+    "slug": "candy-cane-emoji",
+    "desc": "Often used in place of candy canes to represent holiday sweets, gingerbread house decorations, and sugar-filled celebrations."
+  },
+  {
+    "char": "🍷",
+    "name": "Wine Glass",
+    "slug": "mulled-wine-emoji",
+    "desc": "Representing holiday toasts and warm mulled wine. Perfect for Christmas party invitations and festive dinner celebrations."
+  },
+  {
+    "char": "☕",
+    "name": "Hot Beverage",
+    "slug": "hot-cocoa-emoji",
+    "desc": "The quintessential winter drink. Use this for content about hot chocolate, staying warm, and cozy Christmas mornings."
+  },
+  {
+    "char": "🧤",
+    "name": "Gloves",
+    "slug": "winter-mittens-emoji",
+    "desc": "Symbolizing winter warmth and outdoor holiday activities like caroling, visiting light shows, or Christmas markets."
+  },
+  {
+    "char": "🧣",
+    "name": "Scarf",
+    "slug": "winter-scarf-emoji",
+    "desc": "A cozy fashion icon for the holiday season. Represents wrapping up warm for festive gatherings and winter travel."
+  },
+  {
+    "char": "🧸",
+    "name": "Teddy Bear",
+    "slug": "toy-gift-emoji",
+    "desc": "A classic symbol for children's toys and the nostalgia of childhood Christmas mornings. Ideal for toy drive and gift inspiration posts."
+  },
+  {
+    "char": "🚂",
+    "name": "Locomotive",
+    "slug": "christmas-train-emoji",
+    "desc": "Representing the toy trains that circle the Christmas tree and 'The Polar Express' themes in holiday storytelling."
+  },
+  {
+    "char": "✨",
+    "name": "Sparkles",
+    "slug": "holiday-magic-emoji",
+    "desc": "Adds a touch of magic, wonder, and twinkling lights to any Merry Christmas post. Perfect for highlighting festive shimmer."
+  },
+  {
+    "char": "⛪",
+    "name": "Church",
+    "slug": "christmas-church-emoji",
+    "desc": "Representing the religious foundations of the holiday, including midnight mass and traditional Christmas morning services."
+  },
+  {
+    "char": "🏠❄️",
+    "name": "House in Snow",
+    "slug": "cozy-winter-home-emoji",
+    "desc": "A combination depicting a warm home during a snowstorm. Captures the 'Home for the Holidays' sentiment and winter comfort."
+  },
+  {
+    "char": "🪵",
+    "name": "Log",
+    "slug": "yule-log-emoji",
+    "desc": "Symbolizing the Yule Log tradition and a roaring fireplace, creating a warm and rustic Christmas atmosphere."
+  }
+]

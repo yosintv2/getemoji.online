@@ -1,0 +1,99 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AdBlock from '../components/AdBlock.astro';
+
+const howToSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Copy and Paste Emojis",
+  "description": "Learn how to copy and paste emojis on any device. Simple step-by-step guide for iPhone, Android, Windows, and Mac.",
+  "url": "https://www.getemoji.online/how-to-copy-paste-emojis/",
+  "step": [
+    { "@type": "HowToStep", "name": "Find your emoji", "text": "Browse GetEmoji.Online to find the emoji you want to copy. Use the search bar or browse by category." },
+    { "@type": "HowToStep", "name": "Click the emoji", "text": "Click or tap on the emoji. It will be automatically copied to your clipboard." },
+    { "@type": "HowToStep", "name": "Paste anywhere", "text": "Go to your desired app (social media, messages, email) and paste the emoji using Ctrl+V (Windows), Cmd+V (Mac), or long-press and tap Paste on mobile." },
+  ],
+});
+
+const faqSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "How do I copy and paste emojis on iPhone?", "acceptedAnswer": { "@type": "Answer", "text": "On iPhone, simply tap an emoji on GetEmoji.Online to copy it. Then go to your app and long-press the text area and tap Paste. You can also use the iOS emoji keyboard by pressing the globe or smiley icon on your keyboard." } },
+    { "@type": "Question", "name": "How do I copy and paste emojis on Android?", "acceptedAnswer": { "@type": "Answer", "text": "On Android, tap any emoji on GetEmoji.Online to copy it. Then long-press in any text field and select Paste. You can also use the built-in Gboard emoji keyboard." } },
+    { "@type": "Question", "name": "How do I copy and paste emojis on Windows?", "acceptedAnswer": { "@type": "Answer", "text": "On Windows, click an emoji on GetEmoji.Online to copy it, then press Ctrl+V to paste. You can also press Windows key + . (period) to open the Windows emoji picker." } },
+    { "@type": "Question", "name": "How do I copy and paste emojis on Mac?", "acceptedAnswer": { "@type": "Answer", "text": "On Mac, click an emoji on GetEmoji.Online to copy it, then press Cmd+V to paste. You can also press Ctrl+Cmd+Space to open the Mac emoji picker." } },
+  ],
+});
+
+const combinedSchema = howToSchema.slice(0, -1) + ',' + faqSchema.slice(1);
+---
+<BaseLayout
+  title="How to Copy and Paste Emojis - Complete Guide | GetEmoji.Online"
+  description="Learn how to copy and paste emojis on any device. Step-by-step guide for iPhone, Android, Windows, and Mac. Free emoji copy and paste tutorial."
+  keywords="how to copy and paste emojis, emoji copy paste guide, how to use emojis, copy paste emoji tutorial, emoji keyboard shortcut, how to copy emoji on iphone, how to copy emoji on android"
+  canonicalSlug="how-to-copy-paste-emojis/"
+  hreflang="en-US"
+  schema={combinedSchema}
+>
+  <div class="max-w-4xl mx-auto px-4 py-10">
+    <div class="bg-white rounded-3xl p-8 sm:p-12 shadow-xl border border-gray-100">
+      <div class="text-center mb-10">
+        <span class="text-6xl mb-4 block">📋</span>
+        <h1 class="text-4xl sm:text-5xl font-black text-gray-900 mb-3">How to Copy and Paste Emojis</h1>
+        <p class="text-gray-500 max-w-xl mx-auto">Complete guide to copying and pasting emojis on any device. Free, fast, and easy.</p>
+      </div>
+
+      <div class="space-y-8">
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            Method 1: Using GetEmoji.Online (Easiest)
+          </h2>
+          <ol class="space-y-3 text-sm text-gray-600 ml-5 list-decimal">
+            <li><strong>Browse</strong> to <a href="/" class="text-yellow-500 font-bold hover:underline">GetEmoji.Online</a> and find your emoji using search or categories.</li>
+            <li><strong>Click</strong> on any emoji — it copies to your clipboard instantly.</li>
+            <li><strong>Paste</strong> it anywhere using Ctrl+V (Windows), Cmd+V (Mac), or tap-and-hold then Paste on mobile.</li>
+          </ol>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            Method 2: Using Built-in Emoji Keyboards
+          </h2>
+          <div class="grid sm:grid-cols-2 gap-4">
+            <div class="bg-gray-50 rounded-xl p-4">
+              <h3 class="font-bold text-sm text-gray-900 mb-2">🪟 Windows</h3>
+              <p class="text-xs text-gray-600">Press <kbd class="bg-gray-200 px-2 py-0.5 rounded text-xs font-mono">Windows</kbd> + <kbd class="bg-gray-200 px-2 py-0.5 rounded text-xs font-mono">.</kbd> (period) to open the emoji picker. Click any emoji to insert it.</p>
+            </div>
+            <div class="bg-gray-50 rounded-xl p-4">
+              <h3 class="font-bold text-sm text-gray-900 mb-2">🍎 Mac</h3>
+              <p class="text-xs text-gray-600">Press <kbd class="bg-gray-200 px-2 py-0.5 rounded text-xs font-mono">Ctrl</kbd> + <kbd class="bg-gray-200 px-2 py-0.5 rounded text-xs font-mono">Cmd</kbd> + <kbd class="bg-gray-200 px-2 py-0.5 rounded text-xs font-mono">Space</kbd> to open the character viewer. Double-click any emoji.</p>
+            </div>
+            <div class="bg-gray-50 rounded-xl p-4">
+              <h3 class="font-bold text-sm text-gray-900 mb-2">📱 iPhone / iPad</h3>
+              <p class="text-xs text-gray-600">Tap the globe or smiley icon on your keyboard to switch to the emoji keyboard. Swipe through categories and tap emojis.</p>
+            </div>
+            <div class="bg-gray-50 rounded-xl p-4">
+              <h3 class="font-bold text-sm text-gray-900 mb-2">🤖 Android</h3>
+              <p class="text-xs text-gray-600">Tap the smiley face icon on your Gboard or Samsung keyboard to access emojis. Tap any emoji to insert it.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-yellow-50 border border-yellow-200 rounded-xl p-6">
+          <h2 class="font-bold text-gray-900 mb-2">💡 Pro Tips</h2>
+          <ul class="space-y-2 text-sm text-gray-600 list-disc ml-5">
+            <li>Use <a href="/" class="text-yellow-500 hover:underline font-medium">GetEmoji.Online</a> when you need a specific emoji quickly — no keyboard navigation needed.</li>
+            <li>Bookmark our site for quick access: <a href="/" class="text-yellow-500 hover:underline font-medium">GetEmoji.Online</a></li>
+            <li>Download emoji images as PNG, SVG, JPG, or WebP from any emoji page for use in design projects.</li>
+            <li>Use our <a href="/api/" class="text-yellow-500 hover:underline font-medium">free Emoji API</a> to integrate emojis into your apps and websites.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <AdBlock />
+</BaseLayout>

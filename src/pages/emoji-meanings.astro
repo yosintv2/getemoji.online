@@ -1,0 +1,85 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AdBlock from '../components/AdBlock.astro';
+import { loadData, categories } from '../data';
+
+const data = loadData();
+const allEmojis = data.allEmojis.filter(e => e.name && e.char && e.char.length <= 4);
+
+const schema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Emoji Meanings Dictionary",
+  "description": "Complete emoji meanings dictionary. Browse all emojis with their names, meanings, and descriptions.",
+  "url": "https://www.getemoji.online/emoji-meanings/",
+  "about": { "@type": "Thing", "name": "Emoji Meanings" },
+});
+---
+<BaseLayout
+  title="Emoji Meanings Dictionary - All Emoji Meanings and Names | GetEmoji.Online"
+  description="Complete emoji meanings dictionary. Browse all emojis with their names, meanings, and descriptions. Find out what every emoji means. Free emoji meanings guide."
+  keywords="emoji meanings, emoji dictionary, what does this emoji mean, emoji names, emoji meanings list, all emojis and their meanings, emoji meaning guide"
+  canonicalSlug="emoji-meanings/"
+  hreflang="en-US"
+  schema={schema}
+>
+  <div class="max-w-7xl mx-auto px-4 py-10">
+    <div class="text-center mb-10">
+      <span class="text-6xl mb-4 block">📖</span>
+      <h1 class="text-4xl sm:text-5xl font-black text-gray-900 mb-3">Emoji Meanings Dictionary</h1>
+      <p class="text-gray-500 max-w-2xl mx-auto">Complete guide to all emoji meanings. Browse by category or search to find what any emoji means.</p>
+    </div>
+
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 mb-12">
+      {categories.map(cat => {
+        const items = data.emojisByCategory[cat.slug] || [];
+        return (
+          <a href={`/${cat.slug}/`} class="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm hover:shadow-xl transition-all group">
+            <div class="flex items-center gap-3 mb-2">
+              <span class="text-3xl">{cat.icon}</span>
+              <h2 class="font-bold text-sm text-gray-900 group-hover:text-yellow-500 transition-colors">{cat.name}</h2>
+            </div>
+            <p class="text-xs text-gray-400 line-clamp-2 mb-2">{cat.desc}</p>
+            <span class="text-xs font-bold text-yellow-500">{items.length} emojis</span>
+          </a>
+        );
+      })}
+    </div>
+
+    {categories.map(cat => {
+      const items = data.emojisByCategory[cat.slug] || [];
+      return (
+        <div class="mb-12">
+          <h2 class="text-2xl font-black text-gray-900 mb-6 flex items-center gap-3">
+            <span class="w-2 h-8 bg-yellow-400 rounded-full"></span>
+            {cat.icon} {cat.name} Emoji Meanings
+          </h2>
+          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2">
+            {items.slice(0, 48).map(e => (
+              <a href={`/${e.slug}/`} class="bg-white rounded-xl p-3 border border-gray-100 hover:border-yellow-200 hover:shadow-md transition-all text-center group">
+                <span class="text-2xl block mb-1">{e.char}</span>
+                <span class="text-[10px] font-semibold text-gray-600 block leading-tight group-hover:text-yellow-600 transition-colors">{e.name}</span>
+              </a>
+            ))}
+          </div>
+          {items.length > 48 && (
+            <div class="text-center mt-4">
+              <a href={`/${cat.slug}/`} class="text-sm font-bold text-yellow-500 hover:text-yellow-600 transition-colors">View all {items.length} {cat.name} emojis →</a>
+            </div>
+          )}
+        </div>
+      );
+    })}
+  </div>
+
+  <div class="max-w-3xl mx-auto px-4 py-12 border-t border-gray-100">
+    <h2 class="text-2xl font-black text-gray-900 mb-6 text-center">What Do Emojis Mean?</h2>
+    <div class="space-y-4 text-sm text-gray-600 leading-relaxed">
+      <p>Emojis are small digital icons used to express ideas, emotions, and concepts in electronic communication. Each emoji has a specific meaning defined by the Unicode Consortium, though meanings can vary by context and culture.</p>
+      <p>Our emoji meanings dictionary covers all official Unicode emojis with their standard names, descriptions, and common usage examples. Browse by category above or click any emoji to see its full meaning page with download options.</p>
+      <p>The most commonly used emojis include 😂 Face with Tears of Joy (laughter), ❤️ Red Heart (love), 🔥 Fire (excitement), 😊 Smiling Face with Smiling Eyes (happiness), and 👍 Thumbs Up (approval).</p>
+    </div>
+  </div>
+
+  <AdBlock />
+</BaseLayout>

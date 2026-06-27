@@ -1,0 +1,110 @@
+[
+  {
+    "char": "🎅",
+    "name": "Santa Claus",
+    "slug": "santa-claus",
+    "desc": "The classic Father Christmas with a red hat and white beard."
+  },
+  {
+    "char": "🎅🏻",
+    "name": "Santa Claus: Light Skin Tone",
+    "slug": "santa-claus-light-skin-tone",
+    "desc": "Santa Claus with a light skin tone."
+  },
+  {
+    "char": "🎅🏼",
+    "name": "Santa Claus: Medium-Light Skin Tone",
+    "slug": "santa-claus-medium-light-skin-tone",
+    "desc": "Santa Claus with a medium-light skin tone."
+  },
+  {
+    "char": "🎅🏽",
+    "name": "Santa Claus: Medium Skin Tone",
+    "slug": "santa-claus-medium-skin-tone",
+    "desc": "Santa Claus with a medium skin tone."
+  },
+  {
+    "char": "🎅🏾",
+    "name": "Santa Claus: Medium-Dark Skin Tone",
+    "slug": "santa-claus-medium-dark-skin-tone",
+    "desc": "Santa Claus with a medium-dark skin tone."
+  },
+  {
+    "char": "🎅🏿",
+    "name": "Santa Claus: Dark Skin Tone",
+    "slug": "santa-claus-dark-skin-tone",
+    "desc": "Santa Claus with a dark skin tone."
+  },
+  {
+    "char": "🤶",
+    "name": "Mrs. Claus",
+    "slug": "mrs-claus",
+    "desc": "The wife of Santa Claus, wearing a red hood and glasses."
+  },
+  {
+    "char": "🤶🏻",
+    "name": "Mrs. Claus: Light Skin Tone",
+    "slug": "mrs-claus-light-skin-tone",
+    "desc": "Mrs. Claus with a light skin tone."
+  },
+  {
+    "char": "🤶🏼",
+    "name": "Mrs. Claus: Medium-Light Skin Tone",
+    "slug": "mrs-claus-medium-light-skin-tone",
+    "desc": "Mrs. Claus with a medium-light skin tone."
+  },
+  {
+    "char": "🤶🏽",
+    "name": "Mrs. Claus: Medium Skin Tone",
+    "slug": "mrs-claus-medium-skin-tone",
+    "desc": "Mrs. Claus with a medium skin tone."
+  },
+  {
+    "char": "🤶🏾",
+    "name": "Mrs. Claus: Medium-Dark Skin Tone",
+    "slug": "mrs-claus-medium-dark-skin-tone",
+    "desc": "Mrs. Claus with a medium-dark skin tone."
+  },
+  {
+    "char": "🤶🏿",
+    "name": "Mrs. Claus: Dark Skin Tone",
+    "slug": "mrs-claus-dark-skin-tone",
+    "desc": "Mrs. Claus with a dark skin tone."
+  },
+  {
+    "char": "🧑‍🎄",
+    "name": "Mx Claus",
+    "slug": "mx-claus",
+    "desc": "A gender-neutral holiday figure wearing a red hat."
+  },
+  {
+    "char": "🧑🏻‍🎄",
+    "name": "Mx Claus: Light Skin Tone",
+    "slug": "mx-claus-light-skin-tone",
+    "desc": "Mx Claus with a light skin tone."
+  },
+  {
+    "char": "🧑🏼‍🎄",
+    "name": "Mx Claus: Medium-Light Skin Tone",
+    "slug": "mx-claus-medium-light-skin-tone",
+    "desc": "Mx Claus with a medium-light skin tone."
+  },
+  {
+    "char": "🧑🏽‍🎄",
+    "name": "Mx Claus: Medium Skin Tone",
+    "slug": "mx-claus-medium-skin-tone",
+    "desc": "Mx Claus with a medium skin tone."
+  },
+  {
+    "char": "🧑🏾‍🎄",
+    "name": "Mx Claus: Medium-Dark Skin Tone",
+    "slug": "mx-claus-medium-dark-skin-tone",
+    "desc": "Mx Claus with a medium-dark skin tone."
+  },
+  {
+    "char": "🧑🏿‍🎄",
+    "name": "Mx Claus: Dark Skin Tone",
+    "slug": "mx-claus-dark-skin-tone",
+    "desc": "Mx Claus with a dark skin tone."
+  }
+]

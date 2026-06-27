@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🦅",
+    "name": "Eagle Majesty Bird",
+    "slug": "eagle-majesty-wildlife-bird-emoji",
+    "desc": "A symbol of freedom and vision. Perfect for content about national pride, high-level perspectives, and birds of prey."
+  },
+  {
+    "char": "🦉",
+    "name": "Owl Wisdom Bird",
+    "slug": "owl-wisdom-nocturnal-bird-emoji",
+    "desc": "Represents intelligence and nocturnal life. High SEO value for educational content, night-themed posts, and avian biology."
+  },
+  {
+    "char": "🕊️",
+    "name": "Dove Peace Bird",
+    "slug": "dove-peace-spirit-bird-emoji",
+    "desc": "The universal symbol for peace and hope. Ideal for wedding planning, spiritual content, and international diplomacy topics."
+  },
+  {
+    "char": "🦆",
+    "name": "Duck Water Bird",
+    "slug": "duck-water-wildlife-bird-emoji",
+    "desc": "Represents lake life and waterfowl. Great for park visit updates, hunting regulations, and cute animal photography."
+  },
+  {
+    "char": "🦩",
+    "name": "Flamingo Tropical Bird",
+    "slug": "flamingo-tropical-exotic-bird-emoji",
+    "desc": "Symbolizes elegance and tropical vibes. Popular in summer fashion, beach resort marketing, and Florida-themed content."
+  },
+  {
+    "char": "🦜",
+    "name": "Parrot Exotic Bird",
+    "slug": "parrot-exotic-pet-bird-emoji",
+    "desc": "The icon for colorful plumage and mimicry. Perfect for pet bird owners, tropical rainforest awareness, and pirate themes."
+  },
+  {
+    "char": "🐧",
+    "name": "Penguin Antarctic Bird",
+    "slug": "penguin-antarctic-flightless-bird-emoji",
+    "desc": "Technically a flightless bird of the south. Essential for climate change topics, winter aesthetics, and adorable wildlife clips."
+  },
+  {
+    "char": "🦢",
+    "name": "Swan Graceful Bird",
+    "slug": "swan-graceful-beauty-bird-emoji",
+    "desc": "Represents beauty, purity, and lifelong partnership. Targeted at bridal brands, ballet (Swan Lake), and luxury aesthetics."
+  },
+  {
+    "char": "🦚",
+    "name": "Peacock Proud Bird",
+    "slug": "peacock-proud-feather-bird-emoji",
+    "desc": "A symbol of vanity and incredible natural color. Used for high-fashion inspiration and showcasing vibrant garden birds."
+  },
+  {
+    "char": "🐦",
+    "name": "Songbird Nature Bird",
+    "slug": "songbird-nature-garden-bird-emoji",
+    "desc": "The general icon for small garden birds. Ideal for birdwatching hobbies, spring morning updates, and backyard feeders."
+  },
+  {
+    "char": "🦃",
+    "name": "Turkey Farm Bird",
+    "slug": "turkey-farm-holiday-bird-emoji",
+    "desc": "Primarily associated with Thanksgiving and agriculture. Used for holiday meal planning and seasonal autumn content."
+  },
+  {
+    "char": "🐓",
+    "name": "Rooster Poultry Bird",
+    "slug": "rooster-poultry-farm-bird-emoji",
+    "desc": "The symbol for early mornings and farm life. Perfect for 'rise and shine' motivation, agriculture, and fresh egg marketing."
+  }
+]

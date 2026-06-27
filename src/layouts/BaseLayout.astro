@@ -1,0 +1,305 @@
+---
+import { categories, categoryMap } from '../data/categories';
+
+export interface Props {
+  title: string;
+  description: string;
+  canonicalSlug?: string;
+  schema?: string;
+  keywords?: string;
+  ogImage?: string;
+  hreflang?: string;
+}
+
+const { title, description, canonicalSlug = '', schema, keywords, ogImage, hreflang = 'en-US' } = Astro.props;
+const baseUrl = 'https://www.getemoji.online';
+const canonical = canonicalSlug ? `${baseUrl}/${canonicalSlug.replace(/\/+$/, '')}/` : baseUrl;
+const ogImg = ogImage || `${baseUrl}/og-image.png`;
+const kw = keywords || 'emoji, emojis, copy paste emoji, emoji copy and paste, getemoji';
+const catList = Object.entries(categoryMap);
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <meta name="keywords" content={kw} />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="GetEmoji.Online" />
+  <link rel="canonical" href={canonical} />
+  <link rel="alternate" hrefLang="en-US" href={`${baseUrl}/`} />
+  <link rel="alternate" hrefLang="en-GB" href={`${baseUrl}/country/uk/`} />
+  <link rel="alternate" hrefLang="en-AU" href={`${baseUrl}/country/australia/`} />
+  <link rel="alternate" hrefLang="x-default" href={`${baseUrl}/`} />
+  <meta property="og:locale" content={hreflang.replace('-', '_')} />
+  <meta property="og:site_name" content="GetEmoji.Online" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content={ogImg} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImg} />
+  <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+  <link rel="alternate icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="theme-color" content="#fbbf24" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="GetEmoji" />
+  <link rel="apple-touch-icon" href="/icon.svg" />
+  <script is:inline src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  {schema && <script is:inline type="application/ld+json">{schema}</script>}
+  <style is:global>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    .emoji-card { transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1); }
+    .emoji-card:hover { transform: translateY(-3px); box-shadow: 0 12px 30px -8px rgba(0,0,0,0.12); }
+    .kaomoji-font { font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif; }
+    #search-results { max-height: 400px; overflow-y: auto; display: none; }
+    .gradient-hero { background: linear-gradient(135deg, #fef3c7 0%, #fde68a 50%, #fbbf24 100%); }
+    .gradient-dark { background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); }
+    .mobile-menu { max-height: 0; overflow: hidden; transition: max-height 0.35s ease-out; }
+    .mobile-menu.open { max-height: 600px; }
+    @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
+    .float-anim { animation: float 3s ease-in-out infinite; }
+    @keyframes fadeIn { from{opacity:0;transform:translateY(12px)} to{opacity:1;transform:translateY(0)} }
+    .fade-in { animation: fadeIn 0.4s ease-out forwards; }
+    @keyframes bounceIn { 0%{transform:scale(0.6);opacity:0} 60%{transform:scale(1.1)} 100%{transform:scale(1);opacity:1} }
+    .toast-show { animation: bounceIn 0.35s ease-out forwards; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-900 antialiased">
+  <header class="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+    <div class="max-w-7xl mx-auto px-4">
+      <div class="flex items-center justify-between h-14 sm:h-16">
+        <div class="flex items-center gap-2">
+          <button id="menu-btn" class="sm:hidden w-9 h-9 rounded-lg hover:bg-gray-100 flex items-center justify-center text-gray-500 transition-colors" aria-label="Toggle menu">
+            <i class="fa-solid fa-bars text-lg"></i>
+          </button>
+          <a href="/" class="flex items-center gap-2 group">
+            <span class="text-2xl sm:text-3xl group-hover:scale-110 transition-transform">✨</span>
+            <span class="text-lg sm:text-xl font-extrabold tracking-tight text-gray-900"><span class="text-yellow-500">Get</span>Emoji</span>
+          </a>
+        </div>
+        <div class="relative w-full max-w-xs sm:max-w-md ml-2 sm:ml-4">
+          <div class="relative">
+            <input type="text" id="emoji-search" placeholder="Search emojis..." autocomplete="off"
+              class="w-full bg-gray-100 border border-gray-200 rounded-xl py-2 sm:py-2.5 pl-9 sm:pl-10 pr-4 text-sm focus:ring-2 focus:ring-yellow-400 focus:bg-white outline-none transition-all" />
+            <i class="fa fa-search absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-sm"></i>
+            <kbd class="hidden sm:inline absolute right-3 top-1/2 -translate-y-1/2 text-[10px] text-gray-400 bg-gray-200 px-1.5 py-0.5 rounded font-mono">⌘K</kbd>
+          </div>
+          <div id="search-results" class="absolute top-full left-0 right-0 bg-white border border-gray-200 rounded-xl mt-1.5 shadow-2xl z-[100]"></div>
+        </div>
+      </div>
+      <nav class="hidden sm:flex gap-1 overflow-x-auto no-scrollbar pb-2 -mb-px">
+        {catList.map(([slug, name]) => (
+          <a href={`/${slug}/`}
+            class="shrink-0 px-3 py-1.5 rounded-lg text-xs font-bold text-gray-500 hover:bg-yellow-50 hover:text-yellow-600 border border-transparent hover:border-yellow-200 transition-all whitespace-nowrap">
+            {name}
+          </a>
+        ))}
+      </nav>
+      <div id="mobile-nav" class="mobile-menu sm:hidden">
+        <div class="pb-3 pt-1 space-y-0.5">
+          {catList.map(([slug, name]) => (
+            <a href={`/${slug}/`}
+              class="block px-3 py-2 rounded-lg text-sm font-semibold text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 transition-colors">
+              {name}
+            </a>
+          ))}
+          <div class="border-t border-gray-100 my-2"></div>
+          <a href="/emoji-meanings/" class="block px-3 py-2 rounded-lg text-sm font-semibold text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 transition-colors">📖 Emoji Meanings</a>
+          <a href="/trending-emojis/" class="block px-3 py-2 rounded-lg text-sm font-semibold text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 transition-colors">📈 Trending Emojis</a>
+          <a href="/how-to-copy-paste-emojis/" class="block px-3 py-2 rounded-lg text-sm font-semibold text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 transition-colors">📋 How-To Guide</a>
+          <a href="/api/" class="block px-3 py-2 rounded-lg text-sm font-semibold text-gray-600 hover:bg-yellow-50 hover:text-yellow-600 transition-colors">🔌 Free API</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="gradient-dark text-gray-400 mt-16">
+    <div class="max-w-7xl mx-auto px-4 py-12 sm:py-16">
+      <div class="grid grid-cols-2 md:grid-cols-5 gap-8 mb-10">
+        <div class="col-span-2 md:col-span-1">
+          <a href="/" class="text-2xl font-extrabold tracking-tight text-white"><span class="text-yellow-400">Get</span>Emoji</a>
+          <p class="mt-3 text-sm leading-relaxed text-gray-500">Your ultimate destination for copy and paste emojis. Fast, free, and always up-to-date.</p>
+          <p class="mt-4 text-xs text-gray-600">© 2026 GetEmoji.Online</p>
+        </div>
+        <div>
+          <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-3">Categories</h4>
+          <ul class="space-y-1.5">
+            {catList.slice(0, 5).map(([slug, name]) => (
+              <li><a href={`/${slug}/`} class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">{name}</a></li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-3">More</h4>
+          <ul class="space-y-1.5">
+            {catList.slice(5, 10).map(([slug, name]) => (
+              <li><a href={`/${slug}/`} class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">{name}</a></li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-3">Resources</h4>
+          <ul class="space-y-1.5">
+            <li><a href="/emoji-meanings/" class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">Emoji Meanings</a></li>
+            <li><a href="/trending-emojis/" class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">Trending Emojis</a></li>
+            <li><a href="/how-to-copy-paste-emojis/" class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">How-To Guide</a></li>
+            <li><a href="/api/" class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">Free API</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-3">Countries</h4>
+          <ul class="space-y-1.5">
+            <li><a href="/country/usa/" class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">USA</a></li>
+            <li><a href="/country/uk/" class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">UK</a></li>
+            <li><a href="/country/australia/" class="text-sm text-gray-400 hover:text-yellow-400 transition-colors">Australia</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="border-t border-gray-800 pt-6 text-center">
+        <p class="text-xs text-gray-600">
+          <a href="/" class="text-yellow-400 hover:underline">GetEmoji.Online</a> — The easiest way to copy and paste emojis.
+          <a href="/sitemap.xml" class="text-yellow-400 hover:underline ml-2">Sitemap</a>
+        </p>
+      </div>
+    </div>
+  </footer>
+
+  <div id="toast" class="fixed bottom-6 left-1/2 -translate-x-1/2 bg-gray-900 text-white px-6 py-3 rounded-full shadow-2xl opacity-0 pointer-events-none transition-all duration-300 z-[100] font-bold text-sm flex items-center gap-2.5 select-none">
+    <span class="w-6 h-6 bg-yellow-400 text-gray-900 rounded-full flex items-center justify-center text-xs font-black">✓</span>
+    <span id="toast-msg">Copied to clipboard!</span>
+  </div>
+
+  <script is:inline>
+  (function() {
+    // Mobile menu toggle
+    var menuBtn = document.getElementById('menu-btn');
+    var mobileNav = document.getElementById('mobile-nav');
+    if (menuBtn && mobileNav) {
+      menuBtn.addEventListener('click', function() {
+        mobileNav.classList.toggle('open');
+        var icon = menuBtn.querySelector('i');
+        if (mobileNav.classList.contains('open')) {
+          icon.className = 'fa-solid fa-xmark text-lg';
+        } else {
+          icon.className = 'fa-solid fa-bars text-lg';
+        }
+      });
+    }
+
+    // Search
+    var emojiIndex = [];
+    fetch('/search-index.json').then(function(r) { return r.json(); }).then(function(data) { emojiIndex = data; }).catch(function() {});
+    var si = document.getElementById('emoji-search');
+    var sr = document.getElementById('search-results');
+    if (si && sr) {
+      var timer;
+      si.addEventListener('input', function(e) {
+        clearTimeout(timer);
+        timer = setTimeout(function() {
+          var val = e.target.value.toLowerCase().trim();
+          if (val.length < 2) { sr.style.display = 'none'; return; }
+          var filtered = emojiIndex.filter(function(i) { return i.name.toLowerCase().includes(val); }).slice(0, 12);
+          if (filtered.length > 0) {
+            sr.innerHTML = filtered.map(function(i) {
+              return '<a href="/' + i.slug + '/" class="flex items-center gap-3 p-2.5 hover:bg-yellow-50 border-b border-gray-100 last:border-0 transition-colors"><span class="text-2xl flex-shrink-0">' + i.char + '</span><div class="min-w-0"><span class="text-sm font-semibold text-gray-700 block truncate">' + i.name + '</span><span class="text-[10px] text-gray-400">Click to copy</span></div><span class="ml-auto text-[10px] text-gray-400 font-medium uppercase flex-shrink-0"><i class="fa-regular fa-copy mr-1"></i>Copy</span></a>';
+            }).join('');
+            sr.style.display = 'block';
+          } else { sr.style.display = 'none'; }
+        }, 120);
+      });
+      document.addEventListener('keydown', function(e) {
+        if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+          e.preventDefault();
+          si.focus();
+          si.select();
+        }
+        if (e.key === 'Escape') { sr.style.display = 'none'; si.blur(); }
+      });
+      document.addEventListener('click', function(e) {
+        if (!sr.contains(e.target) && e.target !== si) sr.style.display = 'none';
+      });
+    }
+
+    // Clipboard
+    window.copyToClipboard = function(text) {
+      try { navigator.clipboard.writeText(text); } catch(e) {
+        var ta = document.createElement('textarea');
+        ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+        document.body.appendChild(ta); ta.select();
+        try { document.execCommand('copy'); } catch(e2) {}
+        document.body.removeChild(ta);
+      }
+      var toast = document.getElementById('toast');
+      var msg = document.getElementById('toast-msg');
+      if (toast && msg) {
+        msg.textContent = text.length > 20 ? 'Copied to clipboard!' : 'Copied ' + text + '!';
+        toast.classList.remove('opacity-0', 'pointer-events-none');
+        toast.classList.add('opacity-100', 'toast-show');
+        clearTimeout(window._toastTimer);
+        window._toastTimer = setTimeout(function() {
+          toast.classList.add('opacity-0', 'pointer-events-none');
+          toast.classList.remove('opacity-100', 'toast-show');
+        }, 1800);
+      }
+    };
+
+    // Download emoji
+    window.downloadEmoji = function(char, slug, format, size) {
+      size = size || 512;
+      if (format === 'svg') {
+        var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="' + size + '" height="' + size + '" viewBox="0 0 ' + size + ' ' + size + '"><rect width="' + size + '" height="' + size + '" fill="#ffffff"/><text x="' + (size/2) + '" y="' + (size/2) + '" text-anchor="middle" dominant-baseline="central" font-family="Apple Color Emoji,Segoe UI Emoji,Noto Color Emoji,Twemoji Mozilla,EmojiOne Color,sans-serif" font-size="' + Math.round(size*0.72) + '">' + char + '</text></svg>';
+        var blob = new Blob([svg], { type: 'image/svg+xml' });
+        var url = URL.createObjectURL(blob);
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = slug + '-emoji-512px.svg';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        setTimeout(function() { URL.revokeObjectURL(url); }, 100);
+        return;
+      }
+      var canvas = document.createElement('canvas');
+      canvas.width = size;
+      canvas.height = size;
+      var ctx = canvas.getContext('2d');
+      ctx.fillStyle = '#ffffff';
+      ctx.fillRect(0, 0, size, size);
+      ctx.font = Math.round(size * 0.72) + 'px "Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji","Twemoji Mozilla","EmojiOne Color",sans-serif';
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(char, size / 2, size / 2 + Math.round(size * 0.02));
+      var mime = format === 'jpg' ? 'image/jpeg' : format === 'webp' ? 'image/webp' : 'image/png';
+      var ext = format === 'jpg' ? 'jpg' : format;
+      canvas.toBlob(function(blob) {
+        var url = URL.createObjectURL(blob);
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = slug + '-emoji-512px.' + ext;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        setTimeout(function() { URL.revokeObjectURL(url); }, 100);
+      }, mime, format === 'jpg' ? 0.92 : undefined);
+    };
+  })();
+  </script>
+</body>
+</html>

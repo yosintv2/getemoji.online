@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🛒",
+    "name": "Shopping Cart",
+    "slug": "shopping-cart-ecommerce-emoji",
+    "desc": "The universal icon for grocery shopping and online e-commerce. Perfect for 'add to cart' call-to-actions, retail sales, and supermarket trips."
+  },
+  {
+    "char": "🛍️",
+    "name": "Shopping Bags",
+    "slug": "shopping-bags-retail-therapy-emoji",
+    "desc": "Represents fashion hauls, mall trips, and retail therapy. High SEO value for Black Friday, seasonal sales, and boutique brand content."
+  },
+  {
+    "char": "🏷️",
+    "name": "Shopping Price Tag",
+    "slug": "shopping-tag-discount-emoji",
+    "desc": "Symbolizes discounts, clearance events, and pricing. Ideal for couponing blogs, promo codes, and 'best deals' announcements."
+  },
+  {
+    "char": "👗",
+    "name": "Shopping for Clothes",
+    "slug": "fashion-shopping-apparel-emoji",
+    "desc": "Specific to apparel and fashion shopping. Great for clothing store promotions, wardrobe refreshes, and OOTD (Outfit of the Day) content."
+  },
+  {
+    "char": "👠",
+    "name": "Shopping for Shoes",
+    "slug": "luxury-shoe-shopping-emoji",
+    "desc": "Represents luxury footwear and accessory shopping. Targeted at shoe lovers, fashionistas, and high-end retail marketing."
+  },
+  {
+    "char": "🏬",
+    "name": "Shopping Department Store",
+    "slug": "department-store-shopping-mall-emoji",
+    "desc": "The symbol for large-scale retail buildings and malls. Used for city shopping guides and holiday shopping season content."
+  },
+  {
+    "char": "🎁",
+    "name": "Shopping for Gifts",
+    "slug": "gift-shopping-present-emoji",
+    "desc": "Represents buying presents for holidays, birthdays, or weddings. Perfect for gift guides and 'shopping for others' topics."
+  },
+  {
+    "char": "💳",
+    "name": "Shopping Credit Card",
+    "slug": "credit-card-shopping-payment-emoji",
+    "desc": "The icon for the payment stage of shopping. Essential for fintech, secure checkout discussions, and digital wallet content."
+  },
+  {
+    "char": "📦",
+    "name": "Shopping Delivery Box",
+    "slug": "package-delivery-online-shopping-emoji",
+    "desc": "Represents the arrival of an online shopping order. Widely used for 'unboxing' videos and shipping/logistics updates."
+  },
+  {
+    "char": "📱",
+    "name": "Mobile Shopping",
+    "slug": "mobile-app-shopping-emoji",
+    "desc": "Highlights the trend of shopping on smartphones. Ideal for app promotions, m-commerce stats, and convenient digital browsing."
+  },
+  {
+    "char": "💄",
+    "name": "Beauty Shopping",
+    "slug": "cosmetics-beauty-shopping-emoji",
+    "desc": "Specifically for makeup and skincare hauls. Perfect for beauty influencers, salon retail, and cosmetic brand launches."
+  },
+  {
+    "char": "🏪",
+    "name": "Convenience Shopping",
+    "slug": "convenience-store-shopping-emoji",
+    "desc": "Represents 24/7 retail and quick stops. Used for late-night snack runs or essential convenience shopping topics."
+  }
+]

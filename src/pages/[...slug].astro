@@ -1,0 +1,286 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EmojiGrid from '../components/EmojiGrid.astro';
+import FAQ from '../components/FAQ.astro';
+import AdBlock from '../components/AdBlock.astro';
+import { loadData, categories, categoryMap } from '../data';
+import { getCountries } from '../data/countries';
+import { breadcrumbSchema, productSchema, collectionSchema, faqSchema } from '../utils/seo';
+import type { Emoji } from '../data/categories';
+import type { CountryInfo } from '../data/countries';
+
+export async function getStaticPaths() {
+  const d = loadData();
+  const c = getCountries();
+  const categoryPaths = categories.map(cat => ({ params: { slug: cat.slug } }));
+  const emojiPaths = d.allEmojis.map(e => ({ params: { slug: e.slug } }));
+  const countryPaths = c.map(co => ({ params: { slug: `country/${co.slug}` } }));
+  return [...categoryPaths, ...emojiPaths, ...countryPaths];
+}
+
+const data = loadData();
+const countries = getCountries();
+
+const { slug } = Astro.params;
+
+function getTopicEmojis(s: string): Emoji[] | undefined {
+  return data.topicEmojis[s];
+}
+function getKaomojiForSlug(s: string): Emoji[] | undefined {
+  return data.kaomojiGroups[s];
+}
+function getEmoji(s: string): Emoji | undefined {
+  return data.allEmojis.find(e => e.slug === s);
+}
+
+type PageType = 'category' | 'emoji' | 'topic' | 'kaomoji' | 'country' | '404';
+let pageType: PageType = '404';
+let pageTitle = 'Emoji Not Found - GetEmoji.Online';
+let pageDesc = 'The emoji page you are looking for was not found. Browse our complete emoji collection.';
+let pageKw = 'emoji, emojis, copy paste emoji';
+let canonicalSlug = '';
+let pageSchema = '';
+let gridItems: Emoji[] = [];
+let heading = '';
+let subheading = '';
+let emojiItem: Emoji | null = null;
+let country: CountryInfo | null = null;
+let faqItems: { q: string; a: string }[] = [];
+let relatedEmojis: Emoji[] = [];
+let breadcrumbItems: { name: string; slug: string }[] = [];
+
+function getRelated(e: Emoji, all: Emoji[], count = 12): Emoji[] {
+  const cat = e.catSlug;
+  return all.filter(x => x.slug !== e.slug && x.catSlug === cat).slice(0, count);
+}
+
+function topicName(s: string) {
+  return s.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+}
+
+if (slug && slug.startsWith('country/')) {
+  const countrySlug = slug.replace('country/', '');
+  country = countries.find(c => c.slug === countrySlug) || null;
+  if (country) {
+    pageType = 'country';
+    pageTitle = `${country.flag} ${country.name} Emojis - Copy & Paste ${country.name} Emoji Collection`;
+    pageDesc = `Copy and paste ${country.name} emojis. Browse our collection of ${country.name}-themed emojis for social media, travel posts, and celebrating ${country.name} culture. Free to use.`;
+    pageKw = `${country.name} emoji, ${country.name} emojis copy paste, ${country.name.toLowerCase()} flag emoji, ${countrySlug} emoji`;
+    canonicalSlug = `country/${country.slug}/`;
+    gridItems = country.emojis;
+    heading = `${country.flag} ${country.name} Emojis`;
+    subheading = `Click any ${country.name} emoji to copy it instantly. Perfect for travel, culture, and social media posts.`;
+    pageSchema = collectionSchema(`${country.name} Emojis`, `Browse ${country.name} emojis to copy and paste.`, country.emojis.length) + ' ' + faqSchema([{ q: `What are the most popular ${country.name} emojis?`, a: `Popular ${country.name} emojis include the ${country.name} flag ${country.flag}, along with food, landmark, and cultural emojis associated with ${country.name}.` }, { q: `How do I copy ${country.name} emojis?`, a: `Simply click any ${country.name} emoji on this page to copy it to your clipboard. Then paste it anywhere you like.` }]);
+  }
+} else if (slug && slug in categoryMap) {
+  const catName = categoryMap[slug];
+  gridItems = data.emojisByCategory[slug] || [];
+  pageType = 'category';
+  const kwBase = slug.replace(/-/g, ' ');
+  pageTitle = `${catName} Emojis Copy & Paste - ${gridItems.length} Emojis to Copy ✨`;
+  pageDesc = `Browse ${gridItems.length} ${catName.toLowerCase()} emojis to copy and paste. Click any emoji to copy it instantly. Free ${kwBase} emoji collection with descriptions.`;
+  pageKw = `${kwBase} emoji, ${kwBase} emojis copy paste, ${slug} emoji, copy paste ${kwBase} emojis`;
+  canonicalSlug = `${slug}/`;
+  heading = `${catName} Emojis`;
+  subheading = `Click any emoji to copy it. Browse ${gridItems.length} ${catName.toLowerCase()} emojis.`;
+  breadcrumbItems = [{ name: 'Home', slug: '' }, { name: `${catName} Emojis`, slug: slug }];
+  pageSchema = breadcrumbSchema(breadcrumbItems) + ' ' + collectionSchema(`${catName} Emojis`, `Browse ${gridItems.length} ${catName.toLowerCase()} emojis to copy and paste.`, gridItems.length);
+  faqItems = [
+    { q: `How do I copy and paste ${kwBase} emojis?`, a: `Simply click any ${kwBase} emoji on this page and it will be copied to your clipboard instantly. You can then paste it anywhere — social media, messages, emails, and more.` },
+    { q: `How many ${kwBase} emojis are there?`, a: `There are ${gridItems.length} ${kwBase} emojis available to copy and paste on GetEmoji.Online. Browse them all above and click to copy.` },
+    { q: `Can I use ${kwBase} emojis on my phone?`, a: `Yes, GetEmoji works perfectly on all devices including iPhone, Android, and tablets. Just tap an emoji to copy it.` },
+  ];
+} else if (slug) {
+  const topic = getTopicEmojis(slug);
+  if (topic && topic.length > 0) {
+    gridItems = topic;
+    pageType = 'topic';
+    const tn = topicName(slug);
+    pageTitle = `${tn} Emojis Copy & Paste ✨ Free Emoji Collection`;
+    pageDesc = `Browse our collection of ${tn.toLowerCase()} emojis to copy and paste. Click any emoji to copy it instantly. Free ${slug} emoji tool.`;
+    pageKw = `${slug} emoji, ${slug} emojis copy paste, ${tn.toLowerCase()} emoji collection`;
+    canonicalSlug = `${slug}/`;
+    heading = `${tn} Emojis`;
+    subheading = `Click any emoji to copy it. Browse our ${tn.toLowerCase()} emoji collection.`;
+    pageSchema = collectionSchema(`${tn} Emojis`, `Browse ${tn.toLowerCase()} emojis.`, topic.length);
+  } else {
+    const kao = getKaomojiForSlug(slug);
+    if (kao && kao.length > 0) {
+      gridItems = kao;
+      pageType = 'kaomoji';
+      const kn = topicName(slug);
+      pageTitle = `${kn} Kaomoji Copy & Paste ✨ Japanese Emoticons`;
+      pageDesc = `Browse ${kn.toLowerCase()} kaomoji (Japanese emoticons) to copy and paste. Click any kaomoji to copy it instantly. Free ${slug} emoticons.`;
+      pageKw = `${slug}, ${kn.toLowerCase()} kaomoji, kaomoji copy paste, japanese emoticons`;
+      canonicalSlug = `${slug}/`;
+      heading = `${kn} Kaomoji`;
+      subheading = `Browse our collection of ${kn.toLowerCase()} Japanese emoticons. Click to copy.`;
+      pageSchema = collectionSchema(`${kn} Kaomoji`, `Browse ${kn.toLowerCase()} kaomoji.`, kao.length);
+    } else {
+      const emoji = getEmoji(slug);
+      if (emoji) {
+        emojiItem = emoji;
+        pageType = 'emoji';
+        const nameLower = emoji.name.toLowerCase();
+        pageTitle = `${emoji.name} Emoji Copy & Paste | Copy Paste ${emoji.name},  Meaning, PNG Download`;
+        pageDesc = emoji.desc ? `${emoji.desc} Click to copy the ${emoji.char} ${emoji.name} emoji. Download ${emoji.name} emoji as PNG, SVG, JPG, or WebP. Free ${nameLower} emoji tool.` : `Copy and paste the ${emoji.char} ${emoji.name} emoji. Click to copy instantly. Download ${emoji.name} emoji PNG for free.`;
+        pageKw = `${nameLower} emoji, ${emoji.slug} emoji copy paste, ${nameLower} emoji meaning, download ${nameLower} emoji`;
+        canonicalSlug = `${emoji.slug}/`;
+        heading = `${emoji.name} Emoji`;
+        subheading = `Click to copy the ${emoji.name} emoji instantly.`;
+        breadcrumbItems = [{ name: 'Home', slug: '' }, { name: `${emoji.name} Emoji`, slug: emoji.slug }];
+        pageSchema = breadcrumbSchema(breadcrumbItems) + ' ' + productSchema(emoji.name, emoji.char, emoji.desc || `${emoji.name} emoji to copy and paste.`) + ' ' + faqSchema(faqItems);
+        relatedEmojis = getRelated(emoji, data.allEmojis);
+        faqItems = [
+          { q: `How do I copy the ${emoji.char} ${emoji.name} emoji?`, a: `Simply click the ${emoji.char} emoji above or click the "Copy Emoji" button. It will be copied to your clipboard instantly.` },
+          { q: `What does the ${emoji.name} emoji mean?`, a: emoji.desc || `The ${emoji.name} emoji ${emoji.char} is used to express various emotions and ideas in digital communication.` },
+          { q: `Can I download the ${emoji.name} emoji?`, a: `Yes, you can download the ${emoji.name} emoji in multiple formats. Click the PNG, SVG, JPG, or WebP button below to download the ${emoji.char} emoji in 512×512 resolution.` },
+          { q: `Can I use the ${emoji.name} emoji on social media?`, a: `Yes, the ${emoji.char} emoji works on all major platforms including Instagram, Twitter, Facebook, TikTok, WhatsApp, and more.` },
+        ];
+      }
+    }
+  }
+}
+---
+
+<BaseLayout title={pageTitle} description={pageDesc} canonicalSlug={canonicalSlug} schema={pageSchema} keywords={pageKw} hreflang={country?.hreflang || 'en-US'}>
+  {(pageType === 'category' || pageType === 'topic' || pageType === 'kaomoji' || pageType === 'country') && (
+    <>
+      <AdBlock />
+      <section class="max-w-7xl mx-auto px-4 py-8 sm:py-10">
+        <div class="flex items-center gap-2 text-xs text-gray-400 mb-4">
+          <a href="/" class="hover:text-yellow-500 transition-colors">Home</a>
+          <span>/</span>
+          <span class="text-gray-600 font-medium">{heading}</span>
+        </div>
+        <div class="mb-6">
+          <h1 class="text-2xl sm:text-3xl md:text-4xl font-black text-gray-900 mb-2">{heading}</h1>
+          <p class="text-sm sm:text-base text-gray-500 max-w-2xl">{subheading}</p>
+        </div>
+        <EmojiGrid emojis={gridItems} />
+        {faqItems.length > 0 && (
+          <div class="mt-10 sm:mt-12">
+            <FAQ items={faqItems} title={`${heading} - FAQ`} />
+          </div>
+        )}
+      </section>
+      <AdBlock />
+    </>
+  )}
+
+  {pageType === 'emoji' && emojiItem && (
+    <>
+      <section class="max-w-4xl mx-auto px-4 py-8 sm:py-10">
+        <div class="flex items-center gap-2 text-xs text-gray-400 mb-4">
+          <a href="/" class="hover:text-yellow-500 transition-colors">Home</a>
+          <span>/</span>
+          <a href={`/${emojiItem.catSlug}/`} class="hover:text-yellow-500 transition-colors">{categoryMap[emojiItem.catSlug] || emojiItem.catSlug}</a>
+          <span>/</span>
+          <span class="text-gray-600 font-medium">{emojiItem.name}</span>
+        </div>
+        <div class="bg-white rounded-2xl sm:rounded-3xl p-6 sm:p-10 md:p-14 text-center shadow-xl border border-gray-100">
+          <div class={`kaomoji-font ${emojiItem.char.length > 4 ? 'text-4xl sm:text-5xl' : 'text-7xl sm:text-8xl md:text-9xl'} mb-5 cursor-pointer select-all inline-block hover:scale-105 transition-transform`}
+               onclick={`copyToClipboard('${emojiItem.char.replace(/'/g, "\\'")}')`}>
+            {emojiItem.char}
+          </div>
+          <h1 class="text-2xl sm:text-3xl md:text-4xl font-black mb-1 text-gray-900">{emojiItem.name} Emoji</h1>
+          <p class="text-gray-400 text-sm mb-6 max-w-lg mx-auto">{emojiItem.char} — Click to copy</p>
+          <div class="flex flex-col sm:flex-row gap-3 justify-center max-w-md mx-auto">
+            <button onclick={`copyToClipboard('${emojiItem.char.replace(/'/g, "\\'")}')`}
+              class="flex-1 bg-yellow-400 hover:bg-yellow-500 text-gray-900 py-3.5 sm:py-4 rounded-2xl font-bold text-base sm:text-lg shadow-lg shadow-yellow-200 hover:shadow-xl transition-all flex items-center justify-center gap-2">
+              <i class="fa-regular fa-copy"></i> Copy {emojiItem.name}
+            </button>
+            <button onclick={`copyToClipboard('${emojiItem.char.replace(/'/g, "\\'")}')`}
+              class="flex-1 bg-gray-100 hover:bg-gray-200 text-gray-700 py-3.5 sm:py-4 rounded-2xl font-bold text-sm transition-all flex items-center justify-center gap-2">
+              <i class="fa-regular fa-paste"></i> Copy {emojiItem.char}
+            </button>
+          </div>
+          {emojiItem.desc && (
+            <div class="mt-8 sm:mt-10 text-left border-t border-gray-100 pt-6 sm:pt-8 max-w-xl mx-auto">
+              <h2 class="text-base sm:text-lg font-bold text-gray-800 uppercase tracking-wide mb-3 flex items-center gap-2">
+                <span class="w-1 h-5 bg-yellow-400 rounded-full"></span>
+                {emojiItem.name} Emoji Meaning
+              </h2>
+              <p class="text-sm sm:text-base text-gray-600 leading-relaxed">{emojiItem.desc}</p>
+            </div>
+          )}
+          <div class="mt-8 sm:mt-10 text-left border-t border-gray-100 pt-6 sm:pt-8 max-w-xl mx-auto">
+            <h2 class="text-base sm:text-lg font-bold text-gray-800 uppercase tracking-wide mb-3 flex items-center gap-2">
+              <span class="w-1 h-5 bg-yellow-400 rounded-full"></span>
+              Download {emojiItem.name} Emoji
+            </h2>
+            <p class="text-xs text-gray-400 mb-4">512px × 512px, white background. Available in multiple formats.</p>
+            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2.5">
+              <button onclick={`downloadEmoji('${emojiItem.char.replace(/'/g, "\\'")}','${emojiItem.slug}','png')`}
+                class="flex items-center gap-2.5 bg-white border-2 border-gray-200 hover:border-yellow-300 hover:bg-yellow-50 text-gray-700 px-4 py-3 rounded-xl font-bold text-sm transition-all shadow-sm hover:shadow-md">
+                <span class="w-7 h-7 bg-yellow-100 rounded-lg flex items-center justify-center text-yellow-600 text-xs font-bold">PNG</span>
+                <div class="text-left leading-tight"><span class="block text-gray-900 text-xs">PNG</span><span class="block text-gray-400 text-[10px]">Lossless</span></div>
+              </button>
+              <button onclick={`downloadEmoji('${emojiItem.char.replace(/'/g, "\\'")}','${emojiItem.slug}','svg')`}
+                class="flex items-center gap-2.5 bg-white border-2 border-purple-200 hover:border-purple-400 hover:bg-purple-50 text-gray-700 px-4 py-3 rounded-xl font-bold text-sm transition-all shadow-sm hover:shadow-md">
+                <span class="w-7 h-7 bg-purple-100 rounded-lg flex items-center justify-center text-purple-600 text-xs font-bold">SVG</span>
+                <div class="text-left leading-tight"><span class="block text-gray-900 text-xs">SVG</span><span class="block text-gray-400 text-[10px]">Vector</span></div>
+              </button>
+              <button onclick={`downloadEmoji('${emojiItem.char.replace(/'/g, "\\'")}','${emojiItem.slug}','jpg')`}
+                class="flex items-center gap-2.5 bg-white border-2 border-gray-200 hover:border-yellow-300 hover:bg-yellow-50 text-gray-700 px-4 py-3 rounded-xl font-bold text-sm transition-all shadow-sm hover:shadow-md">
+                <span class="w-7 h-7 bg-yellow-100 rounded-lg flex items-center justify-center text-yellow-600 text-xs font-bold">JPG</span>
+                <div class="text-left leading-tight"><span class="block text-gray-900 text-xs">JPG</span><span class="block text-gray-400 text-[10px]">Compact</span></div>
+              </button>
+              <button onclick={`downloadEmoji('${emojiItem.char.replace(/'/g, "\\'")}','${emojiItem.slug}','webp')`}
+                class="flex items-center gap-2.5 bg-white border-2 border-gray-200 hover:border-yellow-300 hover:bg-yellow-50 text-gray-700 px-4 py-3 rounded-xl font-bold text-sm transition-all shadow-sm hover:shadow-md">
+                <span class="w-7 h-7 bg-green-100 rounded-lg flex items-center justify-center text-green-600 text-xs font-bold">WEBP</span>
+                <div class="text-left leading-tight"><span class="block text-gray-900 text-xs">WebP</span><span class="block text-gray-400 text-[10px]">Modern</span></div>
+              </button>
+            </div>
+          </div>
+          <div class="mt-6 text-left max-w-xl mx-auto">
+            <h3 class="text-xs font-bold text-gray-500 uppercase tracking-wider mb-3">Share this emoji</h3>
+            <div class="flex gap-2">
+              <a href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(emojiItem.char + ' ' + emojiItem.name + ' Emoji')}&url=${encodeURIComponent('https://www.getemoji.online/' + emojiItem.slug + '/')}`} target="_blank" rel="noopener" class="w-9 h-9 rounded-lg flex items-center justify-center text-gray-400 hover:text-white hover:bg-[#1DA1F2] border border-gray-200 hover:border-[#1DA1F2] transition-all text-sm" aria-label="Share on Twitter"><i class="fa-brands fa-twitter"></i></a>
+              <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent('https://www.getemoji.online/' + emojiItem.slug + '/')}`} target="_blank" rel="noopener" class="w-9 h-9 rounded-lg flex items-center justify-center text-gray-400 hover:text-white hover:bg-[#1877F2] border border-gray-200 hover:border-[#1877F2] transition-all text-sm" aria-label="Share on Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+              <a href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent('https://www.getemoji.online/' + emojiItem.slug + '/')}&description=${encodeURIComponent(emojiItem.char + ' ' + emojiItem.name + ' emoji')}`} target="_blank" rel="noopener" class="w-9 h-9 rounded-lg flex items-center justify-center text-gray-400 hover:text-white hover:bg-[#E60023] border border-gray-200 hover:border-[#E60023] transition-all text-sm" aria-label="Share on Pinterest"><i class="fa-brands fa-pinterest-p"></i></a>
+              <a href={`https://api.whatsapp.com/send?text=${encodeURIComponent(emojiItem.char + ' ' + emojiItem.name + ' - https://www.getemoji.online/' + emojiItem.slug + '/')}`} target="_blank" rel="noopener" class="w-9 h-9 rounded-lg flex items-center justify-center text-gray-400 hover:text-white hover:bg-[#25D366] border border-gray-200 hover:border-[#25D366] transition-all text-sm" aria-label="Share on WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <AdBlock />
+
+      {relatedEmojis.length > 0 && (
+        <section class="max-w-7xl mx-auto px-4 py-8">
+          <h2 class="text-lg sm:text-xl font-bold text-gray-900 mb-5 flex items-center gap-2">
+            <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+            Related {emojiItem.name} Emojis
+          </h2>
+          <EmojiGrid emojis={relatedEmojis} />
+        </section>
+      )}
+
+      {faqItems.length > 0 && (
+        <section class="max-w-7xl mx-auto px-4 py-8">
+          <FAQ items={faqItems} title={`${emojiItem.name} Emoji - FAQ`} />
+        </section>
+      )}
+
+      <section class="max-w-7xl mx-auto px-4 py-8 text-center">
+        <p class="text-xs text-gray-400 max-w-2xl mx-auto leading-relaxed">
+          <a href="/" class="text-yellow-500 hover:underline font-medium">GetEmoji.Online</a> — your ultimate source for emoji copy paste.
+          The {emojiItem.char} {emojiItem.name} emoji is part of the Unicode Standard.
+        </p>
+      </section>
+    </>
+  )}
+
+  {pageType === '404' && (
+    <section class="max-w-4xl mx-auto px-4 py-20 sm:py-24 text-center">
+      <div class="text-7xl sm:text-8xl mb-5 float-anim">😕</div>
+      <h1 class="text-4xl sm:text-5xl font-black mb-3 text-gray-900">Emoji Not Found</h1>
+      <p class="text-base sm:text-lg text-gray-500 mb-8">This emoji page doesn't exist. Try searching for another emoji.</p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/" class="px-6 sm:px-8 py-3.5 bg-yellow-400 font-bold rounded-2xl hover:bg-yellow-500 transition-all shadow-lg text-sm sm:text-base">Browse Emojis</a>
+        <a href="/trending-emojis/" class="px-6 sm:px-8 py-3.5 bg-gray-900 text-white font-bold rounded-2xl hover:bg-gray-800 transition-all shadow-lg text-sm sm:text-base">Trending Emojis</a>
+      </div>
+    </section>
+  )}
+</BaseLayout>

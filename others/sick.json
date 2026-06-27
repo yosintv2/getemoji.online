@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🤒",
+    "name": "Sick Face with Thermometer",
+    "slug": "sick-thermometer-fever-emoji",
+    "desc": "The primary icon for having a fever or feeling ill. Perfect for health updates, flu season content, and medical-related posts."
+  },
+  {
+    "char": "🤢",
+    "name": "Sick Nauseated Face",
+    "slug": "nauseated-sick-emoji",
+    "desc": "Represents feeling physically sick or disgusted. Ideal for content about motion sickness, food poisoning, or being 'sick to one's stomach'."
+  },
+  {
+    "char": "🤮",
+    "name": "Sick Face Vomiting",
+    "slug": "vomiting-sick-emoji",
+    "desc": "A graphic representation of being intensely ill. Used to convey stomach bugs or extreme disgust toward a situation or news."
+  },
+  {
+    "char": "🤧",
+    "name": "Sick Sneezing Face",
+    "slug": "sneezing-cold-sick-emoji",
+    "desc": "Captures the classic symptom of a cold or allergies. High SEO value for seasonal illness tips and hay fever discussions."
+  },
+  {
+    "char": "😷",
+    "name": "Sick Face with Medical Mask",
+    "slug": "mask-sick-protection-emoji",
+    "desc": "Represents taking precautions against germs or being contagious. Used widely for hospital visits, pollution, and public health awareness."
+  },
+  {
+    "char": "🤕",
+    "name": "Sick Face with Head-Bandage",
+    "slug": "hurt-injury-sick-emoji",
+    "desc": "Indicates physical injury or a severe headache. Great for posts about recovery, accidents, or feeling 'beat up' by sickness."
+  },
+  {
+    "char": "🥴",
+    "name": "Sick Woozy Face",
+    "slug": "woozy-dizzy-sick-emoji",
+    "desc": "Conveys feeling dizzy, lightheaded, or intoxicated. Often used to describe the 'brain fog' that comes with being unwell."
+  },
+  {
+    "char": "🏥",
+    "name": "Sick Hospital Building",
+    "slug": "hospital-sick-care-emoji",
+    "desc": "The symbol for professional medical care. Essential for check-up announcements and serious health-related content."
+  },
+  {
+    "char": "💊",
+    "name": "Sick Medicine Pill",
+    "slug": "pill-sick-treatment-emoji",
+    "desc": "Represents medication and the road to recovery. Ideal for pharmaceutical topics and 'get well soon' messages."
+  },
+  {
+    "char": "🚑",
+    "name": "Sick Ambulance",
+    "slug": "ambulance-emergency-sick-emoji",
+    "desc": "Symbolizes medical emergencies and urgent care. Used for high-impact health stories or emergency service appreciation."
+  },
+  {
+    "char": "😴",
+    "name": "Sick Sleeping Face",
+    "slug": "sick-rest-recovery-emoji",
+    "desc": "Often used to represent 'sleeping it off.' Perfect for content about the importance of rest during recovery from sickness."
+  },
+  {
+    "char": "🍵",
+    "name": "Sick Tea Relief",
+    "slug": "sick-tea-remedy-emoji",
+    "desc": "A comforting symbol for home remedies. Frequently used to represent soothing a sore throat or stay-at-home sick days."
+  }
+]

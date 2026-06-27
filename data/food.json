@@ -1,0 +1,788 @@
+[
+  {
+    "char": "🍇",
+    "name": "Grapes",
+    "slug": "grapes",
+    "desc": "Grapes emoji - a grapes representing food, drinks, and dining."
+  },
+  {
+    "char": "🍈",
+    "name": "Melon",
+    "slug": "melon",
+    "desc": "Melon emoji - a melon representing food, drinks, and dining."
+  },
+  {
+    "char": "🍉",
+    "name": "Watermelon",
+    "slug": "watermelon",
+    "desc": "Watermelon emoji - a watermelon representing food, drinks, and dining."
+  },
+  {
+    "char": "🍊",
+    "name": "Tangerine",
+    "slug": "tangerine",
+    "desc": "Tangerine emoji - a tangerine representing food, drinks, and dining."
+  },
+  {
+    "char": "🍋",
+    "name": "Lemon",
+    "slug": "lemon",
+    "desc": "Lemon emoji - a lemon representing food, drinks, and dining."
+  },
+  {
+    "char": "🍋‍🟩",
+    "name": "Lime",
+    "slug": "lime",
+    "desc": "Lime emoji - a lime representing food, drinks, and dining."
+  },
+  {
+    "char": "🍌",
+    "name": "Banana",
+    "slug": "banana",
+    "desc": "Banana emoji - a banana representing food, drinks, and dining."
+  },
+  {
+    "char": "🍍",
+    "name": "Pineapple",
+    "slug": "pineapple",
+    "desc": "Pineapple emoji - a pineapple representing food, drinks, and dining."
+  },
+  {
+    "char": "🥭",
+    "name": "Mango",
+    "slug": "mango",
+    "desc": "Mango emoji - a mango representing food, drinks, and dining."
+  },
+  {
+    "char": "🍎",
+    "name": "Red Apple",
+    "slug": "red-apple",
+    "desc": "Red Apple emoji - a red apple representing food, drinks, and dining."
+  },
+  {
+    "char": "🍏",
+    "name": "Green Apple",
+    "slug": "green-apple",
+    "desc": "Green Apple emoji - a green apple representing food, drinks, and dining."
+  },
+  {
+    "char": "🍐",
+    "name": "Pear",
+    "slug": "pear",
+    "desc": "Pear emoji - a pear representing food, drinks, and dining."
+  },
+  {
+    "char": "🍑",
+    "name": "Peach",
+    "slug": "peach",
+    "desc": "Peach emoji - a peach representing food, drinks, and dining."
+  },
+  {
+    "char": "🍒",
+    "name": "Cherries",
+    "slug": "cherries",
+    "desc": "Cherries emoji - a cherries representing food, drinks, and dining."
+  },
+  {
+    "char": "🍓",
+    "name": "Strawberry",
+    "slug": "strawberry",
+    "desc": "Strawberry emoji - a strawberry representing food, drinks, and dining."
+  },
+  {
+    "char": "🫐",
+    "name": "Blueberries",
+    "slug": "blueberries",
+    "desc": "Blueberries emoji - a blueberries representing food, drinks, and dining."
+  },
+  {
+    "char": "🥝",
+    "name": "Kiwi Fruit",
+    "slug": "kiwi-fruit",
+    "desc": "Kiwi Fruit emoji - a kiwi fruit representing food, drinks, and dining."
+  },
+  {
+    "char": "🍅",
+    "name": "Tomato",
+    "slug": "tomato",
+    "desc": "Tomato emoji - a tomato representing food, drinks, and dining."
+  },
+  {
+    "char": "🫒",
+    "name": "Olive",
+    "slug": "olive",
+    "desc": "Olive emoji - a olive representing food, drinks, and dining."
+  },
+  {
+    "char": "🥥",
+    "name": "Coconut",
+    "slug": "coconut",
+    "desc": "Coconut emoji - a coconut representing food, drinks, and dining."
+  },
+  {
+    "char": "🥑",
+    "name": "Avocado",
+    "slug": "avocado",
+    "desc": "Avocado emoji - a avocado representing food, drinks, and dining."
+  },
+  {
+    "char": "🍆",
+    "name": "Eggplant",
+    "slug": "eggplant",
+    "desc": "Eggplant emoji - a eggplant representing food, drinks, and dining."
+  },
+  {
+    "char": "🥔",
+    "name": "Potato",
+    "slug": "potato",
+    "desc": "Potato emoji - a potato representing food, drinks, and dining."
+  },
+  {
+    "char": "🥕",
+    "name": "Carrot",
+    "slug": "carrot",
+    "desc": "Carrot emoji - a carrot representing food, drinks, and dining."
+  },
+  {
+    "char": "🌽",
+    "name": "Ear Of Corn",
+    "slug": "ear-of-corn",
+    "desc": "Ear Of Corn emoji - a ear of corn representing food, drinks, and dining."
+  },
+  {
+    "char": "🌶️",
+    "name": "Hot Pepper",
+    "slug": "hot-pepper",
+    "desc": "Hot Pepper emoji - a hot pepper representing food, drinks, and dining."
+  },
+  {
+    "char": "🫑",
+    "name": "Bell Pepper",
+    "slug": "bell-pepper",
+    "desc": "Bell Pepper emoji - a bell pepper representing food, drinks, and dining."
+  },
+  {
+    "char": "🥒",
+    "name": "Cucumber",
+    "slug": "cucumber",
+    "desc": "Cucumber emoji - a cucumber representing food, drinks, and dining."
+  },
+  {
+    "char": "🥬",
+    "name": "Leafy Green",
+    "slug": "leafy-green",
+    "desc": "Leafy Green emoji - a leafy green representing food, drinks, and dining."
+  },
+  {
+    "char": "🥦",
+    "name": "Broccoli",
+    "slug": "broccoli",
+    "desc": "Broccoli emoji - a broccoli representing food, drinks, and dining."
+  },
+  {
+    "char": "🧄",
+    "name": "Garlic",
+    "slug": "garlic",
+    "desc": "Garlic emoji - a garlic representing food, drinks, and dining."
+  },
+  {
+    "char": "🧅",
+    "name": "Onion",
+    "slug": "onion",
+    "desc": "Onion emoji - a onion representing food, drinks, and dining."
+  },
+  {
+    "char": "🥜",
+    "name": "Peanuts",
+    "slug": "peanuts",
+    "desc": "Peanuts emoji - a peanuts representing food, drinks, and dining."
+  },
+  {
+    "char": "🫘",
+    "name": "Beans",
+    "slug": "beans",
+    "desc": "Beans emoji - a beans representing food, drinks, and dining."
+  },
+  {
+    "char": "🌰",
+    "name": "Chestnut",
+    "slug": "chestnut",
+    "desc": "A brown nut from a chestnut tree."
+  },
+  {
+    "char": "🫚",
+    "name": "Ginger Root",
+    "slug": "ginger-root",
+    "desc": "Ginger Root emoji - a ginger root representing food, drinks, and dining."
+  },
+  {
+    "char": "🫛",
+    "name": "Pea Pod",
+    "slug": "pea-pod",
+    "desc": "Pea Pod emoji - a pea pod representing food, drinks, and dining."
+  },
+  {
+    "char": "🍄‍🟫",
+    "name": "Brown Mushroom",
+    "slug": "brown-mushroom",
+    "desc": "Brown Mushroom emoji - a brown mushroom representing food, drinks, and dining."
+  },
+  {
+    "char": "🫜",
+    "name": "Root Vegetable",
+    "slug": "root-vegetable",
+    "desc": "Root Vegetable emoji - a root vegetable representing food, drinks, and dining."
+  },
+  {
+    "char": "🍞",
+    "name": "Bread",
+    "slug": "bread",
+    "desc": "Bread emoji - a bread representing food, drinks, and dining."
+  },
+  {
+    "char": "🥐",
+    "name": "Croissant",
+    "slug": "croissant",
+    "desc": "Croissant emoji - a croissant representing food, drinks, and dining."
+  },
+  {
+    "char": "🥖",
+    "name": "Baguette Bread",
+    "slug": "baguette-bread",
+    "desc": "Baguette Bread emoji - a baguette bread representing food, drinks, and dining."
+  },
+  {
+    "char": "🫓",
+    "name": "Flatbread",
+    "slug": "flatbread",
+    "desc": "Flatbread emoji - a flatbread representing food, drinks, and dining."
+  },
+  {
+    "char": "🥨",
+    "name": "Pretzel",
+    "slug": "pretzel",
+    "desc": "Pretzel emoji - a pretzel representing food, drinks, and dining."
+  },
+  {
+    "char": "🥯",
+    "name": "Bagel",
+    "slug": "bagel",
+    "desc": "Bagel emoji - a bagel representing food, drinks, and dining."
+  },
+  {
+    "char": "🥞",
+    "name": "Pancakes",
+    "slug": "pancakes",
+    "desc": "Pancakes emoji - a pancakes representing food, drinks, and dining."
+  },
+  {
+    "char": "🧇",
+    "name": "Waffle",
+    "slug": "waffle",
+    "desc": "Waffle emoji - a waffle representing food, drinks, and dining."
+  },
+  {
+    "char": "🧀",
+    "name": "Cheese Wedge",
+    "slug": "cheese-wedge",
+    "desc": "Cheese Wedge emoji - a cheese wedge representing food, drinks, and dining."
+  },
+  {
+    "char": "🍖",
+    "name": "Meat On Bone",
+    "slug": "meat-on-bone",
+    "desc": "Meat On Bone emoji - a meat on bone representing food, drinks, and dining."
+  },
+  {
+    "char": "🍗",
+    "name": "Poultry Leg",
+    "slug": "poultry-leg",
+    "desc": "Poultry Leg emoji - a poultry leg representing food, drinks, and dining."
+  },
+  {
+    "char": "🥩",
+    "name": "Cut Of Meat",
+    "slug": "cut-of-meat",
+    "desc": "Cut Of Meat emoji - a cut of meat representing food, drinks, and dining."
+  },
+  {
+    "char": "🥓",
+    "name": "Bacon",
+    "slug": "bacon",
+    "desc": "Bacon emoji - a bacon representing food, drinks, and dining."
+  },
+  {
+    "char": "🍔",
+    "name": "Hamburger",
+    "slug": "hamburger",
+    "desc": "Hamburger emoji - a hamburger representing food, drinks, and dining."
+  },
+  {
+    "char": "🍟",
+    "name": "French Fries",
+    "slug": "french-fries",
+    "desc": "French Fries emoji - a french fries representing food, drinks, and dining."
+  },
+  {
+    "char": "🍕",
+    "name": "Pizza",
+    "slug": "pizza",
+    "desc": "Pizza emoji - a pizza representing food, drinks, and dining."
+  },
+  {
+    "char": "🌭",
+    "name": "Hot Dog",
+    "slug": "hot-dog",
+    "desc": "Hot Dog emoji - a hot dog representing food, drinks, and dining."
+  },
+  {
+    "char": "🥪",
+    "name": "Sandwich",
+    "slug": "sandwich",
+    "desc": "Sandwich emoji - a sandwich representing food, drinks, and dining."
+  },
+  {
+    "char": "🌮",
+    "name": "Taco",
+    "slug": "taco",
+    "desc": "Taco emoji - a taco representing food, drinks, and dining."
+  },
+  {
+    "char": "🌯",
+    "name": "Burrito",
+    "slug": "burrito",
+    "desc": "Burrito emoji - a burrito representing food, drinks, and dining."
+  },
+  {
+    "char": "🫔",
+    "name": "Tamale",
+    "slug": "tamale",
+    "desc": "Tamale emoji - a tamale representing food, drinks, and dining."
+  },
+  {
+    "char": "🥙",
+    "name": "Stuffed Flatbread",
+    "slug": "stuffed-flatbread",
+    "desc": "Stuffed Flatbread emoji - a stuffed flatbread representing food, drinks, and dining."
+  },
+  {
+    "char": "🧆",
+    "name": "Falafel",
+    "slug": "falafel",
+    "desc": "Falafel emoji - a falafel representing food, drinks, and dining."
+  },
+  {
+    "char": "🥚",
+    "name": "Egg",
+    "slug": "egg",
+    "desc": "Egg emoji - a egg representing food, drinks, and dining."
+  },
+  {
+    "char": "🍳",
+    "name": "Cooking",
+    "slug": "cooking",
+    "desc": "Cooking emoji - a cooking representing food, drinks, and dining."
+  },
+  {
+    "char": "🥘",
+    "name": "Shallow Pan Of Food",
+    "slug": "shallow-pan-of-food",
+    "desc": "Shallow Pan Of Food emoji - a shallow pan of food representing food, drinks, and dining."
+  },
+  {
+    "char": "🍲",
+    "name": "Pot Of Food",
+    "slug": "pot-of-food",
+    "desc": "Pot Of Food emoji - a pot of food representing food, drinks, and dining."
+  },
+  {
+    "char": "🫕",
+    "name": "Fondue",
+    "slug": "fondue",
+    "desc": "Fondue emoji - a fondue representing food, drinks, and dining."
+  },
+  {
+    "char": "🥣",
+    "name": "Bowl With Spoon",
+    "slug": "bowl-with-spoon",
+    "desc": "Bowl With Spoon emoji - a bowl with spoon representing food, drinks, and dining."
+  },
+  {
+    "char": "🥗",
+    "name": "Green Salad",
+    "slug": "green-salad",
+    "desc": "Green Salad emoji - a green salad representing food, drinks, and dining."
+  },
+  {
+    "char": "🍿",
+    "name": "Popcorn",
+    "slug": "popcorn",
+    "desc": "Popcorn emoji - a popcorn representing food, drinks, and dining."
+  },
+  {
+    "char": "🧈",
+    "name": "Butter",
+    "slug": "butter",
+    "desc": "Butter emoji - a butter representing food, drinks, and dining."
+  },
+  {
+    "char": "🧂",
+    "name": "Salt",
+    "slug": "salt",
+    "desc": "Salt emoji - a salt representing food, drinks, and dining."
+  },
+  {
+    "char": "🥫",
+    "name": "Canned Food",
+    "slug": "canned-food",
+    "desc": "Canned Food emoji - a canned food representing food, drinks, and dining."
+  },
+  {
+    "char": "🍱",
+    "name": "Bento Box",
+    "slug": "bento-box",
+    "desc": "Bento Box emoji - a bento box representing food, drinks, and dining."
+  },
+  {
+    "char": "🍘",
+    "name": "Rice Cracker",
+    "slug": "rice-cracker",
+    "desc": "Rice Cracker emoji - a rice cracker representing food, drinks, and dining."
+  },
+  {
+    "char": "🍙",
+    "name": "Rice Ball",
+    "slug": "rice-ball",
+    "desc": "Rice Ball emoji - a rice ball representing food, drinks, and dining."
+  },
+  {
+    "char": "🍚",
+    "name": "Cooked Rice",
+    "slug": "cooked-rice",
+    "desc": "Cooked Rice emoji - a cooked rice representing food, drinks, and dining."
+  },
+  {
+    "char": "🍛",
+    "name": "Curry Rice",
+    "slug": "curry-rice",
+    "desc": "Curry Rice emoji - a curry rice representing food, drinks, and dining."
+  },
+  {
+    "char": "🍜",
+    "name": "Steaming Bowl",
+    "slug": "steaming-bowl",
+    "desc": "Steaming Bowl emoji - a steaming bowl representing food, drinks, and dining."
+  },
+  {
+    "char": "🍝",
+    "name": "Spaghetti",
+    "slug": "spaghetti",
+    "desc": "Spaghetti emoji - a spaghetti representing food, drinks, and dining."
+  },
+  {
+    "char": "🍠",
+    "name": "Roasted Sweet Potato",
+    "slug": "roasted-sweet-potato",
+    "desc": "Roasted Sweet Potato emoji - a roasted sweet potato representing food, drinks, and dining."
+  },
+  {
+    "char": "🍢",
+    "name": "Oden",
+    "slug": "oden",
+    "desc": "Oden emoji - a oden representing food, drinks, and dining."
+  },
+  {
+    "char": "🍣",
+    "name": "Sushi",
+    "slug": "sushi",
+    "desc": "Sushi emoji - a sushi representing food, drinks, and dining."
+  },
+  {
+    "char": "🍤",
+    "name": "Fried Shrimp",
+    "slug": "fried-shrimp",
+    "desc": "Fried Shrimp emoji - a fried shrimp representing food, drinks, and dining."
+  },
+  {
+    "char": "🍥",
+    "name": "Fish Cake With Swirl",
+    "slug": "fish-cake-with-swirl",
+    "desc": "Fish Cake With Swirl emoji - a fish cake with swirl representing food, drinks, and dining."
+  },
+  {
+    "char": "🥮",
+    "name": "Moon Cake",
+    "slug": "moon-cake",
+    "desc": "Moon Cake emoji - a moon cake representing food, drinks, and dining."
+  },
+  {
+    "char": "🍡",
+    "name": "Dango",
+    "slug": "dango",
+    "desc": "Dango emoji - a dango representing food, drinks, and dining."
+  },
+  {
+    "char": "🥟",
+    "name": "Dumpling",
+    "slug": "dumpling",
+    "desc": "Dumpling emoji - a dumpling representing food, drinks, and dining."
+  },
+  {
+    "char": "🥠",
+    "name": "Fortune Cookie",
+    "slug": "fortune-cookie",
+    "desc": "Fortune Cookie emoji - a fortune cookie representing food, drinks, and dining."
+  },
+  {
+    "char": "🥡",
+    "name": "Takeout Box",
+    "slug": "takeout-box",
+    "desc": "Takeout Box emoji - a takeout box representing food, drinks, and dining."
+  },
+  {
+    "char": "🍦",
+    "name": "Soft Ice Cream",
+    "slug": "soft-ice-cream",
+    "desc": "Soft Ice Cream emoji - a soft ice cream representing food, drinks, and dining."
+  },
+  {
+    "char": "🍧",
+    "name": "Shaved Ice",
+    "slug": "shaved-ice",
+    "desc": "Shaved Ice emoji - a shaved ice representing food, drinks, and dining."
+  },
+  {
+    "char": "🍨",
+    "name": "Ice Cream",
+    "slug": "ice-cream",
+    "desc": "Ice Cream emoji - a ice cream representing food, drinks, and dining."
+  },
+  {
+    "char": "🍩",
+    "name": "Doughnut",
+    "slug": "doughnut",
+    "desc": "Doughnut emoji - a doughnut representing food, drinks, and dining."
+  },
+  {
+    "char": "🍪",
+    "name": "Cookie",
+    "slug": "cookie",
+    "desc": "Cookie emoji - a cookie representing food, drinks, and dining."
+  },
+  {
+    "char": "🎂",
+    "name": "Birthday Cake",
+    "slug": "birthday-cake",
+    "desc": "Birthday Cake emoji - a birthday cake representing food, drinks, and dining."
+  },
+  {
+    "char": "🍰",
+    "name": "Shortcake",
+    "slug": "shortcake",
+    "desc": "Shortcake emoji - a shortcake representing food, drinks, and dining."
+  },
+  {
+    "char": "🧁",
+    "name": "Cupcake",
+    "slug": "cupcake",
+    "desc": "Cupcake emoji - a cupcake representing food, drinks, and dining."
+  },
+  {
+    "char": "🥧",
+    "name": "Pie",
+    "slug": "pie",
+    "desc": "Pie emoji - a pie representing food, drinks, and dining."
+  },
+  {
+    "char": "🍫",
+    "name": "Chocolate Bar",
+    "slug": "chocolate-bar",
+    "desc": "Chocolate Bar emoji - a chocolate bar representing food, drinks, and dining."
+  },
+  {
+    "char": "🍬",
+    "name": "Candy",
+    "slug": "candy",
+    "desc": "Candy emoji - a candy representing food, drinks, and dining."
+  },
+  {
+    "char": "🍭",
+    "name": "Lollipop",
+    "slug": "lollipop",
+    "desc": "A candy treat often used as a tree decoration in place of candy canes."
+  },
+  {
+    "char": "🍮",
+    "name": "Custard",
+    "slug": "custard",
+    "desc": "Custard emoji - a custard representing food, drinks, and dining."
+  },
+  {
+    "char": "🍯",
+    "name": "Honey Pot",
+    "slug": "honey-pot",
+    "desc": "Honey Pot emoji - a honey pot representing food, drinks, and dining."
+  },
+  {
+    "char": "🍼",
+    "name": "Baby Bottle",
+    "slug": "baby-bottle",
+    "desc": "Baby Bottle emoji - a baby bottle representing food, drinks, and dining."
+  },
+  {
+    "char": "🥛",
+    "name": "Glass Of Milk",
+    "slug": "glass-of-milk",
+    "desc": "Glass Of Milk emoji - a glass of milk representing food, drinks, and dining."
+  },
+  {
+    "char": "☕",
+    "name": "Hot Beverage",
+    "slug": "hot-beverage",
+    "desc": "Hot Beverage emoji - a hot beverage representing food, drinks, and dining."
+  },
+  {
+    "char": "🫖",
+    "name": "Teapot",
+    "slug": "teapot",
+    "desc": "Teapot emoji - a teapot representing food, drinks, and dining."
+  },
+  {
+    "char": "🍵",
+    "name": "Teacup Without Handle",
+    "slug": "teacup-without-handle",
+    "desc": "Teacup Without Handle emoji - a teacup without handle representing food, drinks, and dining."
+  },
+  {
+    "char": "🍶",
+    "name": "Sake",
+    "slug": "sake",
+    "desc": "Sake emoji - a sake representing food, drinks, and dining."
+  },
+  {
+    "char": "🍾",
+    "name": "Bottle With Popping Cork",
+    "slug": "bottle-with-popping-cork",
+    "desc": "Bottle With Popping Cork emoji - a bottle with popping cork representing food, drinks, and dining."
+  },
+  {
+    "char": "🍷",
+    "name": "Wine Glass",
+    "slug": "wine-glass",
+    "desc": "Wine Glass emoji - a wine glass representing food, drinks, and dining."
+  },
+  {
+    "char": "🍸",
+    "name": "Cocktail Glass",
+    "slug": "cocktail-glass",
+    "desc": "Cocktail Glass emoji - a cocktail glass representing food, drinks, and dining."
+  },
+  {
+    "char": "🍹",
+    "name": "Tropical Drink",
+    "slug": "tropical-drink",
+    "desc": "Tropical Drink emoji - a tropical drink representing food, drinks, and dining."
+  },
+  {
+    "char": "🍺",
+    "name": "Beer Mug",
+    "slug": "beer-mug",
+    "desc": "Beer Mug emoji - a beer mug representing food, drinks, and dining."
+  },
+  {
+    "char": "🍻",
+    "name": "Clinking Beer Mugs",
+    "slug": "clinking-beer-mugs",
+    "desc": "Clinking Beer Mugs emoji - a clinking beer mugs representing food, drinks, and dining."
+  },
+  {
+    "char": "🥂",
+    "name": "Clinking Glasses",
+    "slug": "clinking-glasses",
+    "desc": "Clinking Glasses emoji - a clinking glasses representing food, drinks, and dining."
+  },
+  {
+    "char": "🥃",
+    "name": "Tumbler Glass",
+    "slug": "tumbler-glass",
+    "desc": "Tumbler Glass emoji - a tumbler glass representing food, drinks, and dining."
+  },
+  {
+    "char": "🫗",
+    "name": "Pouring Liquid",
+    "slug": "pouring-liquid",
+    "desc": "Pouring Liquid emoji - a pouring liquid representing food, drinks, and dining."
+  },
+  {
+    "char": "🥤",
+    "name": "Cup With Straw",
+    "slug": "cup-with-straw",
+    "desc": "Cup With Straw emoji - a cup with straw representing food, drinks, and dining."
+  },
+  {
+    "char": "🧋",
+    "name": "Bubble Tea",
+    "slug": "bubble-tea",
+    "desc": "Bubble Tea emoji - a bubble tea representing food, drinks, and dining."
+  },
+  {
+    "char": "🧃",
+    "name": "Beverage Box",
+    "slug": "beverage-box",
+    "desc": "Beverage Box emoji - a beverage box representing food, drinks, and dining."
+  },
+  {
+    "char": "🧉",
+    "name": "Mate",
+    "slug": "mate",
+    "desc": "Mate emoji - a mate representing food, drinks, and dining."
+  },
+  {
+    "char": "🧊",
+    "name": "Ice",
+    "slug": "ice",
+    "desc": "Ice emoji - a ice representing food, drinks, and dining."
+  },
+  {
+    "char": "🥢",
+    "name": "Chopsticks",
+    "slug": "chopsticks",
+    "desc": "Chopsticks emoji - a chopsticks representing food, drinks, and dining."
+  },
+  {
+    "char": "🍽️",
+    "name": "Fork And Knife With Plate",
+    "slug": "fork-and-knife-with-plate",
+    "desc": "Fork And Knife With Plate emoji - a fork and knife with plate representing food, drinks, and dining."
+  },
+  {
+    "char": "🍴",
+    "name": "Fork And Knife",
+    "slug": "fork-and-knife",
+    "desc": "Fork And Knife emoji - a fork and knife representing food, drinks, and dining."
+  },
+  {
+    "char": "🥄",
+    "name": "Spoon",
+    "slug": "spoon",
+    "desc": "Spoon emoji - a spoon representing food, drinks, and dining."
+  },
+  {
+    "char": "🔪",
+    "name": "Kitchen Knife",
+    "slug": "kitchen-knife",
+    "desc": "Kitchen Knife emoji - a kitchen knife representing food, drinks, and dining."
+  },
+  {
+    "char": "🫙",
+    "name": "Jar",
+    "slug": "jar",
+    "desc": "Jar emoji - a jar representing food, drinks, and dining."
+  },
+  {
+    "char": "🏺",
+    "name": "Amphora",
+    "slug": "amphora",
+    "desc": "A tall ancient Greek or Roman jar with two handles and a narrow neck, used for storing wine or oil."
+  }
+]

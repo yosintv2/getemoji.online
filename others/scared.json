@@ -1,0 +1,74 @@
+[
+  {
+    "char": "😨",
+    "name": "Scared Fearful Face",
+    "slug": "scared-fearful-face-emoji",
+    "desc": "Represents a sense of being cold with fear. Perfect for expressing worry, mild shock, or feeling genuinely scared of an outcome."
+  },
+  {
+    "char": "😱",
+    "name": "Scared Screaming Face",
+    "slug": "scared-screaming-horror-emoji",
+    "desc": "The ultimate icon for intense fear and horror. Ideal for spooky Halloween content, jumpscares, and being completely terrified."
+  },
+  {
+    "char": "😰",
+    "name": "Scared Anxious Face with Sweat",
+    "slug": "scared-anxious-sweat-emoji",
+    "desc": "Conveys a mix of being scared and stressed. Often used for high-pressure situations, deadlines, or nervous fear."
+  },
+  {
+    "char": "😨",
+    "name": "Scared Stunned Face",
+    "slug": "scared-stunned-reaction-emoji",
+    "desc": "Captures the look of someone frozen by fear. Great for reacting to scary news or shocking, fearful revelations."
+  },
+  {
+    "char": "😧",
+    "name": "Scared Anguished Face",
+    "slug": "scared-anguished-fear-emoji",
+    "desc": "A face showing deep concern and fear. Used for somber, fearful moments where someone is pained by a scary situation."
+  },
+  {
+    "char": "🙀",
+    "name": "Scared Weary Cat",
+    "slug": "scared-cat-horror-emoji",
+    "desc": "A feline version of a scared face. Popular for pet-related scares or adding a playful, dramatic touch to fearful posts."
+  },
+  {
+    "char": "👻",
+    "name": "Scared Ghost",
+    "slug": "scared-ghost-spooky-emoji",
+    "desc": "A fun symbol for things that go bump in the night. Perfect for lighthearted 'scary' stories, Halloween, and spooky vibes."
+  },
+  {
+    "char": "😬",
+    "name": "Scared Grimacing Face",
+    "slug": "scared-grimace-awkward-emoji",
+    "desc": "Represents a tense, 'yikes' feeling. Used when someone is scared of an awkward confrontation or an impending disaster."
+  },
+  {
+    "char": "🫣",
+    "name": "Scared Peeking Face",
+    "slug": "scared-peeking-fear-emoji",
+    "desc": "Used for 'scary but I want to look' moments. Ideal for horror movie reactions and being scared but curious."
+  },
+  {
+    "char": "😖",
+    "name": "Scared Confounded Face",
+    "slug": "scared-struggling-fear-emoji",
+    "desc": "Shows a face quivering with fear or frustration. Represents the physical struggle of being extremely scared or overwhelmed."
+  },
+  {
+    "char": "💀",
+    "name": "Scared Skull",
+    "slug": "scared-dead-extreme-emoji",
+    "desc": "In modern slang, represents being 'scared to death' or reacting to something so intense it's metaphorically fatal."
+  },
+  {
+    "char": "🕸️",
+    "name": "Scared Spider Web",
+    "slug": "scared-spooky-web-emoji",
+    "desc": "A visual indicator of creepy, scary environments. Great for haunted house themes and scary outdoor content."
+  }
+]

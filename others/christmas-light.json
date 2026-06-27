@@ -1,0 +1,122 @@
+[
+  {
+    "char": "🎄",
+    "name": "Christmas Tree",
+    "slug": "christmas-tree-lights-emoji",
+    "desc": "The ultimate symbol of holiday illumination, featuring an evergreen tree adorned with colorful twinkling lights and festive ornaments for a bright Christmas glow."
+  },
+  {
+    "char": "✨",
+    "name": "Sparkles",
+    "slug": "twinkling-holiday-lights-emoji",
+    "desc": "Commonly used to represent the shimmering effect of fairy lights and magical holiday decorations. Perfect for describing a house covered in bright, sparkling Christmas lights."
+  },
+  {
+    "char": "🌟",
+    "name": "Glowing Star",
+    "slug": "christmas-star-light-emoji",
+    "desc": "A bright, radiant star symbolizing the top of a Christmas tree or high-end lighted garden decorations. Ideal for festive SEO content focused on celestial holiday themes."
+  },
+  {
+    "char": "🏮",
+    "name": "Red Paper Lantern",
+    "slug": "festive-lantern-lighting-emoji",
+    "desc": "While traditional for many cultures, this lantern is often used to represent warm, outdoor decorative lighting for festive winter walkways and holiday porch displays."
+  },
+  {
+    "char": "🕯️",
+    "name": "Candle",
+    "slug": "traditional-christmas-candle-emoji",
+    "desc": "Representing the warmth of traditional holiday lighting and window candles. This emoji captures the cozy, old-fashioned aesthetic of Christmas Eve illumination."
+  },
+  {
+    "char": "💡",
+    "name": "Light Bulb",
+    "slug": "holiday-light-bulb-emoji",
+    "desc": "The technical symbol for electricity and lighting, frequently used in DIY guides for hanging outdoor Christmas lights or replacing colorful holiday bulbs."
+  },
+  {
+    "char": "🌈",
+    "name": "Rainbow",
+    "slug": "multi-color-christmas-lights-emoji",
+    "desc": "Used metaphorically to represent vibrant, multi-colored strands of LED Christmas lights that illuminate neighborhoods with a spectrum of festive colors."
+  },
+  {
+    "char": "🎇",
+    "name": "Sparkler",
+    "slug": "festive-spark-light-emoji",
+    "desc": "Captures the intense glow of festive handheld lights and pyrotechnic holiday displays. Great for SEO content about Christmas night celebrations and light shows."
+  },
+  {
+    "char": "🎆",
+    "name": "Fireworks",
+    "slug": "holiday-light-show-emoji",
+    "desc": "Symbolizing grand holiday light displays and town tree-lighting ceremonies. Use this to promote local Christmas festivals and spectacular light events."
+  },
+  {
+    "char": "🏠",
+    "name": "House",
+    "slug": "decorated-christmas-house-emoji",
+    "desc": "Often paired with sparkle emojis to represent 'Christmas light tours' and residential holiday decorating. Targets search intent for festive neighborhood lighting."
+  },
+  {
+    "char": "🔅",
+    "name": "Dim Button",
+    "slug": "soft-holiday-glow-emoji",
+    "desc": "Used to describe ambient, soft holiday lighting and the subtle glow of indoor Christmas decorations for a hygge-inspired winter atmosphere."
+  },
+  {
+    "char": "🔥",
+    "name": "Fire",
+    "slug": "cozy-fireplace-glow-emoji",
+    "desc": "Representing the natural light and warmth of a fireplace. A key emoji for winter lifestyle content focusing on cozy nights by the tree."
+  },
+  {
+    "char": "⚡",
+    "name": "High Voltage",
+    "slug": "electric-holiday-display-emoji",
+    "desc": "Often used humorously or practically when discussing the massive electrical setup required for professional-grade extreme Christmas light displays."
+  },
+  {
+    "char": "🌃",
+    "name": "Night with Stars",
+    "slug": "festive-city-lights-emoji",
+    "desc": "Captures the atmosphere of a city illuminated by Christmas lights and holiday shopping district displays. Perfect for urban winter travel guides."
+  },
+  {
+    "char": "🎊",
+    "name": "Confetti Ball",
+    "slug": "bright-holiday-celebration-emoji",
+    "desc": "Symbolizing the burst of color and light during Christmas parties and tree lighting events. Enhances festive SEO for holiday event planning."
+  },
+  {
+    "char": "🟠",
+    "name": "Orange Circle",
+    "slug": "warm-gold-light-emoji",
+    "desc": "Used as a design element to represent warm-white or golden-hued LED strands that are popular in elegant, modern Christmas lighting designs."
+  },
+  {
+    "char": "🟢",
+    "name": "Green Circle",
+    "slug": "green-holiday-bulb-emoji",
+    "desc": "Represents the specific green bulbs found in traditional red-and-green Christmas light patterns. Ideal for classic holiday color schemes."
+  },
+  {
+    "char": "🔴",
+    "name": "Red Circle",
+    "slug": "red-christmas-light-emoji",
+    "desc": "The primary symbol for red holiday lighting, the most popular color for festive strands and Rudolph-themed light displays."
+  },
+  {
+    "char": "🔵",
+    "name": "Blue Circle",
+    "slug": "blue-winter-light-emoji",
+    "desc": "Captures the cool aesthetic of blue Christmas lights, often used to simulate an icy, winter-wonderland lighting effect in outdoor displays."
+  },
+  {
+    "char": "🌞",
+    "name": "Sun with Face",
+    "slug": "bright-holiday-daylight-emoji",
+    "desc": "Used to contrast the bright sunlight on a snowy Christmas morning with the artificial light of the previous night's festivities."
+  }
+]

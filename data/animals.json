@@ -1,0 +1,962 @@
+[
+  {
+    "char": "🐵",
+    "name": "Monkey Face",
+    "slug": "monkey-face",
+    "desc": "A brown, playful monkey face looking straight ahead."
+  },
+  {
+    "char": "🐒",
+    "name": "Monkey",
+    "slug": "monkey",
+    "desc": "A full-bodied monkey, often shown in profile."
+  },
+  {
+    "char": "🦍",
+    "name": "Gorilla",
+    "slug": "gorilla",
+    "desc": "A large, powerful black gorilla."
+  },
+  {
+    "char": "🦧",
+    "name": "Orangutan",
+    "slug": "orangutan",
+    "desc": "A shaggy orange-haired ape."
+  },
+  {
+    "char": "🐶",
+    "name": "Dog Face",
+    "slug": "dog-face",
+    "desc": "A friendly, domestic dog face with floppy ears."
+  },
+  {
+    "char": "🐕",
+    "name": "Dog",
+    "slug": "dog",
+    "desc": "A full-bodied dog standing on all fours."
+  },
+  {
+    "char": "🦮",
+    "name": "Guide Dog",
+    "slug": "guide-dog",
+    "desc": "A dog wearing a harness, assisting a visually impaired person."
+  },
+  {
+    "char": "🐕‍🦺",
+    "name": "Service Dog",
+    "slug": "service-dog",
+    "desc": "A dog wearing a vest, trained for medical or physical assistance."
+  },
+  {
+    "char": "🐩",
+    "name": "Poodle",
+    "slug": "poodle",
+    "desc": "A fancy white or grey poodle with a decorative haircut."
+  },
+  {
+    "char": "🐺",
+    "name": "Wolf",
+    "slug": "wolf",
+    "desc": "A wild wolf face with pointed ears and a snout."
+  },
+  {
+    "char": "🦊",
+    "name": "Fox",
+    "slug": "fox",
+    "desc": "An orange fox face with a bushy tail."
+  },
+  {
+    "char": "🦝",
+    "name": "Raccoon",
+    "slug": "raccoon",
+    "desc": "A grey raccoon face with a black 'mask' around the eyes."
+  },
+  {
+    "char": "🐱",
+    "name": "Cat Face",
+    "slug": "cat-face",
+    "desc": "A cute, whiskered domestic cat face."
+  },
+  {
+    "char": "🐈",
+    "name": "Cat",
+    "slug": "cat",
+    "desc": "A full-bodied cat, often shown in a walking pose."
+  },
+  {
+    "char": "🐈‍⬛",
+    "name": "Black Cat",
+    "slug": "black-cat",
+    "desc": "A sleek black cat, often associated with mystery or Halloween."
+  },
+  {
+    "char": "🦁",
+    "name": "Lion",
+    "slug": "lion",
+    "desc": "A golden lion face with a large mane."
+  },
+  {
+    "char": "🐯",
+    "name": "Tiger Face",
+    "slug": "tiger-face",
+    "desc": "A striped orange tiger face."
+  },
+  {
+    "char": "🐅",
+    "name": "Tiger",
+    "slug": "tiger",
+    "desc": "A full-bodied tiger with black stripes."
+  },
+  {
+    "char": "🐆",
+    "name": "Leopard",
+    "slug": "leopard",
+    "desc": "A spotted wild cat, similar to a jaguar."
+  },
+  {
+    "char": "🐴",
+    "name": "Horse Face",
+    "slug": "horse-face",
+    "desc": "A brown horse face with a mane."
+  },
+  {
+    "char": "🫎",
+    "name": "Moose",
+    "slug": "moose",
+    "desc": "Moose emoji - a moose representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🫏",
+    "name": "Donkey",
+    "slug": "donkey",
+    "desc": "Donkey emoji - a donkey representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🐎",
+    "name": "Horse",
+    "slug": "horse",
+    "desc": "A full-bodied horse, usually in a galloping pose."
+  },
+  {
+    "char": "🦄",
+    "name": "Unicorn",
+    "slug": "unicorn",
+    "desc": "A white horse with a spiral horn and pink mane."
+  },
+  {
+    "char": "🦓",
+    "name": "Zebra",
+    "slug": "zebra",
+    "desc": "A wild horse with distinctive black and white stripes."
+  },
+  {
+    "char": "🦌",
+    "name": "Deer",
+    "slug": "deer",
+    "desc": "A brown deer with antlers."
+  },
+  {
+    "char": "🦬",
+    "name": "Bison",
+    "slug": "bison",
+    "desc": "A large, furry North American bison."
+  },
+  {
+    "char": "🐮",
+    "name": "Cow Face",
+    "slug": "cow-face",
+    "desc": "A friendly cow face with a pink snout."
+  },
+  {
+    "char": "🐂",
+    "name": "Ox",
+    "slug": "ox",
+    "desc": "A powerful ox with large horns."
+  },
+  {
+    "char": "🐃",
+    "name": "Water Buffalo",
+    "slug": "water-buffalo",
+    "desc": "A dark-colored water buffalo with curved horns."
+  },
+  {
+    "char": "🐄",
+    "name": "Cow",
+    "slug": "cow",
+    "desc": "A domestic dairy cow, usually black and white."
+  },
+  {
+    "char": "🐷",
+    "name": "Pig Face",
+    "slug": "pig-face",
+    "desc": "A pink pig face with a round snout."
+  },
+  {
+    "char": "🐖",
+    "name": "Pig",
+    "slug": "pig",
+    "desc": "A full-bodied pink pig."
+  },
+  {
+    "char": "🐗",
+    "name": "Boar",
+    "slug": "boar",
+    "desc": "A wild pig with tusks."
+  },
+  {
+    "char": "🐽",
+    "name": "Pig Nose",
+    "slug": "pig-nose",
+    "desc": "A pink pig's snout."
+  },
+  {
+    "char": "🐏",
+    "name": "Ram",
+    "slug": "ram",
+    "desc": "A male sheep with large spiral horns."
+  },
+  {
+    "char": "🐑",
+    "name": "Ewe",
+    "slug": "ewe",
+    "desc": "Ewe emoji - a ewe representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🐐",
+    "name": "Goat",
+    "slug": "goat",
+    "desc": "A goat with horns and a small beard."
+  },
+  {
+    "char": "🐪",
+    "name": "Camel",
+    "slug": "camel",
+    "desc": "A dromedary camel with one hump."
+  },
+  {
+    "char": "🐫",
+    "name": "Two-hump Camel",
+    "slug": "two-hump-camel",
+    "desc": "Two-hump Camel emoji - a two-hump camel representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🦙",
+    "name": "Llama",
+    "slug": "llama",
+    "desc": "A fluffy South American llama."
+  },
+  {
+    "char": "🦒",
+    "name": "Giraffe",
+    "slug": "giraffe",
+    "desc": "A tall, spotted animal with a very long neck."
+  },
+  {
+    "char": "🐘",
+    "name": "Elephant",
+    "slug": "elephant",
+    "desc": "A large grey elephant with a trunk and tusks."
+  },
+  {
+    "char": "🦣",
+    "name": "Mammoth",
+    "slug": "mammoth",
+    "desc": "An extinct, woolly relative of the elephant."
+  },
+  {
+    "char": "🦏",
+    "name": "Rhinoceros",
+    "slug": "rhinoceros",
+    "desc": "A grey rhinoceros with one or two horns."
+  },
+  {
+    "char": "🦛",
+    "name": "Hippopotamus",
+    "slug": "hippopotamus",
+    "desc": "A large, semi-aquatic grey animal."
+  },
+  {
+    "char": "🐭",
+    "name": "Mouse Face",
+    "slug": "mouse-face",
+    "desc": "A grey or white mouse face with pink ears."
+  },
+  {
+    "char": "🐁",
+    "name": "Mouse",
+    "slug": "mouse",
+    "desc": "A full-bodied small mouse."
+  },
+  {
+    "char": "🐀",
+    "name": "Rat",
+    "slug": "rat",
+    "desc": "A larger rodent than a mouse, with a long tail."
+  },
+  {
+    "char": "🐹",
+    "name": "Hamster",
+    "slug": "hamster",
+    "desc": "A small, chubby pet hamster face."
+  },
+  {
+    "char": "🐰",
+    "name": "Rabbit Face",
+    "slug": "rabbit-face",
+    "desc": "A cute rabbit face with long ears."
+  },
+  {
+    "char": "🐇",
+    "name": "Rabbit",
+    "slug": "rabbit",
+    "desc": "A full-bodied rabbit sitting or jumping."
+  },
+  {
+    "char": "🐿️",
+    "name": "Chipmunk",
+    "slug": "chipmunk",
+    "desc": "A small striped rodent holding a nut."
+  },
+  {
+    "char": "🦫",
+    "name": "Beaver",
+    "slug": "beaver",
+    "desc": "A brown rodent with a flat tail and large teeth."
+  },
+  {
+    "char": "🦔",
+    "name": "Hedgehog",
+    "slug": "hedgehog",
+    "desc": "A small animal covered in protective spikes."
+  },
+  {
+    "char": "🦇",
+    "name": "Bat",
+    "slug": "bat",
+    "desc": "A black bat with its wings spread."
+  },
+  {
+    "char": "🐻",
+    "name": "Bear",
+    "slug": "bear",
+    "desc": "A brown bear face."
+  },
+  {
+    "char": "🐻‍❄️",
+    "name": "Polar Bear",
+    "slug": "polar-bear",
+    "desc": "A white bear native to the Arctic."
+  },
+  {
+    "char": "🐨",
+    "name": "Koala",
+    "slug": "koala",
+    "desc": "A grey Australian marsupial face."
+  },
+  {
+    "char": "🐼",
+    "name": "Panda",
+    "slug": "panda",
+    "desc": "A black and white giant panda face."
+  },
+  {
+    "char": "🦥",
+    "name": "Sloth",
+    "slug": "sloth",
+    "desc": "A slow-moving animal hanging from a branch."
+  },
+  {
+    "char": "🦦",
+    "name": "Otter",
+    "slug": "otter",
+    "desc": "A playful aquatic mammal floating on its back."
+  },
+  {
+    "char": "🦨",
+    "name": "Skunk",
+    "slug": "skunk",
+    "desc": "A black animal with a white stripe and a smelly spray."
+  },
+  {
+    "char": "🦘",
+    "name": "Kangaroo",
+    "slug": "kangaroo",
+    "desc": "An Australian marsupial that hops."
+  },
+  {
+    "char": "🦡",
+    "name": "Badger",
+    "slug": "badger",
+    "desc": "A burrowing animal with a striped face."
+  },
+  {
+    "char": "🐾",
+    "name": "Paw Prints",
+    "slug": "paw-prints",
+    "desc": "The footprints left by an animal with paws."
+  },
+  {
+    "char": "🦃",
+    "name": "Turkey",
+    "slug": "turkey",
+    "desc": "A large bird with a fanned tail, often for Thanksgiving."
+  },
+  {
+    "char": "🐔",
+    "name": "Chicken",
+    "slug": "chicken",
+    "desc": "A domestic chicken, usually a hen."
+  },
+  {
+    "char": "🐓",
+    "name": "Rooster",
+    "slug": "rooster",
+    "desc": "A male chicken with a large red comb."
+  },
+  {
+    "char": "🐣",
+    "name": "Hatching Chick",
+    "slug": "hatching-chick",
+    "desc": "A yellow chick just emerging from an egg shell."
+  },
+  {
+    "char": "🐤",
+    "name": "Baby Chick",
+    "slug": "baby-chick",
+    "desc": "A small, yellow baby chicken."
+  },
+  {
+    "char": "🐥",
+    "name": "Front-facing Baby Chick",
+    "slug": "front-facing-baby-chick",
+    "desc": "Front-facing Baby Chick emoji - a front-facing baby chick representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🐦",
+    "name": "Bird",
+    "slug": "bird",
+    "desc": "A generic blue or colorful small bird."
+  },
+  {
+    "char": "🐧",
+    "name": "Penguin",
+    "slug": "penguin",
+    "desc": "A flightless bird from the Antarctic."
+  },
+  {
+    "char": "🕊️",
+    "name": "Dove",
+    "slug": "dove",
+    "desc": "A white bird representing peace."
+  },
+  {
+    "char": "🦅",
+    "name": "Eagle",
+    "slug": "eagle",
+    "desc": "A powerful bird of prey with a white head."
+  },
+  {
+    "char": "🦆",
+    "name": "Duck",
+    "slug": "duck",
+    "desc": "A mallard duck with a green head."
+  },
+  {
+    "char": "🦢",
+    "name": "Swan",
+    "slug": "swan",
+    "desc": "A graceful white bird with a long neck."
+  },
+  {
+    "char": "🦉",
+    "name": "Owl",
+    "slug": "owl",
+    "desc": "A nocturnal bird of prey with large eyes."
+  },
+  {
+    "char": "🦤",
+    "name": "Dodo",
+    "slug": "dodo",
+    "desc": "An extinct flightless bird from Mauritius."
+  },
+  {
+    "char": "🪶",
+    "name": "Feather",
+    "slug": "feather",
+    "desc": "A single bird feather."
+  },
+  {
+    "char": "🦩",
+    "name": "Flamingo",
+    "slug": "flamingo",
+    "desc": "A tall, pink wading bird standing on one leg."
+  },
+  {
+    "char": "🦚",
+    "name": "Peacock",
+    "slug": "peacock",
+    "desc": "A bird with beautiful, colorful tail feathers."
+  },
+  {
+    "char": "🦜",
+    "name": "Parrot",
+    "slug": "parrot",
+    "desc": "A brightly colored tropical bird."
+  },
+  {
+    "char": "🪽",
+    "name": "Wing",
+    "slug": "wing",
+    "desc": "Wing emoji - a wing representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🐦‍⬛",
+    "name": "Black Bird",
+    "slug": "black-bird",
+    "desc": "Black Bird emoji - a black bird representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🪿",
+    "name": "Goose",
+    "slug": "goose",
+    "desc": "Goose emoji - a goose representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🐦‍🔥",
+    "name": "Phoenix",
+    "slug": "phoenix",
+    "desc": "Phoenix emoji - a phoenix representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🐸",
+    "name": "Frog",
+    "slug": "frog",
+    "desc": "A green frog face."
+  },
+  {
+    "char": "🐊",
+    "name": "Crocodile",
+    "slug": "crocodile",
+    "desc": "A large, scaly aquatic reptile."
+  },
+  {
+    "char": "🐢",
+    "name": "Turtle",
+    "slug": "turtle",
+    "desc": "A slow-moving reptile with a hard shell."
+  },
+  {
+    "char": "🦎",
+    "name": "Lizard",
+    "slug": "lizard",
+    "desc": "A small, four-legged reptile."
+  },
+  {
+    "char": "🐍",
+    "name": "Snake",
+    "slug": "snake",
+    "desc": "A slithering green reptile."
+  },
+  {
+    "char": "🐲",
+    "name": "Dragon Face",
+    "slug": "dragon-face",
+    "desc": "A mythical green dragon face."
+  },
+  {
+    "char": "🐉",
+    "name": "Dragon",
+    "slug": "dragon",
+    "desc": "A full-bodied mythical dragon."
+  },
+  {
+    "char": "🦕",
+    "name": "Sauropod",
+    "slug": "sauropod",
+    "desc": "A long-necked dinosaur like a Brachiosaurus."
+  },
+  {
+    "char": "🦖",
+    "name": "T-Rex",
+    "slug": "t-rex",
+    "desc": "A powerful Tyrannosaurus Rex dinosaur."
+  },
+  {
+    "char": "🐳",
+    "name": "Spouting Whale",
+    "slug": "spouting-whale",
+    "desc": "A friendly blue whale with water spouting from its blowhole."
+  },
+  {
+    "char": "🐋",
+    "name": "Whale",
+    "slug": "whale",
+    "desc": "A large, full-bodied whale."
+  },
+  {
+    "char": "🐬",
+    "name": "Dolphin",
+    "slug": "dolphin",
+    "desc": "A playful grey marine mammal jumping."
+  },
+  {
+    "char": "🫍",
+    "name": "Orca",
+    "slug": "orca",
+    "desc": "Orca emoji - a orca representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🦭",
+    "name": "Seal",
+    "slug": "seal",
+    "desc": "A cute marine mammal with flippers."
+  },
+  {
+    "char": "🐟",
+    "name": "Fish",
+    "slug": "fish",
+    "desc": "A generic small fish."
+  },
+  {
+    "char": "🐠",
+    "name": "Tropical Fish",
+    "slug": "tropical-fish",
+    "desc": "A colorful fish often found in coral reefs."
+  },
+  {
+    "char": "🐡",
+    "name": "Blowfish",
+    "slug": "blowfish",
+    "desc": "A pufferfish that expands when threatened."
+  },
+  {
+    "char": "🦈",
+    "name": "Shark",
+    "slug": "shark",
+    "desc": "A large, grey marine predator."
+  },
+  {
+    "char": "🐙",
+    "name": "Octopus",
+    "slug": "octopus",
+    "desc": "An eight-armed sea creature."
+  },
+  {
+    "char": "🐚",
+    "name": "Spiral Shell",
+    "slug": "spiral-shell",
+    "desc": "Spiral Shell emoji - a spiral shell representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🪸",
+    "name": "Coral",
+    "slug": "coral",
+    "desc": "Coral emoji - a coral representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🪼",
+    "name": "Jellyfish",
+    "slug": "jellyfish",
+    "desc": "Jellyfish emoji - a jellyfish representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🦀",
+    "name": "Crab",
+    "slug": "crab",
+    "desc": "A red sea creature with pincers."
+  },
+  {
+    "char": "🦞",
+    "name": "Lobster",
+    "slug": "lobster",
+    "desc": "A large red crustacean with claws."
+  },
+  {
+    "char": "🦐",
+    "name": "Shrimp",
+    "slug": "shrimp",
+    "desc": "A small pink crustacean."
+  },
+  {
+    "char": "🦑",
+    "name": "Squid",
+    "slug": "squid",
+    "desc": "A ten-armed sea creature."
+  },
+  {
+    "char": "🦪",
+    "name": "Oyster",
+    "slug": "oyster",
+    "desc": "Oyster emoji - a oyster representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🐌",
+    "name": "Snail",
+    "slug": "snail",
+    "desc": "A slow-moving mollusk with a shell."
+  },
+  {
+    "char": "🦋",
+    "name": "Butterfly",
+    "slug": "butterfly",
+    "desc": "A beautiful insect with colorful wings."
+  },
+  {
+    "char": "🐛",
+    "name": "Bug",
+    "slug": "bug",
+    "desc": "A green caterpillar."
+  },
+  {
+    "char": "🐜",
+    "name": "Ant",
+    "slug": "ant",
+    "desc": "A small, hardworking insect."
+  },
+  {
+    "char": "🐝",
+    "name": "Honeybee",
+    "slug": "honeybee",
+    "desc": "A yellow and black stinging insect that makes honey."
+  },
+  {
+    "char": "🪲",
+    "name": "Beetle",
+    "slug": "beetle",
+    "desc": "A hard-shelled insect."
+  },
+  {
+    "char": "🐞",
+    "name": "Lady Beetle",
+    "slug": "lady-beetle",
+    "desc": "A small red beetle with black spots."
+  },
+  {
+    "char": "🦗",
+    "name": "Cricket Game",
+    "slug": "cricket",
+    "desc": "A wooden bat and a red cricket ball."
+  },
+  {
+    "char": "🪳",
+    "name": "Cockroach",
+    "slug": "cockroach",
+    "desc": "A resilient brown household pest."
+  },
+  {
+    "char": "🕷️",
+    "name": "Spider",
+    "slug": "spider",
+    "desc": "An eight-legged arachnid."
+  },
+  {
+    "char": "🕸️",
+    "name": "Spider Web",
+    "slug": "spider-web",
+    "desc": "A fine web spun by a spider."
+  },
+  {
+    "char": "🦂",
+    "name": "Scorpion",
+    "slug": "scorpion",
+    "desc": "An arachnid with a stinging tail."
+  },
+  {
+    "char": "🦟",
+    "name": "Mosquito",
+    "slug": "mosquito",
+    "desc": "A blood-sucking flying insect."
+  },
+  {
+    "char": "🪰",
+    "name": "Fly",
+    "slug": "fly",
+    "desc": "A common buzzing housefly."
+  },
+  {
+    "char": "🪱",
+    "name": "Worm",
+    "slug": "worm",
+    "desc": "A small, wriggling earthworm."
+  },
+  {
+    "char": "🦠",
+    "name": "Microbe",
+    "slug": "microbe",
+    "desc": "A microscopic organism like a bacterium or virus."
+  },
+  {
+    "char": "💐",
+    "name": "Bouquet",
+    "slug": "bouquet",
+    "desc": "A bunch of colorful flowers."
+  },
+  {
+    "char": "🌸",
+    "name": "Cherry Blossom",
+    "slug": "cherry-blossom",
+    "desc": "The pink flower of a cherry tree."
+  },
+  {
+    "char": "💮",
+    "name": "White Flower",
+    "slug": "white-flower",
+    "desc": "A stylized white flower, often used as a stamp of approval in Japan."
+  },
+  {
+    "char": "🪷",
+    "name": "Lotus",
+    "slug": "lotus",
+    "desc": "Lotus emoji - a lotus representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🏵️",
+    "name": "Rosette",
+    "slug": "rosette",
+    "desc": "Rosette emoji - a rosette representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🌹",
+    "name": "Rose",
+    "slug": "rose",
+    "desc": "A beautiful red flower with a green stem."
+  },
+  {
+    "char": "🥀",
+    "name": "Wilted Flower",
+    "slug": "wilted-flower",
+    "desc": "A drooping, dying rose."
+  },
+  {
+    "char": "🌺",
+    "name": "Hibiscus",
+    "slug": "hibiscus",
+    "desc": "A bright pink tropical flower."
+  },
+  {
+    "char": "🌻",
+    "name": "Sunflower",
+    "slug": "sunflower",
+    "desc": "A tall yellow flower that follows the sun."
+  },
+  {
+    "char": "🌼",
+    "name": "Blossom",
+    "slug": "blossom",
+    "desc": "A generic yellow flower."
+  },
+  {
+    "char": "🌷",
+    "name": "Tulip",
+    "slug": "tulip",
+    "desc": "A pink or red spring flower."
+  },
+  {
+    "char": "🪻",
+    "name": "Hyacinth",
+    "slug": "hyacinth",
+    "desc": "Hyacinth emoji - a hyacinth representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🌱",
+    "name": "Seedling",
+    "slug": "seedling",
+    "desc": "A young plant sprout."
+  },
+  {
+    "char": "🪴",
+    "name": "Potted Plant",
+    "slug": "potted-plant",
+    "desc": "An indoor plant in a pot."
+  },
+  {
+    "char": "🌲",
+    "name": "Evergreen Tree",
+    "slug": "evergreen-tree",
+    "desc": "A plain evergreen tree, often used to represent winter or an undecorated Christmas tree."
+  },
+  {
+    "char": "🌳",
+    "name": "Deciduous Tree",
+    "slug": "deciduous-tree",
+    "desc": "A leafy tree that sheds its leaves."
+  },
+  {
+    "char": "🌴",
+    "name": "Palm Tree",
+    "slug": "palm-tree",
+    "desc": "A tropical tree found near beaches."
+  },
+  {
+    "char": "🌵",
+    "name": "Cactus",
+    "slug": "cactus",
+    "desc": "A desert plant with prickly spines."
+  },
+  {
+    "char": "🌾",
+    "name": "Sheaf Of Rice",
+    "slug": "sheaf-of-rice",
+    "desc": "Sheaf Of Rice emoji - a sheaf of rice representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🌿",
+    "name": "Herb",
+    "slug": "herb",
+    "desc": "A leafy green branch."
+  },
+  {
+    "char": "☘️",
+    "name": "Shamrock",
+    "slug": "shamrock",
+    "desc": "Shamrock emoji - a shamrock representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🍀",
+    "name": "Four Leaf Clover",
+    "slug": "four-leaf-clover",
+    "desc": "A rare green clover, a symbol of luck."
+  },
+  {
+    "char": "🍁",
+    "name": "Maple Leaf",
+    "slug": "maple-leaf",
+    "desc": "The orange-red leaf of a maple tree."
+  },
+  {
+    "char": "🍂",
+    "name": "Fallen Leaf",
+    "slug": "fallen-leaf",
+    "desc": "Leaves that have turned brown and fallen in autumn."
+  },
+  {
+    "char": "🍃",
+    "name": "Leaf Fluttering In Wind",
+    "slug": "leaf-fluttering-in-wind",
+    "desc": "Leaf Fluttering In Wind emoji - a leaf fluttering in wind representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🪹",
+    "name": "Empty Nest",
+    "slug": "empty-nest",
+    "desc": "Empty Nest emoji - a empty nest representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🪺",
+    "name": "Nest With Eggs",
+    "slug": "nest-with-eggs",
+    "desc": "Nest With Eggs emoji - a nest with eggs representing nature, wildlife, and pets."
+  },
+  {
+    "char": "🍄",
+    "name": "Mushroom",
+    "slug": "mushroom",
+    "desc": "A toadstool mushroom with a red cap and white spots."
+  },
+  {
+    "char": "🪾",
+    "name": "Leafless Tree",
+    "slug": "leafless-tree",
+    "desc": "Leafless Tree emoji - a leafless tree representing nature, wildlife, and pets."
+  }
+]

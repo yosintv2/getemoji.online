@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🐟",
+    "name": "Maguro Bluefin Tuna Japan",
+    "slug": "maguro-bluefin-tuna-sushi-japan",
+    "desc": "The king of sushi. Known for various cuts like Akami, Chutoro, and the fatty Otoro, it is the most prized fish in markets across Japan."
+  },
+  {
+    "char": "🍣",
+    "name": "Sake Atlantic Salmon Japan",
+    "slug": "sake-salmon-sashimi-japan",
+    "desc": "Incredibly popular for its rich flavor and melt-in-the-mouth texture. A staple topping for sushi and grilled breakfast sets in Japan."
+  },
+  {
+    "char": "🐙",
+    "name": "Madako Common Octopus Japan",
+    "slug": "madako-octopus-seafood-japan",
+    "desc": "Essential for Takoyaki and Sashimi platters. Often blanched to bring out its sweet flavor and firm texture in the kitchens of Japan."
+  },
+  {
+    "char": "🦑",
+    "name": "Surume Ika Squid Japan",
+    "slug": "surume-ika-squid-seafood-japan",
+    "desc": "Highly versatile seafood used for Sashimi, Tempura, or dried as a salty snack (Atarime) to enjoy with drinks in Japan."
+  },
+  {
+    "char": "🦐",
+    "name": "Kuruma Ebi Tiger Prawn Japan",
+    "slug": "kuruma-ebi-tiger-prawn-japan",
+    "desc": "A luxury seafood item prized for its sweetness and beautiful striped pattern. Often served as high-end Tempura or Nigiri in Japan."
+  },
+  {
+    "char": "🦀",
+    "name": "Zuwaigani Snow Crab Japan",
+    "slug": "zuwaigani-snow-crab-winter-japan",
+    "desc": "A winter delicacy, particularly in the Sea of Japan coastal regions. Known for its sweet, delicate leg meat and rich innards in Japan."
+  },
+  {
+    "char": "🐡",
+    "name": "Fugu Pufferfish Delicacy Japan",
+    "slug": "fugu-pufferfish-delicacy-japan",
+    "desc": "A famous and daring delicacy that requires a licensed chef to prepare. It is often served as paper-thin sashimi slices in Japan."
+  },
+  {
+    "char": "🐚",
+    "name": "Hotate Scallop Shellfish Japan",
+    "slug": "hotate-scallop-hokkaido-japan",
+    "desc": "Plump and sweet scallops, with the best quality typically harvested from the cold waters of Hokkaido in Northern Japan."
+  },
+  {
+    "char": "🍱",
+    "name": "Uni Sea Urchin Japan",
+    "slug": "uni-sea-urchin-roe-japan",
+    "desc": "Creamy, briny, and rich roe that is considered a luxury ingredient for 'Gunkan' sushi and seafood bowls in Japan."
+  },
+  {
+    "char": "🥣",
+    "name": "Ikura Salmon Roe Japan",
+    "slug": "ikura-salmon-roe-caviar-japan",
+    "desc": "Large, translucent orange pearls of salmon roe that burst with salty flavor. A favorite topping for Chirashi-zushi in Japan."
+  },
+  {
+    "char": "🐍",
+    "name": "Unagi Freshwater Eel Japan",
+    "slug": "unagi-freshwater-eel-grilled-japan",
+    "desc": "Grilled with a sweet soy-based glaze (Kabayaki). Traditionally eaten during the 'Midsummer Day of the Ox' for stamina in Japan."
+  },
+  {
+    "char": "🎣",
+    "name": "Tai Sea Bream Japan",
+    "slug": "tai-sea-bream-celebration-japan",
+    "desc": "Associated with the word 'medetai' (auspicious). This red fish is served at weddings and New Year celebrations as a symbol of luck in Japan."
+  }
+]

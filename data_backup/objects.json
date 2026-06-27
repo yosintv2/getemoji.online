@@ -1,0 +1,1316 @@
+[
+  {
+    "char": "⌚",
+    "name": "Watch",
+    "slug": "watch",
+    "desc": "A wearable timepiece designed to be worn on the wrist, typically featuring a strap and a circular or square face showing the time."
+  },
+  {
+    "char": "📱",
+    "name": "Mobile Phone",
+    "slug": "mobile-phone",
+    "desc": "A portable smartphone used for communication, internet browsing, and running various applications, usually shown with a black or silver casing."
+  },
+  {
+    "char": "💻",
+    "name": "Laptop",
+    "slug": "laptop-computer",
+    "desc": "A portable personal computer with a folding screen and keyboard, commonly used for work, study, and gaming in various environments."
+  },
+  {
+    "char": "⌨️",
+    "name": "Keyboard",
+    "slug": "keyboard",
+    "desc": "A standard input device for computers featuring a full set of alphanumeric keys, used for typing text and executing software commands."
+  },
+  {
+    "char": "🖥️",
+    "name": "Desktop Computer",
+    "slug": "desktop-computer",
+    "desc": "A stationary computer monitor typically used in an office or home setup, representing high-performance computing and professional workspaces."
+  },
+  {
+    "char": "🖨️",
+    "name": "Printer",
+    "slug": "printer",
+    "desc": "An external hardware device that takes electronic data from a computer and generates a hard copy on paper using ink or toner."
+  },
+  {
+    "char": "🖱️",
+    "name": "Computer Mouse",
+    "slug": "computer-mouse",
+    "desc": "A handheld pointing device used to navigate graphical user interfaces on a computer screen by detecting two-dimensional motion."
+  },
+  {
+    "char": "🕹️",
+    "name": "Joystick",
+    "slug": "joystick",
+    "desc": "An input device consisting of a stick that pivots on a base, primarily used for controlling flight simulators and classic arcade games."
+  },
+  {
+    "char": "💽",
+    "name": "Computer Disk",
+    "slug": "minidisc",
+    "desc": "A small optical or magnetic storage disc, often representing legacy data storage or specialized audio recording formats like MiniDisc."
+  },
+  {
+    "char": "💾",
+    "name": "Floppy Disk",
+    "slug": "floppy-disk",
+    "desc": "A 3.5-inch magnetic storage medium that was common in the 1990s, now globally recognized as the universal icon for saving a file."
+  },
+  {
+    "char": "💿",
+    "name": "Optical Disk",
+    "slug": "optical-disk",
+    "desc": "A silver compact disc or DVD used for storing digital data, music, or high-definition video, reflecting light in a rainbow pattern."
+  },
+  {
+    "char": "📀",
+    "name": "DVD",
+    "slug": "dvd",
+    "desc": "A digital versatile disc used for high-capacity data storage, specifically for feature-length films and software installations."
+  },
+  {
+    "char": "📷",
+    "name": "Camera",
+    "slug": "camera",
+    "desc": "A classic digital or film camera used for capturing still photographs, often depicted with a large lens and a shutter button."
+  },
+  {
+    "char": "📸",
+    "name": "Camera with Flash",
+    "slug": "camera-flash",
+    "desc": "A camera shown at the moment of taking a picture, with a bright white burst of light emerging from the built-in flash unit."
+  },
+  {
+    "char": "📹",
+    "name": "Video Camera",
+    "slug": "video-camera",
+    "desc": "A portable camcorder used for recording moving images and audio, often used to represent filmmaking or home videos."
+  },
+  {
+    "char": "🎥",
+    "name": "Movie Camera",
+    "slug": "movie-camera",
+    "desc": "A vintage cinema camera with two large film reels on top, used to symbolize the film industry, Hollywood, and professional cinematography."
+  },
+  {
+    "char": "📽️",
+    "name": "Film Projector",
+    "slug": "film-projector",
+    "desc": "An optical device that projects moving images from a film strip onto a screen, often found in traditional movie theaters."
+  },
+  {
+    "char": "🎞️",
+    "name": "Film Frames",
+    "slug": "film-frames",
+    "desc": "A strip of celluloid film with individual frames and sprocket holes, representing movies, cinema, and video production."
+  },
+  {
+    "char": "📞",
+    "name": "Telephone Receiver",
+    "slug": "telephone-receiver",
+    "desc": "The handheld part of a traditional landline telephone, featuring a speaker for the ear and a microphone for the mouth."
+  },
+  {
+    "char": "📟",
+    "name": "Pager",
+    "slug": "pager",
+    "desc": "A small telecommunications device used to receive short alphanumeric messages, common among medical professionals before smartphones."
+  },
+  {
+    "char": "📠",
+    "name": "Fax Machine",
+    "slug": "fax-machine",
+    "desc": "A device used to send and receive scanned printed material over telephone lines, typically showing a piece of paper emerging from the top."
+  },
+  {
+    "char": "📺",
+    "name": "Television",
+    "slug": "television",
+    "desc": "A classic television set with a screen, buttons, and rabbit-ear antennas, used to represent broadcast media and entertainment."
+  },
+  {
+    "char": "📻",
+    "name": "Radio",
+    "slug": "radio",
+    "desc": "A portable transistor radio with a tuning dial and antenna, used for listening to music, news, and emergency broadcasts."
+  },
+  {
+    "char": "🎙️",
+    "name": "Studio Microphone",
+    "slug": "studio-mic",
+    "desc": "A high-quality microphone used in radio stations or recording studios for professional vocal capture and podcasting."
+  },
+  {
+    "char": "🎚️",
+    "name": "Level Slider",
+    "slug": "level-slider",
+    "desc": "A sliding control found on a mixing console, used to adjust the volume or intensity of an audio signal in music production."
+  },
+  {
+    "char": "🎛️",
+    "name": "Control Knobs",
+    "slug": "control-knobs",
+    "desc": "Rotary dials used on electronic equipment to adjust various parameters like EQ, gain, or frequency in audio and video engineering."
+  },
+  {
+    "char": "🧭",
+    "name": "Compass",
+    "slug": "compass",
+    "desc": "A navigational instrument with a magnetic needle that points north, used for hiking, travel, and finding one's direction."
+  },
+  {
+    "char": "⏱️",
+    "name": "Stopwatch",
+    "slug": "stopwatch",
+    "desc": "A specialized timepiece used to measure the amount of elapsed time from a particular starting point to a finishing point."
+  },
+  {
+    "char": "⏲️",
+    "name": "Timer Clock",
+    "slug": "timer-clock",
+    "desc": "A kitchen or laboratory timer used to count down a specific interval of time, often featuring a red shaded area for the remaining time."
+  },
+  {
+    "char": "⏰",
+    "name": "Alarm Clock",
+    "slug": "alarm-clock",
+    "desc": "A traditional bedside clock with two bells on top that ring loudly to wake a person up at a designated time."
+  },
+  {
+    "char": "🕰️",
+    "name": "Mantelpiece Clock",
+    "slug": "mantel-clock",
+    "desc": "An ornamental antique clock designed to sit on a shelf or fireplace mantel, representing tradition and the passage of time."
+  },
+  {
+    "char": "⌛",
+    "name": "Hourglass Done",
+    "slug": "hourglass-done",
+    "desc": "An hourglass where all the sand has fallen into the bottom bulb, indicating that the allotted time has completely run out."
+  },
+  {
+    "char": "⏳",
+    "name": "Hourglass Not Done",
+    "slug": "hourglass-flowing",
+    "desc": "A classic time-measuring device with sand flowing from the top bulb to the bottom, representing time currently in progress."
+  },
+  {
+    "char": "📡",
+    "name": "Satellite Antenna",
+    "slug": "satellite-dish",
+    "desc": "A parabolic dish used for transmitting or receiving signals from satellites, representing telecommunications and space technology."
+  },
+  {
+    "char": "🔋",
+    "name": "Battery",
+    "slug": "battery",
+    "desc": "A portable energy storage device used to power electronics, typically shown in green to indicate a full or healthy charge."
+  },
+  {
+    "char": "🔌",
+    "name": "Electric Plug",
+    "slug": "electric-plug",
+    "desc": "A two-pronged power connector used to link an electrical appliance to a wall outlet for power supply."
+  },
+  {
+    "char": "💡",
+    "name": "Light Bulb",
+    "slug": "light-bulb",
+    "desc": "A glowing incandescent bulb used for illumination, often used metaphorically to represent a bright idea or sudden inspiration."
+  },
+  {
+    "char": "🔦",
+    "name": "Flashlight",
+    "slug": "flashlight",
+    "desc": "A portable handheld electric lamp used for seeing in the dark, often used for camping or during power outages."
+  },
+  {
+    "char": "🕯️",
+    "name": "Candle",
+    "slug": "candle",
+    "desc": "A pillar of wax with an ignited wick, providing a soft flame for light, relaxation, or religious ceremonies."
+  },
+  {
+    "char": "🪔",
+    "name": "Diya Lamp",
+    "slug": "diya-lamp",
+    "desc": "An oil lamp made of clay with a cotton wick, traditionally used in South Asian cultures during festivals like Diwali."
+  },
+  {
+    "char": "🧯",
+    "name": "Fire Extinguisher",
+    "slug": "fire-extinguisher",
+    "desc": "A red pressurized tank used to spray chemicals to douse small fires, representing safety and emergency preparedness."
+  },
+  {
+    "char": "🛢️",
+    "name": "Oil Drum",
+    "slug": "oil-drum",
+    "desc": "A large cylindrical metal container used for storing and transporting liquid bulk goods, primarily crude oil or chemicals."
+  },
+  {
+    "char": "💸",
+    "name": "Money with Wings",
+    "slug": "money-wings",
+    "desc": "A stack of dollar bills with feathered wings, symbolizing money being spent rapidly or high profits taking flight."
+  },
+  {
+    "char": "💵",
+    "name": "Dollar Banknote",
+    "slug": "dollar-bill",
+    "desc": "A single green paper currency note representing the United States Dollar, used to denote cash, wealth, and commerce."
+  },
+  {
+    "char": "💴",
+    "name": "Yen Banknote",
+    "slug": "yen-bill",
+    "desc": "A paper currency note representing the Japanese Yen, used in contexts involving the Japanese economy or travel to Japan."
+  },
+  {
+    "char": "💶",
+    "name": "Euro Banknote",
+    "slug": "euro-bill",
+    "desc": "A paper currency note representing the Euro, the official currency of many European Union countries."
+  },
+  {
+    "char": "💷",
+    "name": "Pound Banknote",
+    "slug": "pound-bill",
+    "desc": "A paper currency note representing the British Pound Sterling, used in contexts related to the United Kingdom."
+  },
+  {
+    "char": "🪙",
+    "name": "Coin",
+    "slug": "coin",
+    "desc": "A flat, round piece of metal used as money, often used to represent savings, currency, or a toss of a coin."
+  },
+  {
+    "char": "💰",
+    "name": "Money Bag",
+    "slug": "money-bag",
+    "desc": "A large sack tied at the top and filled with cash or gold, often marked with a dollar sign to represent great wealth."
+  },
+  {
+    "char": "💳",
+    "name": "Credit Card",
+    "slug": "credit-card",
+    "desc": "A plastic payment card used for digital transactions, banking, and shopping without the need for physical cash."
+  },
+  {
+    "char": "💎",
+    "name": "Gem Stone",
+    "slug": "gem-stone",
+    "desc": "A sparkling blue diamond or precious jewel, used to represent luxury, engagement, or high value."
+  },
+  {
+    "char": "⚖️",
+    "name": "Balance Scale",
+    "slug": "balance-scale",
+    "desc": "A traditional scale with two pans, used to represent justice, law, or the weighing of evidence and facts."
+  },
+  {
+    "char": "🪜",
+    "name": "Ladder",
+    "slug": "ladder",
+    "desc": "A portable set of steps consisting of two parallel sidepieces joined by rungs, used for reaching high places."
+  },
+  {
+    "char": "🧰",
+    "name": "Toolbox",
+    "slug": "toolbox",
+    "desc": "A sturdy red or metal container used for organizing and carrying various hand tools for repair and construction."
+  },
+  {
+    "char": "🪛",
+    "name": "Screwdriver",
+    "slug": "screwdriver",
+    "desc": "A hand tool with a handle and a metal shaft, used for turning screws to fasten or loosen materials."
+  },
+  {
+    "char": "🔧",
+    "name": "Wrench",
+    "slug": "wrench",
+    "desc": "A metal tool with a shaped opening or jaws for gripping and turning nuts and bolts during mechanical repairs."
+  },
+  {
+    "char": "🔨",
+    "name": "Hammer",
+    "slug": "hammer",
+    "desc": "A tool with a heavy metal head and a wooden handle, used for driving nails into wood or breaking objects apart."
+  },
+  {
+    "char": "⚒️",
+    "name": "Hammer and Pick",
+    "slug": "hammer-pick",
+    "desc": "Two tools crossed in an X shape, traditionally used to represent mining, heavy labor, or construction."
+  },
+  {
+    "char": "⛏️",
+    "name": "Pickaxe",
+    "slug": "pick",
+    "desc": "A T-shaped hand tool with a hard head and pointed ends, used for breaking up rocky surfaces or digging in hard soil."
+  },
+  {
+    "char": "🪓",
+    "name": "Axe",
+    "slug": "axe",
+    "desc": "A tool with a sharp metal blade attached to a handle, used for chopping wood or as a primitive weapon."
+  },
+  {
+    "char": "🔪",
+    "name": "Kitchen Knife",
+    "slug": "hocho",
+    "desc": "A large, sharp steel knife used by chefs for preparing food, or more generally to represent sharpness and cutting."
+  },
+  {
+    "char": "🗡️",
+    "name": "Dagger",
+    "slug": "dagger",
+    "desc": "A short, double-edged pointed weapon used for thrusting, often associated with fantasy, combat, or betrayal."
+  },
+  {
+    "char": "⚔️",
+    "name": "Crossed Swords",
+    "slug": "crossed-swords",
+    "desc": "Two longswords crossed in an X pattern, representing battle, war, or historical martial arts."
+  },
+  {
+    "char": "💣",
+    "name": "Bomb",
+    "slug": "bomb",
+    "desc": "A black sphere with a burning fuse, used to represent an explosion, a dangerous situation, or a 'bombshell' announcement."
+  },
+  {
+    "char": "🔫",
+    "name": "Water Pistol",
+    "slug": "gun",
+    "desc": "A toy gun that shoots water, usually depicted in bright green or orange to distinguish it from a real weapon."
+  },
+  {
+    "char": "🛡️",
+    "name": "Shield",
+    "slug": "shield",
+    "desc": "A piece of defensive armor held in the hand to block attacks, representing protection, security, and defense."
+  },
+  {
+    "char": "🚬",
+    "name": "Cigarette",
+    "slug": "smoking",
+    "desc": "A lit cigarette with a filter and a small trail of smoke, used to represent tobacco use or a designated smoking area."
+  },
+  {
+    "char": "⚰️",
+    "name": "Coffin",
+    "slug": "coffin",
+    "desc": "A traditional wooden casket used for burial, representing death, funerals, or spooky Halloween themes."
+  },
+  {
+    "char": "⚱️",
+    "name": "Funeral Urn",
+    "slug": "funeral-urn",
+    "desc": "A decorative vessel used to hold the cremated remains of the deceased, representing mourning and remembrance."
+  },
+  {
+    "char": "🏺",
+    "name": "Amphora",
+    "slug": "amphora",
+    "desc": "A tall ancient Greek or Roman jar with two handles and a narrow neck, used for storing wine or oil."
+  },
+  {
+    "char": "🔮",
+    "name": "Crystal Ball",
+    "slug": "crystal-ball",
+    "desc": "A glass sphere used by fortune tellers and clairvoyants to predict the future or look into the spiritual realm."
+  },
+  {
+    "char": "📿",
+    "name": "Prayer Beads",
+    "slug": "prayer-beads",
+    "desc": "A string of beads used in various religious traditions for counting prayers, chants, or devotions."
+  },
+  {
+    "char": "🧿",
+    "name": "Nazar Amulet",
+    "slug": "nazar-amulet",
+    "desc": "An eye-shaped blue bead used to protect against the 'evil eye' or bad luck in many cultures."
+  },
+  {
+    "char": "💈",
+    "name": "Barber Pole",
+    "slug": "barber-pole",
+    "desc": "A spiraling red, white, and blue pole used to signify a barbershop, harkening back to historical medical procedures."
+  },
+  {
+    "char": "⚗️",
+    "name": "Alembic",
+    "slug": "alembic",
+    "desc": "An ancient chemical apparatus used for distillation, consisting of a glass flask with a long downward tube."
+  },
+  {
+    "char": "🔭",
+    "name": "Telescope",
+    "slug": "telescope",
+    "desc": "An optical instrument used to observe distant objects in space, representing astronomy and scientific exploration."
+  },
+  {
+    "char": "🔬",
+    "name": "Microscope",
+    "slug": "microscope",
+    "desc": "An instrument used in laboratories to view objects that are too small for the naked eye, representing biology and research."
+  },
+  {
+    "char": "🕳️",
+    "name": "Hole",
+    "slug": "hole",
+    "desc": "A dark, circular opening in the ground or a surface, often used to represent a pit, a trap, or a void."
+  },
+  {
+    "char": "💊",
+    "name": "Pill",
+    "slug": "pill",
+    "desc": "A capsule-shaped medicine, usually shown as half-red and half-yellow, used to represent health, sickness, or pharmacy."
+  },
+  {
+    "char": "💉",
+    "name": "Syringe",
+    "slug": "syringe",
+    "desc": "A medical needle used to administer vaccines or draw blood, representing medicine, doctors, and immunization."
+  },
+  {
+    "char": "🩸",
+    "name": "Drop of Blood",
+    "slug": "drop-of-blood",
+    "desc": "A single red droplet of blood, used to represent injury, blood donation, or medical testing."
+  },
+  {
+    "char": "🩹",
+    "name": "Adhesive Bandage",
+    "slug": "bandage",
+    "desc": "A small strip of medical tape used to cover minor cuts or scrapes, representing healing and first aid."
+  },
+  {
+    "char": "🩺",
+    "name": "Stethoscope",
+    "slug": "stethoscope",
+    "desc": "A medical device used by doctors and nurses to listen to the internal sounds of a patient's heart or lungs."
+  },
+  {
+    "char": "🚪",
+    "name": "Door",
+    "slug": "door",
+    "desc": "A wooden door with a handle, representing an entrance, a new opportunity, or leaving a room."
+  },
+  {
+    "char": "🪞",
+    "name": "Mirror",
+    "slug": "mirror",
+    "desc": "A reflective surface in a frame, used for grooming or to represent vanity and self-reflection."
+  },
+  {
+    "char": "🪟",
+    "name": "Window",
+    "slug": "window",
+    "desc": "A glass pane in a frame, allowing light into a building and providing a view of the outside world."
+  },
+  {
+    "char": "🛏️",
+    "name": "Bed",
+    "slug": "bed",
+    "desc": "A piece of furniture with a mattress and pillow, used for sleeping, resting, and relaxation."
+  },
+  {
+    "char": "🛋️",
+    "name": "Couch and Lamp",
+    "slug": "couch-lamp",
+    "desc": "A living room setup featuring a comfortable sofa and a floor lamp, representing home life and comfort."
+  },
+  {
+    "char": "🪑",
+    "name": "Chair",
+    "slug": "chair",
+    "desc": "A simple wooden or plastic four-legged seat with a back, used for sitting at a table or desk."
+  },
+  {
+    "char": "🚽",
+    "name": "Toilet",
+    "slug": "toilet",
+    "desc": "A porcelain plumbing fixture used for the disposal of human waste, representing bathrooms and hygiene."
+  },
+  {
+    "char": "🪠",
+    "name": "Plunger",
+    "slug": "plunger",
+    "desc": "A tool with a rubber suction cup on a handle, used for clearing blockages in drains and toilets."
+  },
+  {
+    "char": "🚿",
+    "name": "Shower",
+    "slug": "shower",
+    "desc": "A bathroom fixture that sprays water from above for washing the body, representing personal cleanliness."
+  },
+  {
+    "char": "🛁",
+    "name": "Bathtub",
+    "slug": "bathtub",
+    "desc": "A large container for holding water in which a person may bathe, representing luxury and self-care."
+  },
+  {
+    "char": "🪤",
+    "name": "Mouse Trap",
+    "slug": "mouse-trap",
+    "desc": "A spring-loaded wooden device used for catching rodents, representing a trap or a tricky situation."
+  },
+  {
+    "char": "🪒",
+    "name": "Razor",
+    "slug": "razor",
+    "desc": "A sharp blade used for shaving hair from the face or body, often depicted as a safety razor."
+  },
+  {
+    "char": "🧴",
+    "name": "Lotion Bottle",
+    "slug": "lotion-bottle",
+    "desc": "A pump-action bottle containing skin cream, sunscreen, or soap, used for skincare and hygiene."
+  },
+  {
+    "char": "🧷",
+    "name": "Safety Pin",
+    "slug": "safety-pin",
+    "desc": "A metal pin with a clasp, used for fastening fabric together or as a punk rock fashion accessory."
+  },
+  {
+    "char": "🧹",
+    "name": "Broom",
+    "slug": "broom",
+    "desc": "A long-handled tool with bristles used for sweeping floors or, in folklore, as a vehicle for witches."
+  },
+  {
+    "char": "🧺",
+    "name": "Basket",
+    "slug": "basket",
+    "desc": "A woven container used for carrying laundry, groceries, or picnic items, often shown with handles."
+  },
+  {
+    "char": "🧻",
+    "name": "Roll of Paper",
+    "slug": "toilet-paper",
+    "desc": "A roll of white absorbent paper, typically used for bathroom hygiene or cleaning spills."
+  },
+  {
+    "char": "🧼",
+    "name": "Soap",
+    "slug": "soap",
+    "desc": "A bar of solid soap used with water for washing the body or hands, often shown with a few bubbles."
+  },
+  {
+    "char": "🪥",
+    "name": "Toothbrush",
+    "slug": "toothbrush",
+    "desc": "A small brush with a long handle used for cleaning teeth and maintaining oral hygiene."
+  },
+  {
+    "char": "🧽",
+    "name": "Sponge",
+    "slug": "sponge",
+    "desc": "A porous yellow tool used for absorbing water and scrubbing surfaces during cleaning or bathing."
+  },
+  {
+    "char": "🧯",
+    "name": "Fire Extinguisher",
+    "slug": "fire-extinguisher",
+    "desc": "A device that discharges a jet of water, foam, or gas to extinguish a fire in an emergency."
+  },
+  {
+    "char": "🛒",
+    "name": "Shopping Cart",
+    "slug": "shopping-cart",
+    "desc": "A metal basket on wheels used in supermarkets to transport groceries and purchased goods."
+  },
+  {
+    "char": "🚬",
+    "name": "Cigarette",
+    "slug": "cigarette",
+    "desc": "A narrow cylinder of finely cut tobacco leaves rolled in thin paper for smoking."
+  },
+  {
+    "char": "🪦",
+    "name": "Headstone",
+    "slug": "headstone",
+    "desc": "A stone marker placed at a grave, often featuring the letters R.I.P. to represent death and mourning."
+  },
+  {
+    "char": "🧿",
+    "name": "Nazar Amulet",
+    "slug": "nazar",
+    "desc": "A protective charm in the shape of a blue eye, believed to ward off the evil eye and bring luck."
+  },
+  {
+    "char": "🧸",
+    "name": "Teddy Bear",
+    "slug": "teddy-bear",
+    "desc": "A plush stuffed toy in the shape of a bear, representing childhood, comfort, and affection."
+  },
+  {
+    "char": "🪆",
+    "name": "Nesting Dolls",
+    "slug": "nesting-dolls",
+    "desc": "A set of wooden dolls of decreasing size placed one inside another, originating from Russian culture."
+  },
+  {
+    "char": "🪄",
+    "name": "Magic Wand",
+    "slug": "magic-wand",
+    "desc": "A thin black stick with white tips used by magicians to perform tricks or by wizards to cast spells."
+  },
+  {
+    "char": "🪅",
+    "name": "Piñata",
+    "slug": "pinata",
+    "desc": "A colorful donkey-shaped container filled with candy, intended to be broken as part of a celebration."
+  },
+  {
+    "char": "🪩",
+    "name": "Mirror Ball",
+    "slug": "disco-ball",
+    "desc": "A sphere covered with hundreds of small mirrors that reflects light in many directions, used at parties."
+  },
+  {
+    "char": "🎈",
+    "name": "Balloon",
+    "slug": "balloon",
+    "desc": "A rubber bag inflated with air or helium, used as a decoration for birthdays and festive events."
+  },
+  {
+    "char": "🎉",
+    "name": "Party Popper",
+    "slug": "party-popper",
+    "desc": "A small celebratory device that explodes to release confetti and streamers when a string is pulled."
+  },
+  {
+    "char": "🎊",
+    "name": "Confetti Ball",
+    "slug": "confetti-ball",
+    "desc": "A golden ball that has split open to shower colorful confetti, used for grand celebrations."
+  },
+  {
+    "char": "🏮",
+    "name": "Red Paper Lantern",
+    "slug": "izakaya-lantern",
+    "desc": "A traditional Japanese or Chinese lantern made of paper, often found outside restaurants and bars."
+  },
+  {
+    "char": "🎐",
+    "name": "Wind Chime",
+    "slug": "wind-chime",
+    "desc": "A glass or metal bell that makes a tinkling sound when moved by the wind, common in Japanese summers."
+  },
+  {
+    "char": "🧧",
+    "name": "Red Envelope",
+    "slug": "red-envelope",
+    "desc": "A small red packet containing money, given as a gift during Lunar New Year or special occasions."
+  },
+  {
+    "char": "🎀",
+    "name": "Ribbon",
+    "slug": "ribbon",
+    "desc": "A decorative pink bow made of fabric, used for wrapping gifts or as a hair accessory."
+  },
+  {
+    "char": "🎁",
+    "name": "Wrapped Gift",
+    "slug": "wrapped-gift",
+    "desc": "A present inside a box wrapped in colorful paper and tied with a bow, used for holidays and birthdays."
+  },
+  {
+    "char": "📦",
+    "name": "Package",
+    "slug": "package",
+    "desc": "A cardboard box used for shipping goods and mail, often taped shut for secure delivery."
+  },
+  {
+    "char": "📧",
+    "name": "E-Mail",
+    "slug": "email",
+    "desc": "A digital icon representing an electronic letter, often shown as an envelope with an '@' symbol."
+  },
+  {
+    "char": "📩",
+    "name": "Envelope with Arrow",
+    "slug": "envelope-arrow",
+    "desc": "A paper envelope with a downward arrow, representing an incoming message or a successful download."
+  },
+  {
+    "char": "📤",
+    "name": "Outbox Tray",
+    "slug": "outbox-tray",
+    "desc": "An office tray with an upward arrow, representing mail or files that are ready to be sent out."
+  },
+  {
+    "char": "📥",
+    "name": "Inbox Tray",
+    "slug": "inbox-tray",
+    "desc": "An office tray with a downward arrow, representing new mail or files that have been received."
+  },
+  {
+    "char": "📜",
+    "name": "Scroll",
+    "slug": "scroll",
+    "desc": "A long roll of ancient paper or parchment containing writing, representing history, law, or diplomas."
+  },
+  {
+    "char": "📑",
+    "name": "Bookmark Tabs",
+    "slug": "bookmark-tabs",
+    "desc": "Small colored sticky tabs used to mark specific pages in a book or document for quick reference."
+  },
+  {
+    "char": "📃",
+    "name": "Page with Curl",
+    "slug": "page-curl",
+    "desc": "A white sheet of paper with text, where the bottom corner is slightly curled upwards."
+  },
+  {
+    "char": "📄",
+    "name": "Page Facing Up",
+    "slug": "page-up",
+    "desc": "A single white sheet of paper with printed text, used to represent a document or report."
+  },
+  {
+    "char": "📅",
+    "name": "Calendar",
+    "slug": "calendar",
+    "desc": "A single page from a calendar showing a specific date, used for scheduling and planning events."
+  },
+  {
+    "char": "📆",
+    "name": "Tear-off Calendar",
+    "slug": "tear-off-calendar",
+    "desc": "A daily calendar where pages are removed one by one to reveal the current day of the year."
+  },
+  {
+    "char": "🗑️",
+    "name": "Wastebasket",
+    "slug": "wastebasket",
+    "desc": "A small container used for disposing of trash, typically found under a desk in an office or bedroom."
+  },
+  {
+    "char": "📁",
+    "name": "File Folder",
+    "slug": "file-folder",
+    "desc": "A yellow tabbed folder used for organizing and storing paper documents or digital files."
+  },
+  {
+    "char": "📂",
+    "name": "Open File Folder",
+    "slug": "open-file-folder",
+    "desc": "A yellow folder that is spread open, representing the act of viewing or accessing stored information."
+  },
+  {
+    "char": "🗂️",
+    "name": "Card Index Dividers",
+    "slug": "card-dividers",
+    "desc": "A set of colored tabs used to categorize and organize large sets of index cards or files."
+  },
+  {
+    "char": "🗞️",
+    "name": "Rolled-up Newspaper",
+    "slug": "newspaper",
+    "desc": "A daily publication of news and articles, rolled up for delivery to a doorstep."
+  },
+  {
+    "char": "📓",
+    "name": "Notebook",
+    "slug": "notebook",
+    "desc": "A simple bound book with lined pages used for taking notes, journaling, or keeping a diary."
+  },
+  {
+    "char": "📔",
+    "name": "Notebook with Decorative Cover",
+    "slug": "notebook-decorative",
+    "desc": "A notebook featuring a colorful or stylish cover, used for creative writing or personal notes."
+  },
+  {
+    "char": "📒",
+    "name": "Ledger",
+    "slug": "ledger",
+    "desc": "A yellow-covered spiral notebook traditionally used for accounting, bookkeeping, and tracking finances."
+  },
+  {
+    "char": "📕",
+    "name": "Closed Book",
+    "slug": "closed-book",
+    "desc": "A red hardcover book that is closed, representing literature, education, and knowledge."
+  },
+  {
+    "char": "📗",
+    "name": "Green Book",
+    "slug": "green-book",
+    "desc": "A green hardcover book, often used to represent nature, science, or simply a collection of books."
+  },
+  {
+    "char": "📘",
+    "name": "Blue Book",
+    "slug": "blue-book",
+    "desc": "A blue hardcover book, representing textbooks, manuals, or library resources."
+  },
+  {
+    "char": "📙",
+    "name": "Orange Book",
+    "slug": "orange-book",
+    "desc": "An orange hardcover book, part of a set of colorful book icons used for various subjects."
+  },
+  {
+    "char": "📚",
+    "name": "Books",
+    "slug": "books",
+    "desc": "A stack of three or more hardcover books of different colors, representing a library or intensive study."
+  },
+  {
+    "char": "📖",
+    "name": "Open Book",
+    "slug": "open-book",
+    "desc": "A book that is spread open to the middle, representing the act of reading and learning."
+  },
+  {
+    "char": "🔗",
+    "name": "Link",
+    "slug": "link",
+    "desc": "Two links of a silver chain joined together, used to represent a hyperlink or a connection between ideas."
+  },
+  {
+    "char": "📎",
+    "name": "Paperclip",
+    "slug": "paperclip",
+    "desc": "A small wire loop used for holding sheets of paper together, also the universal icon for email attachments."
+  },
+  {
+    "char": "🖇️",
+    "name": "Linked Paperclips",
+    "slug": "linked-paperclips",
+    "desc": "Two or more paperclips hooked together, representing interconnected documents or complex organization."
+  },
+  {
+    "char": "📐",
+    "name": "Triangular Ruler",
+    "slug": "triangular-ruler",
+    "desc": "A plastic or metal triangle used for technical drawing, geometry, and measuring angles."
+  },
+  {
+    "char": "📏",
+    "name": "Straight Ruler",
+    "slug": "straight-ruler",
+    "desc": "A flat measuring tool with marked units, used to draw straight lines and measure length."
+  },
+  {
+    "char": "📌",
+    "name": "Pushpin",
+    "slug": "pushpin",
+    "desc": "A small pin with a large round head, used to fasten papers to a bulletin board or corkboard."
+  },
+  {
+    "char": "📍",
+    "name": "Round Pushpin",
+    "slug": "round-pushpin",
+    "desc": "A red pin used to mark specific locations on a map or to pin a piece of information."
+  },
+  {
+    "char": "✂️",
+    "name": "Scissors",
+    "slug": "scissors",
+    "desc": "A tool with two sharp blades that slide past each other, used for cutting paper, fabric, or hair."
+  },
+  {
+    "char": "🖊️",
+    "name": "Pen",
+    "slug": "pen",
+    "desc": "A ballpoint pen used for writing or signing documents, often shown with its cap on or off."
+  },
+  {
+    "char": "🖋️",
+    "name": "Fountain Pen",
+    "slug": "fountain-pen",
+    "desc": "An elegant writing instrument that uses an internal reservoir of liquid ink and a metal nib."
+  },
+  {
+    "char": "✒️",
+    "name": "Black Nib",
+    "slug": "nib",
+    "desc": "The metal tip of a fountain pen, representing literature, professional writing, and calligraphy."
+  },
+  {
+    "char": "🖌️",
+    "name": "Paintbrush",
+    "slug": "paintbrush",
+    "desc": "A tool with a handle and bristles used for applying paint to a canvas or wall in art projects."
+  },
+  {
+    "char": "🖍️",
+    "name": "Crayon",
+    "slug": "crayon",
+    "desc": "A stick of colored wax used for drawing, especially by children in school or at home."
+  },
+  {
+    "char": "📝",
+    "name": "Memo",
+    "slug": "memo",
+    "desc": "A piece of paper with a pencil writing on it, representing note-taking, checklists, and reminders."
+  },
+  {
+    "char": "🔍",
+    "name": "Magnifying Glass Left",
+    "slug": "magnifying-glass",
+    "desc": "A lens used to make objects appear larger, representing search, investigation, and zooming in."
+  },
+  {
+    "char": "🔎",
+    "name": "Magnifying Glass Right",
+    "slug": "magnifying-glass-right",
+    "desc": "An alternative magnifying glass tilted to the right, used for searching and finding details."
+  },
+  {
+    "char": "🔏",
+    "name": "Locked with Pen",
+    "slug": "locked-pen",
+    "desc": "A closed padlock with a fountain pen, representing digital signatures and secure documents."
+  },
+  {
+    "char": "🔐",
+    "name": "Locked with Key",
+    "slug": "locked-key",
+    "desc": "A closed padlock with a key positioned in front of it, representing security, privacy, and encryption."
+  },
+  {
+    "char": "🔒",
+    "name": "Locked",
+    "slug": "locked",
+    "desc": "A closed golden padlock, used to signify that something is secure, private, or prohibited."
+  },
+  {
+    "char": "🔓",
+    "name": "Unlocked",
+    "slug": "unlocked",
+    "desc": "A golden padlock with the shackle open, representing access, freedom, or a lack of security."
+  },
+  {
+    "char": "🗝️",
+    "name": "Old Key",
+    "slug": "old-key",
+    "desc": "An antique-style skeleton key with a decorative head, representing secrets, history, or new beginnings."
+  },
+  {
+    "char": "🔑",
+    "name": "Key",
+    "slug": "key",
+    "desc": "A small metal tool used to operate a lock, symbolizing access, security, and the solution to a problem."
+  },
+  {
+    "char": "🔨",
+    "name": "Hammer",
+    "slug": "hammer",
+    "desc": "A tool with a heavy metal head and a wooden handle, used for driving nails and construction."
+  },
+  {
+    "char": "🪓",
+    "name": "Axe",
+    "slug": "axe",
+    "desc": "A tool with a sharp blade used for chopping wood, often used to represent manual labor or survival."
+  },
+  {
+    "char": "⛏️",
+    "name": "Pick",
+    "slug": "pick",
+    "desc": "A heavy tool with a pointed head used for breaking up soil or rock, especially in mining."
+  },
+  {
+    "char": "⚒️",
+    "name": "Hammer and Pick",
+    "slug": "hammer-and-pick",
+    "desc": "Two tools crossed together, used as a symbol for mining, industry, and hard work."
+  },
+  {
+    "char": "🔧",
+    "name": "Wrench",
+    "slug": "wrench",
+    "desc": "A metal tool with a shaped opening for gripping and turning nuts and bolts during repairs."
+  },
+  {
+    "char": "⚙️",
+    "name": "Gear",
+    "slug": "gear",
+    "desc": "A toothed wheel that works with others to alter the relation between speed and power in a machine."
+  },
+  {
+    "char": "🧱",
+    "name": "Brick",
+    "slug": "brick",
+    "desc": "A rectangular block of clay used in building walls and structures, representing construction."
+  },
+  {
+    "char": "⛓️",
+    "name": "Chains",
+    "slug": "chains",
+    "desc": "A series of interconnected metal links, representing bondage, strength, or being joined together."
+  },
+  {
+    "char": "🧲",
+    "name": "Magnet",
+    "slug": "magnet",
+    "desc": "A horseshoe-shaped magnet with red and blue poles, representing attraction and physical forces."
+  },
+  {
+    "char": "⚗️",
+    "name": "Alembic",
+    "slug": "alembic",
+    "desc": "A glass vessel with a long neck used in early chemistry for distillation and experiments."
+  },
+  {
+    "char": "🧪",
+    "name": "Test Tube",
+    "slug": "test-tube",
+    "desc": "A glass tube used in scientific laboratories for holding and mixing chemicals or biological samples."
+  },
+  {
+    "char": "🧫",
+    "name": "Petri Dish",
+    "slug": "petri-dish",
+    "desc": "A shallow glass dish used by biologists to culture cells or small organisms like bacteria."
+  },
+  {
+    "char": "🧬",
+    "name": "DNA",
+    "slug": "dna",
+    "desc": "A double helix model of DNA, representing genetics, biology, and the fundamental code of life."
+  },
+  {
+    "char": "🔭",
+    "name": "Telescope",
+    "slug": "telescope",
+    "desc": "A device for looking at distant objects, especially in space, representing science and astronomy."
+  },
+  {
+    "char": "📡",
+    "name": "Satellite",
+    "slug": "satellite",
+    "desc": "A communication dish used for transmitting data via satellite, representing tech and space."
+  },
+  {
+    "char": "🕯️",
+    "name": "Candle",
+    "slug": "candle",
+    "desc": "A simple wax candle with a lit flame, providing light and representing rituals or peace."
+  },
+  {
+    "char": "💡",
+    "name": "Light Bulb",
+    "slug": "bulb",
+    "desc": "An electric lamp used for illumination, famously used to represent a sudden 'Eureka' moment."
+  },
+  {
+    "char": "🔦",
+    "name": "Flashlight",
+    "slug": "torch",
+    "desc": "A portable battery-operated light source used for seeing in dark places or during emergencies."
+  },
+  {
+    "char": "🏮",
+    "name": "Izakaya Lantern",
+    "slug": "red-lantern",
+    "desc": "A red paper lantern used for lighting in traditional Japanese pubs and outdoor festivals."
+  },
+  {
+    "char": "🪪",
+    "name": "Identification Card",
+    "slug": "id-card",
+    "desc": "A plastic card with a photo and text used for proving a person's identity and credentials."
+  },
+  {
+    "char": "💳",
+    "name": "Credit Card",
+    "slug": "credit-card",
+    "desc": "A card issued by a bank allowing the holder to purchase goods or services on credit."
+  },
+  {
+    "char": "💸",
+    "name": "Money with Wings",
+    "slug": "flying-money",
+    "desc": "A stack of dollar bills with wings, representing money being spent quickly or high profits."
+  },
+  {
+    "char": "💰",
+    "name": "Money Bag",
+    "slug": "sack-of-money",
+    "desc": "A large bag tied with string and filled with money, representing riches and financial success."
+  },
+  {
+    "char": "🪙",
+    "name": "Coin",
+    "slug": "gold-coin",
+    "desc": "A single round piece of currency used as a medium of exchange, often shown in gold."
+  },
+  {
+    "char": "💵",
+    "name": "Dollar Bill",
+    "slug": "dollar",
+    "desc": "A single green paper currency note representing one dollar in the United States."
+  },
+  {
+    "char": "🧱",
+    "name": "Brick",
+    "slug": "clay-brick",
+    "desc": "A sturdy red block used as a primary building material in masonry and architecture."
+  },
+  {
+    "char": "🧳",
+    "name": "Luggage",
+    "slug": "suitcase",
+    "desc": "A suitcase used for packing clothes and personal items when traveling by plane or train."
+  },
+  {
+    "char": "🕶️",
+    "name": "Sunglasses",
+    "slug": "shades",
+    "desc": "Darkened eyewear used to protect the eyes from sunlight and to look stylish or mysterious."
+  },
+  {
+    "char": "🧵",
+    "name": "Thread",
+    "slug": "spool-of-thread",
+    "desc": "A spool of colorful yarn or string used for sewing, embroidery, and repairing garments."
+  },
+  {
+    "char": "🧶",
+    "name": "Yarn",
+    "slug": "ball-of-wool",
+    "desc": "A ball of wool used for knitting or crocheting warm clothes like sweaters and scarves."
+  },
+  {
+    "char": "🧤",
+    "name": "Gloves",
+    "slug": "winter-gloves",
+    "desc": "Hand coverings used to keep fingers warm during winter or to protect hands while working."
+  },
+  {
+    "char": "🧥",
+    "name": "Coat",
+    "slug": "winter-coat",
+    "desc": "A heavy outer garment worn over other clothes to provide warmth in cold weather."
+  },
+  {
+    "char": "👗",
+    "name": "Dress",
+    "slug": "one-piece-dress",
+    "desc": "A feminine garment consisting of a skirt with an attached bodice, worn for various social events."
+  },
+  {
+    "char": "👘",
+    "name": "Kimono",
+    "slug": "japanese-kimono",
+    "desc": "A traditional Japanese robe with wide sleeves, tied with a sash and worn on formal occasions."
+  },
+  {
+    "char": "🥻",
+    "name": "Sari",
+    "slug": "indian-sari",
+    "desc": "A traditional garment from South Asia consisting of a long piece of fabric draped over the body."
+  },
+  {
+    "char": "👙",
+    "name": "Bikini",
+    "slug": "two-piece-swimsuit",
+    "desc": "A women's two-piece swimsuit worn for swimming or sunbathing at the beach or pool."
+  },
+  {
+    "char": "👜",
+    "name": "Handbag",
+    "slug": "purse",
+    "desc": "A medium-sized bag with handles, used by individuals to carry personal items on a daily basis."
+  },
+  {
+    "char": "👛",
+    "name": "Coin Purse",
+    "slug": "small-purse",
+    "desc": "A tiny bag with a clasp closure used specifically for carrying coins and small amounts of cash."
+  },
+  {
+    "char": "🎒",
+    "name": "Backpack",
+    "slug": "school-bag",
+    "desc": "A bag with straps that go over the shoulders, used by students and hikers to carry heavy loads."
+  },
+  {
+    "char": "👞",
+    "name": "Dress Shoe",
+    "slug": "mens-shoe",
+    "desc": "A formal leather shoe worn by men for business meetings, weddings, or other special events."
+  },
+  {
+    "char": "👟",
+    "name": "Sneaker",
+    "slug": "running-shoe",
+    "desc": "A comfortable athletic shoe designed for sports, exercise, and casual everyday wear."
+  },
+  {
+    "char": "🥾",
+    "name": "Hiking Boot",
+    "slug": "hiking-shoe",
+    "desc": "A sturdy, high-topped boot designed for walking long distances over rough outdoor terrain."
+  },
+  {
+    "char": "👠",
+    "name": "High-Heeled Shoe",
+    "slug": "stiletto",
+    "desc": "A women's shoe with a tall, thin heel, typically worn for formal occasions or fashion."
+  },
+  {
+    "char": "👡",
+    "name": "Sandal",
+    "slug": "summer-shoe",
+    "desc": "Open-toed footwear with straps, designed to be worn in warm weather or at the beach."
+  },
+  {
+    "char": "🩰",
+    "name": "Ballet Shoes",
+    "slug": "pointe-shoes",
+    "desc": "Specialized pink shoes with ribbons, worn by ballet dancers for performing on their toes."
+  },
+  {
+    "char": "👢",
+    "name": "Woman’s Boot",
+    "slug": "long-boot",
+    "desc": "A tall leather boot worn by women for style and warmth during the autumn and winter months."
+  },
+  {
+    "char": "👑",
+    "name": "Crown",
+    "slug": "royal-crown",
+    "desc": "A gold headpiece adorned with jewels, worn by a monarch as a symbol of sovereignty and power."
+  },
+  {
+    "char": "👒",
+    "name": "Woman’s Hat",
+    "slug": "sun-hat",
+    "desc": "A wide-brimmed hat often decorated with a ribbon, worn for protection from the sun."
+  },
+  {
+    "char": "🎓",
+    "name": "Graduation Cap",
+    "slug": "mortarboard",
+    "desc": "A square black hat with a tassel, worn by students during a commencement ceremony."
+  },
+  {
+    "char": "🧢",
+    "name": "Billed Cap",
+    "slug": "baseball-cap",
+    "desc": "A casual hat with a rounded crown and a stiff bill in front to shade the eyes."
+  },
+  {
+    "char": "💄",
+    "name": "Lipstick",
+    "slug": "makeup",
+    "desc": "A cosmetic product used to color the lips, representing beauty, glamour, and preparation."
+  }
+]

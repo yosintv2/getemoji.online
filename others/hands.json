@@ -1,0 +1,266 @@
+[
+  {
+    "char": "👋",
+    "name": "Waving Hand Emoji",
+    "slug": "waving-hand-emoji",
+    "desc": "A hand waving used for greetings or goodbyes."
+  },
+  {
+    "char": "🤚",
+    "name": "Raised Back of Hand Emoji",
+    "slug": "raised-back-of-hand-emoji",
+    "desc": "A raised hand showing the back side, often used for a stop gesture."
+  },
+  {
+    "char": "🖐️",
+    "name": "Hand with Fingers Splayed Emoji",
+    "slug": "hand-with-fingers-splayed-emoji",
+    "desc": "A hand held up with all five fingers spread apart."
+  },
+  {
+    "char": "✋",
+    "name": "Raised Hand Emoji",
+    "slug": "raised-hand-emoji",
+    "desc": "A palm-forward raised hand used as a stop signal or high five."
+  },
+  {
+    "char": "🖖",
+    "name": "Vulcan Salute Emoji",
+    "slug": "vulcan-salute-emoji",
+    "desc": "A finger-splitting salute popularized by Star Trek."
+  },
+  {
+    "char": "🫱",
+    "name": "Rightwards Hand Emoji",
+    "slug": "rightwards-hand-emoji",
+    "desc": "A hand reaching out to the right, often used to offer a handshake."
+  },
+  {
+    "char": "🫲",
+    "name": "Leftwards Hand Emoji",
+    "slug": "leftwards-hand-emoji",
+    "desc": "A hand reaching out to the left side."
+  },
+  {
+    "char": "🫳",
+    "name": "Palm Down Hand Emoji",
+    "slug": "palm-down-hand-emoji",
+    "desc": "A hand with the palm facing downwards, indicating dropping or dismissive motion."
+  },
+  {
+    "char": "🫴",
+    "name": "Palm Up Hand Emoji",
+    "slug": "palm-up-hand-emoji",
+    "desc": "A hand with the palm facing upwards, used for beckoning or requesting."
+  },
+  {
+    "char": "👌",
+    "name": "OK Hand Emoji",
+    "slug": "ok-hand-emoji",
+    "desc": "A gesture forming a circle with the thumb and index finger to show approval."
+  },
+  {
+    "char": "🤌",
+    "name": "Pinched Fingers Emoji",
+    "slug": "pinched-fingers-emoji",
+    "desc": "Often called the Italian hand gesture, used to emphasize a point or question."
+  },
+  {
+    "char": "🤏",
+    "name": "Pinching Hand Emoji",
+    "slug": "pinching-hand-emoji",
+    "desc": "A hand showing a small gap between fingers to represent a tiny amount."
+  },
+  {
+    "char": "✌️",
+    "name": "Victory Hand Emoji",
+    "slug": "victory-hand-emoji",
+    "desc": "The V-sign gesture representing peace or victory."
+  },
+  {
+    "char": "🤞",
+    "name": "Crossed Fingers Emoji",
+    "slug": "crossed-fingers-emoji",
+    "desc": "Index and middle fingers crossed to wish for good luck."
+  },
+  {
+    "char": "🫰",
+    "name": "Hand with Index Finger and Thumb Crossed Emoji",
+    "slug": "hand-with-crossed-fingers-emoji",
+    "desc": "The finger heart gesture or a sign representing money or snapping."
+  },
+  {
+    "char": "🤟",
+    "name": "Love You Gesture Emoji",
+    "slug": "love-you-gesture-emoji",
+    "desc": "The American Sign Language sign for I Love You."
+  },
+  {
+    "char": "🤘",
+    "name": "Sign of the Horns Emoji",
+    "slug": "sign-of-the-horns-emoji",
+    "desc": "A hand gesture with pinky and index fingers raised, used in rock music."
+  },
+  {
+    "char": "🤙",
+    "name": "Call Me Hand Emoji",
+    "slug": "call-me-hand-emoji",
+    "desc": "A hand with the thumb and pinky extended to look like a phone."
+  },
+  {
+    "char": "👈",
+    "name": "Backhand Index Pointing Left Emoji",
+    "slug": "pointing-left-emoji",
+    "desc": "A hand with the index finger pointing to the left."
+  },
+  {
+    "char": "👉",
+    "name": "Backhand Index Pointing Right Emoji",
+    "slug": "pointing-right-emoji",
+    "desc": "A hand with the index finger pointing to the right."
+  },
+  {
+    "char": "👆",
+    "name": "Backhand Index Pointing Up Emoji",
+    "slug": "pointing-up-emoji",
+    "desc": "The back of a hand with the index finger pointing upwards."
+  },
+  {
+    "char": "👇",
+    "name": "Backhand Index Pointing Down Emoji",
+    "slug": "pointing-down-emoji",
+    "desc": "A hand pointing down, often used to refer to a link or message below."
+  },
+  {
+    "char": "☝️",
+    "name": "Index Pointing Up Emoji",
+    "slug": "index-pointing-up-emoji",
+    "desc": "A front-facing hand with the index finger pointing up."
+  },
+  {
+    "char": "🫵",
+    "name": "Index Pointing at the Viewer Emoji",
+    "slug": "pointing-at-viewer-emoji",
+    "desc": "A hand pointing directly forward at the person looking at it."
+  },
+  {
+    "char": "👍",
+    "name": "Thumbs Up Emoji",
+    "slug": "thumbs-up-emoji",
+    "desc": "The classic gesture of approval or agreement."
+  },
+  {
+    "char": "👎",
+    "name": "Thumbs Down Emoji",
+    "slug": "thumbs-down-emoji",
+    "desc": "A gesture showing disapproval or dislike."
+  },
+  {
+    "char": "✊",
+    "name": "Raised Fist Emoji",
+    "slug": "raised-fist-emoji",
+    "desc": "A clenched fist held high, symbolizing solidarity or power."
+  },
+  {
+    "char": "👊",
+    "name": "Oncoming Fist Emoji",
+    "slug": "oncoming-fist-emoji",
+    "desc": "A fist pointing forward, used for a punch or a fist bump."
+  },
+  {
+    "char": "🤛",
+    "name": "Left-Facing Fist Emoji",
+    "slug": "left-facing-fist-emoji",
+    "desc": "A fist facing to the left side."
+  },
+  {
+    "char": "🤜",
+    "name": "Right-Facing Fist Emoji",
+    "slug": "right-facing-fist-emoji",
+    "desc": "A fist facing to the right side."
+  },
+  {
+    "char": "👏",
+    "name": "Clapping Hands Emoji",
+    "slug": "clapping-hands-emoji",
+    "desc": "Two hands clapping to show applause or celebration."
+  },
+  {
+    "char": "🙌",
+    "name": "Raising Hands Emoji",
+    "slug": "raising-hands-emoji",
+    "desc": "Two hands raised in celebration or joy."
+  },
+  {
+    "char": "🫶",
+    "name": "Heart Hands Emoji",
+    "slug": "heart-hands-emoji",
+    "desc": "Two hands forming a heart shape to show love or support."
+  },
+  {
+    "char": "👐",
+    "name": "Open Hands Emoji",
+    "slug": "open-hands-emoji",
+    "desc": "Two open hands, representing openness or a hug."
+  },
+  {
+    "char": "🤲",
+    "name": "Palms Up Together Emoji",
+    "slug": "palms-up-together-emoji",
+    "desc": "Two hands held side-by-side with palms facing up."
+  },
+  {
+    "char": "🤝",
+    "name": "Handshake Emoji",
+    "slug": "handshake-emoji",
+    "desc": "A gesture of agreement or greeting between two people."
+  },
+  {
+    "char": "🙏",
+    "name": "Folded Hands Emoji",
+    "slug": "folded-hands-emoji",
+    "desc": "Two hands pressed together, representing prayer or thank you."
+  },
+  {
+    "char": "✍️",
+    "name": "Writing Hand Emoji",
+    "slug": "writing-hand-emoji",
+    "desc": "A hand holding a pen or pencil as if writing."
+  },
+  {
+    "char": "💅",
+    "name": "Nail Polish Emoji",
+    "slug": "nail-polish-emoji",
+    "desc": "A hand having its fingernails painted, used for beauty or sass."
+  },
+  {
+    "char": "🤳",
+    "name": "Selfie Emoji",
+    "slug": "selfie-emoji",
+    "desc": "An arm holding a phone to take a self-portrait."
+  },
+  {
+    "char": "💪",
+    "name": "Flexed Biceps Emoji",
+    "slug": "flexed-biceps-emoji",
+    "desc": "An arm flexing its muscle to show strength or fitness."
+  },
+  {
+    "char": "🦾",
+    "name": "Mechanical Arm Emoji",
+    "slug": "mechanical-arm-emoji",
+    "desc": "A prosthetic or robotic arm representing technology."
+  },
+  {
+    "char": "🖕",
+    "name": "Middle Finger Emoji",
+    "slug": "middle-finger-emoji",
+    "desc": "An offensive hand gesture used to show defiance."
+  },
+  {
+    "char": "🧤",
+    "name": "Gloves Emoji",
+    "slug": "gloves-emoji",
+    "desc": "A pair of gloves for keeping hands warm or protected."
+  }
+]

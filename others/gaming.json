@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🎮",
+    "name": "Video Game Controller Gaming",
+    "slug": "video-game-controller-console-gaming",
+    "desc": "The universal symbol for console play and interactive entertainment. Perfect for game reviews, playstation/xbox updates, and general hobbyist content."
+  },
+  {
+    "char": "🕹️",
+    "name": "Retro Joystick Arcade Gaming",
+    "slug": "retro-joystick-classic-arcade-gaming",
+    "desc": "Represents classic titles and the golden age of arcades. High SEO value for retro gaming communities, emulator discussions, and nostalgia-driven posts."
+  },
+  {
+    "char": "⌨️",
+    "name": "Mechanical Keyboard PC Gaming",
+    "slug": "mechanical-keyboard-computer-pc-gaming",
+    "desc": "The primary icon for the 'master race' of computer players. Ideal for setup tours, competitive play, and hardware enthusiast content."
+  },
+  {
+    "char": "🖱️",
+    "name": "Computer Mouse Esports Gaming",
+    "slug": "computer-mouse-precision-esports-gaming",
+    "desc": "Symbolizes precision and competitive skill in FPS and MOBA titles. Targeted at pro-players, peripherals reviews, and aim-training tips."
+  },
+  {
+    "char": "🎧",
+    "name": "Headset Audio Communication Gaming",
+    "slug": "headset-audio-streaming-discord-gaming",
+    "desc": "Represents team communication and immersive sound. Essential for streaming gear guides, multiplayer coordination, and Discord community topics."
+  },
+  {
+    "char": "👾",
+    "name": "Alien Pixel Monster Retro Gaming",
+    "slug": "alien-pixel-monster-8bit-gaming",
+    "desc": "A tribute to 8-bit graphics and early software design. Great for indie game development, pixel art, and vintage software aesthetics."
+  },
+  {
+    "char": "🏆",
+    "name": "Tournament Trophy Esports Gaming",
+    "slug": "tournament-trophy-championship-esports-gaming",
+    "desc": "The symbol for competitive wins and league championships. Perfect for tournament announcements, rank-up celebrations, and esports news."
+  },
+  {
+    "char": "📱",
+    "name": "Mobile Smartphone Portable Gaming",
+    "slug": "smartphone-mobile-app-portable-gaming",
+    "desc": "Highlights the massive mobile market and handheld play. Useful for app store trends, casual games, and high-performance gaming phones."
+  },
+  {
+    "char": "🖥️",
+    "name": "Desktop Monitor Workstation Gaming",
+    "slug": "desktop-monitor-high-refresh-gaming",
+    "desc": "Represents high-refresh-rate displays and immersive visuals. Often used for 'battlestation' showcases and graphics card benchmarks."
+  },
+  {
+    "char": "🧨",
+    "name": "Explosive TNT Action Gaming",
+    "slug": "explosive-tnt-action-sandbox-gaming",
+    "desc": "A metaphor for action-packed gameplay or sandbox destruction. Popular in Minecraft communities and tactical shooter discussions."
+  },
+  {
+    "char": "⚔️",
+    "name": "Crossed Swords RPG Gaming",
+    "slug": "crossed-swords-fantasy-rpg-gaming",
+    "desc": "The icon for fantasy adventures, MMORPGs, and combat mechanics. Ideal for lore discussions, character builds, and quest logs."
+  },
+  {
+    "char": "📡",
+    "name": "Streaming Signal Live Gaming",
+    "slug": "streaming-signal-twitch-live-gaming",
+    "desc": "Represents broadcasting live play to an audience. Essential for Twitch and YouTube creators, stream schedules, and online connectivity."
+  }
+]

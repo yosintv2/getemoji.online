@@ -1,0 +1,512 @@
+[
+  {
+    "char": "🎃",
+    "name": "Jack-O-Lantern",
+    "slug": "jack-o-lantern",
+    "desc": "A carved pumpkin used for Halloween festivities."
+  },
+  {
+    "char": "🎄",
+    "name": "Christmas Tree",
+    "slug": "christmas-tree",
+    "desc": "A classic evergreen tree decorated with ornaments and a star for Christmas."
+  },
+  {
+    "char": "🎆",
+    "name": "Fireworks",
+    "slug": "fireworks",
+    "desc": "Exploding colorful lights used for New Year or holidays."
+  },
+  {
+    "char": "🎇",
+    "name": "Sparkler",
+    "slug": "sparkler",
+    "desc": "A handheld firework that emits sparks."
+  },
+  {
+    "char": "🧨",
+    "name": "Firecracker",
+    "slug": "firecracker",
+    "desc": "A red cylinder used to make a loud noise during celebrations."
+  },
+  {
+    "char": "✨",
+    "name": "Sparkles",
+    "slug": "sparkles",
+    "desc": "Twinkling light symbols used to represent holiday magic and tree lights."
+  },
+  {
+    "char": "🎈",
+    "name": "Balloon",
+    "slug": "balloon",
+    "desc": "A red party balloon on a string."
+  },
+  {
+    "char": "🎉",
+    "name": "Party Popper",
+    "slug": "party-popper",
+    "desc": "A cylinder that shoots out confetti and streamers."
+  },
+  {
+    "char": "🎊",
+    "name": "Confetti Ball",
+    "slug": "confetti-ball",
+    "desc": "A golden ball that has burst open with confetti."
+  },
+  {
+    "char": "🎋",
+    "name": "Tanabata Tree",
+    "slug": "tanabata-tree",
+    "desc": "A bamboo branch used for the Japanese Star Festival."
+  },
+  {
+    "char": "🎍",
+    "name": "Pine Decoration",
+    "slug": "pine-decoration",
+    "desc": "A Japanese Kadomatsu decoration for the New Year."
+  },
+  {
+    "char": "🎎",
+    "name": "Japanese Dolls",
+    "slug": "japanese-dolls",
+    "desc": "Traditional dolls used for Hinamatsuri (Girl's Day)."
+  },
+  {
+    "char": "🎏",
+    "name": "Carp Streamer",
+    "slug": "carp-streamer",
+    "desc": "Koinobori windsocks flown for Children's Day in Japan."
+  },
+  {
+    "char": "🎐",
+    "name": "Wind Chime",
+    "slug": "wind-chime",
+    "desc": "A glass bell that rings in the breeze."
+  },
+  {
+    "char": "🎑",
+    "name": "Moon Viewing Ceremony",
+    "slug": "moon-viewing-ceremony",
+    "desc": "Moon Viewing Ceremony emoji - a moon viewing ceremony representing sports, events, and hobbies."
+  },
+  {
+    "char": "🧧",
+    "name": "Red Envelope",
+    "slug": "red-envelope",
+    "desc": "A gift of money given during Lunar New Year."
+  },
+  {
+    "char": "🎀",
+    "name": "Ribbon",
+    "slug": "ribbon",
+    "desc": "A pink or red bow often used to decorate Christmas trees and wreaths."
+  },
+  {
+    "char": "🎁",
+    "name": "Wrapped Gift",
+    "slug": "wrapped-gift",
+    "desc": "A present inside a box with a bow."
+  },
+  {
+    "char": "🎗️",
+    "name": "Reminder Ribbon",
+    "slug": "reminder-ribbon",
+    "desc": "A yellow ribbon worn for awareness or support."
+  },
+  {
+    "char": "🎟️",
+    "name": "Admission Tickets",
+    "slug": "admission-tickets",
+    "desc": "Admission Tickets emoji - a admission tickets representing sports, events, and hobbies."
+  },
+  {
+    "char": "🎫",
+    "name": "Ticket",
+    "slug": "ticket",
+    "desc": "A single ticket for entrance to a venue."
+  },
+  {
+    "char": "🎖️",
+    "name": "Military Medal",
+    "slug": "military-medal",
+    "desc": "An award for bravery or service."
+  },
+  {
+    "char": "🏆",
+    "name": "Trophy",
+    "slug": "trophy",
+    "desc": "A gold cup given to the winner of a competition."
+  },
+  {
+    "char": "🏅",
+    "name": "Sports Medal",
+    "slug": "sports-medal",
+    "desc": "A gold medal worn around the neck."
+  },
+  {
+    "char": "🥇",
+    "name": "1st Place Medal",
+    "slug": "1st-place-medal",
+    "desc": "1st Place Medal emoji - a 1st place medal representing sports, events, and hobbies."
+  },
+  {
+    "char": "🥈",
+    "name": "2nd Place Medal",
+    "slug": "2nd-place-medal",
+    "desc": "2nd Place Medal emoji - a 2nd place medal representing sports, events, and hobbies."
+  },
+  {
+    "char": "🥉",
+    "name": "3rd Place Medal",
+    "slug": "3rd-place-medal",
+    "desc": "3rd Place Medal emoji - a 3rd place medal representing sports, events, and hobbies."
+  },
+  {
+    "char": "⚽",
+    "name": "Soccer Ball",
+    "slug": "soccer-ball",
+    "desc": "A black and white ball used in football."
+  },
+  {
+    "char": "⚾",
+    "name": "Baseball",
+    "slug": "baseball",
+    "desc": "A white ball with red stitching."
+  },
+  {
+    "char": "🥎",
+    "name": "Softball",
+    "slug": "softball",
+    "desc": "A neon yellow ball used in softball."
+  },
+  {
+    "char": "🏀",
+    "name": "Basketball",
+    "slug": "basketball",
+    "desc": "An orange textured ball used for hoops."
+  },
+  {
+    "char": "🏐",
+    "name": "Volleyball",
+    "slug": "volleyball",
+    "desc": "A white, yellow, and blue ball for court play."
+  },
+  {
+    "char": "🏈",
+    "name": "American Football",
+    "slug": "american-football",
+    "desc": "A brown oval ball with white laces."
+  },
+  {
+    "char": "🏉",
+    "name": "Rugby Football",
+    "slug": "rugby-football",
+    "desc": "Rugby Football emoji - a rugby football representing sports, events, and hobbies."
+  },
+  {
+    "char": "🎾",
+    "name": "Tennis",
+    "slug": "tennis",
+    "desc": "Tennis emoji - a tennis representing sports, events, and hobbies."
+  },
+  {
+    "char": "🥏",
+    "name": "Flying Disc",
+    "slug": "flying-disc",
+    "desc": "Flying Disc emoji - a flying disc representing sports, events, and hobbies."
+  },
+  {
+    "char": "🎳",
+    "name": "Bowling",
+    "slug": "bowling",
+    "desc": "A bowling ball and pins."
+  },
+  {
+    "char": "🏏",
+    "name": "Cricket Game",
+    "slug": "cricket-game",
+    "desc": "Cricket Game emoji - a cricket game representing sports, events, and hobbies."
+  },
+  {
+    "char": "🏑",
+    "name": "Field Hockey",
+    "slug": "field-hockey",
+    "desc": "A curved stick and a ball for field play."
+  },
+  {
+    "char": "🏒",
+    "name": "Ice Hockey",
+    "slug": "ice-hockey",
+    "desc": "A stick and a puck for play on ice."
+  },
+  {
+    "char": "🥍",
+    "name": "Lacrosse",
+    "slug": "lacrosse",
+    "desc": "A stick with a mesh pocket and a ball."
+  },
+  {
+    "char": "🏓",
+    "name": "Ping Pong",
+    "slug": "ping-pong",
+    "desc": "Ping Pong emoji - a ping pong representing sports, events, and hobbies."
+  },
+  {
+    "char": "🏸",
+    "name": "Badminton",
+    "slug": "badminton",
+    "desc": "A racket and a shuttlecock (birdie)."
+  },
+  {
+    "char": "🥊",
+    "name": "Boxing Glove",
+    "slug": "boxing-glove",
+    "desc": "A red padded glove for combat sports."
+  },
+  {
+    "char": "🥋",
+    "name": "Martial Arts Uniform",
+    "slug": "martial-arts-uniform",
+    "desc": "Martial Arts Uniform emoji - a martial arts uniform representing sports, events, and hobbies."
+  },
+  {
+    "char": "🥅",
+    "name": "Goal Net",
+    "slug": "goal-net",
+    "desc": "Used for scoring in soccer, hockey, or lacrosse."
+  },
+  {
+    "char": "⛳",
+    "name": "Flag In Hole",
+    "slug": "flag-in-hole",
+    "desc": "Flag In Hole emoji - a flag in hole representing sports, events, and hobbies."
+  },
+  {
+    "char": "⛸️",
+    "name": "Ice Skate",
+    "slug": "ice-skate",
+    "desc": "A boot with a metal blade for skating."
+  },
+  {
+    "char": "🎣",
+    "name": "Fishing Pole",
+    "slug": "fishing-pole",
+    "desc": "Fishing Pole emoji - a fishing pole representing sports, events, and hobbies."
+  },
+  {
+    "char": "🤿",
+    "name": "Diving Mask",
+    "slug": "diving-mask",
+    "desc": "Used for snorkeling or scuba diving."
+  },
+  {
+    "char": "🎽",
+    "name": "Running Shirt",
+    "slug": "running-shirt",
+    "desc": "A tank top often worn by track athletes."
+  },
+  {
+    "char": "🎿",
+    "name": "Skis",
+    "slug": "skis",
+    "desc": "A pair of skis and poles for downhill skiing."
+  },
+  {
+    "char": "🛷",
+    "name": "Sled",
+    "slug": "sled",
+    "desc": "A wooden sled used for sliding on snow."
+  },
+  {
+    "char": "🥌",
+    "name": "Curling Stone",
+    "slug": "curling-stone",
+    "desc": "A heavy granite stone with a handle for curling."
+  },
+  {
+    "char": "🎯",
+    "name": "Bullseye",
+    "slug": "bullseye",
+    "desc": "Bullseye emoji - a bullseye representing sports, events, and hobbies."
+  },
+  {
+    "char": "🪀",
+    "name": "Yo-Yo",
+    "slug": "yo-yo",
+    "desc": "A classic toy on a string."
+  },
+  {
+    "char": "🪁",
+    "name": "Kite",
+    "slug": "kite",
+    "desc": "A colorful diamond kite flying in the wind."
+  },
+  {
+    "char": "🔫",
+    "name": "Water Pistol",
+    "slug": "water-pistol",
+    "desc": "Water Pistol emoji - a water pistol representing sports, events, and hobbies."
+  },
+  {
+    "char": "🎱",
+    "name": "Pool 8 Ball",
+    "slug": "pool-8-ball",
+    "desc": "Pool 8 Ball emoji - a pool 8 ball representing sports, events, and hobbies."
+  },
+  {
+    "char": "🔮",
+    "name": "Crystal Ball",
+    "slug": "crystal-ball",
+    "desc": "A glass sphere used by fortune tellers and clairvoyants to predict the future or look into the spiritual realm."
+  },
+  {
+    "char": "🪄",
+    "name": "Magic Wand",
+    "slug": "magic-wand",
+    "desc": "A black wand with white tips for performing magic."
+  },
+  {
+    "char": "🎮",
+    "name": "Video Game",
+    "slug": "video-game",
+    "desc": "A controller for a gaming console."
+  },
+  {
+    "char": "🕹️",
+    "name": "Joystick",
+    "slug": "joystick",
+    "desc": "An old-school input device for arcade games."
+  },
+  {
+    "char": "🎰",
+    "name": "Slot Machine",
+    "slug": "slot-machine",
+    "desc": "A gambling machine with spinning reels."
+  },
+  {
+    "char": "🎲",
+    "name": "Game Die",
+    "slug": "game-die",
+    "desc": "Game Die emoji - a game die representing sports, events, and hobbies."
+  },
+  {
+    "char": "🧩",
+    "name": "Puzzle Piece",
+    "slug": "puzzle-piece",
+    "desc": "Puzzle Piece emoji - a puzzle piece representing sports, events, and hobbies."
+  },
+  {
+    "char": "🧸",
+    "name": "Teddy Bear",
+    "slug": "teddy-bear",
+    "desc": "A soft plush bear toy."
+  },
+  {
+    "char": "🪅",
+    "name": "Piñata",
+    "slug": "pinata",
+    "desc": "A colorful donkey-shaped container filled with candy."
+  },
+  {
+    "char": "🪩",
+    "name": "Mirror Ball",
+    "slug": "mirror-ball",
+    "desc": "Mirror Ball emoji - a mirror ball representing sports, events, and hobbies."
+  },
+  {
+    "char": "🪆",
+    "name": "Nesting Dolls",
+    "slug": "nesting-dolls",
+    "desc": "A set of wooden dolls of decreasing size placed one inside another, originating from Russian culture."
+  },
+  {
+    "char": "♠️",
+    "name": "Spade Suit",
+    "slug": "spade-suit",
+    "desc": "Spade Suit emoji - a spade suit representing sports, events, and hobbies."
+  },
+  {
+    "char": "♥️",
+    "name": "Heart Suit",
+    "slug": "heart-suit",
+    "desc": "Heart Suit emoji - a heart suit representing sports, events, and hobbies."
+  },
+  {
+    "char": "♦️",
+    "name": "Diamond Suit",
+    "slug": "diamond-suit",
+    "desc": "Diamond Suit emoji - a diamond suit representing sports, events, and hobbies."
+  },
+  {
+    "char": "♣️",
+    "name": "Club Suit",
+    "slug": "club-suit",
+    "desc": "Club Suit emoji - a club suit representing sports, events, and hobbies."
+  },
+  {
+    "char": "♟️",
+    "name": "Chess Pawn",
+    "slug": "chess-pawn",
+    "desc": "A standard piece from a chess set."
+  },
+  {
+    "char": "🃏",
+    "name": "Joker",
+    "slug": "joker",
+    "desc": "The wild card in a deck of playing cards."
+  },
+  {
+    "char": "🀄",
+    "name": "Mahjong Red Dragon",
+    "slug": "mahjong-red-dragon",
+    "desc": "Mahjong Red Dragon emoji - a mahjong red dragon representing sports, events, and hobbies."
+  },
+  {
+    "char": "🎴",
+    "name": "Flower Playing Cards",
+    "slug": "flower-playing-cards",
+    "desc": "Flower Playing Cards emoji - a flower playing cards representing sports, events, and hobbies."
+  },
+  {
+    "char": "🎭",
+    "name": "Performing Arts",
+    "slug": "performing-arts",
+    "desc": "Performing Arts emoji - a performing arts representing sports, events, and hobbies."
+  },
+  {
+    "char": "🖼️",
+    "name": "Framed Picture",
+    "slug": "framed-picture",
+    "desc": "Framed Picture emoji - a framed picture representing sports, events, and hobbies."
+  },
+  {
+    "char": "🎨",
+    "name": "Artist Palette",
+    "slug": "artist-palette",
+    "desc": "Artist Palette emoji - a artist palette representing sports, events, and hobbies."
+  },
+  {
+    "char": "🧵",
+    "name": "Thread",
+    "slug": "thread",
+    "desc": "Thread emoji - a thread representing sports, events, and hobbies."
+  },
+  {
+    "char": "🪡",
+    "name": "Sewing Needle",
+    "slug": "sewing-needle",
+    "desc": "Sewing Needle emoji - a sewing needle representing sports, events, and hobbies."
+  },
+  {
+    "char": "🧶",
+    "name": "Yarn",
+    "slug": "yarn",
+    "desc": "Sometimes used to represent DIY ornaments or cozy tree garlands."
+  },
+  {
+    "char": "🪢",
+    "name": "Knot",
+    "slug": "knot",
+    "desc": "A rope tied into a complex knot."
+  }
+]

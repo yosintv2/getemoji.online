@@ -1,0 +1,1622 @@
+[
+  {
+    "char": "🏁",
+    "name": "Chequered Flag",
+    "slug": "chequered-flag",
+    "desc": "A flag with black and white squares, used to signal the end of a race."
+  },
+  {
+    "char": "🚩",
+    "name": "Triangular Flag",
+    "slug": "triangular-flag",
+    "desc": "A red triangular flag often used to mark a location or alert."
+  },
+  {
+    "char": "🎌",
+    "name": "Crossed Flags",
+    "slug": "crossed-flags",
+    "desc": "Two Japanese flags crossed at the base."
+  },
+  {
+    "char": "🏴",
+    "name": "Black Flag",
+    "slug": "black-flag",
+    "desc": "A solid black flag, often used to signify protest or mourning."
+  },
+  {
+    "char": "🏳️",
+    "name": "White Flag",
+    "slug": "white-flag",
+    "desc": "A solid white flag used as a symbol of surrender or truce."
+  },
+  {
+    "char": "🏳️‍🌈",
+    "name": "Rainbow Flag",
+    "slug": "rainbow-flag",
+    "desc": "The pride flag representing the LGBTQ+ community."
+  },
+  {
+    "char": "🏳️‍⚧️",
+    "name": "Transgender Flag",
+    "slug": "transgender-flag",
+    "desc": "A flag with light blue, pink, and white stripes."
+  },
+  {
+    "char": "🏴‍☠️",
+    "name": "Pirate Flag",
+    "slug": "pirate-flag",
+    "desc": "A black flag with a skull and crossbones (Jolly Roger)."
+  },
+  {
+    "char": "🇦🇨",
+    "name": "Flag Ascension Island",
+    "slug": "flag-ascension-island",
+    "desc": "Flag Ascension Island emoji - the flag of flag Ascension Island."
+  },
+  {
+    "char": "🇦🇩",
+    "name": "Flag Andorra",
+    "slug": "flag-andorra",
+    "desc": "Flag Andorra emoji - the flag of flag Andorra."
+  },
+  {
+    "char": "🇦🇪",
+    "name": "Flag United Arab Emirates",
+    "slug": "flag-united-arab-emirates",
+    "desc": "Flag United Arab Emirates emoji - the flag of flag United Arab Emirates."
+  },
+  {
+    "char": "🇦🇫",
+    "name": "Flag Afghanistan",
+    "slug": "flag-afghanistan",
+    "desc": "Flag Afghanistan emoji - the flag of flag Afghanistan."
+  },
+  {
+    "char": "🇦🇬",
+    "name": "Flag Antigua & Barbuda",
+    "slug": "flag-antigua-barbuda",
+    "desc": "Flag Antigua & Barbuda emoji - the flag of flag Antigua & Barbuda."
+  },
+  {
+    "char": "🇦🇮",
+    "name": "Flag Anguilla",
+    "slug": "flag-anguilla",
+    "desc": "Flag Anguilla emoji - the flag of flag Anguilla."
+  },
+  {
+    "char": "🇦🇱",
+    "name": "Flag Albania",
+    "slug": "flag-albania",
+    "desc": "Flag Albania emoji - the flag of flag Albania."
+  },
+  {
+    "char": "🇦🇲",
+    "name": "Flag Armenia",
+    "slug": "flag-armenia",
+    "desc": "Flag Armenia emoji - the flag of flag Armenia."
+  },
+  {
+    "char": "🇦🇴",
+    "name": "Flag Angola",
+    "slug": "flag-angola",
+    "desc": "Flag Angola emoji - the flag of flag Angola."
+  },
+  {
+    "char": "🇦🇶",
+    "name": "Flag Antarctica",
+    "slug": "flag-antarctica",
+    "desc": "Flag Antarctica emoji - the flag of flag Antarctica."
+  },
+  {
+    "char": "🇦🇷",
+    "name": "Flag Argentina",
+    "slug": "flag-argentina",
+    "desc": "Flag Argentina emoji - the flag of flag Argentina."
+  },
+  {
+    "char": "🇦🇸",
+    "name": "Flag American Samoa",
+    "slug": "flag-american-samoa",
+    "desc": "Flag American Samoa emoji - the flag of flag American Samoa."
+  },
+  {
+    "char": "🇦🇹",
+    "name": "Flag Austria",
+    "slug": "flag-austria",
+    "desc": "Flag Austria emoji - the flag of flag Austria."
+  },
+  {
+    "char": "🇦🇺",
+    "name": "Flag Australia",
+    "slug": "flag-australia",
+    "desc": "Flag Australia emoji - the flag of flag Australia."
+  },
+  {
+    "char": "🇦🇼",
+    "name": "Flag Aruba",
+    "slug": "flag-aruba",
+    "desc": "Flag Aruba emoji - the flag of flag Aruba."
+  },
+  {
+    "char": "🇦🇽",
+    "name": "Flag Åland Islands",
+    "slug": "flag-aland-islands",
+    "desc": "Flag Åland Islands emoji - the flag of flag Åland Islands."
+  },
+  {
+    "char": "🇦🇿",
+    "name": "Flag Azerbaijan",
+    "slug": "flag-azerbaijan",
+    "desc": "Flag Azerbaijan emoji - the flag of flag Azerbaijan."
+  },
+  {
+    "char": "🇧🇦",
+    "name": "Flag Bosnia & Herzegovina",
+    "slug": "flag-bosnia-herzegovina",
+    "desc": "Flag Bosnia & Herzegovina emoji - the flag of flag Bosnia & Herzegovina."
+  },
+  {
+    "char": "🇧🇧",
+    "name": "Flag Barbados",
+    "slug": "flag-barbados",
+    "desc": "Flag Barbados emoji - the flag of flag Barbados."
+  },
+  {
+    "char": "🇧🇩",
+    "name": "Flag Bangladesh",
+    "slug": "flag-bangladesh",
+    "desc": "Flag Bangladesh emoji - the flag of flag Bangladesh."
+  },
+  {
+    "char": "🇧🇪",
+    "name": "Flag Belgium",
+    "slug": "flag-belgium",
+    "desc": "Flag Belgium emoji - the flag of flag Belgium."
+  },
+  {
+    "char": "🇧🇫",
+    "name": "Flag Burkina Faso",
+    "slug": "flag-burkina-faso",
+    "desc": "Flag Burkina Faso emoji - the flag of flag Burkina Faso."
+  },
+  {
+    "char": "🇧🇬",
+    "name": "Flag Bulgaria",
+    "slug": "flag-bulgaria",
+    "desc": "Flag Bulgaria emoji - the flag of flag Bulgaria."
+  },
+  {
+    "char": "🇧🇭",
+    "name": "Flag Bahrain",
+    "slug": "flag-bahrain",
+    "desc": "Flag Bahrain emoji - the flag of flag Bahrain."
+  },
+  {
+    "char": "🇧🇮",
+    "name": "Flag Burundi",
+    "slug": "flag-burundi",
+    "desc": "Flag Burundi emoji - the flag of flag Burundi."
+  },
+  {
+    "char": "🇧🇯",
+    "name": "Flag Benin",
+    "slug": "flag-benin",
+    "desc": "Flag Benin emoji - the flag of flag Benin."
+  },
+  {
+    "char": "🇧🇱",
+    "name": "Flag St. Barthélemy",
+    "slug": "flag-st-barthelemy",
+    "desc": "Flag St. Barthélemy emoji - the flag of flag St. Barthélemy."
+  },
+  {
+    "char": "🇧🇲",
+    "name": "Flag Bermuda",
+    "slug": "flag-bermuda",
+    "desc": "Flag Bermuda emoji - the flag of flag Bermuda."
+  },
+  {
+    "char": "🇧🇳",
+    "name": "Flag Brunei",
+    "slug": "flag-brunei",
+    "desc": "Flag Brunei emoji - the flag of flag Brunei."
+  },
+  {
+    "char": "🇧🇴",
+    "name": "Flag Bolivia",
+    "slug": "flag-bolivia",
+    "desc": "Flag Bolivia emoji - the flag of flag Bolivia."
+  },
+  {
+    "char": "🇧🇶",
+    "name": "Flag Caribbean Netherlands",
+    "slug": "flag-caribbean-netherlands",
+    "desc": "Flag Caribbean Netherlands emoji - the flag of flag Caribbean Netherlands."
+  },
+  {
+    "char": "🇧🇷",
+    "name": "Flag Brazil",
+    "slug": "flag-brazil",
+    "desc": "Flag Brazil emoji - the flag of flag Brazil."
+  },
+  {
+    "char": "🇧🇸",
+    "name": "Flag Bahamas",
+    "slug": "flag-bahamas",
+    "desc": "Flag Bahamas emoji - the flag of flag Bahamas."
+  },
+  {
+    "char": "🇧🇹",
+    "name": "Flag Bhutan",
+    "slug": "flag-bhutan",
+    "desc": "Flag Bhutan emoji - the flag of flag Bhutan."
+  },
+  {
+    "char": "🇧🇻",
+    "name": "Flag Bouvet Island",
+    "slug": "flag-bouvet-island",
+    "desc": "Flag Bouvet Island emoji - the flag of flag Bouvet Island."
+  },
+  {
+    "char": "🇧🇼",
+    "name": "Flag Botswana",
+    "slug": "flag-botswana",
+    "desc": "Flag Botswana emoji - the flag of flag Botswana."
+  },
+  {
+    "char": "🇧🇾",
+    "name": "Flag Belarus",
+    "slug": "flag-belarus",
+    "desc": "Flag Belarus emoji - the flag of flag Belarus."
+  },
+  {
+    "char": "🇧🇿",
+    "name": "Flag Belize",
+    "slug": "flag-belize",
+    "desc": "Flag Belize emoji - the flag of flag Belize."
+  },
+  {
+    "char": "🇨🇦",
+    "name": "Flag Canada",
+    "slug": "flag-canada",
+    "desc": "Flag Canada emoji - the flag of flag Canada."
+  },
+  {
+    "char": "🇨🇨",
+    "name": "Flag Cocos (Keeling) Islands",
+    "slug": "flag-cocos-islands",
+    "desc": "Flag Cocos (Keeling) Islands emoji - the flag of flag Cocos (Keeling) Islands."
+  },
+  {
+    "char": "🇨🇩",
+    "name": "Flag Congo - Kinshasa",
+    "slug": "flag-congo-kinshasa",
+    "desc": "Flag Congo - Kinshasa emoji - the flag of flag Congo - Kinshasa."
+  },
+  {
+    "char": "🇨🇫",
+    "name": "Flag Central African Republic",
+    "slug": "flag-central-african-republic",
+    "desc": "Flag Central African Republic emoji - the flag of flag Central African Republic."
+  },
+  {
+    "char": "🇨🇬",
+    "name": "Flag Congo - Brazzaville",
+    "slug": "flag-congo-brazzaville",
+    "desc": "Flag Congo - Brazzaville emoji - the flag of flag Congo - Brazzaville."
+  },
+  {
+    "char": "🇨🇭",
+    "name": "Flag Switzerland",
+    "slug": "flag-switzerland",
+    "desc": "Flag Switzerland emoji - the flag of flag Switzerland."
+  },
+  {
+    "char": "🇨🇮",
+    "name": "Flag Côte D’Ivoire",
+    "slug": "flag-cote-d-ivoire",
+    "desc": "Flag Côte D’Ivoire emoji - the flag of flag Côte d’Ivoire."
+  },
+  {
+    "char": "🇨🇰",
+    "name": "Flag Cook Islands",
+    "slug": "flag-cook-islands",
+    "desc": "Flag Cook Islands emoji - the flag of flag Cook Islands."
+  },
+  {
+    "char": "🇨🇱",
+    "name": "Flag Chile",
+    "slug": "flag-chile",
+    "desc": "Flag Chile emoji - the flag of flag Chile."
+  },
+  {
+    "char": "🇨🇲",
+    "name": "Flag Cameroon",
+    "slug": "flag-cameroon",
+    "desc": "Flag Cameroon emoji - the flag of flag Cameroon."
+  },
+  {
+    "char": "🇨🇳",
+    "name": "Flag China",
+    "slug": "flag-china",
+    "desc": "Flag China emoji - the flag of flag China."
+  },
+  {
+    "char": "🇨🇴",
+    "name": "Flag Colombia",
+    "slug": "flag-colombia",
+    "desc": "Flag Colombia emoji - the flag of flag Colombia."
+  },
+  {
+    "char": "🇨🇵",
+    "name": "Flag Clipperton Island",
+    "slug": "flag-clipperton-island",
+    "desc": "Flag Clipperton Island emoji - the flag of flag Clipperton Island."
+  },
+  {
+    "char": "🇨🇶",
+    "name": "Flag Sark",
+    "slug": "flag-sark",
+    "desc": "Flag Sark emoji - the flag of flag Sark."
+  },
+  {
+    "char": "🇨🇷",
+    "name": "Flag Costa Rica",
+    "slug": "flag-costa-rica",
+    "desc": "Flag Costa Rica emoji - the flag of flag Costa Rica."
+  },
+  {
+    "char": "🇨🇺",
+    "name": "Flag Cuba",
+    "slug": "flag-cuba",
+    "desc": "Flag Cuba emoji - the flag of flag Cuba."
+  },
+  {
+    "char": "🇨🇻",
+    "name": "Flag Cape Verde",
+    "slug": "flag-cape-verde",
+    "desc": "Flag Cape Verde emoji - the flag of flag Cape Verde."
+  },
+  {
+    "char": "🇨🇼",
+    "name": "Flag Curaçao",
+    "slug": "flag-curacao",
+    "desc": "Flag Curaçao emoji - the flag of flag Curaçao."
+  },
+  {
+    "char": "🇨🇽",
+    "name": "Flag Christmas Island",
+    "slug": "flag-christmas-island",
+    "desc": "Flag Christmas Island emoji - the flag of flag Christmas Island."
+  },
+  {
+    "char": "🇨🇾",
+    "name": "Flag Cyprus",
+    "slug": "flag-cyprus",
+    "desc": "Flag Cyprus emoji - the flag of flag Cyprus."
+  },
+  {
+    "char": "🇨🇿",
+    "name": "Flag Czechia",
+    "slug": "flag-czechia",
+    "desc": "Flag Czechia emoji - the flag of flag Czechia."
+  },
+  {
+    "char": "🇩🇪",
+    "name": "Flag Germany",
+    "slug": "flag-germany",
+    "desc": "Flag Germany emoji - the flag of flag Germany."
+  },
+  {
+    "char": "🇩🇬",
+    "name": "Flag Diego Garcia",
+    "slug": "flag-diego-garcia",
+    "desc": "Flag Diego Garcia emoji - the flag of flag Diego Garcia."
+  },
+  {
+    "char": "🇩🇯",
+    "name": "Flag Djibouti",
+    "slug": "flag-djibouti",
+    "desc": "Flag Djibouti emoji - the flag of flag Djibouti."
+  },
+  {
+    "char": "🇩🇰",
+    "name": "Flag Denmark",
+    "slug": "flag-denmark",
+    "desc": "Flag Denmark emoji - the flag of flag Denmark."
+  },
+  {
+    "char": "🇩🇲",
+    "name": "Flag Dominica",
+    "slug": "flag-dominica",
+    "desc": "Flag Dominica emoji - the flag of flag Dominica."
+  },
+  {
+    "char": "🇩🇴",
+    "name": "Flag Dominican Republic",
+    "slug": "flag-dominican-republic",
+    "desc": "Flag Dominican Republic emoji - the flag of flag Dominican Republic."
+  },
+  {
+    "char": "🇩🇿",
+    "name": "Flag Algeria",
+    "slug": "flag-algeria",
+    "desc": "Flag Algeria emoji - the flag of flag Algeria."
+  },
+  {
+    "char": "🇪🇦",
+    "name": "Flag Ceuta & Melilla",
+    "slug": "flag-ceuta-melilla",
+    "desc": "Flag Ceuta & Melilla emoji - the flag of flag Ceuta & Melilla."
+  },
+  {
+    "char": "🇪🇨",
+    "name": "Flag Ecuador",
+    "slug": "flag-ecuador",
+    "desc": "Flag Ecuador emoji - the flag of flag Ecuador."
+  },
+  {
+    "char": "🇪🇪",
+    "name": "Flag Estonia",
+    "slug": "flag-estonia",
+    "desc": "Flag Estonia emoji - the flag of flag Estonia."
+  },
+  {
+    "char": "🇪🇬",
+    "name": "Flag Egypt",
+    "slug": "flag-egypt",
+    "desc": "Flag Egypt emoji - the flag of flag Egypt."
+  },
+  {
+    "char": "🇪🇭",
+    "name": "Flag Western Sahara",
+    "slug": "flag-western-sahara",
+    "desc": "Flag Western Sahara emoji - the flag of flag Western Sahara."
+  },
+  {
+    "char": "🇪🇷",
+    "name": "Flag Eritrea",
+    "slug": "flag-eritrea",
+    "desc": "Flag Eritrea emoji - the flag of flag Eritrea."
+  },
+  {
+    "char": "🇪🇸",
+    "name": "Flag Spain",
+    "slug": "flag-spain",
+    "desc": "Flag Spain emoji - the flag of flag Spain."
+  },
+  {
+    "char": "🇪🇹",
+    "name": "Flag Ethiopia",
+    "slug": "flag-ethiopia",
+    "desc": "Flag Ethiopia emoji - the flag of flag Ethiopia."
+  },
+  {
+    "char": "🇪🇺",
+    "name": "Flag European Union",
+    "slug": "flag-european-union",
+    "desc": "Flag European Union emoji - the flag of flag European Union."
+  },
+  {
+    "char": "🇫🇮",
+    "name": "Flag Finland",
+    "slug": "flag-finland",
+    "desc": "Flag Finland emoji - the flag of flag Finland."
+  },
+  {
+    "char": "🇫🇯",
+    "name": "Flag Fiji",
+    "slug": "flag-fiji",
+    "desc": "Flag Fiji emoji - the flag of flag Fiji."
+  },
+  {
+    "char": "🇫🇰",
+    "name": "Flag Falkland Islands",
+    "slug": "flag-falkland-islands",
+    "desc": "Flag Falkland Islands emoji - the flag of flag Falkland Islands."
+  },
+  {
+    "char": "🇫🇲",
+    "name": "Flag Micronesia",
+    "slug": "flag-micronesia",
+    "desc": "Flag Micronesia emoji - the flag of flag Micronesia."
+  },
+  {
+    "char": "🇫🇴",
+    "name": "Flag Faroe Islands",
+    "slug": "flag-faroe-islands",
+    "desc": "Flag Faroe Islands emoji - the flag of flag Faroe Islands."
+  },
+  {
+    "char": "🇫🇷",
+    "name": "Flag France",
+    "slug": "flag-france",
+    "desc": "Flag France emoji - the flag of flag France."
+  },
+  {
+    "char": "🇬🇦",
+    "name": "Flag Gabon",
+    "slug": "flag-gabon",
+    "desc": "Flag Gabon emoji - the flag of flag Gabon."
+  },
+  {
+    "char": "🇬🇧",
+    "name": "Flag United Kingdom",
+    "slug": "flag-united-kingdom",
+    "desc": "Flag United Kingdom emoji - the flag of flag United Kingdom."
+  },
+  {
+    "char": "🇬🇩",
+    "name": "Flag Grenada",
+    "slug": "flag-grenada",
+    "desc": "Flag Grenada emoji - the flag of flag Grenada."
+  },
+  {
+    "char": "🇬🇪",
+    "name": "Flag Georgia",
+    "slug": "flag-georgia",
+    "desc": "Flag Georgia emoji - the flag of flag Georgia."
+  },
+  {
+    "char": "🇬🇫",
+    "name": "Flag French Guiana",
+    "slug": "flag-french-guiana",
+    "desc": "Flag French Guiana emoji - the flag of flag French Guiana."
+  },
+  {
+    "char": "🇬🇬",
+    "name": "Flag Guernsey",
+    "slug": "flag-guernsey",
+    "desc": "Flag Guernsey emoji - the flag of flag Guernsey."
+  },
+  {
+    "char": "🇬🇭",
+    "name": "Flag Ghana",
+    "slug": "flag-ghana",
+    "desc": "Flag Ghana emoji - the flag of flag Ghana."
+  },
+  {
+    "char": "🇬🇮",
+    "name": "Flag Gibraltar",
+    "slug": "flag-gibraltar",
+    "desc": "Flag Gibraltar emoji - the flag of flag Gibraltar."
+  },
+  {
+    "char": "🇬🇱",
+    "name": "Flag Greenland",
+    "slug": "flag-greenland",
+    "desc": "Flag Greenland emoji - the flag of flag Greenland."
+  },
+  {
+    "char": "🇬🇲",
+    "name": "Flag Gambia",
+    "slug": "flag-gambia",
+    "desc": "Flag Gambia emoji - the flag of flag Gambia."
+  },
+  {
+    "char": "🇬🇳",
+    "name": "Flag Guinea",
+    "slug": "flag-guinea",
+    "desc": "Flag Guinea emoji - the flag of flag Guinea."
+  },
+  {
+    "char": "🇬🇵",
+    "name": "Flag Guadeloupe",
+    "slug": "flag-guadeloupe",
+    "desc": "Flag Guadeloupe emoji - the flag of flag Guadeloupe."
+  },
+  {
+    "char": "🇬🇶",
+    "name": "Flag Equatorial Guinea",
+    "slug": "flag-equatorial-guinea",
+    "desc": "Flag Equatorial Guinea emoji - the flag of flag Equatorial Guinea."
+  },
+  {
+    "char": "🇬🇷",
+    "name": "Flag Greece",
+    "slug": "flag-greece",
+    "desc": "Flag Greece emoji - the flag of flag Greece."
+  },
+  {
+    "char": "🇬🇸",
+    "name": "Flag South Georgia & South Sandwich Islands",
+    "slug": "flag-south-georgia-south-sandwich-islands",
+    "desc": "Flag South Georgia & South Sandwich Islands emoji - the flag of flag South Georgia & South Sandwich Islands."
+  },
+  {
+    "char": "🇬🇹",
+    "name": "Flag Guatemala",
+    "slug": "flag-guatemala",
+    "desc": "Flag Guatemala emoji - the flag of flag Guatemala."
+  },
+  {
+    "char": "🇬🇺",
+    "name": "Flag Guam",
+    "slug": "flag-guam",
+    "desc": "Flag Guam emoji - the flag of flag Guam."
+  },
+  {
+    "char": "🇬🇼",
+    "name": "Flag Guinea-Bissau",
+    "slug": "flag-guinea-bissau",
+    "desc": "Flag Guinea-Bissau emoji - the flag of flag Guinea-Bissau."
+  },
+  {
+    "char": "🇬🇾",
+    "name": "Flag Guyana",
+    "slug": "flag-guyana",
+    "desc": "Flag Guyana emoji - the flag of flag Guyana."
+  },
+  {
+    "char": "🇭🇰",
+    "name": "Flag Hong Kong SAR China",
+    "slug": "flag-hong-kong-sar-china",
+    "desc": "Flag Hong Kong SAR China emoji - the flag of flag Hong Kong SAR China."
+  },
+  {
+    "char": "🇭🇲",
+    "name": "Flag Heard & McDonald Islands",
+    "slug": "flag-heard-mcdonald-islands",
+    "desc": "Flag Heard & McDonald Islands emoji - the flag of flag Heard & McDonald Islands."
+  },
+  {
+    "char": "🇭🇳",
+    "name": "Flag Honduras",
+    "slug": "flag-honduras",
+    "desc": "Flag Honduras emoji - the flag of flag Honduras."
+  },
+  {
+    "char": "🇭🇷",
+    "name": "Flag Croatia",
+    "slug": "flag-croatia",
+    "desc": "Flag Croatia emoji - the flag of flag Croatia."
+  },
+  {
+    "char": "🇭🇹",
+    "name": "Flag Haiti",
+    "slug": "flag-haiti",
+    "desc": "Flag Haiti emoji - the flag of flag Haiti."
+  },
+  {
+    "char": "🇭🇺",
+    "name": "Flag Hungary",
+    "slug": "flag-hungary",
+    "desc": "Flag Hungary emoji - the flag of flag Hungary."
+  },
+  {
+    "char": "🇮🇨",
+    "name": "Flag Canary Islands",
+    "slug": "flag-canary-islands",
+    "desc": "Flag Canary Islands emoji - the flag of flag Canary Islands."
+  },
+  {
+    "char": "🇮🇩",
+    "name": "Flag Indonesia",
+    "slug": "flag-indonesia",
+    "desc": "Flag Indonesia emoji - the flag of flag Indonesia."
+  },
+  {
+    "char": "🇮🇪",
+    "name": "Flag Ireland",
+    "slug": "flag-ireland",
+    "desc": "Flag Ireland emoji - the flag of flag Ireland."
+  },
+  {
+    "char": "🇮🇱",
+    "name": "Flag Israel",
+    "slug": "flag-israel",
+    "desc": "Flag Israel emoji - the flag of flag Israel."
+  },
+  {
+    "char": "🇮🇲",
+    "name": "Flag Isle Of Man",
+    "slug": "flag-isle-of-man",
+    "desc": "Flag Isle Of Man emoji - the flag of flag Isle of Man."
+  },
+  {
+    "char": "🇮🇳",
+    "name": "Flag India",
+    "slug": "flag-india",
+    "desc": "Flag India emoji - the flag of flag India."
+  },
+  {
+    "char": "🇮🇴",
+    "name": "Flag British Indian Ocean Territory",
+    "slug": "flag-british-indian-ocean-territory",
+    "desc": "Flag British Indian Ocean Territory emoji - the flag of flag British Indian Ocean Territory."
+  },
+  {
+    "char": "🇮🇶",
+    "name": "Flag Iraq",
+    "slug": "flag-iraq",
+    "desc": "Flag Iraq emoji - the flag of flag Iraq."
+  },
+  {
+    "char": "🇮🇷",
+    "name": "Flag Iran",
+    "slug": "flag-iran",
+    "desc": "Flag Iran emoji - the flag of flag Iran."
+  },
+  {
+    "char": "🇮🇸",
+    "name": "Flag Iceland",
+    "slug": "flag-iceland",
+    "desc": "Flag Iceland emoji - the flag of flag Iceland."
+  },
+  {
+    "char": "🇮🇹",
+    "name": "Flag Italy",
+    "slug": "flag-italy",
+    "desc": "Flag Italy emoji - the flag of flag Italy."
+  },
+  {
+    "char": "🇯🇪",
+    "name": "Flag Jersey",
+    "slug": "flag-jersey",
+    "desc": "Flag Jersey emoji - the flag of flag Jersey."
+  },
+  {
+    "char": "🇯🇲",
+    "name": "Flag Jamaica",
+    "slug": "flag-jamaica",
+    "desc": "Flag Jamaica emoji - the flag of flag Jamaica."
+  },
+  {
+    "char": "🇯🇴",
+    "name": "Flag Jordan",
+    "slug": "flag-jordan",
+    "desc": "Flag Jordan emoji - the flag of flag Jordan."
+  },
+  {
+    "char": "🇯🇵",
+    "name": "Flag Japan",
+    "slug": "flag-japan",
+    "desc": "Flag Japan emoji - the flag of flag Japan."
+  },
+  {
+    "char": "🇰🇪",
+    "name": "Flag Kenya",
+    "slug": "flag-kenya",
+    "desc": "Flag Kenya emoji - the flag of flag Kenya."
+  },
+  {
+    "char": "🇰🇬",
+    "name": "Flag Kyrgyzstan",
+    "slug": "flag-kyrgyzstan",
+    "desc": "Flag Kyrgyzstan emoji - the flag of flag Kyrgyzstan."
+  },
+  {
+    "char": "🇰🇭",
+    "name": "Flag Cambodia",
+    "slug": "flag-cambodia",
+    "desc": "Flag Cambodia emoji - the flag of flag Cambodia."
+  },
+  {
+    "char": "🇰🇮",
+    "name": "Flag Kiribati",
+    "slug": "flag-kiribati",
+    "desc": "Flag Kiribati emoji - the flag of flag Kiribati."
+  },
+  {
+    "char": "🇰🇲",
+    "name": "Flag Comoros",
+    "slug": "flag-comoros",
+    "desc": "Flag Comoros emoji - the flag of flag Comoros."
+  },
+  {
+    "char": "🇰🇳",
+    "name": "Flag St. Kitts & Nevis",
+    "slug": "flag-st-kitts-nevis",
+    "desc": "Flag St. Kitts & Nevis emoji - the flag of flag St. Kitts & Nevis."
+  },
+  {
+    "char": "🇰🇵",
+    "name": "Flag North Korea",
+    "slug": "flag-north-korea",
+    "desc": "Flag North Korea emoji - the flag of flag North Korea."
+  },
+  {
+    "char": "🇰🇷",
+    "name": "Flag South Korea",
+    "slug": "flag-south-korea",
+    "desc": "Flag South Korea emoji - the flag of flag South Korea."
+  },
+  {
+    "char": "🇰🇼",
+    "name": "Flag Kuwait",
+    "slug": "flag-kuwait",
+    "desc": "Flag Kuwait emoji - the flag of flag Kuwait."
+  },
+  {
+    "char": "🇰🇾",
+    "name": "Flag Cayman Islands",
+    "slug": "flag-cayman-islands",
+    "desc": "Flag Cayman Islands emoji - the flag of flag Cayman Islands."
+  },
+  {
+    "char": "🇰🇿",
+    "name": "Flag Kazakhstan",
+    "slug": "flag-kazakhstan",
+    "desc": "Flag Kazakhstan emoji - the flag of flag Kazakhstan."
+  },
+  {
+    "char": "🇱🇦",
+    "name": "Flag Laos",
+    "slug": "flag-laos",
+    "desc": "Flag Laos emoji - the flag of flag Laos."
+  },
+  {
+    "char": "🇱🇧",
+    "name": "Flag Lebanon",
+    "slug": "flag-lebanon",
+    "desc": "Flag Lebanon emoji - the flag of flag Lebanon."
+  },
+  {
+    "char": "🇱🇨",
+    "name": "Flag St. Lucia",
+    "slug": "flag-st-lucia",
+    "desc": "Flag St. Lucia emoji - the flag of flag St. Lucia."
+  },
+  {
+    "char": "🇱🇮",
+    "name": "Flag Liechtenstein",
+    "slug": "flag-liechtenstein",
+    "desc": "Flag Liechtenstein emoji - the flag of flag Liechtenstein."
+  },
+  {
+    "char": "🇱🇰",
+    "name": "Flag Sri Lanka",
+    "slug": "flag-sri-lanka",
+    "desc": "Flag Sri Lanka emoji - the flag of flag Sri Lanka."
+  },
+  {
+    "char": "🇱🇷",
+    "name": "Flag Liberia",
+    "slug": "flag-liberia",
+    "desc": "Flag Liberia emoji - the flag of flag Liberia."
+  },
+  {
+    "char": "🇱🇸",
+    "name": "Flag Lesotho",
+    "slug": "flag-lesotho",
+    "desc": "Flag Lesotho emoji - the flag of flag Lesotho."
+  },
+  {
+    "char": "🇱🇹",
+    "name": "Flag Lithuania",
+    "slug": "flag-lithuania",
+    "desc": "Flag Lithuania emoji - the flag of flag Lithuania."
+  },
+  {
+    "char": "🇱🇺",
+    "name": "Flag Luxembourg",
+    "slug": "flag-luxembourg",
+    "desc": "Flag Luxembourg emoji - the flag of flag Luxembourg."
+  },
+  {
+    "char": "🇱🇻",
+    "name": "Flag Latvia",
+    "slug": "flag-latvia",
+    "desc": "Flag Latvia emoji - the flag of flag Latvia."
+  },
+  {
+    "char": "🇱🇾",
+    "name": "Flag Libya",
+    "slug": "flag-libya",
+    "desc": "Flag Libya emoji - the flag of flag Libya."
+  },
+  {
+    "char": "🇲🇦",
+    "name": "Flag Morocco",
+    "slug": "flag-morocco",
+    "desc": "Flag Morocco emoji - the flag of flag Morocco."
+  },
+  {
+    "char": "🇲🇨",
+    "name": "Flag Monaco",
+    "slug": "flag-monaco",
+    "desc": "Flag Monaco emoji - the flag of flag Monaco."
+  },
+  {
+    "char": "🇲🇩",
+    "name": "Flag Moldova",
+    "slug": "flag-moldova",
+    "desc": "Flag Moldova emoji - the flag of flag Moldova."
+  },
+  {
+    "char": "🇲🇪",
+    "name": "Flag Montenegro",
+    "slug": "flag-montenegro",
+    "desc": "Flag Montenegro emoji - the flag of flag Montenegro."
+  },
+  {
+    "char": "🇲🇫",
+    "name": "Flag St. Martin",
+    "slug": "flag-st-martin",
+    "desc": "Flag St. Martin emoji - the flag of flag St. Martin."
+  },
+  {
+    "char": "🇲🇬",
+    "name": "Flag Madagascar",
+    "slug": "flag-madagascar",
+    "desc": "Flag Madagascar emoji - the flag of flag Madagascar."
+  },
+  {
+    "char": "🇲🇭",
+    "name": "Flag Marshall Islands",
+    "slug": "flag-marshall-islands",
+    "desc": "Flag Marshall Islands emoji - the flag of flag Marshall Islands."
+  },
+  {
+    "char": "🇲🇰",
+    "name": "Flag North Macedonia",
+    "slug": "flag-north-macedonia",
+    "desc": "Flag North Macedonia emoji - the flag of flag North Macedonia."
+  },
+  {
+    "char": "🇲🇱",
+    "name": "Flag Mali",
+    "slug": "flag-mali",
+    "desc": "Flag Mali emoji - the flag of flag Mali."
+  },
+  {
+    "char": "🇲🇲",
+    "name": "Flag Myanmar (Burma)",
+    "slug": "flag-myanmar",
+    "desc": "Flag Myanmar (Burma) emoji - the flag of flag Myanmar (Burma)."
+  },
+  {
+    "char": "🇲🇳",
+    "name": "Flag Mongolia",
+    "slug": "flag-mongolia",
+    "desc": "Flag Mongolia emoji - the flag of flag Mongolia."
+  },
+  {
+    "char": "🇲🇴",
+    "name": "Flag Macao SAR China",
+    "slug": "flag-macao-sar-china",
+    "desc": "Flag Macao SAR China emoji - the flag of flag Macao SAR China."
+  },
+  {
+    "char": "🇲🇵",
+    "name": "Flag Northern Mariana Islands",
+    "slug": "flag-northern-mariana-islands",
+    "desc": "Flag Northern Mariana Islands emoji - the flag of flag Northern Mariana Islands."
+  },
+  {
+    "char": "🇲🇶",
+    "name": "Flag Martinique",
+    "slug": "flag-martinique",
+    "desc": "Flag Martinique emoji - the flag of flag Martinique."
+  },
+  {
+    "char": "🇲🇷",
+    "name": "Flag Mauritania",
+    "slug": "flag-mauritania",
+    "desc": "Flag Mauritania emoji - the flag of flag Mauritania."
+  },
+  {
+    "char": "🇲🇸",
+    "name": "Flag Montserrat",
+    "slug": "flag-montserrat",
+    "desc": "Flag Montserrat emoji - the flag of flag Montserrat."
+  },
+  {
+    "char": "🇲🇹",
+    "name": "Flag Malta",
+    "slug": "flag-malta",
+    "desc": "Flag Malta emoji - the flag of flag Malta."
+  },
+  {
+    "char": "🇲🇺",
+    "name": "Flag Mauritius",
+    "slug": "flag-mauritius",
+    "desc": "Flag Mauritius emoji - the flag of flag Mauritius."
+  },
+  {
+    "char": "🇲🇻",
+    "name": "Flag Maldives",
+    "slug": "flag-maldives",
+    "desc": "Flag Maldives emoji - the flag of flag Maldives."
+  },
+  {
+    "char": "🇲🇼",
+    "name": "Flag Malawi",
+    "slug": "flag-malawi",
+    "desc": "Flag Malawi emoji - the flag of flag Malawi."
+  },
+  {
+    "char": "🇲🇽",
+    "name": "Flag Mexico",
+    "slug": "flag-mexico",
+    "desc": "Flag Mexico emoji - the flag of flag Mexico."
+  },
+  {
+    "char": "🇲🇾",
+    "name": "Flag Malaysia",
+    "slug": "flag-malaysia",
+    "desc": "Flag Malaysia emoji - the flag of flag Malaysia."
+  },
+  {
+    "char": "🇲🇿",
+    "name": "Flag Mozambique",
+    "slug": "flag-mozambique",
+    "desc": "Flag Mozambique emoji - the flag of flag Mozambique."
+  },
+  {
+    "char": "🇳🇦",
+    "name": "Flag Namibia",
+    "slug": "flag-namibia",
+    "desc": "Flag Namibia emoji - the flag of flag Namibia."
+  },
+  {
+    "char": "🇳🇨",
+    "name": "Flag New Caledonia",
+    "slug": "flag-new-caledonia",
+    "desc": "Flag New Caledonia emoji - the flag of flag New Caledonia."
+  },
+  {
+    "char": "🇳🇪",
+    "name": "Flag Niger",
+    "slug": "flag-niger",
+    "desc": "Flag Niger emoji - the flag of flag Niger."
+  },
+  {
+    "char": "🇳🇫",
+    "name": "Flag Norfolk Island",
+    "slug": "flag-norfolk-island",
+    "desc": "Flag Norfolk Island emoji - the flag of flag Norfolk Island."
+  },
+  {
+    "char": "🇳🇬",
+    "name": "Flag Nigeria",
+    "slug": "flag-nigeria",
+    "desc": "Flag Nigeria emoji - the flag of flag Nigeria."
+  },
+  {
+    "char": "🇳🇮",
+    "name": "Flag Nicaragua",
+    "slug": "flag-nicaragua",
+    "desc": "Flag Nicaragua emoji - the flag of flag Nicaragua."
+  },
+  {
+    "char": "🇳🇱",
+    "name": "Flag Netherlands",
+    "slug": "flag-netherlands",
+    "desc": "Flag Netherlands emoji - the flag of flag Netherlands."
+  },
+  {
+    "char": "🇳🇴",
+    "name": "Flag Norway",
+    "slug": "flag-norway",
+    "desc": "Flag Norway emoji - the flag of flag Norway."
+  },
+  {
+    "char": "🇳🇵",
+    "name": "Flag Nepal",
+    "slug": "flag-nepal",
+    "desc": "Flag Nepal emoji - the flag of flag Nepal."
+  },
+  {
+    "char": "🇳🇷",
+    "name": "Flag Nauru",
+    "slug": "flag-nauru",
+    "desc": "Flag Nauru emoji - the flag of flag Nauru."
+  },
+  {
+    "char": "🇳🇺",
+    "name": "Flag Niue",
+    "slug": "flag-niue",
+    "desc": "Flag Niue emoji - the flag of flag Niue."
+  },
+  {
+    "char": "🇳🇿",
+    "name": "Flag New Zealand",
+    "slug": "flag-new-zealand",
+    "desc": "Flag New Zealand emoji - the flag of flag New Zealand."
+  },
+  {
+    "char": "🇴🇲",
+    "name": "Flag Oman",
+    "slug": "flag-oman",
+    "desc": "Flag Oman emoji - the flag of flag Oman."
+  },
+  {
+    "char": "🇵🇦",
+    "name": "Flag Panama",
+    "slug": "flag-panama",
+    "desc": "Flag Panama emoji - the flag of flag Panama."
+  },
+  {
+    "char": "🇵🇪",
+    "name": "Flag Peru",
+    "slug": "flag-peru",
+    "desc": "Flag Peru emoji - the flag of flag Peru."
+  },
+  {
+    "char": "🇵🇫",
+    "name": "Flag French Polynesia",
+    "slug": "flag-french-polynesia",
+    "desc": "Flag French Polynesia emoji - the flag of flag French Polynesia."
+  },
+  {
+    "char": "🇵🇬",
+    "name": "Flag Papua New Guinea",
+    "slug": "flag-papua-new-guinea",
+    "desc": "Flag Papua New Guinea emoji - the flag of flag Papua New Guinea."
+  },
+  {
+    "char": "🇵🇭",
+    "name": "Flag Philippines",
+    "slug": "flag-philippines",
+    "desc": "Flag Philippines emoji - the flag of flag Philippines."
+  },
+  {
+    "char": "🇵🇰",
+    "name": "Flag Pakistan",
+    "slug": "flag-pakistan",
+    "desc": "Flag Pakistan emoji - the flag of flag Pakistan."
+  },
+  {
+    "char": "🇵🇱",
+    "name": "Flag Poland",
+    "slug": "flag-poland",
+    "desc": "Flag Poland emoji - the flag of flag Poland."
+  },
+  {
+    "char": "🇵🇲",
+    "name": "Flag St. Pierre & Miquelon",
+    "slug": "flag-st-pierre-miquelon",
+    "desc": "Flag St. Pierre & Miquelon emoji - the flag of flag St. Pierre & Miquelon."
+  },
+  {
+    "char": "🇵🇳",
+    "name": "Flag Pitcairn Islands",
+    "slug": "flag-pitcairn-islands",
+    "desc": "Flag Pitcairn Islands emoji - the flag of flag Pitcairn Islands."
+  },
+  {
+    "char": "🇵🇷",
+    "name": "Flag Puerto Rico",
+    "slug": "flag-puerto-rico",
+    "desc": "Flag Puerto Rico emoji - the flag of flag Puerto Rico."
+  },
+  {
+    "char": "🇵🇸",
+    "name": "Flag Palestinian Territories",
+    "slug": "flag-palestinian-territories",
+    "desc": "Flag Palestinian Territories emoji - the flag of flag Palestinian Territories."
+  },
+  {
+    "char": "🇵🇹",
+    "name": "Flag Portugal",
+    "slug": "flag-portugal",
+    "desc": "Flag Portugal emoji - the flag of flag Portugal."
+  },
+  {
+    "char": "🇵🇼",
+    "name": "Flag Palau",
+    "slug": "flag-palau",
+    "desc": "Flag Palau emoji - the flag of flag Palau."
+  },
+  {
+    "char": "🇵🇾",
+    "name": "Flag Paraguay",
+    "slug": "flag-paraguay",
+    "desc": "Flag Paraguay emoji - the flag of flag Paraguay."
+  },
+  {
+    "char": "🇶🇦",
+    "name": "Flag Qatar",
+    "slug": "flag-qatar",
+    "desc": "Flag Qatar emoji - the flag of flag Qatar."
+  },
+  {
+    "char": "🇷🇪",
+    "name": "Flag Réunion",
+    "slug": "flag-reunion",
+    "desc": "Flag Réunion emoji - the flag of flag Réunion."
+  },
+  {
+    "char": "🇷🇴",
+    "name": "Flag Romania",
+    "slug": "flag-romania",
+    "desc": "Flag Romania emoji - the flag of flag Romania."
+  },
+  {
+    "char": "🇷🇸",
+    "name": "Flag Serbia",
+    "slug": "flag-serbia",
+    "desc": "Flag Serbia emoji - the flag of flag Serbia."
+  },
+  {
+    "char": "🇷🇺",
+    "name": "Flag Russia",
+    "slug": "flag-russia",
+    "desc": "Flag Russia emoji - the flag of flag Russia."
+  },
+  {
+    "char": "🇷🇼",
+    "name": "Flag Rwanda",
+    "slug": "flag-rwanda",
+    "desc": "Flag Rwanda emoji - the flag of flag Rwanda."
+  },
+  {
+    "char": "🇸🇦",
+    "name": "Flag Saudi Arabia",
+    "slug": "flag-saudi-arabia",
+    "desc": "Flag Saudi Arabia emoji - the flag of flag Saudi Arabia."
+  },
+  {
+    "char": "🇸🇧",
+    "name": "Flag Solomon Islands",
+    "slug": "flag-solomon-islands",
+    "desc": "Flag Solomon Islands emoji - the flag of flag Solomon Islands."
+  },
+  {
+    "char": "🇸🇨",
+    "name": "Flag Seychelles",
+    "slug": "flag-seychelles",
+    "desc": "Flag Seychelles emoji - the flag of flag Seychelles."
+  },
+  {
+    "char": "🇸🇩",
+    "name": "Flag Sudan",
+    "slug": "flag-sudan",
+    "desc": "Flag Sudan emoji - the flag of flag Sudan."
+  },
+  {
+    "char": "🇸🇪",
+    "name": "Flag Sweden",
+    "slug": "flag-sweden",
+    "desc": "Flag Sweden emoji - the flag of flag Sweden."
+  },
+  {
+    "char": "🇸🇬",
+    "name": "Flag Singapore",
+    "slug": "flag-singapore",
+    "desc": "Flag Singapore emoji - the flag of flag Singapore."
+  },
+  {
+    "char": "🇸🇭",
+    "name": "Flag St. Helena",
+    "slug": "flag-st-helena",
+    "desc": "Flag St. Helena emoji - the flag of flag St. Helena."
+  },
+  {
+    "char": "🇸🇮",
+    "name": "Flag Slovenia",
+    "slug": "flag-slovenia",
+    "desc": "Flag Slovenia emoji - the flag of flag Slovenia."
+  },
+  {
+    "char": "🇸🇯",
+    "name": "Flag Svalbard & Jan Mayen",
+    "slug": "flag-svalbard-jan-mayen",
+    "desc": "Flag Svalbard & Jan Mayen emoji - the flag of flag Svalbard & Jan Mayen."
+  },
+  {
+    "char": "🇸🇰",
+    "name": "Flag Slovakia",
+    "slug": "flag-slovakia",
+    "desc": "Flag Slovakia emoji - the flag of flag Slovakia."
+  },
+  {
+    "char": "🇸🇱",
+    "name": "Flag Sierra Leone",
+    "slug": "flag-sierra-leone",
+    "desc": "Flag Sierra Leone emoji - the flag of flag Sierra Leone."
+  },
+  {
+    "char": "🇸🇲",
+    "name": "Flag San Marino",
+    "slug": "flag-san-marino",
+    "desc": "Flag San Marino emoji - the flag of flag San Marino."
+  },
+  {
+    "char": "🇸🇳",
+    "name": "Flag Senegal",
+    "slug": "flag-senegal",
+    "desc": "Flag Senegal emoji - the flag of flag Senegal."
+  },
+  {
+    "char": "🇸🇴",
+    "name": "Flag Somalia",
+    "slug": "flag-somalia",
+    "desc": "Flag Somalia emoji - the flag of flag Somalia."
+  },
+  {
+    "char": "🇸🇷",
+    "name": "Flag Suriname",
+    "slug": "flag-suriname",
+    "desc": "Flag Suriname emoji - the flag of flag Suriname."
+  },
+  {
+    "char": "🇸🇸",
+    "name": "Flag South Sudan",
+    "slug": "flag-south-sudan",
+    "desc": "Flag South Sudan emoji - the flag of flag South Sudan."
+  },
+  {
+    "char": "🇸🇹",
+    "name": "Flag São Tomé & Príncipe",
+    "slug": "flag-sao-tome-principe",
+    "desc": "Flag São Tomé & Príncipe emoji - the flag of flag São Tomé & Príncipe."
+  },
+  {
+    "char": "🇸🇻",
+    "name": "Flag El Salvador",
+    "slug": "flag-el-salvador",
+    "desc": "Flag El Salvador emoji - the flag of flag El Salvador."
+  },
+  {
+    "char": "🇸🇽",
+    "name": "Flag Sint Maarten",
+    "slug": "flag-sint-maarten",
+    "desc": "Flag Sint Maarten emoji - the flag of flag Sint Maarten."
+  },
+  {
+    "char": "🇸🇾",
+    "name": "Flag Syria",
+    "slug": "flag-syria",
+    "desc": "Flag Syria emoji - the flag of flag Syria."
+  },
+  {
+    "char": "🇸🇿",
+    "name": "Flag Eswatini",
+    "slug": "flag-eswatini",
+    "desc": "Flag Eswatini emoji - the flag of flag Eswatini."
+  },
+  {
+    "char": "🇹🇦",
+    "name": "Flag Tristan Da Cunha",
+    "slug": "flag-tristan-da-cunha",
+    "desc": "Flag Tristan Da Cunha emoji - the flag of flag Tristan da Cunha."
+  },
+  {
+    "char": "🇹🇨",
+    "name": "Flag Turks & Caicos Islands",
+    "slug": "flag-turks-caicos-islands",
+    "desc": "Flag Turks & Caicos Islands emoji - the flag of flag Turks & Caicos Islands."
+  },
+  {
+    "char": "🇹🇩",
+    "name": "Flag Chad",
+    "slug": "flag-chad",
+    "desc": "Flag Chad emoji - the flag of flag Chad."
+  },
+  {
+    "char": "🇹🇫",
+    "name": "Flag French Southern Territories",
+    "slug": "flag-french-southern-territories",
+    "desc": "Flag French Southern Territories emoji - the flag of flag French Southern Territories."
+  },
+  {
+    "char": "🇹🇬",
+    "name": "Flag Togo",
+    "slug": "flag-togo",
+    "desc": "Flag Togo emoji - the flag of flag Togo."
+  },
+  {
+    "char": "🇹🇭",
+    "name": "Flag Thailand",
+    "slug": "flag-thailand",
+    "desc": "Flag Thailand emoji - the flag of flag Thailand."
+  },
+  {
+    "char": "🇹🇯",
+    "name": "Flag Tajikistan",
+    "slug": "flag-tajikistan",
+    "desc": "Flag Tajikistan emoji - the flag of flag Tajikistan."
+  },
+  {
+    "char": "🇹🇰",
+    "name": "Flag Tokelau",
+    "slug": "flag-tokelau",
+    "desc": "Flag Tokelau emoji - the flag of flag Tokelau."
+  },
+  {
+    "char": "🇹🇱",
+    "name": "Flag Timor-Leste",
+    "slug": "flag-timor-leste",
+    "desc": "Flag Timor-Leste emoji - the flag of flag Timor-Leste."
+  },
+  {
+    "char": "🇹🇲",
+    "name": "Flag Turkmenistan",
+    "slug": "flag-turkmenistan",
+    "desc": "Flag Turkmenistan emoji - the flag of flag Turkmenistan."
+  },
+  {
+    "char": "🇹🇳",
+    "name": "Flag Tunisia",
+    "slug": "flag-tunisia",
+    "desc": "Flag Tunisia emoji - the flag of flag Tunisia."
+  },
+  {
+    "char": "🇹🇴",
+    "name": "Flag Tonga",
+    "slug": "flag-tonga",
+    "desc": "Flag Tonga emoji - the flag of flag Tonga."
+  },
+  {
+    "char": "🇹🇷",
+    "name": "Flag Türkiye",
+    "slug": "flag-turkiye",
+    "desc": "Flag Türkiye emoji - the flag of flag Türkiye."
+  },
+  {
+    "char": "🇹🇹",
+    "name": "Flag Trinidad & Tobago",
+    "slug": "flag-trinidad-tobago",
+    "desc": "Flag Trinidad & Tobago emoji - the flag of flag Trinidad & Tobago."
+  },
+  {
+    "char": "🇹🇻",
+    "name": "Flag Tuvalu",
+    "slug": "flag-tuvalu",
+    "desc": "Flag Tuvalu emoji - the flag of flag Tuvalu."
+  },
+  {
+    "char": "🇹🇼",
+    "name": "Flag Taiwan",
+    "slug": "flag-taiwan",
+    "desc": "Flag Taiwan emoji - the flag of flag Taiwan."
+  },
+  {
+    "char": "🇹🇿",
+    "name": "Flag Tanzania",
+    "slug": "flag-tanzania",
+    "desc": "Flag Tanzania emoji - the flag of flag Tanzania."
+  },
+  {
+    "char": "🇺🇦",
+    "name": "Flag Ukraine",
+    "slug": "flag-ukraine",
+    "desc": "Flag Ukraine emoji - the flag of flag Ukraine."
+  },
+  {
+    "char": "🇺🇬",
+    "name": "Flag Uganda",
+    "slug": "flag-uganda",
+    "desc": "Flag Uganda emoji - the flag of flag Uganda."
+  },
+  {
+    "char": "🇺🇲",
+    "name": "Flag U.S. Outlying Islands",
+    "slug": "flag-u-s-outlying-islands",
+    "desc": "Flag U.S. Outlying Islands emoji - the flag of flag U.S. Outlying Islands."
+  },
+  {
+    "char": "🇺🇳",
+    "name": "Flag United Nations",
+    "slug": "flag-united-nations",
+    "desc": "Flag United Nations emoji - the flag of flag United Nations."
+  },
+  {
+    "char": "🇺🇸",
+    "name": "Flag United States",
+    "slug": "flag-united-states",
+    "desc": "Flag United States emoji - the flag of flag United States."
+  },
+  {
+    "char": "🇺🇾",
+    "name": "Flag Uruguay",
+    "slug": "flag-uruguay",
+    "desc": "Flag Uruguay emoji - the flag of flag Uruguay."
+  },
+  {
+    "char": "🇺🇿",
+    "name": "Flag Uzbekistan",
+    "slug": "flag-uzbekistan",
+    "desc": "Flag Uzbekistan emoji - the flag of flag Uzbekistan."
+  },
+  {
+    "char": "🇻🇦",
+    "name": "Flag Vatican City",
+    "slug": "flag-vatican-city",
+    "desc": "Flag Vatican City emoji - the flag of flag Vatican City."
+  },
+  {
+    "char": "🇻🇨",
+    "name": "Flag St. Vincent & Grenadines",
+    "slug": "flag-st-vincent-grenadines",
+    "desc": "Flag St. Vincent & Grenadines emoji - the flag of flag St. Vincent & Grenadines."
+  },
+  {
+    "char": "🇻🇪",
+    "name": "Flag Venezuela",
+    "slug": "flag-venezuela",
+    "desc": "Flag Venezuela emoji - the flag of flag Venezuela."
+  },
+  {
+    "char": "🇻🇬",
+    "name": "Flag British Virgin Islands",
+    "slug": "flag-british-virgin-islands",
+    "desc": "Flag British Virgin Islands emoji - the flag of flag British Virgin Islands."
+  },
+  {
+    "char": "🇻🇮",
+    "name": "Flag U.S. Virgin Islands",
+    "slug": "flag-u-s-virgin-islands",
+    "desc": "Flag U.S. Virgin Islands emoji - the flag of flag U.S. Virgin Islands."
+  },
+  {
+    "char": "🇻🇳",
+    "name": "Flag Vietnam",
+    "slug": "flag-vietnam",
+    "desc": "Flag Vietnam emoji - the flag of flag Vietnam."
+  },
+  {
+    "char": "🇻🇺",
+    "name": "Flag Vanuatu",
+    "slug": "flag-vanuatu",
+    "desc": "Flag Vanuatu emoji - the flag of flag Vanuatu."
+  },
+  {
+    "char": "🇼🇫",
+    "name": "Flag Wallis & Futuna",
+    "slug": "flag-wallis-futuna",
+    "desc": "Flag Wallis & Futuna emoji - the flag of flag Wallis & Futuna."
+  },
+  {
+    "char": "🇼🇸",
+    "name": "Flag Samoa",
+    "slug": "flag-samoa",
+    "desc": "Flag Samoa emoji - the flag of flag Samoa."
+  },
+  {
+    "char": "🇽🇰",
+    "name": "Flag Kosovo",
+    "slug": "flag-kosovo",
+    "desc": "Flag Kosovo emoji - the flag of flag Kosovo."
+  },
+  {
+    "char": "🇾🇪",
+    "name": "Flag Yemen",
+    "slug": "flag-yemen",
+    "desc": "Flag Yemen emoji - the flag of flag Yemen."
+  },
+  {
+    "char": "🇾🇹",
+    "name": "Flag Mayotte",
+    "slug": "flag-mayotte",
+    "desc": "Flag Mayotte emoji - the flag of flag Mayotte."
+  },
+  {
+    "char": "🇿🇦",
+    "name": "Flag South Africa",
+    "slug": "flag-south-africa",
+    "desc": "Flag South Africa emoji - the flag of flag South Africa."
+  },
+  {
+    "char": "🇿🇲",
+    "name": "Flag Zambia",
+    "slug": "flag-zambia",
+    "desc": "Flag Zambia emoji - the flag of flag Zambia."
+  },
+  {
+    "char": "🇿🇼",
+    "name": "Flag Zimbabwe",
+    "slug": "flag-zimbabwe",
+    "desc": "Flag Zimbabwe emoji - the flag of flag Zimbabwe."
+  },
+  {
+    "char": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "name": "England",
+    "slug": "flag-england",
+    "desc": "The St. George's Cross flag for England."
+  },
+  {
+    "char": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "name": "Scotland",
+    "slug": "flag-scotland",
+    "desc": "The Saltire flag for Scotland."
+  },
+  {
+    "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "name": "Wales",
+    "slug": "flag-wales",
+    "desc": "The Red Dragon flag for Wales."
+  }
+]

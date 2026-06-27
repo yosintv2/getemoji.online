@@ -1,0 +1,74 @@
+[
+  {
+    "char": "♈",
+    "name": "Aries The Ram Japan",
+    "slug": "aries-zodiac-horoscope-japan",
+    "desc": "The first sign of the zodiac, representing courage and energy. Popular in Japanese lifestyle magazines and fortune-telling apps in Japan."
+  },
+  {
+    "char": "♉",
+    "name": "Taurus The Bull Japan",
+    "slug": "taurus-zodiac-earth-sign-japan",
+    "desc": "Symbolizes stability and determination. Often featured in daily horoscope segments on morning television in Japan."
+  },
+  {
+    "char": "♊",
+    "name": "Gemini The Twins Japan",
+    "slug": "gemini-zodiac-air-sign-japan",
+    "desc": "Represents duality and communication. A common topic for personality analysis and social media horoscopes in Japan."
+  },
+  {
+    "char": "♋",
+    "name": "Cancer The Crab Japan",
+    "slug": "cancer-zodiac-water-sign-japan",
+    "desc": "Symbolizes intuition and home life. Used in compatibility guides and emotional wellness content across Japan."
+  },
+  {
+    "char": "♌",
+    "name": "Leo The Lion Japan",
+    "slug": "leo-zodiac-fire-sign-japan",
+    "desc": "Represents leadership and creativity. Associated with bold personalities and entertainment news in Japan."
+  },
+  {
+    "char": "♍",
+    "name": "Virgo The Virgin Japan",
+    "slug": "virgo-zodiac-analytical-japan",
+    "desc": "Symbolizes meticulousness and organization. High SEO value for productivity and lifestyle planning blogs in Japan."
+  },
+  {
+    "char": "♎",
+    "name": "Libra The Scales Japan",
+    "slug": "libra-zodiac-balance-japan",
+    "desc": "Represents harmony and justice. Often discussed in relationship and fashion-focused digital media in Japan."
+  },
+  {
+    "char": "♏",
+    "name": "Scorpio The Scorpion Japan",
+    "slug": "scorpio-zodiac-mystery-japan",
+    "desc": "Symbolizes passion and intensity. A popular sign for character backstories in anime and manga from Japan."
+  },
+  {
+    "char": "♐",
+    "name": "Sagittarius The Archer Japan",
+    "slug": "sagittarius-zodiac-travel-japan",
+    "desc": "Represents freedom and exploration. Frequently used in travel-themed luck forecasts for residents of Japan."
+  },
+  {
+    "char": "♑",
+    "name": "Capricorn The Goat Japan",
+    "slug": "capricorn-zodiac-ambition-japan",
+    "desc": "Symbolizes discipline and success. Targeted at career-driven individuals and business-focused horoscopes in Japan."
+  },
+  {
+    "char": "♒",
+    "name": "Aquarius The Water Bearer Japan",
+    "slug": "aquarius-zodiac-innovation-japan",
+    "desc": "Represents uniqueness and humanitarianism. Linked to tech-forward and progressive social trends in Japan."
+  },
+  {
+    "char": "♓",
+    "name": "Pisces The Fish Japan",
+    "slug": "pisces-zodiac-dreamer-japan",
+    "desc": "Symbolizes empathy and artistic vision. Common in spiritual and creative community discussions throughout Japan."
+  }
+]

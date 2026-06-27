@@ -1,0 +1,146 @@
+[
+  {
+    "char": "🎄",
+    "name": "Christmas Tree",
+    "slug": "christmas-tree-holiday-emoji",
+    "desc": "The quintessential holiday symbol representing Christmas decorations, winter festivities, and the tradition of gathering around a decorated evergreen tree."
+  },
+  {
+    "char": "🎅",
+    "name": "Santa Claus",
+    "slug": "santa-claus-holiday-emoji",
+    "desc": "The legendary figure of Father Christmas, used for content related to gift-giving, holiday magic, and the spirit of generosity during the winter season."
+  },
+  {
+    "char": "🤶",
+    "name": "Mrs. Claus",
+    "slug": "mrs-claus-holiday-emoji",
+    "desc": "Representing the warmth of holiday baking and the supportive spirit of the North Pole, often used in festive family and cooking contexts."
+  },
+  {
+    "char": "🧑‍🎄",
+    "name": "Mx Claus",
+    "slug": "gender-neutral-claus-emoji",
+    "desc": "An inclusive, gender-neutral holiday figure that captures the modern spirit of Christmas and festive celebration for everyone."
+  },
+  {
+    "char": "🎁",
+    "name": "Wrapped Gift",
+    "slug": "holiday-present-gift-emoji",
+    "desc": "Symbolizing the joy of exchange, holiday shopping, and the excitement of opening presents on Christmas morning or during a Hanukkah celebration."
+  },
+  {
+    "char": "🦌",
+    "name": "Reindeer",
+    "slug": "holiday-reindeer-emoji",
+    "desc": "A beloved winter animal representing Santa's sleigh team and the magical journey across the night sky on Christmas Eve."
+  },
+  {
+    "char": "❄️",
+    "name": "Snowflake",
+    "slug": "winter-snowflake-holiday-emoji",
+    "desc": "Essential for creating a 'White Christmas' atmosphere, this emoji represents cold weather, frost, and the natural beauty of the winter solstice."
+  },
+  {
+    "char": "☃️",
+    "name": "Snowman",
+    "slug": "festive-snowman-emoji",
+    "desc": "A symbol of outdoor winter fun and seasonal traditions, perfect for content about family activities and holiday break memories."
+  },
+  {
+    "char": "🕎",
+    "name": "Menorah",
+    "slug": "hanukkah-menorah-emoji",
+    "desc": "The nine-branched candelabra representing the Jewish Festival of Lights, Hanukkah. A key icon for religious holiday observances."
+  },
+  {
+    "char": "🕯️",
+    "name": "Candle",
+    "slug": "kwanzaa-holiday-candle-emoji",
+    "desc": "Commonly used to represent the Kinara candles of Kwanzaa, as well as general holiday warmth and traditional light ceremonies."
+  },
+  {
+    "char": "🧦",
+    "name": "Stocking",
+    "slug": "christmas-stocking-emoji",
+    "desc": "Representing the tradition of hanging stockings by the fireplace to be filled with small gifts and treats by Santa."
+  },
+  {
+    "char": "🔔",
+    "name": "Bell",
+    "slug": "jingle-bells-holiday-emoji",
+    "desc": "Symbolizing Christmas carols, sleigh bells, and the ringing in of a new year. A cheerful sound for any holiday announcement."
+  },
+  {
+    "char": "🌟",
+    "name": "Glowing Star",
+    "slug": "holiday-star-topper-emoji",
+    "desc": "Captures the light of the Star of Bethlehem or the shimmering star atop a Christmas tree, representing hope and holiday guidance."
+  },
+  {
+    "char": "🍪",
+    "name": "Cookie",
+    "slug": "holiday-cookies-emoji",
+    "desc": "Iconic for holiday baking, cookie swaps, and the tradition of leaving out snacks for Santa Claus on Christmas Eve."
+  },
+  {
+    "char": "🥛",
+    "name": "Glass of Milk",
+    "slug": "santa-milk-emoji",
+    "desc": "The traditional drink paired with holiday cookies, representing the cozy domestic rituals of the Christmas season."
+  },
+  {
+    "char": "🥂",
+    "name": "Clinking Glasses",
+    "slug": "new-years-holiday-toast-emoji",
+    "desc": "The primary emoji for New Year's Eve toasts, holiday parties, and celebrating a successful end to the year with friends."
+  },
+  {
+    "char": "🎆",
+    "name": "Fireworks",
+    "slug": "new-year-fireworks-emoji",
+    "desc": "Representing grand holiday light shows and the spectacular celebration of the New Year's countdown."
+  },
+  {
+    "char": "🎊",
+    "name": "Confetti Ball",
+    "slug": "holiday-party-celebration-emoji",
+    "desc": "A burst of color representing the peak excitement of holiday festivities, parades, and New Year's Eve ball drops."
+  },
+  {
+    "char": "🥧",
+    "name": "Pie",
+    "slug": "holiday-dessert-pie-emoji",
+    "desc": "Symbolizing traditional holiday feasts, representing pumpkin, apple, or mince pies served at Christmas dinners."
+  },
+  {
+    "char": "🏠❄️",
+    "name": "Winter House",
+    "slug": "cozy-winter-home-emoji",
+    "desc": "A combination representing the 'Hygge' lifestyle, cozying up at home during the cold holiday break."
+  },
+  {
+    "char": "🛷",
+    "name": "Sleigh",
+    "slug": "holiday-sleigh-emoji",
+    "desc": "Representing both Santa's magical transportation and the winter sport of sledding down snowy hills during vacation."
+  },
+  {
+    "char": "⛪",
+    "name": "Church",
+    "slug": "holiday-religious-service-emoji",
+    "desc": "Representing Midnight Mass, Christmas morning services, and the religious foundations of the holiday season."
+  },
+  {
+    "char": "🪄",
+    "name": "Magic Wand",
+    "slug": "holiday-magic-emoji",
+    "desc": "Used to describe the 'magic of the season,' capturing the wonder and enchantment felt by children during the holidays."
+  },
+  {
+    "char": "🧤",
+    "name": "Gloves",
+    "slug": "winter-holiday-warmth-emoji",
+    "desc": "Representing the need to bundle up for holiday markets, caroling, and outdoor light tours."
+  }
+]

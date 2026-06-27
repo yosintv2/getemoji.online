@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🍱",
+    "name": "Osechi Ryori Jubilee Box Japan",
+    "slug": "osechi-ryori-new-year-box-japan",
+    "desc": "Traditional tiered boxes (jubako) containing various symbolic foods eaten during the first three days of the year in Japan."
+  },
+  {
+    "char": "🥣",
+    "name": "Ozoni Mochi Soup Japan",
+    "slug": "ozoni-mochi-soup-tradition-japan",
+    "desc": "A savory miso or soy-based broth containing toasted rice cakes. A staple breakfast dish for New Year's Day in Japan."
+  },
+  {
+    "char": "🥢",
+    "name": "Iwai-bashi Celebration Chopsticks Japan",
+    "slug": "iwai-bashi-celebration-chopsticks-japan",
+    "desc": "Special thick chopsticks tapered at both ends, used specifically for eating festive New Year meals in Japan."
+  },
+  {
+    "char": "🍤",
+    "name": "Ebi Longevity Shrimp Japan",
+    "slug": "ebi-shrimp-longevity-food-japan",
+    "desc": "Cooked shrimp represent a long life until your back bends like a prawn. A key component of festive platters in Japan."
+  },
+  {
+    "char": "🖤",
+    "name": "Kuromame Black Soybeans Japan",
+    "slug": "kuromame-black-beans-health-japan",
+    "desc": "Sweet simmered black beans that symbolize a wish for health and the ability to work hard (mame) in Japan."
+  },
+  {
+    "char": "🐟",
+    "name": "Kamaboko Red and White Fishcake Japan",
+    "slug": "kamaboko-fishcake-auspicious-japan",
+    "desc": "Sliced fishcakes in red and white, colors that represent celebration and the rising sun in the culture of Japan."
+  },
+  {
+    "char": "🍊",
+    "name": "Daidai New Year Citrus Japan",
+    "slug": "daidai-orange-prosperity-japan",
+    "desc": "A bitter orange placed atop Kagami Mochi, symbolizing the continuity of generations within a family in Japan."
+  },
+  {
+    "char": "🍥",
+    "name": "Datemaki Sweet Rolled Omelet Japan",
+    "slug": "datemaki-rolled-omelet-knowledge-japan",
+    "desc": "A sweet omelet mixed with fish paste, rolled to look like a scroll, symbolizing a wish for scholarship and knowledge in Japan."
+  },
+  {
+    "char": "🌾",
+    "name": "Tazukuri Candied Sardines Japan",
+    "slug": "tazukuri-sardines-harvest-japan",
+    "desc": "Small dried sardines cooked in soy sauce and sugar, symbolizing a prayer for a bountiful harvest in Japan."
+  },
+  {
+    "char": "🌰",
+    "name": "Kuri Kinton Chestnut Gold Japan",
+    "slug": "kuri-kinton-chestnut-wealth-japan",
+    "desc": "Mashed sweet potatoes with chestnuts. Its golden color represents a wish for financial prosperity and wealth in Japan."
+  },
+  {
+    "char": "🍶",
+    "name": "O-toso Spiced Medicinal Sake Japan",
+    "slug": "otoso-spiced-sake-ritual-japan",
+    "desc": "Special medicinal sake drunk on New Year's morning to wash away the previous year's maladies and ensure health in Japan."
+  },
+  {
+    "char": "🍜",
+    "name": "Toshikoshi Soba New Year Eve Noodles Japan",
+    "slug": "toshikoshi-soba-longevity-noodles-japan",
+    "desc": "Buckwheat noodles eaten on New Year's Eve. Their long shape represents a long life, while their easy-to-cut nature signifies cutting off the year's hardships in Japan."
+  }
+]

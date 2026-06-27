@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🍎",
+    "name": "Fuji Apple Harvest Japan",
+    "slug": "fuji-apple-sweet-harvest-japan",
+    "desc": "The world-famous crisp and honey-sweet apple variety originally developed in Fujisaki. A staple winter fruit in Japan."
+  },
+  {
+    "char": "🍓",
+    "name": "Amaou Luxury Strawberry Japan",
+    "slug": "amaou-strawberry-luxury-fruit-japan",
+    "desc": "Large, round, and incredibly sweet strawberries from Fukuoka. Japan is known for producing some of the world's most expensive berries."
+  },
+  {
+    "char": "🍈",
+    "name": "Crown Melon Shizuoka Japan",
+    "slug": "crown-melon-premium-gift-japan",
+    "desc": "Exquisite muskmelons grown with extreme care. Often sold as high-end luxury gifts in department stores across Japan."
+  },
+  {
+    "char": "🍊",
+    "name": "Satsuma Mikan Mandarin Japan",
+    "slug": "satsuma-mikan-citrus-japan",
+    "desc": "Seedless and easy-to-peel citrus fruits. The quintessential winter snack often enjoyed while sitting at a Kotatsu in Japan."
+  },
+  {
+    "char": "🍑",
+    "name": "Okayama White Peach Japan",
+    "slug": "okayama-white-peach-dessert-japan",
+    "desc": "Prized for its pale skin, soft texture, and fragrant juice. A legendary summer delicacy associated with the Momotaro folk tale in Japan."
+  },
+  {
+    "char": "🍇",
+    "name": "Shine Muscat Grape Japan",
+    "slug": "shine-muscat-seedless-grape-japan",
+    "desc": "Large, seedless green grapes with a crisp skin and floral honey flavor. A highly sought-after premium fruit variety in Japan."
+  },
+  {
+    "char": "🍐",
+    "name": "Nashi Asian Pear Japan",
+    "slug": "nashi-asian-pear-crisp-japan",
+    "desc": "Round like an apple with a grainy, watery, and refreshing texture. A popular autumn fruit served chilled in Japan."
+  },
+  {
+    "char": "🍋",
+    "name": "Yuzu Aromatic Citrus Japan",
+    "slug": "yuzu-aromatic-citrus-season-japan",
+    "desc": "A tart and incredibly fragrant citrus used for zest, juice, and even winter bathing rituals in Japan."
+  },
+  {
+    "char": "🍒",
+    "name": "Sato Nishiki Cherry Japan",
+    "slug": "sato-nishiki-cherry-yamagata-japan",
+    "desc": "The 'King of Cherries' from Yamagata Prefecture, known for its bright red color and perfect sweet-tart balance in Japan."
+  },
+  {
+    "char": "🍅",
+    "name": "Momotaro Sweet Tomato Japan",
+    "slug": "momotaro-sweet-tomato-vegetable-japan",
+    "desc": "A pinkish-red tomato variety bred for its high sugar content and durability. A favorite for fresh salads in Japan."
+  },
+  {
+    "char": "🥭",
+    "name": "Taiyo no Tamago Mango Japan",
+    "slug": "miyazaki-mango-premium-japan",
+    "desc": "Meaning 'Egg of the Sun,' these Miyazaki mangoes are strictly graded for sugar content and weight in Japan."
+  },
+  {
+    "char": "🫒",
+    "name": "Shodoshima Olive Grove Japan",
+    "slug": "shodoshima-olive-oil-fruit-japan",
+    "desc": "Japan's primary olive-growing region located on the 'Olive Island' in the Seto Inland Sea of Japan."
+  }
+]

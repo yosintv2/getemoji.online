@@ -1,0 +1,122 @@
+[
+  {
+    "char": "🎄",
+    "name": "Christmas Tree",
+    "slug": "christmas-tree-emoji",
+    "desc": "The ultimate symbol of the holiday season, representing a decorated evergreen tree with lights and ornaments. Perfect for all festive home decor and Christmas tradition content."
+  },
+  {
+    "char": "🎅",
+    "name": "Santa Claus",
+    "slug": "santa-claus-emoji",
+    "desc": "The iconic figure of Father Christmas, synonymous with gift-giving, holiday magic, and the spirit of generosity. Essential for wishing others a Merry Christmas."
+  },
+  {
+    "char": "🎁",
+    "name": "Wrapped Gift",
+    "slug": "christmas-present-emoji",
+    "desc": "Represents the joy of giving and receiving presents during the winter holidays. Ideal for gift guides, unboxing, and holiday shopping blogs."
+  },
+  {
+    "char": "❄️",
+    "name": "Snowflake",
+    "slug": "winter-snowflake-emoji",
+    "desc": "A delicate ice crystal representing cold winter weather and a White Christmas. Used to add a seasonal frost effect to holiday social media posts."
+  },
+  {
+    "char": "🦌",
+    "name": "Reindeer",
+    "slug": "reindeer-emoji",
+    "desc": "A winter animal famous for pulling Santa's sleigh. Often used to represent Rudolph and the magical journey of Christmas Eve."
+  },
+  {
+    "char": "☃️",
+    "name": "Snowman",
+    "slug": "festive-snowman-emoji",
+    "desc": "A classic symbol of winter outdoor fun and holiday break activities. Perfect for family-themed Christmas content and snow day memories."
+  },
+  {
+    "char": "🔔",
+    "name": "Bell",
+    "slug": "jingle-bells-emoji",
+    "desc": "Associated with sleigh bells and church chimes. This emoji adds a musical and celebratory 'jingle' to any digital holiday greeting."
+  },
+  {
+    "char": "🕯️",
+    "name": "Candle",
+    "slug": "holiday-candle-emoji",
+    "desc": "Represents the warmth of traditional Christmas lighting and cozy 'hygge' vibes. Ideal for elegant Christmas Eve and peaceful holiday posts."
+  },
+  {
+    "char": "🌟",
+    "name": "Glowing Star",
+    "slug": "christmas-star-emoji",
+    "desc": "Captures the brilliance of the Star of Bethlehem or a Christmas tree topper. Used to convey a 'Merry and Bright' holiday sentiment."
+  },
+  {
+    "char": "🧦",
+    "name": "Stocking",
+    "slug": "christmas-stocking-emoji",
+    "desc": "The primary symbol for Christmas stockings hung by the fireplace, representing the anticipation of small treats and stocking stuffers."
+  },
+  {
+    "char": "🍪",
+    "name": "Cookie",
+    "slug": "santa-cookies-emoji",
+    "desc": "Iconic for holiday baking and the tradition of leaving treats for Santa Claus. Essential for festive recipe and food-themed content."
+  },
+  {
+    "char": "🥛",
+    "name": "Glass of Milk",
+    "slug": "milk-for-santa-emoji",
+    "desc": "The traditional pairing for Santa’s cookies on Christmas Eve. Represents the cozy domestic rituals of a classic family Christmas."
+  },
+  {
+    "char": "🛷",
+    "name": "Sled",
+    "slug": "sleigh-emoji",
+    "desc": "Symbolizing Santa’s magical sleigh or the winter sport of sledding. Used to represent holiday travel and winter outdoor adventures."
+  },
+  {
+    "char": "🤶",
+    "name": "Mrs. Claus",
+    "slug": "mrs-claus-emoji",
+    "desc": "The matriarch of the North Pole, representing holiday hospitality, baking, and the caring spirit of the Christmas season."
+  },
+  {
+    "char": "🥧",
+    "name": "Pie",
+    "slug": "holiday-pie-emoji",
+    "desc": "A staple dessert for Christmas dinner feasts. Represents seasonal treats like mince pies, pumpkin pies, and apple pies."
+  },
+  {
+    "char": "☕",
+    "name": "Hot Beverage",
+    "slug": "hot-cocoa-emoji",
+    "desc": "Representing hot chocolate or mulled cider. Perfect for content about staying warm, cozy winter mornings, and holiday comfort."
+  },
+  {
+    "char": "🧤",
+    "name": "Gloves",
+    "slug": "winter-mittens-emoji",
+    "desc": "Winter fashion accessories used to represent the cold weather. Ideal for posts about Christmas markets, caroling, and winter walks."
+  },
+  {
+    "char": "🧣",
+    "name": "Scarf",
+    "slug": "winter-scarf-emoji",
+    "desc": "A cozy fashion icon for the winter months. Used to represent bundling up and staying stylishly warm during the holiday season."
+  },
+  {
+    "char": "✨",
+    "name": "Sparkles",
+    "slug": "holiday-magic-emoji",
+    "desc": "Used to represent the twinkling lights of a Christmas tree or the magical feeling of the holidays. Enhances the festive glow of any post."
+  },
+  {
+    "char": "⛪",
+    "name": "Church",
+    "slug": "christmas-church-emoji",
+    "desc": "Represents the religious foundations of Christmas, including midnight mass, caroling services, and community holiday gatherings."
+  }
+]

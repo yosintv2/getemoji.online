@@ -1,0 +1,182 @@
+[
+  {
+    "char": "🎄",
+    "name": "Christmas Tree",
+    "slug": "christmas-tree-emoji",
+    "desc": "An evergreen tree decorated with lights and ornaments for Christmas."
+  },
+  {
+    "char": "🎅",
+    "name": "Santa Claus",
+    "slug": "santa-claus-emoji",
+    "desc": "Father Christmas, with a red hat and white beard."
+  },
+  {
+    "char": "🤶",
+    "name": "Mrs. Claus",
+    "slug": "mrs-claus-emoji",
+    "desc": "The wife of Santa Claus, usually depicted wearing a red hood."
+  },
+  {
+    "char": "🧑‍🎄",
+    "name": "Mx Claus",
+    "slug": "mx-claus-emoji",
+    "desc": "A gender-neutral alternative to Santa or Mrs. Claus."
+  },
+  {
+    "char": "🎁",
+    "name": "Wrapped Gift",
+    "slug": "wrapped-gift-emoji",
+    "desc": "A present tied with a ribbon, commonly exchanged during Christmas."
+  },
+  {
+    "char": "🦌",
+    "name": "Reindeer",
+    "slug": "reindeer-emoji",
+    "desc": "The animal famous for pulling Santa's sleigh through the sky."
+  },
+  {
+    "char": "🛷",
+    "name": "Sled",
+    "slug": "sled-emoji",
+    "desc": "A sleigh used to travel over snow or ice, often associated with Santa."
+  },
+  {
+    "char": "❄️",
+    "name": "Snowflake",
+    "slug": "snowflake-emoji",
+    "desc": "A unique ice crystal falling from the sky in winter."
+  },
+  {
+    "char": "☃️",
+    "name": "Snowman",
+    "slug": "snowman-emoji",
+    "desc": "A figure made of snow, often wearing a hat and scarf."
+  },
+  {
+    "char": "⛄",
+    "name": "Snowman Without Snow",
+    "slug": "snowman-without-snow-emoji",
+    "desc": "A snowman depicted without falling snow around it."
+  },
+  {
+    "char": "🔔",
+    "name": "Bell",
+    "slug": "bell-emoji",
+    "desc": "A gold bell often associated with church services and sleigh bells."
+  },
+  {
+    "char": "🌟",
+    "name": "Glowing Star",
+    "slug": "glowing-star-emoji",
+    "desc": "A bright star representing the star of Bethlehem or a tree topper."
+  },
+  {
+    "char": "🕯️",
+    "name": "Candle",
+    "slug": "candle-emoji",
+    "desc": "A lit candle used for holiday ambiance and warmth."
+  },
+  {
+    "char": "🧦",
+    "name": "Socks",
+    "slug": "socks-emoji",
+    "desc": "Often used to represent Christmas stockings hung by the fireplace."
+  },
+  {
+    "char": "⛪",
+    "name": "Church",
+    "slug": "church-emoji",
+    "desc": "Representing Christmas religious services and community."
+  },
+  {
+    "char": "🍪",
+    "name": "Cookie",
+    "slug": "cookie-emoji",
+    "desc": "A treat commonly left out for Santa Claus on Christmas Eve."
+  },
+  {
+    "char": "🥛",
+    "name": "Glass of Milk",
+    "slug": "glass-of-milk-emoji",
+    "desc": "The traditional drink served with Santa's cookies."
+  },
+  {
+    "char": "🥧",
+    "name": "Pie",
+    "slug": "pie-emoji",
+    "desc": "A holiday dessert, such as pumpkin or mince pie."
+  },
+  {
+    "char": "🍭",
+    "name": "Lollipop",
+    "slug": "lollipop-emoji",
+    "desc": "Symbolizing candy canes and other holiday sweets."
+  },
+  {
+    "char": "🍷",
+    "name": "Wine Glass",
+    "slug": "wine-glass-emoji",
+    "desc": "Used to represent holiday dinner toasts or mulled wine."
+  },
+  {
+    "char": "☕",
+    "name": "Hot Beverage",
+    "slug": "hot-beverage-emoji",
+    "desc": "Representing hot cocoa or coffee to stay warm in winter."
+  },
+  {
+    "char": "🥂",
+    "name": "Clinking Glasses",
+    "slug": "clinking-glasses-emoji",
+    "desc": "Used for celebrations, parties, and holiday cheer."
+  },
+  {
+    "char": "🧤",
+    "name": "Gloves",
+    "slug": "gloves-emoji",
+    "desc": "Winter mittens used to protect hands from the cold weather."
+  },
+  {
+    "char": "🧣",
+    "name": "Scarf",
+    "slug": "scarf-emoji",
+    "desc": "A warm neck wrap worn during the cold winter season."
+  },
+  {
+    "char": "🧸",
+    "name": "Teddy Bear",
+    "slug": "teddy-bear-emoji",
+    "desc": "A classic toy given as a common Christmas gift."
+  },
+  {
+    "char": "🚂",
+    "name": "Locomotive",
+    "slug": "locomotive-emoji",
+    "desc": "Representing toy trains that go around the base of a tree."
+  },
+  {
+    "char": "✨",
+    "name": "Sparkles",
+    "slug": "sparkles-emoji",
+    "desc": "The magic, wonder, and twinkling lights of the festive season."
+  },
+  {
+    "char": "🏔️",
+    "name": "Snow-Capped Mountain",
+    "slug": "snow-capped-mountain-emoji",
+    "desc": "A beautiful wintry mountain landscape."
+  },
+  {
+    "char": "⛸️",
+    "name": "Ice Skate",
+    "slug": "ice-skate-emoji",
+    "desc": "A popular winter sport and activity during the holidays."
+  },
+  {
+    "char": "🪵",
+    "name": "Log",
+    "slug": "log-emoji",
+    "desc": "Representing the Yule Log burned during the winter season."
+  }
+]

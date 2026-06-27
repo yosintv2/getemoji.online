@@ -1,0 +1,1316 @@
+[
+  {
+    "char": "🌍",
+    "name": "Globe Showing Europe-Africa",
+    "slug": "globe-showing-europe-africa",
+    "desc": "Globe Showing Europe-Africa emoji - a globe showing Europe-Africa used for travel, places, and transportation."
+  },
+  {
+    "char": "🌎",
+    "name": "Globe Showing Americas",
+    "slug": "globe-showing-americas",
+    "desc": "Globe Showing Americas emoji - a globe showing Americas used for travel, places, and transportation."
+  },
+  {
+    "char": "🌏",
+    "name": "Globe Showing Asia-Australia",
+    "slug": "globe-showing-asia-australia",
+    "desc": "Globe Showing Asia-Australia emoji - a globe showing Asia-Australia used for travel, places, and transportation."
+  },
+  {
+    "char": "🌐",
+    "name": "Globe With Meridians",
+    "slug": "globe-with-meridians",
+    "desc": "Globe With Meridians emoji - a globe with meridians used for travel, places, and transportation."
+  },
+  {
+    "char": "🗺️",
+    "name": "World Map",
+    "slug": "world-map",
+    "desc": "A rectangular map of the entire world."
+  },
+  {
+    "char": "🗾",
+    "name": "Map Of Japan",
+    "slug": "map-of-japan",
+    "desc": "Map Of Japan emoji - a map of Japan used for travel, places, and transportation."
+  },
+  {
+    "char": "🧭",
+    "name": "Compass",
+    "slug": "compass",
+    "desc": "A navigational instrument with a magnetic needle that points north, used for hiking, travel, and finding one's direction."
+  },
+  {
+    "char": "🏔️",
+    "name": "Snow-Capped Mountain",
+    "slug": "snow-capped-mountain",
+    "desc": "A high mountain with snow on the peak."
+  },
+  {
+    "char": "⛰️",
+    "name": "Mountain",
+    "slug": "mountain",
+    "desc": "A generic mountain silhouette."
+  },
+  {
+    "char": "🛘",
+    "name": "Landslide",
+    "slug": "landslide",
+    "desc": "Geological disaster in mountain regions."
+  },
+  {
+    "char": "🌋",
+    "name": "Volcano",
+    "slug": "volcano",
+    "desc": "A mountain with a crater at the top emitting lava."
+  },
+  {
+    "char": "🗻",
+    "name": "Mount Fuji",
+    "slug": "mount-fuji",
+    "desc": "Japan's famous iconic snow-capped volcano."
+  },
+  {
+    "char": "🏕️",
+    "name": "Camping",
+    "slug": "camping",
+    "desc": "A tent set up in a wooded or outdoor area."
+  },
+  {
+    "char": "🏖️",
+    "name": "Beach With Umbrella",
+    "slug": "beach-with-umbrella",
+    "desc": "Beach With Umbrella emoji - a beach with umbrella used for travel, places, and transportation."
+  },
+  {
+    "char": "🏜️",
+    "name": "Desert",
+    "slug": "desert",
+    "desc": "A dry, sandy landscape with dunes and heat."
+  },
+  {
+    "char": "🏝️",
+    "name": "Desert Island",
+    "slug": "desert-island",
+    "desc": "A small isolated island with a palm tree."
+  },
+  {
+    "char": "🏞️",
+    "name": "National Park",
+    "slug": "national-park",
+    "desc": "A scenic landscape representing protected nature."
+  },
+  {
+    "char": "🏟️",
+    "name": "Stadium",
+    "slug": "stadium",
+    "desc": "A large arena for sports or concerts."
+  },
+  {
+    "char": "🏛️",
+    "name": "Classical Building",
+    "slug": "classical-building",
+    "desc": "A building with columns, like a museum or bank."
+  },
+  {
+    "char": "🏗️",
+    "name": "Building Construction",
+    "slug": "building-construction",
+    "desc": "Building Construction emoji - a building construction used for travel, places, and transportation."
+  },
+  {
+    "char": "🧱",
+    "name": "Brick",
+    "slug": "brick",
+    "desc": "A rectangular block of clay used in building walls and structures, representing construction."
+  },
+  {
+    "char": "🪨",
+    "name": "Rock",
+    "slug": "rock",
+    "desc": "A simple stone found in nature."
+  },
+  {
+    "char": "🪵",
+    "name": "Wood",
+    "slug": "wood",
+    "desc": "A log of wood from a tree."
+  },
+  {
+    "char": "🛖",
+    "name": "Hut",
+    "slug": "hut",
+    "desc": "A simple dwelling made of natural materials."
+  },
+  {
+    "char": "🏘️",
+    "name": "Houses",
+    "slug": "houses",
+    "desc": "A row of residential suburban houses."
+  },
+  {
+    "char": "🏚️",
+    "name": "Derelict House",
+    "slug": "derelict-house",
+    "desc": "An old, abandoned, or haunted-looking home."
+  },
+  {
+    "char": "🏠",
+    "name": "House",
+    "slug": "house",
+    "desc": "A standard residential home."
+  },
+  {
+    "char": "🏡",
+    "name": "House With Garden",
+    "slug": "house-with-garden",
+    "desc": "House With Garden emoji - a house with garden used for travel, places, and transportation."
+  },
+  {
+    "char": "🏢",
+    "name": "Office Building",
+    "slug": "office-building",
+    "desc": "A tall skyscraper or commercial workspace."
+  },
+  {
+    "char": "🏣",
+    "name": "Japanese Post Office",
+    "slug": "japanese-post-office",
+    "desc": "A post office marked with the Japanese postal symbol."
+  },
+  {
+    "char": "🏤",
+    "name": "Post Office",
+    "slug": "post-office",
+    "desc": "A standard European-style post office."
+  },
+  {
+    "char": "🏥",
+    "name": "Hospital",
+    "slug": "hospital",
+    "desc": "A medical facility marked with a red cross."
+  },
+  {
+    "char": "🏦",
+    "name": "Bank",
+    "slug": "bank",
+    "desc": "A building for financial transactions and currency."
+  },
+  {
+    "char": "🏨",
+    "name": "Hotel",
+    "slug": "hotel",
+    "desc": "A building for traveler accommodations."
+  },
+  {
+    "char": "🏩",
+    "name": "Love Hotel",
+    "slug": "love-hotel",
+    "desc": "A hotel themed for couples, often found in Japan."
+  },
+  {
+    "char": "🏪",
+    "name": "Convenience Store",
+    "slug": "convenience-store",
+    "desc": "A 24-hour shop for quick supplies."
+  },
+  {
+    "char": "🏫",
+    "name": "School",
+    "slug": "school",
+    "desc": "An educational institution for students."
+  },
+  {
+    "char": "🏬",
+    "name": "Department Store",
+    "slug": "department-store",
+    "desc": "A large multi-story retail building."
+  },
+  {
+    "char": "🏭",
+    "name": "Factory",
+    "slug": "factory",
+    "desc": "An industrial building with smoke stacks."
+  },
+  {
+    "char": "🏯",
+    "name": "Japanese Castle",
+    "slug": "japanese-castle",
+    "desc": "A traditional multi-tiered fortress from Japan."
+  },
+  {
+    "char": "🏰",
+    "name": "Castle",
+    "slug": "castle",
+    "desc": "A traditional European medieval fortress."
+  },
+  {
+    "char": "💒",
+    "name": "Wedding",
+    "slug": "wedding",
+    "desc": "A chapel decorated with hearts for a marriage ceremony."
+  },
+  {
+    "char": "🗼",
+    "name": "Tokyo Tower",
+    "slug": "tokyo-tower",
+    "desc": "A large red and white lattice tower in Tokyo."
+  },
+  {
+    "char": "🗽",
+    "name": "Statue of Liberty",
+    "slug": "statue-of-liberty",
+    "desc": "The iconic copper statue in New York harbor."
+  },
+  {
+    "char": "⛪",
+    "name": "Church",
+    "slug": "church",
+    "desc": "A Christian place of worship."
+  },
+  {
+    "char": "🕌",
+    "name": "Mosque",
+    "slug": "mosque",
+    "desc": "An Islamic place of worship."
+  },
+  {
+    "char": "🛕",
+    "name": "Hindu Temple",
+    "slug": "hindu-temple",
+    "desc": "A place of worship for Hindus."
+  },
+  {
+    "char": "🕍",
+    "name": "Synagogue",
+    "slug": "synagogue",
+    "desc": "A Jewish place of worship."
+  },
+  {
+    "char": "⛩️",
+    "name": "Shinto Shrine",
+    "slug": "shinto-shrine",
+    "desc": "The traditional Torii gate of a Japanese shrine."
+  },
+  {
+    "char": "🕋",
+    "name": "Kaaba",
+    "slug": "kaaba",
+    "desc": "The sacred black cube building in Mecca."
+  },
+  {
+    "char": "⛲",
+    "name": "Fountain",
+    "slug": "fountain",
+    "desc": "A decorative water feature found in parks and plazas."
+  },
+  {
+    "char": "⛺",
+    "name": "Tent",
+    "slug": "tent",
+    "desc": "A portable shelter used for camping or festivals."
+  },
+  {
+    "char": "🌁",
+    "name": "Foggy",
+    "slug": "foggy",
+    "desc": "A bridge or city obscured by thick fog."
+  },
+  {
+    "char": "🌃",
+    "name": "Night With Stars",
+    "slug": "night-with-stars",
+    "desc": "Night With Stars emoji - a night with stars used for travel, places, and transportation."
+  },
+  {
+    "char": "🏙️",
+    "name": "Cityscape",
+    "slug": "cityscape",
+    "desc": "A skyline of tall city buildings."
+  },
+  {
+    "char": "🌄",
+    "name": "Sunrise Over Mountains",
+    "slug": "sunrise-over-mountains",
+    "desc": "Sunrise Over Mountains emoji - a sunrise over mountains used for travel, places, and transportation."
+  },
+  {
+    "char": "🌅",
+    "name": "Sunrise",
+    "slug": "sunrise",
+    "desc": "The sun rising over the horizon or sea."
+  },
+  {
+    "char": "🌆",
+    "name": "Cityscape At Dusk",
+    "slug": "cityscape-at-dusk",
+    "desc": "Cityscape At Dusk emoji - a cityscape at dusk used for travel, places, and transportation."
+  },
+  {
+    "char": "🌇",
+    "name": "Sunset",
+    "slug": "sunset",
+    "desc": "The sun going down over a city."
+  },
+  {
+    "char": "🌉",
+    "name": "Bridge At Night",
+    "slug": "bridge-at-night",
+    "desc": "Bridge At Night emoji - a bridge at night used for travel, places, and transportation."
+  },
+  {
+    "char": "♨️",
+    "name": "Hot Springs",
+    "slug": "hot-springs",
+    "desc": "Steam rising from a circular bath; used for Onsens."
+  },
+  {
+    "char": "🎠",
+    "name": "Carousel Horse",
+    "slug": "carousel-horse",
+    "desc": "Carousel Horse emoji - a carousel horse used for travel, places, and transportation."
+  },
+  {
+    "char": "🛝",
+    "name": "Playground Slide",
+    "slug": "playground-slide",
+    "desc": "Playground Slide emoji - a playground slide used for travel, places, and transportation."
+  },
+  {
+    "char": "🎡",
+    "name": "Ferris Wheel",
+    "slug": "ferris-wheel",
+    "desc": "A large vertical rotating wheel at an amusement park."
+  },
+  {
+    "char": "🎢",
+    "name": "Roller Coaster",
+    "slug": "roller-coaster",
+    "desc": "A high-speed ride with tracks and loops."
+  },
+  {
+    "char": "💈",
+    "name": "Barber Pole",
+    "slug": "barber-pole",
+    "desc": "A spiraling red, white, and blue pole used to signify a barbershop, harkening back to historical medical procedures."
+  },
+  {
+    "char": "🎪",
+    "name": "Circus Tent",
+    "slug": "circus-tent",
+    "desc": "A large striped tent for circus performances."
+  },
+  {
+    "char": "🚂",
+    "name": "Locomotive",
+    "slug": "locomotive",
+    "desc": "A vintage steam-powered train engine."
+  },
+  {
+    "char": "🚃",
+    "name": "Railway Car",
+    "slug": "railway-car",
+    "desc": "A passenger carriage for a train."
+  },
+  {
+    "char": "🚄",
+    "name": "High-Speed Train",
+    "slug": "high-speed-train",
+    "desc": "A modern aerodynamic fast train."
+  },
+  {
+    "char": "🚅",
+    "name": "Bullet Train",
+    "slug": "bullet-train",
+    "desc": "The Shinkansen bullet train from Japan."
+  },
+  {
+    "char": "🚆",
+    "name": "Train",
+    "slug": "train",
+    "desc": "A standard passenger train viewed from the front."
+  },
+  {
+    "char": "🚇",
+    "name": "Metro",
+    "slug": "metro",
+    "desc": "An underground subway train."
+  },
+  {
+    "char": "🚈",
+    "name": "Light Rail",
+    "slug": "light-rail",
+    "desc": "An urban electric train system."
+  },
+  {
+    "char": "🚉",
+    "name": "Station",
+    "slug": "station",
+    "desc": "A platform where trains stop to pick up passengers."
+  },
+  {
+    "char": "🚊",
+    "name": "Tram",
+    "slug": "tram",
+    "desc": "A streetcar or trolley viewed from the front."
+  },
+  {
+    "char": "🚝",
+    "name": "Monorail",
+    "slug": "monorail",
+    "desc": "A train that runs on a single elevated rail."
+  },
+  {
+    "char": "🚞",
+    "name": "Mountain Railway",
+    "slug": "mountain-railway",
+    "desc": "A train designed to travel up steep inclines."
+  },
+  {
+    "char": "🚋",
+    "name": "Tram Car",
+    "slug": "tram-car",
+    "desc": "A single carriage of a city streetcar."
+  },
+  {
+    "char": "🚌",
+    "name": "Bus",
+    "slug": "bus",
+    "desc": "A large vehicle for public road transport."
+  },
+  {
+    "char": "🚍",
+    "name": "Oncoming Bus",
+    "slug": "oncoming-bus",
+    "desc": "A bus viewed from the front approach."
+  },
+  {
+    "char": "🚎",
+    "name": "Trolleybus",
+    "slug": "trolleybus",
+    "desc": "A bus powered by overhead electric lines."
+  },
+  {
+    "char": "🚐",
+    "name": "Minibus",
+    "slug": "minibus",
+    "desc": "A smaller bus or large passenger van."
+  },
+  {
+    "char": "🚑",
+    "name": "Ambulance",
+    "slug": "ambulance",
+    "desc": "A vehicle for transporting people to the hospital."
+  },
+  {
+    "char": "🚒",
+    "name": "Fire Engine",
+    "slug": "fire-engine",
+    "desc": "A truck equipped with ladders and hoses for fires."
+  },
+  {
+    "char": "🚓",
+    "name": "Police Car",
+    "slug": "police-car",
+    "desc": "A patrol car used by law enforcement."
+  },
+  {
+    "char": "🚔",
+    "name": "Oncoming Police Car",
+    "slug": "oncoming-police-car",
+    "desc": "A police car approaching from the front."
+  },
+  {
+    "char": "🚕",
+    "name": "Taxi",
+    "slug": "taxi",
+    "desc": "A yellow cab for hired city transportation."
+  },
+  {
+    "char": "🚖",
+    "name": "Oncoming Taxi",
+    "slug": "oncoming-taxi",
+    "desc": "A hired cab viewed from the front."
+  },
+  {
+    "char": "🚗",
+    "name": "Automobile",
+    "slug": "automobile",
+    "desc": "Automobile emoji - a automobile used for travel, places, and transportation."
+  },
+  {
+    "char": "🚘",
+    "name": "Oncoming Automobile",
+    "slug": "oncoming-automobile",
+    "desc": "Oncoming Automobile emoji - a oncoming automobile used for travel, places, and transportation."
+  },
+  {
+    "char": "🚙",
+    "name": "Sport Utility Vehicle",
+    "slug": "sport-utility-vehicle",
+    "desc": "Sport Utility Vehicle emoji - a sport utility vehicle used for travel, places, and transportation."
+  },
+  {
+    "char": "🛻",
+    "name": "Pickup Truck",
+    "slug": "pickup-truck",
+    "desc": "A truck with an open cargo area in the back."
+  },
+  {
+    "char": "🚚",
+    "name": "Delivery Truck",
+    "slug": "delivery-truck",
+    "desc": "A large van or truck for moving goods."
+  },
+  {
+    "char": "🚛",
+    "name": "Articulated Lorry",
+    "slug": "articulated-lorry",
+    "desc": "Articulated Lorry emoji - a articulated lorry used for travel, places, and transportation."
+  },
+  {
+    "char": "🚜",
+    "name": "Tractor",
+    "slug": "tractor",
+    "desc": "A farm vehicle used for plowing or hauling."
+  },
+  {
+    "char": "🏎️",
+    "name": "Racing Car",
+    "slug": "racing-car",
+    "desc": "An F1 or high-speed sports car."
+  },
+  {
+    "char": "🏍️",
+    "name": "Motorcycle",
+    "slug": "motorcycle",
+    "desc": "A two-wheeled motorized vehicle."
+  },
+  {
+    "char": "🛵",
+    "name": "Motor Scooter",
+    "slug": "motor-scooter",
+    "desc": "A light moped or Vespa-style scooter."
+  },
+  {
+    "char": "🦽",
+    "name": "Manual Wheelchair",
+    "slug": "manual-wheelchair",
+    "desc": "Manual Wheelchair emoji - a manual wheelchair used for travel, places, and transportation."
+  },
+  {
+    "char": "🦼",
+    "name": "Motorized Wheelchair",
+    "slug": "motorized-wheelchair",
+    "desc": "Motorized Wheelchair emoji - a motorized wheelchair used for travel, places, and transportation."
+  },
+  {
+    "char": "🛺",
+    "name": "Auto Rickshaw",
+    "slug": "auto-rickshaw",
+    "desc": "Auto Rickshaw emoji - a auto rickshaw used for travel, places, and transportation."
+  },
+  {
+    "char": "🚲",
+    "name": "Bicycle",
+    "slug": "bicycle",
+    "desc": "A human-powered two-wheeled vehicle."
+  },
+  {
+    "char": "🛴",
+    "name": "Kick Scooter",
+    "slug": "kick-scooter",
+    "desc": "Kick Scooter emoji - a kick scooter used for travel, places, and transportation."
+  },
+  {
+    "char": "🛹",
+    "name": "Skateboard",
+    "slug": "skateboard",
+    "desc": "Skateboard emoji - a skateboard used for travel, places, and transportation."
+  },
+  {
+    "char": "🛼",
+    "name": "Roller Skate",
+    "slug": "roller-skate",
+    "desc": "Roller Skate emoji - a roller skate used for travel, places, and transportation."
+  },
+  {
+    "char": "🚏",
+    "name": "Bus Stop",
+    "slug": "bus-stop",
+    "desc": "A sign marking a location for bus pickups."
+  },
+  {
+    "char": "🛣️",
+    "name": "Motorway",
+    "slug": "motorway",
+    "desc": "Motorway emoji - a motorway used for travel, places, and transportation."
+  },
+  {
+    "char": "🛤️",
+    "name": "Railway Track",
+    "slug": "railway-track",
+    "desc": "A set of steel rails for trains to travel on."
+  },
+  {
+    "char": "🛢️",
+    "name": "Oil Drum",
+    "slug": "oil-drum",
+    "desc": "A large cylindrical metal container used for storing and transporting liquid bulk goods, primarily crude oil or chemicals."
+  },
+  {
+    "char": "⛽",
+    "name": "Fuel Pump",
+    "slug": "fuel-pump",
+    "desc": "Fuel Pump emoji - a fuel pump used for travel, places, and transportation."
+  },
+  {
+    "char": "🛞",
+    "name": "Wheel",
+    "slug": "wheel",
+    "desc": "A tire and rim representing motion or vehicles."
+  },
+  {
+    "char": "🚨",
+    "name": "Police Car Light",
+    "slug": "police-car-light",
+    "desc": "Police Car Light emoji - a police car light used for travel, places, and transportation."
+  },
+  {
+    "char": "🚥",
+    "name": "Horizontal Traffic Light",
+    "slug": "horizontal-traffic-light",
+    "desc": "Horizontal Traffic Light emoji - a horizontal traffic light used for travel, places, and transportation."
+  },
+  {
+    "char": "🚦",
+    "name": "Vertical Traffic Light",
+    "slug": "vertical-traffic-light",
+    "desc": "Vertical Traffic Light emoji - a vertical traffic light used for travel, places, and transportation."
+  },
+  {
+    "char": "🛑",
+    "name": "Stop Sign",
+    "slug": "stop-sign",
+    "desc": "A red octagonal sign requiring vehicles to halt."
+  },
+  {
+    "char": "🚧",
+    "name": "Building Construction",
+    "slug": "construction",
+    "desc": "A crane or site representing urban development."
+  },
+  {
+    "char": "⚓",
+    "name": "Anchor",
+    "slug": "anchor",
+    "desc": "A heavy metal device used to secure a ship."
+  },
+  {
+    "char": "🛟",
+    "name": "Ring Buoy",
+    "slug": "ring-buoy",
+    "desc": "Ring Buoy emoji - a ring buoy used for travel, places, and transportation."
+  },
+  {
+    "char": "⛵",
+    "name": "Sailboat",
+    "slug": "sailboat",
+    "desc": "A small boat powered by the wind."
+  },
+  {
+    "char": "🛶",
+    "name": "Canoe",
+    "slug": "canoe",
+    "desc": "A narrow boat propelled by a paddle."
+  },
+  {
+    "char": "🚤",
+    "name": "Speedboat",
+    "slug": "speedboat",
+    "desc": "A motorized boat designed for high speeds."
+  },
+  {
+    "char": "🛳️",
+    "name": "Passenger Ship",
+    "slug": "passenger-ship",
+    "desc": "Passenger Ship emoji - a passenger ship used for travel, places, and transportation."
+  },
+  {
+    "char": "⛴️",
+    "name": "Ferry",
+    "slug": "ferry",
+    "desc": "A boat used to transport people and cars across water."
+  },
+  {
+    "char": "🛥️",
+    "name": "Motor Boat",
+    "slug": "motor-boat",
+    "desc": "Motor Boat emoji - a motor boat used for travel, places, and transportation."
+  },
+  {
+    "char": "🚢",
+    "name": "Ship",
+    "slug": "ship",
+    "desc": "A generic large cargo or transport ship."
+  },
+  {
+    "char": "✈️",
+    "name": "Airplane",
+    "slug": "airplane",
+    "desc": "A fixed-wing aircraft for air travel."
+  },
+  {
+    "char": "🛩️",
+    "name": "Small Airplane",
+    "slug": "small-airplane",
+    "desc": "Small Airplane emoji - a small airplane used for travel, places, and transportation."
+  },
+  {
+    "char": "🛫",
+    "name": "Airplane Departure",
+    "slug": "airplane-departure",
+    "desc": "Airplane Departure emoji - a airplane departure used for travel, places, and transportation."
+  },
+  {
+    "char": "🛬",
+    "name": "Airplane Arrival",
+    "slug": "airplane-arrival",
+    "desc": "Airplane Arrival emoji - a airplane arrival used for travel, places, and transportation."
+  },
+  {
+    "char": "🪂",
+    "name": "Parachute",
+    "slug": "parachute",
+    "desc": "A device used for skydiving or slowing falls."
+  },
+  {
+    "char": "💺",
+    "name": "Seat",
+    "slug": "seat",
+    "desc": "A reserved seat on a plane, train, or bus."
+  },
+  {
+    "char": "🚁",
+    "name": "Helicopter",
+    "slug": "helicopter",
+    "desc": "A rotorcraft capable of vertical flight."
+  },
+  {
+    "char": "🚟",
+    "name": "Suspension Railway",
+    "slug": "suspension-railway",
+    "desc": "Suspension Railway emoji - a suspension railway used for travel, places, and transportation."
+  },
+  {
+    "char": "🚠",
+    "name": "Mountain Cableway",
+    "slug": "mountain-cableway",
+    "desc": "Mountain Cableway emoji - a mountain cableway used for travel, places, and transportation."
+  },
+  {
+    "char": "🚡",
+    "name": "Aerial Tramway",
+    "slug": "aerial-tramway",
+    "desc": "Aerial Tramway emoji - a aerial tramway used for travel, places, and transportation."
+  },
+  {
+    "char": "🛰️",
+    "name": "Satellite",
+    "slug": "satellite",
+    "desc": "A communication dish used for transmitting data via satellite, representing tech and space."
+  },
+  {
+    "char": "🚀",
+    "name": "Rocket",
+    "slug": "rocket",
+    "desc": "A spacecraft designed for space travel."
+  },
+  {
+    "char": "🛸",
+    "name": "UFO",
+    "slug": "flying-saucer",
+    "desc": "An unidentified flying object from outer space."
+  },
+  {
+    "char": "🛎️",
+    "name": "Bellhop Bell",
+    "slug": "bellhop-bell",
+    "desc": "Bellhop Bell emoji - a bellhop bell used for travel, places, and transportation."
+  },
+  {
+    "char": "🧳",
+    "name": "Luggage",
+    "slug": "luggage",
+    "desc": "Suitcases used for packing for a trip."
+  },
+  {
+    "char": "⌛",
+    "name": "Hourglass Done",
+    "slug": "hourglass-done",
+    "desc": "An hourglass where all the sand has fallen into the bottom bulb, indicating that the allotted time has completely run out."
+  },
+  {
+    "char": "⏳",
+    "name": "Hourglass Not Done",
+    "slug": "hourglass-not-done",
+    "desc": "Hourglass Not Done emoji - a hourglass not done used for travel, places, and transportation."
+  },
+  {
+    "char": "⌚",
+    "name": "Watch",
+    "slug": "watch",
+    "desc": "A wearable timepiece designed to be worn on the wrist, typically featuring a strap and a circular or square face showing the time."
+  },
+  {
+    "char": "⏰",
+    "name": "Alarm Clock",
+    "slug": "alarm-clock",
+    "desc": "A traditional bedside clock with two bells on top that ring loudly to wake a person up at a designated time."
+  },
+  {
+    "char": "⏱️",
+    "name": "Stopwatch",
+    "slug": "stopwatch",
+    "desc": "A specialized timepiece used to measure the amount of elapsed time from a particular starting point to a finishing point."
+  },
+  {
+    "char": "⏲️",
+    "name": "Timer Clock",
+    "slug": "timer-clock",
+    "desc": "A kitchen or laboratory timer used to count down a specific interval of time, often featuring a red shaded area for the remaining time."
+  },
+  {
+    "char": "🕰️",
+    "name": "Mantelpiece Clock",
+    "slug": "mantelpiece-clock",
+    "desc": "Mantelpiece Clock emoji - a mantelpiece clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕛",
+    "name": "Twelve O’clock",
+    "slug": "twelve-o-clock",
+    "desc": "Twelve O’clock emoji - a twelve o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕧",
+    "name": "Twelve-thirty",
+    "slug": "twelve-thirty",
+    "desc": "Twelve-thirty emoji - a twelve-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕐",
+    "name": "One O’clock",
+    "slug": "one-o-clock",
+    "desc": "One O’clock emoji - a one o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕜",
+    "name": "One-thirty",
+    "slug": "one-thirty",
+    "desc": "One-thirty emoji - a one-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕑",
+    "name": "Two O’clock",
+    "slug": "two-o-clock",
+    "desc": "Two O’clock emoji - a two o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕝",
+    "name": "Two-thirty",
+    "slug": "two-thirty",
+    "desc": "Two-thirty emoji - a two-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕒",
+    "name": "Three O’clock",
+    "slug": "three-o-clock",
+    "desc": "Three O’clock emoji - a three o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕞",
+    "name": "Three-thirty",
+    "slug": "three-thirty",
+    "desc": "Three-thirty emoji - a three-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕓",
+    "name": "Four O’clock",
+    "slug": "four-o-clock",
+    "desc": "Four O’clock emoji - a four o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕟",
+    "name": "Four-thirty",
+    "slug": "four-thirty",
+    "desc": "Four-thirty emoji - a four-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕔",
+    "name": "Five O’clock",
+    "slug": "five-o-clock",
+    "desc": "Five O’clock emoji - a five o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕠",
+    "name": "Five-thirty",
+    "slug": "five-thirty",
+    "desc": "Five-thirty emoji - a five-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕕",
+    "name": "Six O’clock",
+    "slug": "six-o-clock",
+    "desc": "Six O’clock emoji - a six o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕡",
+    "name": "Six-thirty",
+    "slug": "six-thirty",
+    "desc": "Six-thirty emoji - a six-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕖",
+    "name": "Seven O’clock",
+    "slug": "seven-o-clock",
+    "desc": "Seven O’clock emoji - a seven o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕢",
+    "name": "Seven-thirty",
+    "slug": "seven-thirty",
+    "desc": "Seven-thirty emoji - a seven-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕗",
+    "name": "Eight O’clock",
+    "slug": "eight-o-clock",
+    "desc": "Eight O’clock emoji - a eight o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕣",
+    "name": "Eight-thirty",
+    "slug": "eight-thirty",
+    "desc": "Eight-thirty emoji - a eight-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕘",
+    "name": "Nine O’clock",
+    "slug": "nine-o-clock",
+    "desc": "Nine O’clock emoji - a nine o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕤",
+    "name": "Nine-thirty",
+    "slug": "nine-thirty",
+    "desc": "Nine-thirty emoji - a nine-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕙",
+    "name": "Ten O’clock",
+    "slug": "ten-o-clock",
+    "desc": "Ten O’clock emoji - a ten o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕥",
+    "name": "Ten-thirty",
+    "slug": "ten-thirty",
+    "desc": "Ten-thirty emoji - a ten-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🕚",
+    "name": "Eleven O’clock",
+    "slug": "eleven-o-clock",
+    "desc": "Eleven O’clock emoji - a eleven o’clock used for travel, places, and transportation."
+  },
+  {
+    "char": "🕦",
+    "name": "Eleven-thirty",
+    "slug": "eleven-thirty",
+    "desc": "Eleven-thirty emoji - a eleven-thirty used for travel, places, and transportation."
+  },
+  {
+    "char": "🌑",
+    "name": "New Moon",
+    "slug": "new-moon",
+    "desc": "The first phase of the moon where it is dark."
+  },
+  {
+    "char": "🌒",
+    "name": "Waxing Crescent Moon",
+    "slug": "waxing-crescent-moon",
+    "desc": "Waxing Crescent Moon emoji - a waxing crescent moon used for travel, places, and transportation."
+  },
+  {
+    "char": "🌓",
+    "name": "First Quarter Moon",
+    "slug": "first-quarter-moon",
+    "desc": "First Quarter Moon emoji - a first quarter moon used for travel, places, and transportation."
+  },
+  {
+    "char": "🌔",
+    "name": "Waxing Gibbous Moon",
+    "slug": "waxing-gibbous-moon",
+    "desc": "Waxing Gibbous Moon emoji - a waxing gibbous moon used for travel, places, and transportation."
+  },
+  {
+    "char": "🌕",
+    "name": "Full Moon",
+    "slug": "full-moon",
+    "desc": "The phase where the moon is fully illuminated."
+  },
+  {
+    "char": "🌖",
+    "name": "Waning Gibbous Moon",
+    "slug": "waning-gibbous-moon",
+    "desc": "Waning Gibbous Moon emoji - a waning gibbous moon used for travel, places, and transportation."
+  },
+  {
+    "char": "🌗",
+    "name": "Last Quarter Moon",
+    "slug": "last-quarter-moon",
+    "desc": "Last Quarter Moon emoji - a last quarter moon used for travel, places, and transportation."
+  },
+  {
+    "char": "🌘",
+    "name": "Waning Crescent Moon",
+    "slug": "waning-crescent-moon",
+    "desc": "Waning Crescent Moon emoji - a waning crescent moon used for travel, places, and transportation."
+  },
+  {
+    "char": "🌙",
+    "name": "Crescent Moon",
+    "slug": "crescent-moon",
+    "desc": "A thin silver sliver of the moon."
+  },
+  {
+    "char": "🌚",
+    "name": "New Moon Face",
+    "slug": "new-moon-face",
+    "desc": "The new moon with a human face."
+  },
+  {
+    "char": "🌛",
+    "name": "First Quarter Moon Face",
+    "slug": "first-quarter-moon-face",
+    "desc": "First Quarter Moon Face emoji - a first quarter moon face used for travel, places, and transportation."
+  },
+  {
+    "char": "🌜",
+    "name": "Last Quarter Moon Face",
+    "slug": "last-quarter-moon-face",
+    "desc": "Last Quarter Moon Face emoji - a last quarter moon face used for travel, places, and transportation."
+  },
+  {
+    "char": "🌡️",
+    "name": "Thermometer",
+    "slug": "thermometer",
+    "desc": "Used for measuring ambient temperature."
+  },
+  {
+    "char": "☀️",
+    "name": "Sun",
+    "slug": "sun",
+    "desc": "The bright yellow star at the center of our solar system."
+  },
+  {
+    "char": "🌝",
+    "name": "Full Moon Face",
+    "slug": "full-moon-face",
+    "desc": "The full moon with a smiling face."
+  },
+  {
+    "char": "🌞",
+    "name": "Sun With Face",
+    "slug": "sun-with-face",
+    "desc": "Sun With Face emoji - a sun with face used for travel, places, and transportation."
+  },
+  {
+    "char": "🪐",
+    "name": "Ringed Planet",
+    "slug": "ringed-planet",
+    "desc": "Ringed Planet emoji - a ringed planet used for travel, places, and transportation."
+  },
+  {
+    "char": "⭐",
+    "name": "Star",
+    "slug": "star",
+    "desc": "A simple five-pointed yellow star."
+  },
+  {
+    "char": "🌟",
+    "name": "Glowing Star",
+    "slug": "glowing-star",
+    "desc": "A bright star commonly used as a tree topper or representing the Star of Bethlehem."
+  },
+  {
+    "char": "🌠",
+    "name": "Shooting Star",
+    "slug": "shooting-star",
+    "desc": "A meteor falling through the sky."
+  },
+  {
+    "char": "🌌",
+    "name": "Milky Way",
+    "slug": "milky-way",
+    "desc": "The galaxy as seen from earth at night."
+  },
+  {
+    "char": "☁️",
+    "name": "Cloud",
+    "slug": "cloud",
+    "desc": "A fluffy white cloud in the sky."
+  },
+  {
+    "char": "⛅",
+    "name": "Sun Behind Cloud",
+    "slug": "sun-behind-cloud",
+    "desc": "A sun partially hidden by a cloud."
+  },
+  {
+    "char": "⛈️",
+    "name": "Cloud With Lightning And Rain",
+    "slug": "cloud-with-lightning-and-rain",
+    "desc": "Cloud With Lightning And Rain emoji - a cloud with lightning and rain used for travel, places, and transportation."
+  },
+  {
+    "char": "🌤️",
+    "name": "Sun Behind Small Cloud",
+    "slug": "sun-behind-small-cloud",
+    "desc": "Sun Behind Small Cloud emoji - a sun behind small cloud used for travel, places, and transportation."
+  },
+  {
+    "char": "🌥️",
+    "name": "Sun Behind Large Cloud",
+    "slug": "sun-behind-large-cloud",
+    "desc": "Sun Behind Large Cloud emoji - a sun behind large cloud used for travel, places, and transportation."
+  },
+  {
+    "char": "🌦️",
+    "name": "Sun Behind Rain Cloud",
+    "slug": "sun-behind-rain-cloud",
+    "desc": "Sun Behind Rain Cloud emoji - a sun behind rain cloud used for travel, places, and transportation."
+  },
+  {
+    "char": "🌧️",
+    "name": "Cloud With Rain",
+    "slug": "cloud-with-rain",
+    "desc": "Cloud With Rain emoji - a cloud with rain used for travel, places, and transportation."
+  },
+  {
+    "char": "🌨️",
+    "name": "Cloud With Snow",
+    "slug": "cloud-with-snow",
+    "desc": "Cloud With Snow emoji - a cloud with snow used for travel, places, and transportation."
+  },
+  {
+    "char": "🌩️",
+    "name": "Cloud With Lightning",
+    "slug": "cloud-with-lightning",
+    "desc": "Cloud With Lightning emoji - a cloud with lightning used for travel, places, and transportation."
+  },
+  {
+    "char": "🌪️",
+    "name": "Tornado",
+    "slug": "tornado",
+    "desc": "A destructive funnel of rotating wind."
+  },
+  {
+    "char": "🌫️",
+    "name": "Fog",
+    "slug": "fog",
+    "desc": "Low-lying clouds that obscure visibility."
+  },
+  {
+    "char": "🌬️",
+    "name": "Wind Face",
+    "slug": "wind-face",
+    "desc": "A face blowing air, representing the wind."
+  },
+  {
+    "char": "🌀",
+    "name": "Cyclone",
+    "slug": "cyclone",
+    "desc": "A spiral representing a hurricane or whirlpool."
+  },
+  {
+    "char": "🌈",
+    "name": "Rainbow",
+    "slug": "rainbow",
+    "desc": "A colorful arc of light in the sky after rain."
+  },
+  {
+    "char": "🌂",
+    "name": "Closed Umbrella",
+    "slug": "closed-umbrella",
+    "desc": "Closed Umbrella emoji - a closed umbrella used for travel, places, and transportation."
+  },
+  {
+    "char": "☂️",
+    "name": "Umbrella",
+    "slug": "umbrella",
+    "desc": "A handheld device used for protection against rain."
+  },
+  {
+    "char": "☔",
+    "name": "Umbrella With Rain Drops",
+    "slug": "umbrella-with-rain-drops",
+    "desc": "Umbrella With Rain Drops emoji - a umbrella with rain drops used for travel, places, and transportation."
+  },
+  {
+    "char": "⛱️",
+    "name": "Umbrella On Ground",
+    "slug": "umbrella-on-ground",
+    "desc": "Umbrella On Ground emoji - a umbrella on ground used for travel, places, and transportation."
+  },
+  {
+    "char": "⚡",
+    "name": "High Voltage",
+    "slug": "high-voltage",
+    "desc": "A yellow bolt of electricity."
+  },
+  {
+    "char": "❄️",
+    "name": "Snowflake",
+    "slug": "snowflake",
+    "desc": "A unique, crystalline ice structure."
+  },
+  {
+    "char": "☃️",
+    "name": "Snowman",
+    "slug": "snowman",
+    "desc": "A figure made of snow with a hat and scarf."
+  },
+  {
+    "char": "⛄",
+    "name": "Snowman Without Snow",
+    "slug": "snowman-without-snow",
+    "desc": "Snowman Without Snow emoji - a snowman without snow used for travel, places, and transportation."
+  },
+  {
+    "char": "☄️",
+    "name": "Comet",
+    "slug": "comet",
+    "desc": "An icy space rock with a glowing tail."
+  },
+  {
+    "char": "🔥",
+    "name": "Fire",
+    "slug": "fire",
+    "desc": "A flickering orange and yellow flame."
+  },
+  {
+    "char": "💧",
+    "name": "Droplet",
+    "slug": "droplet",
+    "desc": "A single drop of water or sweat."
+  },
+  {
+    "char": "🌊",
+    "name": "Water Wave",
+    "slug": "water-wave",
+    "desc": "A crashing blue ocean wave."
+  }
+]

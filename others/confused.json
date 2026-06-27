@@ -1,0 +1,74 @@
+[
+  {
+    "char": "😕",
+    "name": "Confused Face",
+    "slug": "standard-confused-face-emoji",
+    "desc": "The primary symbol for confusion and hesitation. Perfect for expressing a lack of understanding or being unsure about a situation."
+  },
+  {
+    "char": "🫤",
+    "name": "Confused Face with Diagonal Mouth",
+    "slug": "skeptical-confused-emoji",
+    "desc": "Conveys a mix of confusion, skepticism, and 'meh.' Ideal for moments where a situation doesn't make sense or feels off-balance."
+  },
+  {
+    "char": "🧐",
+    "name": "Confused Face with Monocle",
+    "slug": "confused-scrutiny-emoji",
+    "desc": "Represents a sophisticated type of confusion. Used when someone is closely inspecting something that is puzzling or hard to believe."
+  },
+  {
+    "char": "🤨",
+    "name": "Confused Face with Raised Eyebrow",
+    "slug": "suspicious-confused-emoji",
+    "desc": "Captures a look of confused suspicion or judging disbelief. Great for reacting to 'fake news' or confusing claims."
+  },
+  {
+    "char": "🤔",
+    "name": "Confused Thinking Face",
+    "slug": "thinking-confused-puzzled-emoji",
+    "desc": "The universal icon for deep thought and confusion. High SEO value for educational content, riddles, and complex decision-making."
+  },
+  {
+    "char": "🌀",
+    "name": "Confused Dizziness Symbol",
+    "slug": "confused-spiral-dizzy-emoji",
+    "desc": "A visual metaphor for a confused mind. Often used to describe feeling lost, overwhelmed, or having one's head spinning."
+  },
+  {
+    "char": "😵‍💫",
+    "name": "Confused Face with Spiral Eyes",
+    "slug": "disoriented-confused-emoji",
+    "desc": "Represents extreme confusion and disorientation. Perfect for describing information overload or a truly baffling experience."
+  },
+  {
+    "char": "🤷",
+    "name": "Confused Person Shrugging",
+    "slug": "confused-shrug-emoji",
+    "desc": "The digital 'I don't know' gesture. Essential for expressing a total lack of answers or being confused by someone's behavior."
+  },
+  {
+    "char": "❓",
+    "name": "Confused Question Mark",
+    "slug": "confused-punctuation-emoji",
+    "desc": "The literal symbol for confusion. Used to highlight a confusing point or to ask for clarification in a direct way."
+  },
+  {
+    "char": "❔",
+    "name": "Confused White Question Mark",
+    "slug": "subtle-confused-question-emoji",
+    "desc": "A lighter version of the question mark, used for subtle confusion or as a design element in puzzled-themed graphics."
+  },
+  {
+    "char": "🧩",
+    "name": "Confused Puzzle Piece",
+    "slug": "puzzling-confused-logic-emoji",
+    "desc": "Represents a missing piece of information. Ideal for 'putting the pieces together' or solving confusing problems."
+  },
+  {
+    "char": "🌫️",
+    "name": "Confused Foggy Cloud",
+    "slug": "confused-brain-fog-emoji",
+    "desc": "A metaphor for 'brain fog.' Used when someone feels mentally hazy and confused about a specific task or topic."
+  }
+]

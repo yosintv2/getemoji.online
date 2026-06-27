@@ -1,0 +1,1256 @@
+[
+  {
+    "char": "👋",
+    "name": "Waving Hand",
+    "slug": "waving-hand",
+    "desc": "A hand waving hello or goodbye."
+  },
+  {
+    "char": "🤚",
+    "name": "Raised Back of Hand",
+    "slug": "raised-back-of-hand",
+    "desc": "A hand raised with the back facing the viewer."
+  },
+  {
+    "char": "🖐️",
+    "name": "Hand with Fingers Splayed",
+    "slug": "hand-fingers-splayed",
+    "desc": "An open hand showing five fingers spread apart."
+  },
+  {
+    "char": "✋",
+    "name": "Raised Hand",
+    "slug": "raised-hand",
+    "desc": "A flat hand raised up, often meaning stop or a high-five."
+  },
+  {
+    "char": "🖖",
+    "name": "Vulcan Salute",
+    "slug": "vulcan-salute",
+    "desc": "A hand gesture with a gap between the middle and ring fingers."
+  },
+  {
+    "char": "👌",
+    "name": "OK Hand",
+    "slug": "ok-hand",
+    "desc": "A gesture making a circle with the thumb and index finger."
+  },
+  {
+    "char": "🤌",
+    "name": "Pinched Fingers",
+    "slug": "pinched-fingers",
+    "desc": "An Italian-style gesture showing fingers held together pointing upward."
+  },
+  {
+    "char": "✌️",
+    "name": "Victory Hand",
+    "slug": "victory-hand",
+    "desc": "The peace sign or V for victory gesture."
+  },
+  {
+    "char": "🤞",
+    "name": "Crossed Fingers",
+    "slug": "crossed-fingers",
+    "desc": "Index and middle fingers crossed for good luck."
+  },
+  {
+    "char": "🤟",
+    "name": "Love-You Gesture",
+    "slug": "love-you-gesture",
+    "desc": "The American Sign Language gesture for 'I love you'."
+  },
+  {
+    "char": "🤘",
+    "name": "Sign of the Horns",
+    "slug": "sign-of-horns",
+    "desc": "A rock and roll gesture with index and pinky fingers raised."
+  },
+  {
+    "char": "🤙",
+    "name": "Call Me Hand",
+    "slug": "call-me-hand",
+    "desc": "Thumb and pinky finger extended, resembling a phone."
+  },
+  {
+    "char": "👈",
+    "name": "Backhand Index Pointing Left",
+    "slug": "pointing-left",
+    "desc": "An index finger pointing to the left."
+  },
+  {
+    "char": "👉",
+    "name": "Backhand Index Pointing Right",
+    "slug": "pointing-right",
+    "desc": "An index finger pointing to the right."
+  },
+  {
+    "char": "👆",
+    "name": "Backhand Index Pointing Up",
+    "slug": "pointing-up",
+    "desc": "An index finger pointing straight up from the back of the hand."
+  },
+  {
+    "char": "🖕",
+    "name": "Middle Finger",
+    "slug": "middle-finger",
+    "desc": "The middle finger raised in a rude or insulting gesture."
+  },
+  {
+    "char": "👇",
+    "name": "Backhand Index Pointing Down",
+    "slug": "pointing-down",
+    "desc": "An index finger pointing straight down."
+  },
+  {
+    "char": "☝️",
+    "name": "Index Pointing Up",
+    "slug": "index-pointing-up",
+    "desc": "The front of the hand with the index finger pointing up."
+  },
+  {
+    "char": "👍",
+    "name": "Thumbs Up",
+    "slug": "thumbs-up",
+    "desc": "A closed fist with the thumb pointing upward in approval."
+  },
+  {
+    "char": "👎",
+    "name": "Thumbs Down",
+    "slug": "thumbs-down",
+    "desc": "A closed fist with the thumb pointing downward in disapproval."
+  },
+  {
+    "char": "✊",
+    "name": "Raised Fist",
+    "slug": "raised-fist",
+    "desc": "A clenched fist held high, symbolizing solidarity or power."
+  },
+  {
+    "char": "👊",
+    "name": "Oncoming Fist",
+    "slug": "oncoming-fist",
+    "desc": "A fist pointed at the viewer, used for a fist bump."
+  },
+  {
+    "char": "🤛",
+    "name": "Left-Facing Fist",
+    "slug": "left-fist",
+    "desc": "A clenched fist facing to the left."
+  },
+  {
+    "char": "🤜",
+    "name": "Right-Facing Fist",
+    "slug": "right-fist",
+    "desc": "A clenched fist facing to the right."
+  },
+  {
+    "char": "👏",
+    "name": "Clapping Hands",
+    "slug": "clapping-hands",
+    "desc": "Two hands clapping together in applause."
+  },
+  {
+    "char": "🙌",
+    "name": "Raising Hands",
+    "slug": "raising-hands",
+    "desc": "Two open hands raised in celebration or praise."
+  },
+  {
+    "char": "👐",
+    "name": "Open Hands",
+    "slug": "open-hands",
+    "desc": "Two hands held open, representing openness or a hug."
+  },
+  {
+    "char": "🤲",
+    "name": "Palms Up Together",
+    "slug": "palms-together",
+    "desc": "Two hands held together with palms up, as if in prayer or receiving."
+  },
+  {
+    "char": "🤝",
+    "name": "Handshake",
+    "slug": "handshake",
+    "desc": "Two hands shaking to show agreement or greeting."
+  },
+  {
+    "char": "🙏",
+    "name": "Folded Hands",
+    "slug": "folded-hands",
+    "desc": "Two palms pressed together, meaning please, thank you, or prayer."
+  },
+  {
+    "char": "✍️",
+    "name": "Writing Hand",
+    "slug": "writing-hand",
+    "desc": "A hand holding a pen or pencil, as if writing."
+  },
+  {
+    "char": "💅",
+    "name": "Nail Polish",
+    "slug": "nail-polish",
+    "desc": "A hand with colored nail polish being applied."
+  },
+  {
+    "char": "🤳",
+    "name": "Selfie",
+    "slug": "selfie",
+    "desc": "An arm holding a smartphone to take a self-portrait."
+  },
+  {
+    "char": "💪",
+    "name": "Flexed Biceps",
+    "slug": "flexed-biceps",
+    "desc": "A muscular arm flexing to show strength or effort."
+  },
+  {
+    "char": "🦾",
+    "name": "Mechanical Arm",
+    "slug": "mechanical-arm",
+    "desc": "A robotic or prosthetic arm."
+  },
+  {
+    "char": "🦿",
+    "name": "Mechanical Leg",
+    "slug": "mechanical-leg",
+    "desc": "A robotic or prosthetic leg."
+  },
+  {
+    "char": "🦵",
+    "name": "Leg",
+    "slug": "leg",
+    "desc": "A human leg from the hip down."
+  },
+  {
+    "char": "🦶",
+    "name": "Foot",
+    "slug": "foot",
+    "desc": "A human foot, showing the toes and sole."
+  },
+  {
+    "char": "👂",
+    "name": "Ear",
+    "slug": "ear",
+    "desc": "A human ear, representing hearing or listening."
+  },
+  {
+    "char": "🦻",
+    "name": "Ear with Hearing Aid",
+    "slug": "ear-hearing-aid",
+    "desc": "A human ear with a small hearing device attached."
+  },
+  {
+    "char": "👃",
+    "name": "Nose",
+    "slug": "nose",
+    "desc": "A human nose, representing smell or sniffing."
+  },
+  {
+    "char": "🧠",
+    "name": "Brain",
+    "slug": "brain",
+    "desc": "A pink, anatomical human brain."
+  },
+  {
+    "char": "🫀",
+    "name": "Anatomical Heart",
+    "slug": "anatomical-heart",
+    "desc": "A realistic human heart showing arteries and chambers."
+  },
+  {
+    "char": "🫁",
+    "name": "Lungs",
+    "slug": "lungs",
+    "desc": "A pair of human lungs for breathing."
+  },
+  {
+    "char": "🦷",
+    "name": "Tooth",
+    "slug": "tooth",
+    "desc": "A white human molar tooth."
+  },
+  {
+    "char": "🦴",
+    "name": "Bone",
+    "slug": "bone",
+    "desc": "A generic white bone, like a femur."
+  },
+  {
+    "char": "👀",
+    "name": "Eyes",
+    "slug": "eyes",
+    "desc": "A pair of eyes looking slightly to the side."
+  },
+  {
+    "char": "👁️",
+    "name": "Eye",
+    "slug": "eye",
+    "desc": "A single human eye."
+  },
+  {
+    "char": "👅",
+    "name": "Tongue",
+    "slug": "tongue",
+    "desc": "A pink human tongue sticking out."
+  },
+  {
+    "char": "👄",
+    "name": "Mouth",
+    "slug": "mouth",
+    "desc": "A pair of slightly parted human lips."
+  },
+  {
+    "char": "👶",
+    "name": "Baby",
+    "slug": "baby",
+    "desc": "The face of a young infant with a small curl of hair."
+  },
+  {
+    "char": "🧒",
+    "name": "Child",
+    "slug": "child",
+    "desc": "A gender-neutral child."
+  },
+  {
+    "char": "👦",
+    "name": "Boy",
+    "slug": "boy",
+    "desc": "A young male child."
+  },
+  {
+    "char": "👧",
+    "name": "Girl",
+    "slug": "girl",
+    "desc": "A young female child."
+  },
+  {
+    "char": "🧑",
+    "name": "Person",
+    "slug": "person",
+    "desc": "A gender-neutral adult."
+  },
+  {
+    "char": "👱",
+    "name": "Person: Blond Hair",
+    "slug": "person-blond-hair",
+    "desc": "A person with fair, blond hair."
+  },
+  {
+    "char": "👨",
+    "name": "Man",
+    "slug": "man",
+    "desc": "An adult male person."
+  },
+  {
+    "char": "🧔",
+    "name": "Person: Beard",
+    "slug": "person-beard",
+    "desc": "A person with a full beard."
+  },
+  {
+    "char": "👩",
+    "name": "Woman",
+    "slug": "woman",
+    "desc": "An adult female person."
+  },
+  {
+    "char": "🧓",
+    "name": "Older Person",
+    "slug": "older-person",
+    "desc": "A gender-neutral elderly adult."
+  },
+  {
+    "char": "👴",
+    "name": "Old Man",
+    "slug": "old-man",
+    "desc": "An elderly male person."
+  },
+  {
+    "char": "👵",
+    "name": "Old Woman",
+    "slug": "old-woman",
+    "desc": "An elderly female person."
+  },
+  {
+    "char": "🙇",
+    "name": "Person Bowing",
+    "slug": "person-bowing",
+    "desc": "A person bowing deeply as a sign of respect or apology."
+  },
+  {
+    "char": "💁",
+    "name": "Person Tipping Hand",
+    "slug": "person-tipping-hand",
+    "desc": "A person holding their hand out as if carrying a tray or being sassy."
+  },
+  {
+    "char": "🙅",
+    "name": "Person Gesturing No",
+    "slug": "person-no",
+    "desc": "A person with arms crossed in an X shape, meaning no."
+  },
+  {
+    "char": "🙆",
+    "name": "Person Gesturing OK",
+    "slug": "person-ok",
+    "desc": "A person with arms above their head in an O shape, meaning OK."
+  },
+  {
+    "char": "🙋",
+    "name": "Person Raising Hand",
+    "slug": "person-raising-hand",
+    "desc": "A person raising one hand to ask a question or volunteer."
+  },
+  {
+    "char": "🧏",
+    "name": "Deaf Person",
+    "slug": "deaf-person",
+    "desc": "A person pointing to their ear to indicate they are deaf."
+  },
+  {
+    "char": "🙎",
+    "name": "Person Pouting",
+    "slug": "person-pouting",
+    "desc": "A person with a frustrated or pouting facial expression."
+  },
+  {
+    "char": "🙍",
+    "name": "Person Frowning",
+    "slug": "person-frowning",
+    "desc": "A person with a sad or worried face."
+  },
+  {
+    "char": "💇",
+    "name": "Person Getting Haircut",
+    "slug": "person-haircut",
+    "desc": "A person having their hair trimmed with scissors."
+  },
+  {
+    "char": "💆",
+    "name": "Person Getting Massage",
+    "slug": "person-massage",
+    "desc": "A person receiving a relaxing head massage."
+  },
+  {
+    "char": "🧖",
+    "name": "Person in Steamy Room",
+    "slug": "person-sauna",
+    "desc": "A person in a sauna or steam room wearing a towel."
+  },
+  {
+    "char": "💅",
+    "name": "Nail Care",
+    "slug": "nail-care",
+    "desc": "Fingernails being painted or manicured."
+  },
+  {
+    "char": "🤳",
+    "name": "Selfie Gesture",
+    "slug": "selfie-gesture",
+    "desc": "An arm extended to take a selfie."
+  },
+  {
+    "char": "💃",
+    "name": "Woman Dancing",
+    "slug": "woman-dancing",
+    "desc": "A woman in a red dress performing a dance."
+  },
+  {
+    "char": "🕺",
+    "name": "Man Dancing",
+    "slug": "man-dancing",
+    "desc": "A man in a suit or disco outfit dancing."
+  },
+  {
+    "char": "🕴️",
+    "name": "Person in Suit Levitating",
+    "slug": "levitating-person",
+    "desc": "A person in a black suit hovering off the ground."
+  },
+  {
+    "char": "👨‍🦽",
+    "name": "Man in Manual Wheelchair",
+    "slug": "man-wheelchair",
+    "desc": "A man using a standard manual wheelchair."
+  },
+  {
+    "char": "👩‍🦽",
+    "name": "Woman in Manual Wheelchair",
+    "slug": "woman-wheelchair",
+    "desc": "A woman using a standard manual wheelchair."
+  },
+  {
+    "char": "👨‍🦼",
+    "name": "Man in Motorized Wheelchair",
+    "slug": "man-motorized-wheelchair",
+    "desc": "A man using an electric-powered wheelchair."
+  },
+  {
+    "char": "👩‍🦼",
+    "name": "Woman in Motorized Wheelchair",
+    "slug": "woman-motorized-wheelchair",
+    "desc": "A woman using an electric-powered wheelchair."
+  },
+  {
+    "char": "👨‍🦯",
+    "name": "Man with White Cane",
+    "slug": "man-cane",
+    "desc": "A man with a visual impairment using a white cane."
+  },
+  {
+    "char": "👩‍🦯",
+    "name": "Woman with White Cane",
+    "slug": "woman-cane",
+    "desc": "A woman with a visual impairment using a white cane."
+  },
+  {
+    "char": "🚶",
+    "name": "Person Walking",
+    "slug": "person-walking",
+    "desc": "A person taking a steady walk."
+  },
+  {
+    "char": "🏃",
+    "name": "Person Running",
+    "slug": "person-running",
+    "desc": "A person running quickly, as if in a race."
+  },
+  {
+    "char": "🧍",
+    "name": "Person Standing",
+    "slug": "person-standing",
+    "desc": "A person standing still in a neutral pose."
+  },
+  {
+    "char": " kneeling",
+    "name": "Person Kneeling",
+    "slug": "person-kneeling",
+    "desc": "A person resting on one or both knees."
+  },
+  {
+    "char": "🚣",
+    "name": "Person Rowing Boat",
+    "slug": "person-rowing",
+    "desc": "A person using oars to move a boat."
+  },
+  {
+    "char": "🏊",
+    "name": "Person Swimming",
+    "slug": "person-swimming",
+    "desc": "A person swimming in water."
+  },
+  {
+    "char": "🏄",
+    "name": "Person Surfing",
+    "slug": "person-surfing",
+    "desc": "A person riding a wave on a surfboard."
+  },
+  {
+    "char": "🛀",
+    "name": "Person Taking Bath",
+    "slug": "person-bath",
+    "desc": "A person lying in a bathtub with bubbles."
+  },
+  {
+    "char": "🛌",
+    "name": "Person in Bed",
+    "slug": "person-bed",
+    "desc": "A person sleeping in a bed with a blanket."
+  },
+  {
+    "char": "🧑‍🤝‍🧑",
+    "name": "People Holding Hands",
+    "slug": "people-holding-hands",
+    "desc": "Two people standing together and holding hands."
+  },
+  {
+    "char": "👭",
+    "name": "Two Women Holding Hands",
+    "slug": "women-holding-hands",
+    "desc": "Two women standing side-by-side holding hands."
+  },
+  {
+    "char": "👫",
+    "name": "Man and Woman Holding Hands",
+    "slug": "man-woman-holding-hands",
+    "desc": "A man and a woman standing together holding hands."
+  },
+  {
+    "char": "👬",
+    "name": "Two Men Holding Hands",
+    "slug": "men-holding-hands",
+    "desc": "Two men standing side-by-side holding hands."
+  },
+  {
+    "char": "💏",
+    "name": "Kiss",
+    "slug": "kiss",
+    "desc": "Two people kissing, represented by a pink heart between them."
+  },
+  {
+    "char": "💑",
+    "name": "Couple with Heart",
+    "slug": "couple-heart",
+    "desc": "Two people standing together with a heart above them."
+  },
+  {
+    "char": "🗣️",
+    "name": "Speaking Head",
+    "slug": "speaking-head",
+    "desc": "A silhouette of a head speaking, with sound lines."
+  },
+  {
+    "char": "👤",
+    "name": "Bust in Silhouette",
+    "slug": "bust-silhouette",
+    "desc": "A generic gray shadow of a person."
+  },
+  {
+    "char": "👥",
+    "name": "Busts in Silhouette",
+    "slug": "busts-silhouette",
+    "desc": "Two generic gray shadows of people."
+  },
+  {
+    "char": "🫂",
+    "name": "People Hugging",
+    "slug": "people-hugging",
+    "desc": "Two people in a supportive embrace."
+  },
+  {
+    "char": "👮",
+    "name": "Police Officer",
+    "slug": "police-officer",
+    "desc": "A law enforcement officer wearing a blue hat."
+  },
+  {
+    "char": "🕵️",
+    "name": "Detective",
+    "slug": "detective",
+    "desc": "A person in a coat and hat carrying a magnifying glass."
+  },
+  {
+    "char": "💂",
+    "name": "Guard",
+    "slug": "guard",
+    "desc": "A ceremonial guard, like a British Queen's Guard."
+  },
+  {
+    "char": "🥷",
+    "name": "Ninja",
+    "slug": "ninja",
+    "desc": "A person dressed in black with a mask and sword."
+  },
+  {
+    "char": "👷",
+    "name": "Construction Worker",
+    "slug": "construction-worker",
+    "desc": "A worker wearing a yellow hard hat."
+  },
+  {
+    "char": "🤴",
+    "name": "Prince",
+    "slug": "prince",
+    "desc": "A male person wearing a crown."
+  },
+  {
+    "char": "👸",
+    "name": "Princess",
+    "slug": "princess",
+    "desc": "A female person wearing a crown or tiara."
+  },
+  {
+    "char": "👳",
+    "name": "Person Wearing Turban",
+    "slug": "person-turban",
+    "desc": "A person wearing a traditional Sikh or Muslim turban."
+  },
+  {
+    "char": "👲",
+    "name": "Person with Skullcap",
+    "slug": "person-skullcap",
+    "desc": "A person wearing a traditional Chinese Gua Pi Mao."
+  },
+  {
+    "char": "🧕",
+    "name": "Woman with Headscarf",
+    "slug": "woman-headscarf",
+    "desc": "A woman wearing a hijab or headscarf."
+  },
+  {
+    "char": "🤵",
+    "name": "Person in Tuxedo",
+    "slug": "person-tuxedo",
+    "desc": "A person dressed formally in a tuxedo."
+  },
+  {
+    "char": "👰",
+    "name": "Person with Veil",
+    "slug": "person-veil",
+    "desc": "A person, typically a bride, wearing a wedding veil."
+  },
+  {
+    "char": "🤰",
+    "name": "Pregnant Woman",
+    "slug": "pregnant-woman",
+    "desc": "A woman with a visible pregnancy bump."
+  },
+  {
+    "char": "🤱",
+    "name": "Breastfeeding",
+    "slug": "breastfeeding",
+    "desc": "A person nursing an infant."
+  },
+  {
+    "char": "🧑‍🍼",
+    "name": "Person Feeding Baby",
+    "slug": "person-feeding-baby",
+    "desc": "A person holding a baby bottle to feed an infant."
+  },
+  {
+    "char": "👼",
+    "name": "Baby Angel",
+    "slug": "baby-angel",
+    "desc": "A cherub or baby with wings and a halo."
+  },
+  {
+    "char": "🎅",
+    "name": "Santa Claus",
+    "slug": "santa-claus",
+    "desc": "Father Christmas with a red hat and white beard."
+  },
+  {
+    "char": "🤶",
+    "name": "Mrs. Claus",
+    "slug": "mrs-claus",
+    "desc": "The wife of Santa Claus, wearing a red cap."
+  },
+  {
+    "char": "🦸",
+    "name": "Superhero",
+    "slug": "superhero",
+    "desc": "A person wearing a mask and a cape."
+  },
+  {
+    "char": "🦹",
+    "name": "Supervillain",
+    "slug": "supervillain",
+    "desc": "A person wearing a mask and looking evil."
+  },
+  {
+    "char": "🧙",
+    "name": "Mage",
+    "slug": "mage",
+    "desc": "A wizard or sorcerer with a staff and hat."
+  },
+  {
+    "char": "🧚",
+    "name": "Fairy",
+    "slug": "fairy",
+    "desc": "A magical being with wings and a wand."
+  },
+  {
+    "char": "🧛",
+    "name": "Vampire",
+    "slug": "vampire",
+    "desc": "A person with fangs and a high-collared cape."
+  },
+  {
+    "char": "🧜",
+    "name": "Merperson",
+    "slug": "merperson",
+    "desc": "A person with a human upper body and a fish tail."
+  },
+  {
+    "char": "🧝",
+    "name": "Elf",
+    "slug": "elf",
+    "desc": "A person with pointed ears, often a fantasy elf."
+  },
+  {
+    "char": "🧞",
+    "name": "Genie",
+    "slug": "genie",
+    "desc": "A magical spirit emerging from a lamp."
+  },
+  {
+    "char": "🧟",
+    "name": "Zombie",
+    "slug": "zombie",
+    "desc": "An undead person with gray skin."
+  },
+  {
+    "char": "💆‍♂️",
+    "name": "Man Getting Massage",
+    "slug": "man-massage",
+    "desc": "A man receiving a head massage."
+  },
+  {
+    "char": "💆‍♀️",
+    "name": "Woman Getting Massage",
+    "slug": "woman-massage",
+    "desc": "A woman receiving a head massage."
+  },
+  {
+    "char": "💇‍♂️",
+    "name": "Man Getting Haircut",
+    "slug": "man-haircut",
+    "desc": "A man having his hair cut."
+  },
+  {
+    "char": "💇‍♀️",
+    "name": "Woman Getting Haircut",
+    "slug": "woman-haircut",
+    "desc": "A woman having her hair cut."
+  },
+  {
+    "char": "🚶‍♂️",
+    "name": "Man Walking",
+    "slug": "man-walking",
+    "desc": "A man taking a walk."
+  },
+  {
+    "char": "🚶‍♀️",
+    "name": "Woman Walking",
+    "slug": "woman-walking",
+    "desc": "A woman taking a walk."
+  },
+  {
+    "char": "🧍‍♂️",
+    "name": "Man Standing",
+    "slug": "man-standing",
+    "desc": "A man standing still."
+  },
+  {
+    "char": "🧍‍♀️",
+    "name": "Woman Standing",
+    "slug": "woman-standing",
+    "desc": "A woman standing still."
+  },
+  {
+    "char": "🏃‍♂️",
+    "name": "Man Running",
+    "slug": "man-running",
+    "desc": "A man running quickly."
+  },
+  {
+    "char": "🏃‍♀️",
+    "name": "Woman Running",
+    "slug": "woman-running",
+    "desc": "A woman running quickly."
+  },
+  {
+    "char": "💃",
+    "name": "Woman Dancing",
+    "slug": "dancing-woman",
+    "desc": "A woman in a red dress dancing salsa or flamenco."
+  },
+  {
+    "char": "🕺",
+    "name": "Man Dancing",
+    "slug": "dancing-man",
+    "desc": "A man dancing, often in a disco style."
+  },
+  {
+    "char": "🧖‍♂️",
+    "name": "Man in Steamy Room",
+    "slug": "man-sauna",
+    "desc": "A man relaxing in a sauna."
+  },
+  {
+    "char": "🧖‍♀️",
+    "name": "Woman in Steamy Room",
+    "slug": "woman-sauna",
+    "desc": "A woman relaxing in a sauna."
+  },
+  {
+    "char": "🧗",
+    "name": "Person Climbing",
+    "slug": "person-climbing",
+    "desc": "A person climbing up a rock or wall."
+  },
+  {
+    "char": "🧗‍♂️",
+    "name": "Man Climbing",
+    "slug": "man-climbing",
+    "desc": "A man climbing up a rock or wall."
+  },
+  {
+    "char": "🧗‍♀️",
+    "name": "Woman Climbing",
+    "slug": "woman-climbing",
+    "desc": "A woman climbing up a rock or wall."
+  },
+  {
+    "char": "🧘",
+    "name": "Person in Lotus Position",
+    "slug": "person-yoga",
+    "desc": "A person sitting cross-legged in meditation or yoga."
+  },
+  {
+    "char": "🧘‍♂️",
+    "name": "Man in Lotus Position",
+    "slug": "man-yoga",
+    "desc": "A man sitting cross-legged in meditation."
+  },
+  {
+    "char": "🧘‍♀️",
+    "name": "Woman in Lotus Position",
+    "slug": "woman-yoga",
+    "desc": "A woman sitting cross-legged in meditation."
+  },
+  {
+    "char": "🛀",
+    "name": "Bath",
+    "slug": "bath",
+    "desc": "A person taking a bath in a tub."
+  },
+  {
+    "char": "🛌",
+    "name": "Sleeping in Bed",
+    "slug": "sleep-bed",
+    "desc": "A person asleep under a blue blanket."
+  },
+  {
+    "char": "🧑‍🤝‍🧑",
+    "name": "People Holding Hands",
+    "slug": "holding-hands",
+    "desc": "Two people standing and holding hands."
+  },
+  {
+    "char": "👫",
+    "name": "Woman and Man Holding Hands",
+    "slug": "woman-man-hands",
+    "desc": "A woman and a man holding hands."
+  },
+  {
+    "char": "👬",
+    "name": "Two Men Holding Hands",
+    "slug": "men-hands",
+    "desc": "Two men holding hands."
+  },
+  {
+    "char": "👭",
+    "name": "Two Women Holding Hands",
+    "slug": "women-hands",
+    "desc": "Two women holding hands."
+  },
+  {
+    "char": "👪",
+    "name": "Family",
+    "slug": "family",
+    "desc": "A simple family with a mother, father, and child."
+  },
+  {
+    "char": "👨‍👩‍👦",
+    "name": "Family: Man, Woman, Boy",
+    "slug": "family-mwb",
+    "desc": "A man, woman, and a young boy."
+  },
+  {
+    "char": "👨‍👩‍👧",
+    "name": "Family: Man, Woman, Girl",
+    "slug": "family-mwg",
+    "desc": "A man, woman, and a young girl."
+  },
+  {
+    "char": "👨‍👨‍👦",
+    "name": "Family: Man, Man, Boy",
+    "slug": "family-mmb",
+    "desc": "Two men and a young boy."
+  },
+  {
+    "char": "👩‍👩‍👧",
+    "name": "Family: Woman, Woman, Girl",
+    "slug": "family-wwg",
+    "desc": "Two women and a young girl."
+  },
+  {
+    "char": "👨‍👦",
+    "name": "Family: Man, Boy",
+    "slug": "family-mb",
+    "desc": "A single father with a son."
+  },
+  {
+    "char": "👩‍👧",
+    "name": "Family: Woman, Girl",
+    "slug": "family-wg",
+    "desc": "A single mother with a daughter."
+  },
+  {
+    "char": "👣",
+    "name": "Footprints",
+    "slug": "footprints",
+    "desc": "Two dark footprints left in the sand or on the floor."
+  },
+  {
+    "char": "🫀",
+    "name": "Heart",
+    "slug": "organ-heart",
+    "desc": "A realistic human heart organ."
+  },
+  {
+    "char": "🫁",
+    "name": "Lungs",
+    "slug": "organ-lungs",
+    "desc": "The human breathing organs."
+  },
+  {
+    "char": "🧠",
+    "name": "Brain",
+    "slug": "organ-brain",
+    "desc": "The human brain, representing intelligence."
+  },
+  {
+    "char": "🦷",
+    "name": "Tooth",
+    "slug": "body-tooth",
+    "desc": "A white tooth with roots."
+  },
+  {
+    "char": "🦴",
+    "name": "Bone",
+    "slug": "body-bone",
+    "desc": "A clean white bone."
+  },
+  {
+    "char": "👀",
+    "name": "Eyes",
+    "slug": "pair-eyes",
+    "desc": "A pair of looking eyes."
+  },
+  {
+    "char": "👁️",
+    "name": "Eye",
+    "slug": "single-eye",
+    "desc": "A single open eye."
+  },
+  {
+    "char": "👅",
+    "name": "Tongue",
+    "slug": "body-tongue",
+    "desc": "A pink tongue."
+  },
+  {
+    "char": "👄",
+    "name": "Lips",
+    "slug": "body-lips",
+    "desc": "Red lips for kissing or speaking."
+  },
+  {
+    "char": "👃",
+    "name": "Nose",
+    "slug": "body-nose",
+    "desc": "A human nose."
+  },
+  {
+    "char": "👂",
+    "name": "Ear",
+    "slug": "body-ear",
+    "desc": "A human ear."
+  },
+  {
+    "char": "🤚",
+    "name": "Raised Back Hand",
+    "slug": "back-hand",
+    "desc": "The back of a raised hand."
+  },
+  {
+    "char": "🖐️",
+    "name": "Splayed Hand",
+    "slug": "splayed-hand",
+    "desc": "A hand with spread fingers."
+  },
+  {
+    "char": "✋",
+    "name": "Flat Hand",
+    "slug": "flat-hand",
+    "desc": "A flat raised palm."
+  },
+  {
+    "char": "🖖",
+    "name": "Spock Hand",
+    "slug": "spock-hand",
+    "desc": "The Vulcan live long and prosper greeting."
+  },
+  {
+    "char": "👌",
+    "name": "Okay Sign",
+    "slug": "okay-sign",
+    "desc": "The fingers forming an 'O'."
+  },
+  {
+    "char": "🤌",
+    "name": "Chef Kiss Gesture",
+    "slug": "chef-kiss",
+    "desc": "Fingertips together pointing up."
+  },
+  {
+    "char": "🤏",
+    "name": "Pinching Hand",
+    "slug": "pinching-hand",
+    "desc": "Thumb and index finger close together to show a small amount."
+  },
+  {
+    "char": "✌️",
+    "name": "Peace Sign",
+    "slug": "peace-sign",
+    "desc": "Two fingers forming a V."
+  },
+  {
+    "char": "🤞",
+    "name": "Fingers Crossed",
+    "slug": "lucky-fingers",
+    "desc": "Crossing fingers for luck."
+  },
+  {
+    "char": "🤟",
+    "name": "ILY Sign",
+    "slug": "ily-sign",
+    "desc": "The I Love You hand gesture."
+  },
+  {
+    "char": "🤘",
+    "name": "Rock On",
+    "slug": "rock-on",
+    "desc": "The horns of a rock fan."
+  },
+  {
+    "char": "🤙",
+    "name": "Call Me",
+    "slug": "call-gesture",
+    "desc": "The 'hang loose' or phone gesture."
+  },
+  {
+    "char": "👈",
+    "name": "Point Left",
+    "slug": "point-left",
+    "desc": "Pointing to the left."
+  },
+  {
+    "char": "👉",
+    "name": "Point Right",
+    "slug": "point-right",
+    "desc": "Pointing to the right."
+  },
+  {
+    "char": "👆",
+    "name": "Point Up",
+    "slug": "point-up",
+    "desc": "Pointing to the top."
+  },
+  {
+    "char": "👇",
+    "name": "Point Down",
+    "slug": "point-down",
+    "desc": "Pointing to the bottom."
+  },
+  {
+    "char": "☝️",
+    "name": "Index Up",
+    "slug": "index-up",
+    "desc": "Raising the index finger."
+  },
+  {
+    "char": "👍",
+    "name": "Like",
+    "slug": "thumbs-up-like",
+    "desc": "Standard thumbs up."
+  },
+  {
+    "char": "👎",
+    "name": "Dislike",
+    "slug": "thumbs-down-dislike",
+    "desc": "Standard thumbs down."
+  },
+  {
+    "char": "✊",
+    "name": "Fist",
+    "slug": "fist-up",
+    "desc": "A raised clenched fist."
+  },
+  {
+    "char": "👊",
+    "name": "Punch",
+    "slug": "fist-punch",
+    "desc": "A forward-facing fist."
+  },
+  {
+    "char": "🤛",
+    "name": "Left Fist",
+    "slug": "fist-left",
+    "desc": "A side fist facing left."
+  },
+  {
+    "char": "🤜",
+    "name": "Right Fist",
+    "slug": "fist-right",
+    "desc": "A side fist facing right."
+  },
+  {
+    "char": "👏",
+    "name": "Applause",
+    "slug": "clap",
+    "desc": "Clapping hands."
+  },
+  {
+    "char": "🙌",
+    "name": "Hallelujah",
+    "slug": "praise-hands",
+    "desc": "Hands raised in praise."
+  },
+  {
+    "char": "👐",
+    "name": "Open",
+    "slug": "hands-open",
+    "desc": "Two open hands."
+  },
+  {
+    "char": "🤲",
+    "name": "Offering",
+    "slug": "hands-offering",
+    "desc": "Hands held out to receive."
+  },
+  {
+    "char": "🤝",
+    "name": "Deal",
+    "slug": "deal-shake",
+    "desc": "Shaking hands over a deal."
+  },
+  {
+    "char": "🙏",
+    "name": "Pray",
+    "slug": "pray-hands",
+    "desc": "Hands pressed together."
+  },
+  {
+    "char": "💪",
+    "name": "Strong",
+    "slug": "muscle-flex",
+    "desc": "A flexed bicep."
+  },
+  {
+    "char": "🦾",
+    "name": "Robot Arm",
+    "slug": "robot-arm",
+    "desc": "A mechanical prosthetic arm."
+  },
+  {
+    "char": "🦿",
+    "name": "Robot Leg",
+    "slug": "robot-leg",
+    "desc": "A mechanical prosthetic leg."
+  },
+  {
+    "char": "🦵",
+    "name": "Human Leg",
+    "slug": "body-leg",
+    "desc": "A leg showing the knee."
+  },
+  {
+    "char": "🦶",
+    "name": "Human Foot",
+    "slug": "body-foot",
+    "desc": "A human foot."
+  }
+]

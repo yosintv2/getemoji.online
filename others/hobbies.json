@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🎨",
+    "name": "Art Painting Palette Hobbies",
+    "slug": "art-painting-palette-creative-hobbies",
+    "desc": "The universal symbol for fine arts and creativity. Perfect for content about oil painting, watercolor tutorials, and artistic expression."
+  },
+  {
+    "char": "📸",
+    "name": "Digital Photography Camera Hobbies",
+    "slug": "digital-photography-camera-lifestyle-hobbies",
+    "desc": "Represents the popular hobby of capturing moments. High SEO value for camera gear reviews, photo editing tips, and travel photography."
+  },
+  {
+    "char": "🧶",
+    "name": "Knitting Yarn and Needle Hobbies",
+    "slug": "knitting-crochet-yarn-craft-hobbies",
+    "desc": "A symbol for textile arts and slow living. Ideal for DIY craft blogs, crochet patterns, and cozy handmade gift ideas."
+  },
+  {
+    "char": "🍳",
+    "name": "Cooking and Culinary Arts Hobbies",
+    "slug": "cooking-culinary-chef-skills-hobbies",
+    "desc": "Represents the joy of home cooking and gastronomy. Targeted at recipe sharing, meal prepping, and amateur chef communities."
+  },
+  {
+    "char": "🪴",
+    "name": "Indoor Gardening Plant Hobbies",
+    "slug": "indoor-gardening-houseplant-care-hobbies",
+    "desc": "The icon for the 'urban jungle' and botanical interests. Great for plant care guides, terrarium building, and home decor."
+  },
+  {
+    "char": "🎸",
+    "name": "Musical Instrument Guitar Hobbies",
+    "slug": "musical-instrument-guitar-playing-hobbies",
+    "desc": "Represents a passion for music performance. Essential for guitar lessons, songwriting blogs, and live music enthusiasts."
+  },
+  {
+    "char": "♟️",
+    "name": "Chess Strategy Board Game Hobbies",
+    "slug": "chess-strategy-board-game-hobbies",
+    "desc": "A symbol of mental skill and tabletop gaming. Perfect for logic puzzles, competitive chess news, and tabletop hobbyists."
+  },
+  {
+    "char": "🧵",
+    "name": "Sewing and Fashion Design Hobbies",
+    "slug": "sewing-fashion-design-tailoring-hobbies",
+    "desc": "Represents garment making and upcycling. High value for sustainable fashion DIYs, tailoring tips, and costume design."
+  },
+  {
+    "char": "🏃",
+    "name": "Running and Fitness Exercise Hobbies",
+    "slug": "running-fitness-marathon-training-hobbies",
+    "desc": "The quintessential icon for an active lifestyle. Used for marathon training, morning jog updates, and physical wellness blogs."
+  },
+  {
+    "char": "🧩",
+    "name": "Puzzle and Problem Solving Hobbies",
+    "slug": "puzzle-problem-solving-mental-hobbies",
+    "desc": "Represents the patience required for jigsaws and brain teasers. Ideal for mindfulness activities and cognitive health discussions."
+  },
+  {
+    "char": "🚲",
+    "name": "Cycling and Outdoor Biking Hobbies",
+    "slug": "cycling-outdoor-biking-adventure-hobbies",
+    "desc": "Symbolizes eco-friendly travel and outdoor fitness. Great for mountain biking guides, city commuting, and cycling gear reviews."
+  },
+  {
+    "char": "📚",
+    "name": "Reading and Literature Hobbies",
+    "slug": "reading-literature-book-club-hobbies",
+    "desc": "The primary icon for book lovers and lifelong learning. Targeted at book reviews, library hauls, and study motivation."
+  }
+]

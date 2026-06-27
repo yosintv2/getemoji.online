@@ -1,0 +1,169 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import EmojiGrid from '../components/EmojiGrid.astro';
+import FAQ from '../components/FAQ.astro';
+import AdBlock from '../components/AdBlock.astro';
+import { loadData, categories } from '../data';
+import { webAppSchema, faqSchema } from '../utils/seo';
+import { getCountries } from '../data/countries';
+
+const data = loadData();
+const countries = getCountries();
+
+const popularSlugs = [
+  'grinning-face', 'face-with-tears-of-joy', 'red-heart', 'rolling-on-the-floor-laughing',
+  'smiling-face-with-hearts', 'fire', 'folded-hands', 'sparkles',
+  'smiling-face-with-smiling-eyes', 'face-blowing-a-kiss', 'crying-face', 'winking-face',
+  'clapping-hands', 'ok-hand', 'thumbs-up', 'party-popper',
+  'star', 'sun', 'moon', 'rainbow',
+  'cat-face', 'dog-face', 'heart-eyes', 'skull',
+];
+const popularEmojis = data.allEmojis.filter(e => popularSlugs.includes(e.slug)).slice(0, 24);
+
+const faqItems = [
+  { q: 'How do I copy and paste emojis from GetEmoji?', a: 'Simply click any emoji on GetEmoji.Online and it will be copied to your clipboard instantly. You can then paste it anywhere — social media, messages, documents, emails, and more. No registration or downloads required.' },
+  { q: 'What are the most popular emojis to copy and paste?', a: 'The most popular emojis include 😂 Face with Tears of Joy, ❤️ Red Heart, 🔥 Fire, 😊 Smiling Face with Smiling Eyes, 👍 Thumbs Up, ✨ Sparkles, and 🎉 Party Popper. You can find all of these and thousands more on GetEmoji.' },
+  { q: 'Can I use GetEmoji on my phone or mobile device?', a: 'Yes, GetEmoji.Online works perfectly on all devices including iPhone, Android, tablets, and desktop computers. The copy and paste functionality works the same way on mobile — just tap an emoji to copy it.' },
+  { q: 'Is GetEmoji free to use?', a: 'Yes, GetEmoji.Online is completely free to use. There are no hidden fees, no registration required, and no limits on how many emojis you can copy and paste.' },
+  { q: 'What kinds of emojis are available on GetEmoji?', a: 'GetEmoji has thousands of emojis organized by categories: Smileys & Emotion, People & Body, Animals & Nature, Food & Drink, Travel & Places, Activities, Objects, Symbols, and Flags. We also have Kaomoji (Japanese emoticons) and country-specific emoji collections.' },
+];
+
+const mainSchema = webAppSchema() + ' ' + faqSchema(faqItems);
+---
+<BaseLayout
+  title="GetEmoji - Copy & Paste Emojis ✨ Free Emoji Tool"
+  description="GetEmoji.Online — the fastest way to copy and paste emojis. Browse thousands of free emojis, click to copy instantly. 😀🎉❤️🔥 No signup, no limits."
+  keywords="getemoji, emoji copy paste, emoji copy and paste, emojis, free emoji, copy paste emoji"
+  schema={mainSchema}
+  hreflang="en-US"
+>
+  <section class="gradient-hero relative overflow-hidden">
+    <div class="max-w-7xl mx-auto px-4 py-14 sm:py-20 text-center relative z-10">
+      <div class="flex justify-center gap-2 sm:gap-3 mb-5">
+        {['😀', '🎉', '❤️', '🔥', '😂', '✨', '👍', '🎊'].map(e => <span class="text-2xl sm:text-4xl float-anim" style={`animation-delay:${Math.random()*2}s`}>{e}</span>)}
+      </div>
+      <h1 class="text-4xl sm:text-6xl md:text-7xl font-black tracking-tight text-gray-900 mb-3">
+        <span class="text-yellow-500">Get</span>Emoji
+      </h1>
+      <p class="text-base sm:text-xl text-gray-700 max-w-2xl mx-auto mb-2 font-medium">
+        Copy & Paste Emojis Instantly ✨
+      </p>
+      <p class="text-xs sm:text-base text-gray-500 max-w-xl mx-auto mb-6">
+        Click any emoji to copy it. Free, fast, no signup needed.
+      </p>
+      <div class="max-w-md mx-auto">
+        <div class="relative">
+          <input type="text" id="hero-search" placeholder="Search emojis..." autocomplete="off"
+            class="w-full bg-white border-2 border-yellow-300 rounded-2xl py-3.5 sm:py-4 pl-11 sm:pl-12 pr-6 text-sm sm:text-base focus:ring-4 focus:ring-yellow-200 focus:border-yellow-400 outline-none shadow-lg shadow-yellow-100 transition-all" />
+          <i class="fa fa-search absolute left-4 top-1/2 -translate-y-1/2 text-yellow-400 text-base sm:text-lg"></i>
+        </div>
+      </div>
+      <div class="flex flex-wrap justify-center gap-2 mt-5">
+        <a href="/emoji-meanings/" class="bg-white/80 hover:bg-white text-gray-700 text-xs font-bold px-4 py-2 rounded-full border border-yellow-200 transition-all">📖 Emoji Meanings</a>
+        <a href="/trending-emojis/" class="bg-white/80 hover:bg-white text-gray-700 text-xs font-bold px-4 py-2 rounded-full border border-yellow-200 transition-all">📈 Trending</a>
+        <a href="/how-to-copy-paste-emojis/" class="bg-white/80 hover:bg-white text-gray-700 text-xs font-bold px-4 py-2 rounded-full border border-yellow-200 transition-all">📋 How-To Guide</a>
+      </div>
+    </div>
+    <div class="absolute inset-0 opacity-5" style="background-image: radial-gradient(circle at 25% 25%, #000 1px, transparent 1px); background-size: 40px 40px;"></div>
+  </section>
+
+  <script is:inline>
+    (function() {
+      var hs = document.getElementById('hero-search');
+      var si = document.getElementById('emoji-search');
+      if (hs && si) {
+        hs.addEventListener('input', function() { si.value = hs.value; si.dispatchEvent(new Event('input')); });
+        hs.addEventListener('focus', function() { setTimeout(function() { si.focus(); si.dispatchEvent(new Event('input')); }, 10); });
+      }
+    })();
+  </script>
+
+  <AdBlock />
+
+  <section class="max-w-7xl mx-auto px-4 py-10 sm:py-12">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-xl sm:text-2xl font-black text-gray-900 flex items-center gap-3">
+        <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+        Popular Emojis
+      </h2>
+      <span class="text-[11px] text-gray-400 font-medium hidden sm:block">Click to copy — paste anywhere</span>
+    </div>
+    <EmojiGrid emojis={popularEmojis.slice(0, 12)} />
+  </section>
+
+  <section class="max-w-7xl mx-auto px-4 py-10 sm:py-12">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-xl sm:text-2xl font-black text-gray-900 flex items-center gap-3">
+        <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+        Browse by Category
+      </h2>
+      <a href="/emoji-meanings/" class="text-xs font-bold text-yellow-500 hover:text-yellow-600 transition-colors hidden sm:block">View All →</a>
+    </div>
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-4">
+      {categories.map((cat) => {
+        const items = data.emojisByCategory[cat.slug] || [];
+        return (
+          <a href={`/${cat.slug}/`}
+            class="emoji-card bg-white rounded-2xl p-4 sm:p-5 border border-gray-100 shadow-sm hover:shadow-xl group">
+            <div class="flex items-center gap-3 mb-2">
+              <span class="text-3xl sm:text-4xl group-hover:scale-110 transition-transform">{cat.icon}</span>
+              <div>
+                <h3 class="font-bold text-sm text-gray-900 group-hover:text-yellow-500 transition-colors">{cat.name}</h3>
+                <p class="text-[11px] text-gray-400 font-medium">{items.length} emojis</p>
+              </div>
+            </div>
+            <div class="text-xs text-gray-400 leading-relaxed line-clamp-2">{cat.desc}</div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
+  <AdBlock />
+
+  {countries.length > 0 && (
+    <section class="max-w-7xl mx-auto px-4 py-10 sm:py-12">
+      <h2 class="text-xl sm:text-2xl font-black text-gray-900 mb-6 flex items-center gap-3">
+        <span class="w-1.5 h-6 bg-yellow-400 rounded-full"></span>
+        Country Collections
+      </h2>
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
+        {countries.map(c => (
+          <a href={`/country/${c.slug}/`}
+            class="emoji-card bg-white rounded-2xl p-4 text-center border border-gray-100 shadow-sm hover:shadow-xl">
+            <span class="text-3xl sm:text-4xl block mb-1.5">{c.flag}</span>
+            <span class="text-xs font-bold text-gray-700 block">{c.name}</span>
+            <span class="text-[10px] text-gray-400 font-medium">{c.emojis.length} emojis</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="max-w-7xl mx-auto px-4 py-10 sm:py-12">
+    <FAQ items={faqItems} title="Frequently Asked Questions" />
+  </section>
+
+  <section class="max-w-7xl mx-auto px-4 py-10 sm:py-12 border-t border-gray-100">
+    <div class="bg-white rounded-3xl p-6 sm:p-10 border border-gray-100 shadow-sm">
+      <h2 class="text-xl sm:text-2xl font-black text-gray-900 mb-6 text-center">Why GetEmoji.Online?</h2>
+      <div class="grid sm:grid-cols-3 gap-6">
+        <div class="text-center">
+          <div class="w-11 h-11 bg-yellow-100 rounded-2xl flex items-center justify-center mx-auto mb-3"><i class="fa-regular fa-clipboard text-yellow-500 text-lg"></i></div>
+          <h3 class="font-bold text-sm mb-1">Instant Copy</h3>
+          <p class="text-xs text-gray-500">Click any emoji to copy it to your clipboard instantly.</p>
+        </div>
+        <div class="text-center">
+          <div class="w-11 h-11 bg-yellow-100 rounded-2xl flex items-center justify-center mx-auto mb-3"><i class="fa-regular fa-face-smile text-yellow-500 text-lg"></i></div>
+          <h3 class="font-bold text-sm mb-1">Thousands of Emojis</h3>
+          <p class="text-xs text-gray-500">Full Unicode library with all latest emojis, kaomoji, and emoticons.</p>
+        </div>
+        <div class="text-center">
+          <div class="w-11 h-11 bg-yellow-100 rounded-2xl flex items-center justify-center mx-auto mb-3"><i class="fa-regular fa-heart text-yellow-500 text-lg"></i></div>
+          <h3 class="font-bold text-sm mb-1">100% Free</h3>
+          <p class="text-xs text-gray-500">No signup, no limits, no hidden charges. Free for everyone.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

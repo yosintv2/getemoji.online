@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🍡",
+    "name": "Sanshoku Hanami Dango Japan",
+    "slug": "hanami-dango-tri-color-dessert-japan",
+    "desc": "Chewy rice dumplings in pink, white, and green. Traditionally enjoyed during cherry blossom viewing season in Japan."
+  },
+  {
+    "char": "🍦",
+    "name": "Soft Serve Matcha Cream Japan",
+    "slug": "matcha-soft-serve-ice-cream-japan",
+    "desc": "Creamy green tea flavored soft serve. A popular street food dessert found in tourist spots like Kyoto in Japan."
+  },
+  {
+    "char": "🍧",
+    "name": "Kakigori Shaved Ice Japan",
+    "slug": "kakigori-shaved-ice-syrup-japan",
+    "desc": "Finely shaved ice topped with sweet syrups and condensed milk. The ultimate refreshing summer dessert in Japan."
+  },
+  {
+    "char": "🍰",
+    "name": "Strawberry Christmas Shortcake Japan",
+    "slug": "strawberry-shortcake-christmas-japan",
+    "desc": "Light sponge cake with whipped cream and fresh strawberries. The quintessential celebration cake in modern Japan."
+  },
+  {
+    "char": "🍮",
+    "name": "Purin Custard Pudding Japan",
+    "slug": "purin-custard-pudding-caramel-japan",
+    "desc": "A firm caramel custard similar to flan. A beloved retro cafe (kissaten) staple found throughout Japan."
+  },
+  {
+    "char": "🥞",
+    "name": "Soufflé Fluffy Pancakes Japan",
+    "slug": "souffle-fluffy-pancakes-dessert-japan",
+    "desc": "Extra thick, wobbly, and airy pancakes. A major viral food trend and dessert specialty in Japan."
+  },
+  {
+    "char": "🍪",
+    "name": "Shiroi Koibito Butter Cookie Japan",
+    "slug": "butter-cookie-hokkaido-souvenir-japan",
+    "desc": "Delicate cat's tongue cookies with white chocolate filling. A famous regional souvenir dessert from Hokkaido, Japan."
+  },
+  {
+    "char": "🍯",
+    "name": "Dorayaki Red Bean Pancake Japan",
+    "slug": "dorayaki-red-bean-pancake-japan",
+    "desc": "Sweet red bean paste (anko) sandwiched between two honey-infused pancakes. Famous as the favorite snack of Doraemon in Japan."
+  },
+  {
+    "char": "🍓",
+    "name": "Ichigo Daifuku Mochi Japan",
+    "slug": "ichigo-daifuku-strawberry-mochi-japan",
+    "desc": "A whole fresh strawberry wrapped in sweet bean paste and soft mochi. A seasonal spring delicacy in Japan."
+  },
+  {
+    "char": "🥣",
+    "name": "Anmitsu Dessert Bowl Japan",
+    "slug": "anmitsu-traditional-dessert-bowl-japan",
+    "desc": "A bowl of agar jelly, dango, fruit, and red bean paste served with black sugar syrup (kuromitsu) in Japan."
+  },
+  {
+    "char": "🐟",
+    "name": "Taiyaki Fish Shaped Cake Japan",
+    "slug": "taiyaki-fish-shaped-dessert-japan",
+    "desc": "A warm, waffle-like cake shaped like a sea bream, usually filled with chocolate, custard, or red bean in Japan."
+  },
+  {
+    "char": "🥯",
+    "name": "Melonpan Sweet Bread Japan",
+    "slug": "melonpan-sweet-bread-dessert-japan",
+    "desc": "A sweet bun with a crisp, cookie-dough crust that resembles the skin of a melon. A bakery favorite in Japan."
+  }
+]

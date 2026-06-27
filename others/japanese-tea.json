@@ -1,0 +1,74 @@
+[
+  {
+    "char": "🍵",
+    "name": "Matcha Powdered Green Tea Japan",
+    "slug": "matcha-powdered-green-tea-japan",
+    "desc": "High-grade shaded green tea ground into a fine powder. The heart of the traditional tea ceremony culture in Japan."
+  },
+  {
+    "char": "🍃",
+    "name": "Sencha Loose Leaf Green Tea Japan",
+    "slug": "sencha-loose-leaf-green-tea-japan",
+    "desc": "The most popular everyday tea, steamed and rolled into needle-like shapes. Represents the most common tea crop in Japan."
+  },
+  {
+    "char": "🍂",
+    "name": "Hojicha Roasted Green Tea Japan",
+    "slug": "hojicha-roasted-green-tea-japan",
+    "desc": "Tea leaves roasted in a porcelain pot over charcoal, giving it a distinct reddish-brown color and toasty aroma in Japan."
+  },
+  {
+    "char": "🌾",
+    "name": "Genmaicha Brown Rice Tea Japan",
+    "slug": "genmaicha-brown-rice-green-tea-japan",
+    "desc": "Green tea mixed with roasted popped brown rice. Often called 'popcorn tea' and loved for its nutty flavor across Japan."
+  },
+  {
+    "char": "🌱",
+    "name": "Gyokuro Shaded Premium Tea Japan",
+    "slug": "gyokuro-shaded-premium-tea-japan",
+    "desc": "One of the most expensive varieties, grown under shade for weeks to increase theffanine and umami content in Japan."
+  },
+  {
+    "char": "🥢",
+    "name": "Kukicha Twig Tea Japan",
+    "slug": "kukicha-stem-twig-tea-japan",
+    "desc": "A unique tea made from the stems, stalks, and twigs of the tea plant. Known for its low caffeine and creamy taste in Japan."
+  },
+  {
+    "char": "🧊",
+    "name": "Mugicha Barley Tea Japan",
+    "slug": "mugicha-roasted-barley-tea-japan",
+    "desc": "A caffeine-free roasted grain tea typically served cold. The quintessential refreshing drink for the hot summers in Japan."
+  },
+  {
+    "char": "🍵",
+    "name": "Bancha Harvest Green Tea Japan",
+    "slug": "bancha-late-harvest-tea-japan",
+    "desc": "Harvested from the later flushes of the season. Known as a robust, standard-grade tea served in many restaurants in Japan."
+  },
+  {
+    "char": "🌸",
+    "name": "Sakuracha Cherry Blossom Tea Japan",
+    "slug": "sakuracha-cherry-blossom-tea-japan",
+    "desc": "Pickled cherry blossoms steeped in hot water. A beautiful, salty-sweet floral tea served at weddings and celebrations in Japan."
+  },
+  {
+    "char": "🍯",
+    "name": "Yuzucha Citrus Tea Japan",
+    "slug": "yuzucha-citrus-honey-tea-japan",
+    "desc": "A soothing herbal tea made from the aromatic Yuzu citrus fruit and honey, popular during the winter solstice in Japan."
+  },
+  {
+    "char": "🥣",
+    "name": "Chawan Tea Ceremony Bowl Japan",
+    "slug": "chawan-tea-ceremony-bowl-japan",
+    "desc": "The ceramic vessel used for preparing and drinking Matcha. An essential piece of traditional artisan pottery in Japan."
+  },
+  {
+    "char": "🏺",
+    "name": "Kyusu Teapot Infuser Japan",
+    "slug": "kyusu-side-handle-teapot-japan",
+    "desc": "The classic side-handle teapot designed specifically for brewing loose-leaf green teas like Sencha in Japan."
+  }
+]
